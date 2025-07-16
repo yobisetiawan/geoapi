@@ -70,3 +70,13 @@ To run feature (HTTP endpoint) tests, use PHPUnit with the Feature testsuite:
 ```
 
 This will execute all tests in the `tests/Feature` directory, covering API endpoints and controller behavior.
+
+## Generating Code Coverage Report
+
+To generate a code coverage report (requires Xdebug or PCOV):
+
+```bash
+XDEBUG_MODE=coverage ./vendor/bin/phpunit --coverage-html coverage
+```
+
+This will create a `coverage` directory with an HTML report you can open in your browser.
