@@ -14,7 +14,7 @@
         "/list-cities": {
             "get": {
                 "tags": [
-                    "Cities"
+                    "GEOAPI"
                 ],
                 "operationId": "c401ca87131800a7690fc82ae8d96466",
                 "parameters": [
@@ -48,10 +48,34 @@
                 ],
                 "responses": {
                     "200": {
-                        "description": "return Constant Data",
+                        "description": "Successful response",
                         "content": {
                             "application/json": {
-                                "schema": {}
+                                "schema": {
+                                    "properties": {
+                                        "status": {
+                                            "type": "string",
+                                            "example": "success"
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "integer",
+                                                        "example": 48374
+                                                    },
+                                                    "name": {
+                                                        "type": "string",
+                                                        "example": "Banda Aceh"
+                                                    }
+                                                },
+                                                "type": "object"
+                                            }
+                                        }
+                                    },
+                                    "type": "object"
+                                }
                             }
                         }
                     }
@@ -61,12 +85,12 @@
         "/list-countries": {
             "get": {
                 "tags": [
-                    "Countries"
+                    "GEOAPI"
                 ],
                 "operationId": "8a41976f43dfd34c993f915fac53c645",
                 "responses": {
                     "200": {
-                        "description": "return Country Data",
+                        "description": "Successful response",
                         "content": {
                             "application/json": {
                                 "schema": {
@@ -107,7 +131,7 @@
         "/list-provinces": {
             "get": {
                 "tags": [
-                    "Provinces"
+                    "GEOAPI"
                 ],
                 "operationId": "77268a17158acc5388beb203c6ca20d4",
                 "parameters": [
@@ -123,10 +147,34 @@
                 ],
                 "responses": {
                     "200": {
-                        "description": "return Constant Data",
+                        "description": "Successful response",
                         "content": {
                             "application/json": {
-                                "schema": {}
+                                "schema": {
+                                    "properties": {
+                                        "status": {
+                                            "type": "string",
+                                            "example": "success"
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "integer",
+                                                        "example": 1615
+                                                    },
+                                                    "name": {
+                                                        "type": "string",
+                                                        "example": "Aceh"
+                                                    }
+                                                },
+                                                "type": "object"
+                                            }
+                                        }
+                                    },
+                                    "type": "object"
+                                }
                             }
                         }
                     }
@@ -159,16 +207,8 @@
     },
     "tags": [
         {
-            "name": "Cities",
-            "description": "Cities"
-        },
-        {
-            "name": "Countries",
-            "description": "Countries"
-        },
-        {
-            "name": "Provinces",
-            "description": "Provinces"
+            "name": "GEOAPI",
+            "description": "GEOAPI"
         }
     ]
 }

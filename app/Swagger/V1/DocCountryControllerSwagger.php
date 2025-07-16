@@ -6,10 +6,10 @@ namespace App\Swagger\V1;
  *
  * @OA\Get(
  *     path="/list-countries",
- *     tags={"Countries"},
+ *     tags={"GEOAPI"},
  *     @OA\Response(
  *         response=200,
- *         description="return Country Data",
+ *         description="Successful response",
  *         @OA\JsonContent(
  *             type="object",
  *             @OA\Property(property="status", type="string", example="success"),
