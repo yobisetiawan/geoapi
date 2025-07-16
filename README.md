@@ -37,3 +37,17 @@ You can access the API routes via:
 -   `GET /api/v1/list-cities?iso3=XXX&province_id=YYY` — Get provinces for a country (replace `XXX` with the ISO3 code)
 
 Refer to `routes/api.php` for more available endpoints.
+
+### Generate Swagger API Documentation
+
+To generate the Swagger API documentation, run:
+
+```bash
+php artisan l5-swagger:generate
+```
+
+### Accessing the API Documentation (Swagger UI)
+
+After generating, you can access the Swagger UI at:
+
+-   `http://localhost:8000/api/documentation` — View interactive API docs
