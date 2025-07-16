@@ -1,0 +1,168 @@
+[
+    {
+        "id": 1318,
+        "name": "Estuaire Province",
+        "cities": [
+            {
+                "id": 33860,
+                "name": "Cocobeach"
+            },
+            {
+                "id": 33861,
+                "name": "Libreville"
+            },
+            {
+                "id": 33862,
+                "name": "Ntoum"
+            }
+        ]
+    },
+    {
+        "id": 1319,
+        "name": "Haut-Ogooué Province",
+        "cities": [
+            {
+                "id": 33863,
+                "name": "Franceville"
+            },
+            {
+                "id": 33864,
+                "name": "Lékoni"
+            },
+            {
+                "id": 33865,
+                "name": "Moanda"
+            },
+            {
+                "id": 33866,
+                "name": "Mounana"
+            },
+            {
+                "id": 33867,
+                "name": "Okondja"
+            }
+        ]
+    },
+    {
+        "id": 1320,
+        "name": "Moyen-Ogooué Province",
+        "cities": [
+            {
+                "id": 33868,
+                "name": "Lambaréné"
+            },
+            {
+                "id": 33869,
+                "name": "Ndjolé"
+            }
+        ]
+    },
+    {
+        "id": 1321,
+        "name": "Ngounié Province",
+        "cities": [
+            {
+                "id": 33870,
+                "name": "Fougamou"
+            },
+            {
+                "id": 33871,
+                "name": "Mbigou"
+            },
+            {
+                "id": 33872,
+                "name": "Mimongo"
+            },
+            {
+                "id": 33873,
+                "name": "Mouila"
+            },
+            {
+                "id": 33874,
+                "name": "Ndendé"
+            }
+        ]
+    },
+    {
+        "id": 1322,
+        "name": "Nyanga Province",
+        "cities": [
+            {
+                "id": 33875,
+                "name": "Mayumba"
+            },
+            {
+                "id": 33876,
+                "name": "Tchibanga"
+            }
+        ]
+    },
+    {
+        "id": 1323,
+        "name": "Ogooué-Ivindo Province",
+        "cities": [
+            {
+                "id": 33877,
+                "name": "Booué"
+            },
+            {
+                "id": 33878,
+                "name": "Makokou"
+            },
+            {
+                "id": 33879,
+                "name": "Zadie"
+            }
+        ]
+    },
+    {
+        "id": 1324,
+        "name": "Ogooué-Lolo Province",
+        "cities": [
+            {
+                "id": 33880,
+                "name": "Koulamoutou"
+            },
+            {
+                "id": 33881,
+                "name": "Lastoursville"
+            }
+        ]
+    },
+    {
+        "id": 1325,
+        "name": "Ogooué-Maritime Province",
+        "cities": [
+            {
+                "id": 33882,
+                "name": "Gamba"
+            },
+            {
+                "id": 33883,
+                "name": "Omboué"
+            },
+            {
+                "id": 33884,
+                "name": "Port-Gentil"
+            }
+        ]
+    },
+    {
+        "id": 1326,
+        "name": "Woleu-Ntem Province",
+        "cities": [
+            {
+                "id": 33885,
+                "name": "Bitam"
+            },
+            {
+                "id": 33886,
+                "name": "Mitzic"
+            },
+            {
+                "id": 33887,
+                "name": "Oyem"
+            }
+        ]
+    }
+]

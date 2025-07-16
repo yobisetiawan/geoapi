@@ -1,0 +1,118 @@
+[
+    {
+        "id": 1490,
+        "name": "Barima-Waini",
+        "cities": [
+            {
+                "id": 42757,
+                "name": "Mabaruma"
+            }
+        ]
+    },
+    {
+        "id": 1491,
+        "name": "Cuyuni-Mazaruni",
+        "cities": [
+            {
+                "id": 42758,
+                "name": "Bartica"
+            }
+        ]
+    },
+    {
+        "id": 1492,
+        "name": "Demerara-Mahaica",
+        "cities": [
+            {
+                "id": 42759,
+                "name": "Georgetown"
+            },
+            {
+                "id": 42760,
+                "name": "Mahaica Village"
+            }
+        ]
+    },
+    {
+        "id": 1493,
+        "name": "East Berbice-Corentyne",
+        "cities": [
+            {
+                "id": 42761,
+                "name": "New Amsterdam"
+            },
+            {
+                "id": 42762,
+                "name": "Skeldon"
+            }
+        ]
+    },
+    {
+        "id": 1494,
+        "name": "Essequibo Islands-West Demerara",
+        "cities": [
+            {
+                "id": 42763,
+                "name": "Parika"
+            },
+            {
+                "id": 42764,
+                "name": "Vreed-en-Hoop"
+            }
+        ]
+    },
+    {
+        "id": 1495,
+        "name": "Mahaica-Berbice",
+        "cities": [
+            {
+                "id": 42765,
+                "name": "Mahaicony Village"
+            },
+            {
+                "id": 42766,
+                "name": "Rosignol"
+            }
+        ]
+    },
+    {
+        "id": 1496,
+        "name": "Pomeroon-Supenaam",
+        "cities": [
+            {
+                "id": 42767,
+                "name": "Anna Regina"
+            }
+        ]
+    },
+    {
+        "id": 1497,
+        "name": "Potaro-Siparuni",
+        "cities": [
+            {
+                "id": 42768,
+                "name": "Mahdia"
+            }
+        ]
+    },
+    {
+        "id": 1498,
+        "name": "Upper Demerara-Berbice",
+        "cities": [
+            {
+                "id": 42769,
+                "name": "Linden"
+            }
+        ]
+    },
+    {
+        "id": 1499,
+        "name": "Upper Takutu-Upper Essequibo",
+        "cities": [
+            {
+                "id": 42770,
+                "name": "Lethem"
+            }
+        ]
+    }
+]

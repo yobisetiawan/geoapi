@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1479,
+        "name": "Bafatá",
+        "cities": [
+            {
+                "id": 42743,
+                "name": "Bafatá"
+            },
+            {
+                "id": 42744,
+                "name": "Contuboel Sector"
+            }
+        ]
+    },
+    {
+        "id": 1480,
+        "name": "Biombo Region",
+        "cities": [
+            {
+                "id": 42745,
+                "name": "Quinhámel"
+            }
+        ]
+    },
+    {
+        "id": 1481,
+        "name": "Bolama Region",
+        "cities": [
+            {
+                "id": 42746,
+                "name": "Bolama"
+            },
+            {
+                "id": 42747,
+                "name": "Bubaque"
+            }
+        ]
+    },
+    {
+        "id": 1482,
+        "name": "Cacheu Region",
+        "cities": [
+            {
+                "id": 42748,
+                "name": "Cacheu"
+            },
+            {
+                "id": 42749,
+                "name": "Canchungo"
+            }
+        ]
+    },
+    {
+        "id": 1483,
+        "name": "Gabú Region",
+        "cities": [
+            {
+                "id": 42750,
+                "name": "Gabú"
+            }
+        ]
+    },
+    {
+        "id": 1484,
+        "name": "Leste Province",
+        "cities": []
+    },
+    {
+        "id": 1485,
+        "name": "Norte Province",
+        "cities": []
+    },
+    {
+        "id": 1486,
+        "name": "Oio Region",
+        "cities": [
+            {
+                "id": 42751,
+                "name": "Bissorã"
+            },
+            {
+                "id": 42752,
+                "name": "Farim"
+            },
+            {
+                "id": 42753,
+                "name": "Mansôa"
+            }
+        ]
+    },
+    {
+        "id": 1487,
+        "name": "Quinara Region",
+        "cities": [
+            {
+                "id": 42754,
+                "name": "Buba"
+            }
+        ]
+    },
+    {
+        "id": 1488,
+        "name": "Sul Province",
+        "cities": []
+    },
+    {
+        "id": 1489,
+        "name": "Tombali Region",
+        "cities": [
+            {
+                "id": 42755,
+                "name": "Catió"
+            },
+            {
+                "id": 42756,
+                "name": "Quebo"
+            }
+        ]
+    }
+]

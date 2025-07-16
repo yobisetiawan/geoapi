@@ -1,0 +1,676 @@
+[
+    {
+        "id": 4120,
+        "name": "Ariana Governorate",
+        "cities": [
+            {
+                "id": 114582,
+                "name": "Ariana"
+            },
+            {
+                "id": 114583,
+                "name": "Galaat el Andeless"
+            }
+        ]
+    },
+    {
+        "id": 4121,
+        "name": "Ben Arous Governorate",
+        "cities": [
+            {
+                "id": 114584,
+                "name": "Ben Arous"
+            },
+            {
+                "id": 114585,
+                "name": "Hammam Lif"
+            },
+            {
+                "id": 114586,
+                "name": "Hammam-Lif"
+            },
+            {
+                "id": 114587,
+                "name": "La Sebala du Mornag"
+            },
+            {
+                "id": 114588,
+                "name": "Radès"
+            }
+        ]
+    },
+    {
+        "id": 4122,
+        "name": "Bizerte Governorate",
+        "cities": [
+            {
+                "id": 114589,
+                "name": "Al Matlīn"
+            },
+            {
+                "id": 114590,
+                "name": "Bizerte"
+            },
+            {
+                "id": 114591,
+                "name": "Bizerte Sud"
+            },
+            {
+                "id": 114592,
+                "name": "Douar Tindja"
+            },
+            {
+                "id": 114593,
+                "name": "El Alia"
+            },
+            {
+                "id": 114594,
+                "name": "Mateur"
+            },
+            {
+                "id": 114595,
+                "name": "Menzel Abderhaman"
+            },
+            {
+                "id": 114596,
+                "name": "Menzel Bourguiba"
+            },
+            {
+                "id": 114597,
+                "name": "Menzel Jemil"
+            },
+            {
+                "id": 114598,
+                "name": "Rafrāf"
+            },
+            {
+                "id": 114599,
+                "name": "Rhar el Melah"
+            },
+            {
+                "id": 114600,
+                "name": "Sejenane"
+            },
+            {
+                "id": 114601,
+                "name": "Zahānah"
+            }
+        ]
+    },
+    {
+        "id": 4123,
+        "name": "Gabès Governorate",
+        "cities": [
+            {
+                "id": 114602,
+                "name": "Bou Attouche"
+            },
+            {
+                "id": 114603,
+                "name": "El Hamma"
+            },
+            {
+                "id": 114604,
+                "name": "Gabès"
+            },
+            {
+                "id": 114605,
+                "name": "Matmata"
+            }
+        ]
+    },
+    {
+        "id": 4124,
+        "name": "Gafsa Governorate",
+        "cities": [
+            {
+                "id": 114606,
+                "name": "Ar Rudayyif"
+            },
+            {
+                "id": 114607,
+                "name": "As Sanad"
+            },
+            {
+                "id": 114608,
+                "name": "Gafsa"
+            },
+            {
+                "id": 114609,
+                "name": "Metlaoui"
+            },
+            {
+                "id": 114610,
+                "name": "Mu‘tamadīyat ar Rudayyif"
+            }
+        ]
+    },
+    {
+        "id": 4125,
+        "name": "Jendouba Governorate",
+        "cities": [
+            {
+                "id": 114611,
+                "name": "Fernana"
+            },
+            {
+                "id": 114612,
+                "name": "Jendouba"
+            },
+            {
+                "id": 114613,
+                "name": "Oued Meliz"
+            },
+            {
+                "id": 114614,
+                "name": "Tabarka"
+            }
+        ]
+    },
+    {
+        "id": 4126,
+        "name": "Kairouan Governorate",
+        "cities": [
+            {
+                "id": 114615,
+                "name": "Haffouz"
+            },
+            {
+                "id": 114616,
+                "name": "Kairouan"
+            },
+            {
+                "id": 114617,
+                "name": "Sbikha"
+            }
+        ]
+    },
+    {
+        "id": 4127,
+        "name": "Kasserine Governorate",
+        "cities": [
+            {
+                "id": 114618,
+                "name": "Kasserine"
+            },
+            {
+                "id": 114619,
+                "name": "Rohia"
+            },
+            {
+                "id": 114620,
+                "name": "Sbiba"
+            },
+            {
+                "id": 114621,
+                "name": "Thala"
+            }
+        ]
+    },
+    {
+        "id": 4128,
+        "name": "Kassrine",
+        "cities": [
+            {
+                "id": 114622,
+                "name": "Béja"
+            },
+            {
+                "id": 114623,
+                "name": "Délégation de Béja Nord"
+            },
+            {
+                "id": 114624,
+                "name": "Goubellat"
+            },
+            {
+                "id": 114625,
+                "name": "Medjez el Bab"
+            },
+            {
+                "id": 114626,
+                "name": "Tabursuq"
+            },
+            {
+                "id": 114627,
+                "name": "Testour"
+            }
+        ]
+    },
+    {
+        "id": 4129,
+        "name": "Kebili Governorate",
+        "cities": [
+            {
+                "id": 114628,
+                "name": "Douz"
+            },
+            {
+                "id": 114629,
+                "name": "El Golaa"
+            },
+            {
+                "id": 114630,
+                "name": "Jemna"
+            },
+            {
+                "id": 114631,
+                "name": "Kebili"
+            }
+        ]
+    },
+    {
+        "id": 4130,
+        "name": "Kef Governorate",
+        "cities": [
+            {
+                "id": 114632,
+                "name": "As Sars"
+            },
+            {
+                "id": 114633,
+                "name": "El Kef"
+            },
+            {
+                "id": 114634,
+                "name": "El Ksour"
+            },
+            {
+                "id": 114635,
+                "name": "Menzel Salem"
+            },
+            {
+                "id": 114636,
+                "name": "Nibbar"
+            },
+            {
+                "id": 114637,
+                "name": "Sakiet Sidi Youssef"
+            },
+            {
+                "id": 114638,
+                "name": "Tajerouine"
+            }
+        ]
+    },
+    {
+        "id": 4131,
+        "name": "Mahdia Governorate",
+        "cities": [
+            {
+                "id": 114639,
+                "name": "Chebba"
+            },
+            {
+                "id": 114640,
+                "name": "Chorbane"
+            },
+            {
+                "id": 114641,
+                "name": "El Jem"
+            },
+            {
+                "id": 114642,
+                "name": "Ksour Essaf"
+            },
+            {
+                "id": 114643,
+                "name": "Mahdia"
+            },
+            {
+                "id": 114644,
+                "name": "Melloulèche"
+            },
+            {
+                "id": 114645,
+                "name": "Salakta"
+            },
+            {
+                "id": 114646,
+                "name": "Sidi Alouane"
+            },
+            {
+                "id": 114647,
+                "name": "Zouila"
+            }
+        ]
+    },
+    {
+        "id": 4132,
+        "name": "Manouba Governorate",
+        "cities": [
+            {
+                "id": 114648,
+                "name": "El Battan"
+            },
+            {
+                "id": 114649,
+                "name": "Manouba"
+            },
+            {
+                "id": 114650,
+                "name": "Mu‘tamadīyat Manūbah"
+            },
+            {
+                "id": 114651,
+                "name": "Oued Lill"
+            }
+        ]
+    },
+    {
+        "id": 4133,
+        "name": "Medenine Governorate",
+        "cities": [
+            {
+                "id": 114652,
+                "name": "Ben Gardane"
+            },
+            {
+                "id": 114653,
+                "name": "Beni Kheddache"
+            },
+            {
+                "id": 114654,
+                "name": "Erriadh"
+            },
+            {
+                "id": 114655,
+                "name": "Houmt El Souk"
+            },
+            {
+                "id": 114656,
+                "name": "Jerba Midoun"
+            },
+            {
+                "id": 114657,
+                "name": "Medenine"
+            },
+            {
+                "id": 114658,
+                "name": "Midoun"
+            },
+            {
+                "id": 114659,
+                "name": "Zarzis"
+            }
+        ]
+    },
+    {
+        "id": 4134,
+        "name": "Monastir Governorate",
+        "cities": [
+            {
+                "id": 114660,
+                "name": "Banbalah"
+            },
+            {
+                "id": 114661,
+                "name": "Bekalta"
+            },
+            {
+                "id": 114662,
+                "name": "Beni Hassane"
+            },
+            {
+                "id": 114663,
+                "name": "Djemmal"
+            },
+            {
+                "id": 114664,
+                "name": "Ksar Hellal"
+            },
+            {
+                "id": 114665,
+                "name": "Ksibet el Mediouni"
+            },
+            {
+                "id": 114666,
+                "name": "Lemta"
+            },
+            {
+                "id": 114667,
+                "name": "Menzel Kamel"
+            },
+            {
+                "id": 114668,
+                "name": "Mesdour"
+            },
+            {
+                "id": 114669,
+                "name": "Monastir"
+            },
+            {
+                "id": 114670,
+                "name": "Ouardenine"
+            },
+            {
+                "id": 114671,
+                "name": "Sahline"
+            },
+            {
+                "id": 114672,
+                "name": "Seïada"
+            },
+            {
+                "id": 114673,
+                "name": "Sidi Ben Nour"
+            },
+            {
+                "id": 114674,
+                "name": "Skanes"
+            },
+            {
+                "id": 114675,
+                "name": "Touza"
+            }
+        ]
+    },
+    {
+        "id": 4135,
+        "name": "Sfax Governorate",
+        "cities": [
+            {
+                "id": 114676,
+                "name": "Agareb"
+            },
+            {
+                "id": 114677,
+                "name": "Bir Ali Ben Khalifa"
+            },
+            {
+                "id": 114678,
+                "name": "Djebeniana"
+            },
+            {
+                "id": 114679,
+                "name": "Gremda"
+            },
+            {
+                "id": 114680,
+                "name": "Sfax"
+            },
+            {
+                "id": 114681,
+                "name": "Skhira"
+            }
+        ]
+    },
+    {
+        "id": 4136,
+        "name": "Sidi Bouzid Governorate",
+        "cities": [
+            {
+                "id": 114682,
+                "name": "Bir el Hafey"
+            },
+            {
+                "id": 114683,
+                "name": "Er Regueb"
+            },
+            {
+                "id": 114684,
+                "name": "Jilma"
+            },
+            {
+                "id": 114685,
+                "name": "Mezzouna"
+            },
+            {
+                "id": 114686,
+                "name": "Sidi Bouzid"
+            }
+        ]
+    },
+    {
+        "id": 4137,
+        "name": "Siliana Governorate",
+        "cities": [
+            {
+                "id": 114687,
+                "name": "Bou Arada"
+            },
+            {
+                "id": 114688,
+                "name": "Gafour"
+            },
+            {
+                "id": 114689,
+                "name": "Kesra"
+            },
+            {
+                "id": 114690,
+                "name": "Le Krib"
+            },
+            {
+                "id": 114691,
+                "name": "Maktar"
+            },
+            {
+                "id": 114692,
+                "name": "Siliana"
+            }
+        ]
+    },
+    {
+        "id": 4138,
+        "name": "Sousse Governorate",
+        "cities": [
+            {
+                "id": 114693,
+                "name": "Akouda"
+            },
+            {
+                "id": 114694,
+                "name": "Hammam Sousse"
+            },
+            {
+                "id": 114695,
+                "name": "Harqalah"
+            },
+            {
+                "id": 114696,
+                "name": "Msaken"
+            },
+            {
+                "id": 114697,
+                "name": "Port el Kantaoui"
+            },
+            {
+                "id": 114698,
+                "name": "Sidi Bou Ali"
+            },
+            {
+                "id": 114699,
+                "name": "Sidi el Hani"
+            },
+            {
+                "id": 114700,
+                "name": "Sousse"
+            }
+        ]
+    },
+    {
+        "id": 4139,
+        "name": "Tataouine Governorate",
+        "cities": [
+            {
+                "id": 114701,
+                "name": "Remada"
+            },
+            {
+                "id": 114702,
+                "name": "Tataouine"
+            }
+        ]
+    },
+    {
+        "id": 4140,
+        "name": "Tozeur Governorate",
+        "cities": [
+            {
+                "id": 114703,
+                "name": "Chebika"
+            },
+            {
+                "id": 114704,
+                "name": "Degache"
+            },
+            {
+                "id": 114705,
+                "name": "Nefta"
+            },
+            {
+                "id": 114706,
+                "name": "Tamaghzah"
+            },
+            {
+                "id": 114707,
+                "name": "Tozeur"
+            }
+        ]
+    },
+    {
+        "id": 4141,
+        "name": "Tunis Governorate",
+        "cities": [
+            {
+                "id": 114708,
+                "name": "Al Marsá"
+            },
+            {
+                "id": 114709,
+                "name": "Carthage"
+            },
+            {
+                "id": 114710,
+                "name": "La Goulette"
+            },
+            {
+                "id": 114711,
+                "name": "La Mohammedia"
+            },
+            {
+                "id": 114712,
+                "name": "Sidi Bou Saïd"
+            },
+            {
+                "id": 114713,
+                "name": "Tunis"
+            }
+        ]
+    },
+    {
+        "id": 4142,
+        "name": "Zaghouan Governorate",
+        "cities": [
+            {
+                "id": 114714,
+                "name": "El Fahs"
+            },
+            {
+                "id": 114715,
+                "name": "Zaghouan"
+            }
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "id": 4388,
+        "name": "Abu Dhabi Emirate",
+        "cities": [
+            {
+                "id": 118343,
+                "name": "Abu Dhabi Island and Internal Islands City"
+            },
+            {
+                "id": 118344,
+                "name": "Abu Dhabi Municipality"
+            },
+            {
+                "id": 118345,
+                "name": "Al Ain City"
+            },
+            {
+                "id": 118346,
+                "name": "Al Ain Municipality"
+            },
+            {
+                "id": 118347,
+                "name": "Al Dhafra"
+            },
+            {
+                "id": 118348,
+                "name": "Al Shamkhah City"
+            },
+            {
+                "id": 118349,
+                "name": "Ar Ruways"
+            },
+            {
+                "id": 118350,
+                "name": "Bani Yas City"
+            },
+            {
+                "id": 118351,
+                "name": "Khalifah A City"
+            },
+            {
+                "id": 118352,
+                "name": "Musaffah"
+            },
+            {
+                "id": 118353,
+                "name": "Muzayri‘"
+            },
+            {
+                "id": 118354,
+                "name": "Zayed City"
+            }
+        ]
+    },
+    {
+        "id": 4389,
+        "name": "Ajman Emirate",
+        "cities": [
+            {
+                "id": 118355,
+                "name": "Ajman"
+            },
+            {
+                "id": 118356,
+                "name": "Ajman City"
+            },
+            {
+                "id": 118357,
+                "name": "Manama"
+            },
+            {
+                "id": 118358,
+                "name": "Masfout"
+            }
+        ]
+    },
+    {
+        "id": 4390,
+        "name": "Dubai",
+        "cities": [
+            {
+                "id": 118359,
+                "name": "Dubai"
+            }
+        ]
+    },
+    {
+        "id": 4391,
+        "name": "Fujairah",
+        "cities": [
+            {
+                "id": 118360,
+                "name": "Al Fujairah City"
+            },
+            {
+                "id": 118361,
+                "name": "Al Fujairah Municipality"
+            },
+            {
+                "id": 118362,
+                "name": "Dibba Al Fujairah Municipality"
+            },
+            {
+                "id": 118363,
+                "name": "Dibba Al-Fujairah"
+            },
+            {
+                "id": 118364,
+                "name": "Dibba Al-Hisn"
+            },
+            {
+                "id": 118365,
+                "name": "Reef Al Fujairah City"
+            }
+        ]
+    },
+    {
+        "id": 4392,
+        "name": "Ras al-Khaimah",
+        "cities": [
+            {
+                "id": 118366,
+                "name": "Ras Al Khaimah"
+            },
+            {
+                "id": 118367,
+                "name": "Ras Al Khaimah City"
+            }
+        ]
+    },
+    {
+        "id": 4393,
+        "name": "Sharjah Emirate",
+        "cities": [
+            {
+                "id": 118368,
+                "name": "Adh Dhayd"
+            },
+            {
+                "id": 118369,
+                "name": "Al Batayih"
+            },
+            {
+                "id": 118370,
+                "name": "Al Hamriyah"
+            },
+            {
+                "id": 118371,
+                "name": "Al Madam"
+            },
+            {
+                "id": 118372,
+                "name": "Dhaid"
+            },
+            {
+                "id": 118373,
+                "name": "Dibba Al Hesn"
+            },
+            {
+                "id": 118374,
+                "name": "Kalba"
+            },
+            {
+                "id": 118375,
+                "name": "Khawr Fakkān"
+            },
+            {
+                "id": 118376,
+                "name": "Khor Fakkan"
+            },
+            {
+                "id": 118377,
+                "name": "Milehah"
+            },
+            {
+                "id": 118378,
+                "name": "Murbaḩ"
+            },
+            {
+                "id": 118379,
+                "name": "Sharjah"
+            }
+        ]
+    },
+    {
+        "id": 4394,
+        "name": "Umm al-Quwain",
+        "cities": [
+            {
+                "id": 118380,
+                "name": "Umm AL Quwain"
+            },
+            {
+                "id": 118381,
+                "name": "Umm Al Quwain City"
+            }
+        ]
+    }
+]

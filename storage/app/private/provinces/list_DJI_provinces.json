@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1073,
+        "name": "Ali Sabieh Region",
+        "cities": [
+            {
+                "id": 23559,
+                "name": "'Ali Sabieh"
+            },
+            {
+                "id": 23560,
+                "name": "Goubétto"
+            },
+            {
+                "id": 23561,
+                "name": "Holhol"
+            }
+        ]
+    },
+    {
+        "id": 1074,
+        "name": "Arta Region",
+        "cities": [
+            {
+                "id": 23562,
+                "name": "Arta"
+            }
+        ]
+    },
+    {
+        "id": 1075,
+        "name": "Dikhil Region",
+        "cities": [
+            {
+                "id": 23563,
+                "name": "Dikhil"
+            },
+            {
+                "id": 23564,
+                "name": "Gâlâfi"
+            }
+        ]
+    },
+    {
+        "id": 1076,
+        "name": "Djibouti",
+        "cities": [
+            {
+                "id": 23565,
+                "name": "Djibouti"
+            },
+            {
+                "id": 23566,
+                "name": "Loyada"
+            }
+        ]
+    },
+    {
+        "id": 1077,
+        "name": "Obock Region",
+        "cities": [
+            {
+                "id": 23567,
+                "name": "Alaïli Ḏaḏḏa‘"
+            },
+            {
+                "id": 23568,
+                "name": "Obock"
+            }
+        ]
+    },
+    {
+        "id": 1078,
+        "name": "Tadjourah Region",
+        "cities": [
+            {
+                "id": 23569,
+                "name": "Dorra"
+            },
+            {
+                "id": 23570,
+                "name": "Tadjourah"
+            }
+        ]
+    }
+]

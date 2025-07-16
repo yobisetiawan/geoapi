@@ -1,0 +1,189 @@
+[
+    {
+        "id": 2983,
+        "name": "Ad Dakhiliyah Governorate",
+        "cities": [
+            {
+                "id": 77732,
+                "name": "Adam"
+            },
+            {
+                "id": 77733,
+                "name": "Bahlā’"
+            },
+            {
+                "id": 77734,
+                "name": "Bidbid"
+            },
+            {
+                "id": 77735,
+                "name": "Izkī"
+            },
+            {
+                "id": 77736,
+                "name": "Nizwá"
+            },
+            {
+                "id": 77737,
+                "name": "Sufālat Samā’il"
+            }
+        ]
+    },
+    {
+        "id": 2984,
+        "name": "Ad Dhahirah Governorate",
+        "cities": [
+            {
+                "id": 77738,
+                "name": "‘Ibrī"
+            },
+            {
+                "id": 77739,
+                "name": "Yanqul"
+            }
+        ]
+    },
+    {
+        "id": 2985,
+        "name": "Al Batinah North Governorate",
+        "cities": [
+            {
+                "id": 77740,
+                "name": "Al Khābūrah"
+            },
+            {
+                "id": 77741,
+                "name": "As Suwayq"
+            },
+            {
+                "id": 77742,
+                "name": "Liwá"
+            },
+            {
+                "id": 77743,
+                "name": "Şaḩam"
+            },
+            {
+                "id": 77744,
+                "name": "Shināş"
+            },
+            {
+                "id": 77745,
+                "name": "Sohar"
+            }
+        ]
+    },
+    {
+        "id": 2986,
+        "name": "Al Batinah Region",
+        "cities": [
+            {
+                "id": 77746,
+                "name": "Barkā’"
+            },
+            {
+                "id": 77747,
+                "name": "Bayt al ‘Awābī"
+            },
+            {
+                "id": 77748,
+                "name": "Oman Smart Future City"
+            },
+            {
+                "id": 77749,
+                "name": "Rustaq"
+            }
+        ]
+    },
+    {
+        "id": 2987,
+        "name": "Al Batinah South Governorate",
+        "cities": []
+    },
+    {
+        "id": 2988,
+        "name": "Al Buraimi Governorate",
+        "cities": [
+            {
+                "id": 77750,
+                "name": "Al Buraymī"
+            }
+        ]
+    },
+    {
+        "id": 2989,
+        "name": "Al Wusta Governorate",
+        "cities": [
+            {
+                "id": 77751,
+                "name": "Haymā’"
+            }
+        ]
+    },
+    {
+        "id": 2990,
+        "name": "Ash Sharqiyah North Governorate",
+        "cities": []
+    },
+    {
+        "id": 2991,
+        "name": "Ash Sharqiyah Region",
+        "cities": [
+            {
+                "id": 77752,
+                "name": "Sur"
+            }
+        ]
+    },
+    {
+        "id": 2992,
+        "name": "Ash Sharqiyah South Governorate",
+        "cities": []
+    },
+    {
+        "id": 2993,
+        "name": "Dhofar Governorate",
+        "cities": [
+            {
+                "id": 77753,
+                "name": "Şalālah"
+            }
+        ]
+    },
+    {
+        "id": 2994,
+        "name": "Musandam Governorate",
+        "cities": [
+            {
+                "id": 77754,
+                "name": "Dib Dibba"
+            },
+            {
+                "id": 77755,
+                "name": "Khasab"
+            },
+            {
+                "id": 77756,
+                "name": "Madḩā’ al Jadīdah"
+            }
+        ]
+    },
+    {
+        "id": 2995,
+        "name": "Muscat Governorate",
+        "cities": [
+            {
+                "id": 77757,
+                "name": "Bawshar"
+            },
+            {
+                "id": 77758,
+                "name": "Muscat"
+            },
+            {
+                "id": 77759,
+                "name": "Seeb"
+            }
+        ]
+    }
+]

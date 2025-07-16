@@ -1,0 +1,662 @@
+[
+    {
+        "id": 1155,
+        "name": "Alexandria Governorate",
+        "cities": [
+            {
+                "id": 23959,
+                "name": "Alexandria"
+            }
+        ]
+    },
+    {
+        "id": 1156,
+        "name": "Aswan Governorate",
+        "cities": [
+            {
+                "id": 23960,
+                "name": "Abu Simbel"
+            },
+            {
+                "id": 23961,
+                "name": "Aswan"
+            },
+            {
+                "id": 23962,
+                "name": "Idfū"
+            },
+            {
+                "id": 23963,
+                "name": "Kawm Umbū"
+            }
+        ]
+    },
+    {
+        "id": 1157,
+        "name": "Asyut Governorate",
+        "cities": [
+            {
+                "id": 23964,
+                "name": "Abnūb"
+            },
+            {
+                "id": 23965,
+                "name": "Abū Tīj"
+            },
+            {
+                "id": 23966,
+                "name": "Al Badārī"
+            },
+            {
+                "id": 23967,
+                "name": "Al Qūşīyah"
+            },
+            {
+                "id": 23968,
+                "name": "Asyūţ"
+            },
+            {
+                "id": 23969,
+                "name": "Dayrūţ"
+            },
+            {
+                "id": 23970,
+                "name": "Manfalūţ"
+            }
+        ]
+    },
+    {
+        "id": 1158,
+        "name": "Beheira Governorate",
+        "cities": [
+            {
+                "id": 23971,
+                "name": "Abū al Maţāmīr"
+            },
+            {
+                "id": 23972,
+                "name": "Ad Dilinjāt"
+            },
+            {
+                "id": 23973,
+                "name": "Damanhūr"
+            },
+            {
+                "id": 23974,
+                "name": "Ḩawsh ‘Īsá"
+            },
+            {
+                "id": 23975,
+                "name": "Idkū"
+            },
+            {
+                "id": 23976,
+                "name": "Kafr ad Dawwār"
+            },
+            {
+                "id": 23977,
+                "name": "Kawm Ḩamādah"
+            },
+            {
+                "id": 23978,
+                "name": "Rosetta"
+            }
+        ]
+    },
+    {
+        "id": 1159,
+        "name": "Beni Suef Governorate",
+        "cities": [
+            {
+                "id": 23979,
+                "name": "Al Fashn"
+            },
+            {
+                "id": 23980,
+                "name": "Banī Suwayf"
+            },
+            {
+                "id": 23981,
+                "name": "Būsh"
+            },
+            {
+                "id": 23982,
+                "name": "Sumusţā as Sulţānī"
+            }
+        ]
+    },
+    {
+        "id": 1160,
+        "name": "Cairo Governorate",
+        "cities": [
+            {
+                "id": 23983,
+                "name": "Cairo"
+            },
+            {
+                "id": 23984,
+                "name": "Ḩalwān"
+            },
+            {
+                "id": 23985,
+                "name": "New Cairo"
+            }
+        ]
+    },
+    {
+        "id": 1161,
+        "name": "Dakahlia Governorate",
+        "cities": [
+            {
+                "id": 23986,
+                "name": "‘Izbat al Burj"
+            },
+            {
+                "id": 23987,
+                "name": "Ajā"
+            },
+            {
+                "id": 23988,
+                "name": "Al Jammālīyah"
+            },
+            {
+                "id": 23989,
+                "name": "Al Manşūrah"
+            },
+            {
+                "id": 23990,
+                "name": "Al Manzalah"
+            },
+            {
+                "id": 23991,
+                "name": "Al Maţarīyah"
+            },
+            {
+                "id": 23992,
+                "name": "Bilqās"
+            },
+            {
+                "id": 23993,
+                "name": "Dikirnis"
+            },
+            {
+                "id": 23994,
+                "name": "Minyat an Naşr"
+            },
+            {
+                "id": 23995,
+                "name": "Shirbīn"
+            },
+            {
+                "id": 23996,
+                "name": "Ţalkhā"
+            }
+        ]
+    },
+    {
+        "id": 1162,
+        "name": "Damietta Governorate",
+        "cities": [
+            {
+                "id": 23997,
+                "name": "Az Zarqā"
+            },
+            {
+                "id": 23998,
+                "name": "Damietta"
+            },
+            {
+                "id": 23999,
+                "name": "Fāraskūr"
+            }
+        ]
+    },
+    {
+        "id": 1163,
+        "name": "Faiyum Governorate",
+        "cities": [
+            {
+                "id": 24000,
+                "name": "Al Fayyūm"
+            },
+            {
+                "id": 24001,
+                "name": "Al Wāsiţah"
+            },
+            {
+                "id": 24002,
+                "name": "Ibshawāy"
+            },
+            {
+                "id": 24003,
+                "name": "Iţsā"
+            },
+            {
+                "id": 24004,
+                "name": "Ţāmiyah"
+            }
+        ]
+    },
+    {
+        "id": 1164,
+        "name": "Gharbia Governorate",
+        "cities": [
+            {
+                "id": 24005,
+                "name": "Al Maḩallah al Kubrá"
+            },
+            {
+                "id": 24006,
+                "name": "Basyūn"
+            },
+            {
+                "id": 24007,
+                "name": "Kafr az Zayyāt"
+            },
+            {
+                "id": 24008,
+                "name": "Quţūr"
+            },
+            {
+                "id": 24009,
+                "name": "Samannūd"
+            },
+            {
+                "id": 24010,
+                "name": "Tanda"
+            },
+            {
+                "id": 24011,
+                "name": "Zefta"
+            }
+        ]
+    },
+    {
+        "id": 1165,
+        "name": "Giza Governorate",
+        "cities": [
+            {
+                "id": 24012,
+                "name": "Al ‘Ayyāţ"
+            },
+            {
+                "id": 24013,
+                "name": "Al Bawīţī"
+            },
+            {
+                "id": 24014,
+                "name": "Al Ḩawāmidīyah"
+            },
+            {
+                "id": 24015,
+                "name": "Aş Şaff"
+            },
+            {
+                "id": 24016,
+                "name": "Awsīm"
+            },
+            {
+                "id": 24017,
+                "name": "Giza"
+            },
+            {
+                "id": 24018,
+                "name": "Madīnat Sittah Uktūbar"
+            }
+        ]
+    },
+    {
+        "id": 1166,
+        "name": "Ismailia Governorate",
+        "cities": [
+            {
+                "id": 24019,
+                "name": "Ismailia"
+            }
+        ]
+    },
+    {
+        "id": 1167,
+        "name": "Kafr el-Sheikh Governorate",
+        "cities": [
+            {
+                "id": 24020,
+                "name": "Al Ḩāmūl"
+            },
+            {
+                "id": 24021,
+                "name": "Disūq"
+            },
+            {
+                "id": 24022,
+                "name": "Fuwwah"
+            },
+            {
+                "id": 24023,
+                "name": "Kafr ash Shaykh"
+            },
+            {
+                "id": 24024,
+                "name": "Markaz Disūq"
+            },
+            {
+                "id": 24025,
+                "name": "Munshāt ‘Alī Āghā"
+            },
+            {
+                "id": 24026,
+                "name": "Sīdī Sālim"
+            }
+        ]
+    },
+    {
+        "id": 1168,
+        "name": "Luxor Governorate",
+        "cities": [
+            {
+                "id": 24027,
+                "name": "Luxor"
+            },
+            {
+                "id": 24028,
+                "name": "Markaz al Uqşur"
+            }
+        ]
+    },
+    {
+        "id": 1169,
+        "name": "Matrouh Governorate",
+        "cities": [
+            {
+                "id": 24029,
+                "name": "Al ‘Alamayn"
+            },
+            {
+                "id": 24030,
+                "name": "Mersa Matruh"
+            },
+            {
+                "id": 24031,
+                "name": "Siwa Oasis"
+            }
+        ]
+    },
+    {
+        "id": 1170,
+        "name": "Minya Governorate",
+        "cities": [
+            {
+                "id": 24032,
+                "name": "Abū Qurqāş"
+            },
+            {
+                "id": 24033,
+                "name": "Al Minyā"
+            },
+            {
+                "id": 24034,
+                "name": "Banī Mazār"
+            },
+            {
+                "id": 24035,
+                "name": "Dayr Mawās"
+            },
+            {
+                "id": 24036,
+                "name": "Mallawī"
+            },
+            {
+                "id": 24037,
+                "name": "Maţāy"
+            },
+            {
+                "id": 24038,
+                "name": "Samālūţ"
+            }
+        ]
+    },
+    {
+        "id": 1171,
+        "name": "Monufia Governorate",
+        "cities": [
+            {
+                "id": 24039,
+                "name": "Al Bājūr"
+            },
+            {
+                "id": 24040,
+                "name": "Ash Shuhadā’"
+            },
+            {
+                "id": 24041,
+                "name": "Ashmūn"
+            },
+            {
+                "id": 24042,
+                "name": "Munūf"
+            },
+            {
+                "id": 24043,
+                "name": "Quwaysinā"
+            },
+            {
+                "id": 24044,
+                "name": "Shibīn al Kawm"
+            },
+            {
+                "id": 24045,
+                "name": "Talā"
+            }
+        ]
+    },
+    {
+        "id": 1172,
+        "name": "New Valley Governorate",
+        "cities": [
+            {
+                "id": 24046,
+                "name": "Al Khārijah"
+            },
+            {
+                "id": 24047,
+                "name": "Qaşr al Farāfirah"
+            }
+        ]
+    },
+    {
+        "id": 1173,
+        "name": "North Sinai Governorate",
+        "cities": [
+            {
+                "id": 24048,
+                "name": "Arish"
+            }
+        ]
+    },
+    {
+        "id": 1174,
+        "name": "Port Said Governorate",
+        "cities": [
+            {
+                "id": 24049,
+                "name": "Port Said"
+            }
+        ]
+    },
+    {
+        "id": 1175,
+        "name": "Qalyubia Governorate",
+        "cities": [
+            {
+                "id": 24050,
+                "name": "Al Khānkah"
+            },
+            {
+                "id": 24051,
+                "name": "Al Qanāţir al Khayrīyah"
+            },
+            {
+                "id": 24052,
+                "name": "Banhā"
+            },
+            {
+                "id": 24053,
+                "name": "Qalyūb"
+            },
+            {
+                "id": 24054,
+                "name": "Shibīn al Qanāṭir"
+            },
+            {
+                "id": 24055,
+                "name": "Toukh"
+            }
+        ]
+    },
+    {
+        "id": 1176,
+        "name": "Qena Governorate",
+        "cities": [
+            {
+                "id": 24056,
+                "name": "Dishnā"
+            },
+            {
+                "id": 24057,
+                "name": "Farshūţ"
+            },
+            {
+                "id": 24058,
+                "name": "Isnā"
+            },
+            {
+                "id": 24059,
+                "name": "Kousa"
+            },
+            {
+                "id": 24060,
+                "name": "Naja' Ḥammādī"
+            },
+            {
+                "id": 24061,
+                "name": "Qinā"
+            }
+        ]
+    },
+    {
+        "id": 1177,
+        "name": "Red Sea Governorate",
+        "cities": [
+            {
+                "id": 24062,
+                "name": "Al Quşayr"
+            },
+            {
+                "id": 24063,
+                "name": "El Gouna"
+            },
+            {
+                "id": 24064,
+                "name": "Hurghada"
+            },
+            {
+                "id": 24065,
+                "name": "Makadi Bay"
+            },
+            {
+                "id": 24066,
+                "name": "Marsa Alam"
+            },
+            {
+                "id": 24067,
+                "name": "Ras Gharib"
+            },
+            {
+                "id": 24068,
+                "name": "Safaga"
+            }
+        ]
+    },
+    {
+        "id": 1178,
+        "name": "Sohag Governorate",
+        "cities": [
+            {
+                "id": 24069,
+                "name": "Akhmīm"
+            },
+            {
+                "id": 24070,
+                "name": "Al Balyanā"
+            },
+            {
+                "id": 24071,
+                "name": "Al Manshāh"
+            },
+            {
+                "id": 24072,
+                "name": "Jirjā"
+            },
+            {
+                "id": 24073,
+                "name": "Juhaynah"
+            },
+            {
+                "id": 24074,
+                "name": "Markaz Jirjā"
+            },
+            {
+                "id": 24075,
+                "name": "Markaz Sūhāj"
+            },
+            {
+                "id": 24076,
+                "name": "Sohag"
+            },
+            {
+                "id": 24077,
+                "name": "Ţahţā"
+            }
+        ]
+    },
+    {
+        "id": 1179,
+        "name": "South Sinai Governorate",
+        "cities": [
+            {
+                "id": 24078,
+                "name": "Dahab"
+            },
+            {
+                "id": 24079,
+                "name": "El-Tor"
+            },
+            {
+                "id": 24080,
+                "name": "Nuwaybi‘a"
+            },
+            {
+                "id": 24081,
+                "name": "Saint Catherine"
+            },
+            {
+                "id": 24082,
+                "name": "Sharm el-Sheikh"
+            }
+        ]
+    },
+    {
+        "id": 1180,
+        "name": "Suez Governorate",
+        "cities": [
+            {
+                "id": 24083,
+                "name": "Ain Sukhna"
+            },
+            {
+                "id": 24084,
+                "name": "Suez"
+            }
+        ]
+    }
+]

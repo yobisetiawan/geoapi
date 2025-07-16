@@ -1,0 +1,74 @@
+[
+    {
+        "id": 3394,
+        "name": "Charlotte Parish",
+        "cities": [
+            {
+                "id": 101728,
+                "name": "Biabou"
+            },
+            {
+                "id": 101729,
+                "name": "Byera Village"
+            },
+            {
+                "id": 101730,
+                "name": "Georgetown"
+            }
+        ]
+    },
+    {
+        "id": 3395,
+        "name": "Grenadines Parish",
+        "cities": [
+            {
+                "id": 101731,
+                "name": "Port Elizabeth"
+            }
+        ]
+    },
+    {
+        "id": 3396,
+        "name": "Saint Andrew Parish",
+        "cities": [
+            {
+                "id": 101732,
+                "name": "Layou"
+            }
+        ]
+    },
+    {
+        "id": 3397,
+        "name": "Saint David Parish",
+        "cities": [
+            {
+                "id": 101733,
+                "name": "Chateaubelair"
+            }
+        ]
+    },
+    {
+        "id": 3398,
+        "name": "Saint George Parish",
+        "cities": [
+            {
+                "id": 101734,
+                "name": "Kingstown"
+            },
+            {
+                "id": 101735,
+                "name": "Kingstown Park"
+            }
+        ]
+    },
+    {
+        "id": 3399,
+        "name": "Saint Patrick Parish",
+        "cities": [
+            {
+                "id": 101736,
+                "name": "Barrouallie"
+            }
+        ]
+    }
+]

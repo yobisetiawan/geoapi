@@ -1,0 +1,1144 @@
+[
+    {
+        "id": 1936,
+        "name": "Akmola Region",
+        "cities": [
+            {
+                "id": 62904,
+                "name": "Akkol"
+            },
+            {
+                "id": 62905,
+                "name": "Akkol’"
+            },
+            {
+                "id": 62906,
+                "name": "Aksu"
+            },
+            {
+                "id": 62907,
+                "name": "Astrakhan"
+            },
+            {
+                "id": 62908,
+                "name": "Atbasar"
+            },
+            {
+                "id": 62909,
+                "name": "Balkashino"
+            },
+            {
+                "id": 62910,
+                "name": "Bestobe"
+            },
+            {
+                "id": 62911,
+                "name": "Derzhavīnsk"
+            },
+            {
+                "id": 62912,
+                "name": "Egindiköl"
+            },
+            {
+                "id": 62913,
+                "name": "Esil"
+            },
+            {
+                "id": 62914,
+                "name": "Kokshetau"
+            },
+            {
+                "id": 62915,
+                "name": "Krasnogorskiy"
+            },
+            {
+                "id": 62916,
+                "name": "Makinsk"
+            },
+            {
+                "id": 62917,
+                "name": "Shantobe"
+            },
+            {
+                "id": 62918,
+                "name": "Shchuchinsk"
+            },
+            {
+                "id": 62919,
+                "name": "Shortandy"
+            },
+            {
+                "id": 62920,
+                "name": "Stepnogorsk"
+            },
+            {
+                "id": 62921,
+                "name": "Stepnyak"
+            },
+            {
+                "id": 62922,
+                "name": "Yermentau"
+            },
+            {
+                "id": 62923,
+                "name": "Zavodskoy"
+            },
+            {
+                "id": 62924,
+                "name": "Zhaqsy"
+            },
+            {
+                "id": 62925,
+                "name": "Zholymbet"
+            }
+        ]
+    },
+    {
+        "id": 1937,
+        "name": "Aktobe Region",
+        "cities": [
+            {
+                "id": 62926,
+                "name": "Aktobe"
+            },
+            {
+                "id": 62927,
+                "name": "Batamshinskiy"
+            },
+            {
+                "id": 62928,
+                "name": "Bayganin"
+            },
+            {
+                "id": 62929,
+                "name": "Embi"
+            },
+            {
+                "id": 62930,
+                "name": "Kandyagash"
+            },
+            {
+                "id": 62931,
+                "name": "Khromtau"
+            },
+            {
+                "id": 62932,
+                "name": "Martuk"
+            },
+            {
+                "id": 62933,
+                "name": "Shalqar"
+            },
+            {
+                "id": 62934,
+                "name": "Shubarkuduk"
+            },
+            {
+                "id": 62935,
+                "name": "Shubarshi"
+            },
+            {
+                "id": 62936,
+                "name": "Temir"
+            },
+            {
+                "id": 62937,
+                "name": "Yrghyz"
+            }
+        ]
+    },
+    {
+        "id": 1938,
+        "name": "Almaty",
+        "cities": [
+            {
+                "id": 62938,
+                "name": "Almaty"
+            }
+        ]
+    },
+    {
+        "id": 1939,
+        "name": "Almaty Region",
+        "cities": [
+            {
+                "id": 62939,
+                "name": "Bakanas"
+            },
+            {
+                "id": 62940,
+                "name": "Balpyk Bī"
+            },
+            {
+                "id": 62941,
+                "name": "Burunday"
+            },
+            {
+                "id": 62942,
+                "name": "Chemolgan"
+            },
+            {
+                "id": 62943,
+                "name": "Druzhba"
+            },
+            {
+                "id": 62944,
+                "name": "Esik"
+            },
+            {
+                "id": 62945,
+                "name": "Kapshagay"
+            },
+            {
+                "id": 62946,
+                "name": "Kegen"
+            },
+            {
+                "id": 62947,
+                "name": "Lepsy"
+            },
+            {
+                "id": 62948,
+                "name": "Matay"
+            },
+            {
+                "id": 62949,
+                "name": "Otegen Batyra"
+            },
+            {
+                "id": 62950,
+                "name": "Pervomayka"
+            },
+            {
+                "id": 62951,
+                "name": "Sarkand"
+            },
+            {
+                "id": 62952,
+                "name": "Saryozek"
+            },
+            {
+                "id": 62953,
+                "name": "Taldykorgan"
+            },
+            {
+                "id": 62954,
+                "name": "Talghar"
+            },
+            {
+                "id": 62955,
+                "name": "Tekeli"
+            },
+            {
+                "id": 62956,
+                "name": "Turgen"
+            },
+            {
+                "id": 62957,
+                "name": "Ülken"
+            },
+            {
+                "id": 62958,
+                "name": "Ush-Tyube"
+            },
+            {
+                "id": 62959,
+                "name": "Zharkent"
+            }
+        ]
+    },
+    {
+        "id": 1940,
+        "name": "Atyrau Region",
+        "cities": [
+            {
+                "id": 62960,
+                "name": "Akkol’"
+            },
+            {
+                "id": 62961,
+                "name": "Atyrau"
+            },
+            {
+                "id": 62962,
+                "name": "Balykshi"
+            },
+            {
+                "id": 62963,
+                "name": "Bayshonas"
+            },
+            {
+                "id": 62964,
+                "name": "Dossor"
+            },
+            {
+                "id": 62965,
+                "name": "Inderbor"
+            },
+            {
+                "id": 62966,
+                "name": "Makhambet"
+            },
+            {
+                "id": 62967,
+                "name": "Maloye Ganyushkino"
+            },
+            {
+                "id": 62968,
+                "name": "Maqat"
+            },
+            {
+                "id": 62969,
+                "name": "Miyaly"
+            },
+            {
+                "id": 62970,
+                "name": "Qaraton"
+            },
+            {
+                "id": 62971,
+                "name": "Qulsary"
+            },
+            {
+                "id": 62972,
+                "name": "Shalkar"
+            }
+        ]
+    },
+    {
+        "id": 1941,
+        "name": "Baikonur",
+        "cities": [
+            {
+                "id": 62973,
+                "name": "Baikonur"
+            }
+        ]
+    },
+    {
+        "id": 1942,
+        "name": "East Kazakhstan Region",
+        "cities": [
+            {
+                "id": 62974,
+                "name": "Altayskiy"
+            },
+            {
+                "id": 62975,
+                "name": "Aqtoghay"
+            },
+            {
+                "id": 62976,
+                "name": "Asūbulaq"
+            },
+            {
+                "id": 62977,
+                "name": "Auezov"
+            },
+            {
+                "id": 62978,
+                "name": "Ayagoz"
+            },
+            {
+                "id": 62979,
+                "name": "Belogorskīy"
+            },
+            {
+                "id": 62980,
+                "name": "Belousovka"
+            },
+            {
+                "id": 62981,
+                "name": "Borodulikha"
+            },
+            {
+                "id": 62982,
+                "name": "Georgīevka"
+            },
+            {
+                "id": 62983,
+                "name": "Glubokoye"
+            },
+            {
+                "id": 62984,
+                "name": "Kurchatov"
+            },
+            {
+                "id": 62985,
+                "name": "Kurchum"
+            },
+            {
+                "id": 62986,
+                "name": "Maleyevsk"
+            },
+            {
+                "id": 62987,
+                "name": "Ognevka"
+            },
+            {
+                "id": 62988,
+                "name": "Priisk Boko"
+            },
+            {
+                "id": 62989,
+                "name": "Qaraūyl"
+            },
+            {
+                "id": 62990,
+                "name": "Ridder"
+            },
+            {
+                "id": 62991,
+                "name": "Semey"
+            },
+            {
+                "id": 62992,
+                "name": "Shar"
+            },
+            {
+                "id": 62993,
+                "name": "Shemonaīkha"
+            },
+            {
+                "id": 62994,
+                "name": "Suykbulak"
+            },
+            {
+                "id": 62995,
+                "name": "Tūghyl"
+            },
+            {
+                "id": 62996,
+                "name": "Urzhar"
+            },
+            {
+                "id": 62997,
+                "name": "Ust-Kamenogorsk"
+            },
+            {
+                "id": 62998,
+                "name": "Ūst’-Talovka"
+            },
+            {
+                "id": 62999,
+                "name": "Zaysan"
+            },
+            {
+                "id": 63000,
+                "name": "Zhalghyztobe"
+            },
+            {
+                "id": 63001,
+                "name": "Zhanga Buqtyrma"
+            },
+            {
+                "id": 63002,
+                "name": "Zhezkent"
+            },
+            {
+                "id": 63003,
+                "name": "Zyryanovsk"
+            }
+        ]
+    },
+    {
+        "id": 1943,
+        "name": "Jambyl Region",
+        "cities": [
+            {
+                "id": 63004,
+                "name": "Aqbaqay"
+            },
+            {
+                "id": 63005,
+                "name": "Chu"
+            },
+            {
+                "id": 63006,
+                "name": "Georgiyevka"
+            },
+            {
+                "id": 63007,
+                "name": "Granitogorsk"
+            },
+            {
+                "id": 63008,
+                "name": "Karatau"
+            },
+            {
+                "id": 63009,
+                "name": "Khantaū"
+            },
+            {
+                "id": 63010,
+                "name": "Lugovoy"
+            },
+            {
+                "id": 63011,
+                "name": "Lugovoye"
+            },
+            {
+                "id": 63012,
+                "name": "Merke"
+            },
+            {
+                "id": 63013,
+                "name": "Moyynkum"
+            },
+            {
+                "id": 63014,
+                "name": "Mynaral"
+            },
+            {
+                "id": 63015,
+                "name": "Oytal"
+            },
+            {
+                "id": 63016,
+                "name": "Sarykemer"
+            },
+            {
+                "id": 63017,
+                "name": "Shyghanaq"
+            },
+            {
+                "id": 63018,
+                "name": "Taraz"
+            },
+            {
+                "id": 63019,
+                "name": "Zhangatas"
+            }
+        ]
+    },
+    {
+        "id": 1944,
+        "name": "Karaganda Region",
+        "cities": [
+            {
+                "id": 63020,
+                "name": "Abay"
+            },
+            {
+                "id": 63021,
+                "name": "Abay Qalasy"
+            },
+            {
+                "id": 63022,
+                "name": "Aksu-Ayuly"
+            },
+            {
+                "id": 63023,
+                "name": "Aktas"
+            },
+            {
+                "id": 63024,
+                "name": "Aktau"
+            },
+            {
+                "id": 63025,
+                "name": "Aktogay"
+            },
+            {
+                "id": 63026,
+                "name": "Aqadyr"
+            },
+            {
+                "id": 63027,
+                "name": "Aqshataū"
+            },
+            {
+                "id": 63028,
+                "name": "Aqtoghay Aūdany"
+            },
+            {
+                "id": 63029,
+                "name": "Atasū"
+            },
+            {
+                "id": 63030,
+                "name": "Balqash"
+            },
+            {
+                "id": 63031,
+                "name": "Bukhar-Zhyrau"
+            },
+            {
+                "id": 63032,
+                "name": "Dolinka"
+            },
+            {
+                "id": 63033,
+                "name": "Karagandy"
+            },
+            {
+                "id": 63034,
+                "name": "Kīevka"
+            },
+            {
+                "id": 63035,
+                "name": "Koktal"
+            },
+            {
+                "id": 63036,
+                "name": "Kushoky"
+            },
+            {
+                "id": 63037,
+                "name": "Kyzylzhar"
+            },
+            {
+                "id": 63038,
+                "name": "Moyynty"
+            },
+            {
+                "id": 63039,
+                "name": "Novodolinskiy"
+            },
+            {
+                "id": 63040,
+                "name": "Osakarovka"
+            },
+            {
+                "id": 63041,
+                "name": "Prigorodnoye"
+            },
+            {
+                "id": 63042,
+                "name": "Priozersk"
+            },
+            {
+                "id": 63043,
+                "name": "Qarazhal"
+            },
+            {
+                "id": 63044,
+                "name": "Qarqaraly"
+            },
+            {
+                "id": 63045,
+                "name": "Saryshaghan"
+            },
+            {
+                "id": 63046,
+                "name": "Sayaq"
+            },
+            {
+                "id": 63047,
+                "name": "Shakhan"
+            },
+            {
+                "id": 63048,
+                "name": "Shakhtinsk"
+            },
+            {
+                "id": 63049,
+                "name": "Shashūbay"
+            },
+            {
+                "id": 63050,
+                "name": "Shubarköl"
+            },
+            {
+                "id": 63051,
+                "name": "Soran"
+            },
+            {
+                "id": 63052,
+                "name": "Temirtau"
+            },
+            {
+                "id": 63053,
+                "name": "Tokarevka"
+            },
+            {
+                "id": 63054,
+                "name": "Verkhniye Kayrakty"
+            },
+            {
+                "id": 63055,
+                "name": "Zhambyl"
+            },
+            {
+                "id": 63056,
+                "name": "Zharyk"
+            },
+            {
+                "id": 63057,
+                "name": "Zhezqazghan"
+            }
+        ]
+    },
+    {
+        "id": 1945,
+        "name": "Kostanay Region",
+        "cities": [
+            {
+                "id": 63058,
+                "name": "Arkalyk"
+            },
+            {
+                "id": 63059,
+                "name": "Ayat"
+            },
+            {
+                "id": 63060,
+                "name": "Borovskoy"
+            },
+            {
+                "id": 63061,
+                "name": "Dzhetygara"
+            },
+            {
+                "id": 63062,
+                "name": "Fyodorovka"
+            },
+            {
+                "id": 63063,
+                "name": "Karasu"
+            },
+            {
+                "id": 63064,
+                "name": "Komsomolets"
+            },
+            {
+                "id": 63065,
+                "name": "Kostanay"
+            },
+            {
+                "id": 63066,
+                "name": "Lisakovsk"
+            },
+            {
+                "id": 63067,
+                "name": "Ordzhonikidze"
+            },
+            {
+                "id": 63068,
+                "name": "Qashar"
+            },
+            {
+                "id": 63069,
+                "name": "Qusmuryn"
+            },
+            {
+                "id": 63070,
+                "name": "Rudnyy"
+            },
+            {
+                "id": 63071,
+                "name": "Tobol"
+            },
+            {
+                "id": 63072,
+                "name": "Torghay"
+            },
+            {
+                "id": 63073,
+                "name": "Troyebratskiy"
+            }
+        ]
+    },
+    {
+        "id": 1946,
+        "name": "Kyzylorda Region",
+        "cities": [
+            {
+                "id": 63074,
+                "name": "Aral"
+            },
+            {
+                "id": 63075,
+                "name": "Ayteke Bi"
+            },
+            {
+                "id": 63076,
+                "name": "Belköl"
+            },
+            {
+                "id": 63077,
+                "name": "Dzhalagash"
+            },
+            {
+                "id": 63078,
+                "name": "Kyzylorda"
+            },
+            {
+                "id": 63079,
+                "name": "Qazaly"
+            },
+            {
+                "id": 63080,
+                "name": "Sekseūil"
+            },
+            {
+                "id": 63081,
+                "name": "Shalqīya"
+            },
+            {
+                "id": 63082,
+                "name": "Shīeli"
+            },
+            {
+                "id": 63083,
+                "name": "Tasböget"
+            },
+            {
+                "id": 63084,
+                "name": "Terenozek"
+            },
+            {
+                "id": 63085,
+                "name": "Yanykurgan"
+            },
+            {
+                "id": 63086,
+                "name": "Zhosaly"
+            }
+        ]
+    },
+    {
+        "id": 1947,
+        "name": "Mangystau Region",
+        "cities": [
+            {
+                "id": 63087,
+                "name": "Aktau"
+            },
+            {
+                "id": 63088,
+                "name": "Baūtīno"
+            },
+            {
+                "id": 63089,
+                "name": "Beyneu"
+            },
+            {
+                "id": 63090,
+                "name": "Fort-Shevchenko"
+            },
+            {
+                "id": 63091,
+                "name": "Munayshy"
+            },
+            {
+                "id": 63092,
+                "name": "Ömirzaq"
+            },
+            {
+                "id": 63093,
+                "name": "Sayötesh"
+            },
+            {
+                "id": 63094,
+                "name": "Shetpe"
+            },
+            {
+                "id": 63095,
+                "name": "Taūshyq"
+            },
+            {
+                "id": 63096,
+                "name": "Yeraliyev"
+            },
+            {
+                "id": 63097,
+                "name": "Zhanaozen"
+            },
+            {
+                "id": 63098,
+                "name": "Zhetibay"
+            }
+        ]
+    },
+    {
+        "id": 1948,
+        "name": "North Kazakhstan Region",
+        "cities": [
+            {
+                "id": 63099,
+                "name": "Birlestik"
+            },
+            {
+                "id": 63100,
+                "name": "Bishkul"
+            },
+            {
+                "id": 63101,
+                "name": "Bulayevo"
+            },
+            {
+                "id": 63102,
+                "name": "Būrabay"
+            },
+            {
+                "id": 63103,
+                "name": "Kzyltu"
+            },
+            {
+                "id": 63104,
+                "name": "Novoishimskiy"
+            },
+            {
+                "id": 63105,
+                "name": "Petropavl"
+            },
+            {
+                "id": 63106,
+                "name": "Sergeyevka"
+            },
+            {
+                "id": 63107,
+                "name": "Smirnovo"
+            },
+            {
+                "id": 63108,
+                "name": "Taiynsha"
+            },
+            {
+                "id": 63109,
+                "name": "Talshik"
+            },
+            {
+                "id": 63110,
+                "name": "Timiryazevo"
+            },
+            {
+                "id": 63111,
+                "name": "Volodarskoye"
+            },
+            {
+                "id": 63112,
+                "name": "Yavlenka"
+            }
+        ]
+    },
+    {
+        "id": 1949,
+        "name": "Nur-Sultan",
+        "cities": [
+            {
+                "id": 63113,
+                "name": "Nur-Sultan"
+            }
+        ]
+    },
+    {
+        "id": 1950,
+        "name": "Pavlodar Region",
+        "cities": [
+            {
+                "id": 63114,
+                "name": "Aksu"
+            },
+            {
+                "id": 63115,
+                "name": "Bayanaul"
+            },
+            {
+                "id": 63116,
+                "name": "Belogor’ye"
+            },
+            {
+                "id": 63117,
+                "name": "Ekibastuz"
+            },
+            {
+                "id": 63118,
+                "name": "Irtyshsk"
+            },
+            {
+                "id": 63119,
+                "name": "Kalkaman"
+            },
+            {
+                "id": 63120,
+                "name": "Leninskiy"
+            },
+            {
+                "id": 63121,
+                "name": "Mayqayyng"
+            },
+            {
+                "id": 63122,
+                "name": "Pavlodar"
+            },
+            {
+                "id": 63123,
+                "name": "Qashyr"
+            },
+            {
+                "id": 63124,
+                "name": "Zhelezinka"
+            }
+        ]
+    },
+    {
+        "id": 1951,
+        "name": "Turkestan Region",
+        "cities": [
+            {
+                "id": 63125,
+                "name": "Arys"
+            },
+            {
+                "id": 63126,
+                "name": "Ashchysay"
+            },
+            {
+                "id": 63127,
+                "name": "Asyqata"
+            },
+            {
+                "id": 63128,
+                "name": "Atakent"
+            },
+            {
+                "id": 63129,
+                "name": "Bayzhansay"
+            },
+            {
+                "id": 63130,
+                "name": "Belyye Vody"
+            },
+            {
+                "id": 63131,
+                "name": "Chardara"
+            },
+            {
+                "id": 63132,
+                "name": "Chayan"
+            },
+            {
+                "id": 63133,
+                "name": "Chulakkurgan"
+            },
+            {
+                "id": 63134,
+                "name": "Kantagi"
+            },
+            {
+                "id": 63135,
+                "name": "Kentau"
+            },
+            {
+                "id": 63136,
+                "name": "Kokterek"
+            },
+            {
+                "id": 63137,
+                "name": "Lenger"
+            },
+            {
+                "id": 63138,
+                "name": "Leninskoye"
+            },
+            {
+                "id": 63139,
+                "name": "Maqtaaral Aūdany"
+            },
+            {
+                "id": 63140,
+                "name": "Myrzakent"
+            },
+            {
+                "id": 63141,
+                "name": "Qogham"
+            },
+            {
+                "id": 63142,
+                "name": "Saryaghash"
+            },
+            {
+                "id": 63143,
+                "name": "Saryaghash Aūdany"
+            },
+            {
+                "id": 63144,
+                "name": "Sastobe"
+            },
+            {
+                "id": 63145,
+                "name": "Sozaq Aūdany"
+            },
+            {
+                "id": 63146,
+                "name": "Temirlanovka"
+            },
+            {
+                "id": 63147,
+                "name": "Turar Ryskulov"
+            },
+            {
+                "id": 63148,
+                "name": "Turkestan"
+            },
+            {
+                "id": 63149,
+                "name": "Tyul’kubas"
+            },
+            {
+                "id": 63150,
+                "name": "Zhabagly"
+            }
+        ]
+    },
+    {
+        "id": 1952,
+        "name": "West Kazakhstan Province",
+        "cities": [
+            {
+                "id": 63151,
+                "name": "Aqsay"
+            },
+            {
+                "id": 63152,
+                "name": "Burlin"
+            },
+            {
+                "id": 63153,
+                "name": "Chapaev"
+            },
+            {
+                "id": 63154,
+                "name": "Chingirlau"
+            },
+            {
+                "id": 63155,
+                "name": "Dzhambeyty"
+            },
+            {
+                "id": 63156,
+                "name": "Fedorovka"
+            },
+            {
+                "id": 63157,
+                "name": "Kaztalovka"
+            },
+            {
+                "id": 63158,
+                "name": "Krūgloozernoe"
+            },
+            {
+                "id": 63159,
+                "name": "Oral"
+            },
+            {
+                "id": 63160,
+                "name": "Peremetnoe"
+            },
+            {
+                "id": 63161,
+                "name": "Saykhin"
+            },
+            {
+                "id": 63162,
+                "name": "Tasqala"
+            },
+            {
+                "id": 63163,
+                "name": "Zhänibek"
+            }
+        ]
+    }
+]

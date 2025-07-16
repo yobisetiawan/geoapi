@@ -1,0 +1,277 @@
+[
+    {
+        "id": 2823,
+        "name": "Erongo Region",
+        "cities": [
+            {
+                "id": 74414,
+                "name": "Arandis"
+            },
+            {
+                "id": 74415,
+                "name": "Hentiesbaai"
+            },
+            {
+                "id": 74416,
+                "name": "Karibib"
+            },
+            {
+                "id": 74417,
+                "name": "Omaruru"
+            },
+            {
+                "id": 74418,
+                "name": "Otjimbingwe"
+            },
+            {
+                "id": 74419,
+                "name": "Swakopmund"
+            },
+            {
+                "id": 74420,
+                "name": "Swakopmund Constituency"
+            },
+            {
+                "id": 74421,
+                "name": "Usakos"
+            },
+            {
+                "id": 74422,
+                "name": "Walvis Bay"
+            }
+        ]
+    },
+    {
+        "id": 2824,
+        "name": "Hardap Region",
+        "cities": [
+            {
+                "id": 74423,
+                "name": "Aranos"
+            },
+            {
+                "id": 74424,
+                "name": "Hoachanas"
+            },
+            {
+                "id": 74425,
+                "name": "Maltahöhe"
+            },
+            {
+                "id": 74426,
+                "name": "Mariental"
+            },
+            {
+                "id": 74427,
+                "name": "Rehoboth"
+            }
+        ]
+    },
+    {
+        "id": 2825,
+        "name": "Karas Region",
+        "cities": [
+            {
+                "id": 74428,
+                "name": "Bethanie"
+            },
+            {
+                "id": 74429,
+                "name": "Karasburg"
+            },
+            {
+                "id": 74430,
+                "name": "Keetmanshoop"
+            },
+            {
+                "id": 74431,
+                "name": "Lüderitz"
+            },
+            {
+                "id": 74432,
+                "name": "Oranjemund"
+            },
+            {
+                "id": 74433,
+                "name": "Tses"
+            },
+            {
+                "id": 74434,
+                "name": "Warmbad"
+            }
+        ]
+    },
+    {
+        "id": 2826,
+        "name": "Kavango East Region",
+        "cities": [
+            {
+                "id": 74435,
+                "name": "Rundu"
+            }
+        ]
+    },
+    {
+        "id": 2827,
+        "name": "Kavango West Region",
+        "cities": []
+    },
+    {
+        "id": 2828,
+        "name": "Khomas Region",
+        "cities": [
+            {
+                "id": 74436,
+                "name": "Katutura"
+            },
+            {
+                "id": 74437,
+                "name": "Windhoek"
+            }
+        ]
+    },
+    {
+        "id": 2829,
+        "name": "Kunene Region",
+        "cities": [
+            {
+                "id": 74438,
+                "name": "Epupa Constituency"
+            },
+            {
+                "id": 74439,
+                "name": "Khorixas"
+            },
+            {
+                "id": 74440,
+                "name": "Khorixas Constituency"
+            },
+            {
+                "id": 74441,
+                "name": "Opuwo"
+            },
+            {
+                "id": 74442,
+                "name": "Opuwo Constituency"
+            },
+            {
+                "id": 74443,
+                "name": "Outjo"
+            },
+            {
+                "id": 74444,
+                "name": "Sesfontein Constituency"
+            }
+        ]
+    },
+    {
+        "id": 2830,
+        "name": "Ohangwena Region",
+        "cities": [
+            {
+                "id": 74445,
+                "name": "Oshikango"
+            }
+        ]
+    },
+    {
+        "id": 2831,
+        "name": "Omaheke Region",
+        "cities": [
+            {
+                "id": 74446,
+                "name": "Gobabis"
+            }
+        ]
+    },
+    {
+        "id": 2832,
+        "name": "Omusati Region",
+        "cities": [
+            {
+                "id": 74447,
+                "name": "Okahao"
+            },
+            {
+                "id": 74448,
+                "name": "Ongandjera"
+            },
+            {
+                "id": 74449,
+                "name": "Outapi"
+            }
+        ]
+    },
+    {
+        "id": 2833,
+        "name": "Oshana Region",
+        "cities": [
+            {
+                "id": 74450,
+                "name": "Ondangwa"
+            },
+            {
+                "id": 74451,
+                "name": "Ongwediva"
+            },
+            {
+                "id": 74452,
+                "name": "Oshakati"
+            }
+        ]
+    },
+    {
+        "id": 2834,
+        "name": "Oshikoto Region",
+        "cities": [
+            {
+                "id": 74453,
+                "name": "Omuthiya"
+            },
+            {
+                "id": 74454,
+                "name": "Tsumeb"
+            }
+        ]
+    },
+    {
+        "id": 2835,
+        "name": "Otjozondjupa Region",
+        "cities": [
+            {
+                "id": 74455,
+                "name": "Grootfontein"
+            },
+            {
+                "id": 74456,
+                "name": "Okahandja"
+            },
+            {
+                "id": 74457,
+                "name": "Okakarara"
+            },
+            {
+                "id": 74458,
+                "name": "Otavi"
+            },
+            {
+                "id": 74459,
+                "name": "Otjiwarongo"
+            }
+        ]
+    },
+    {
+        "id": 2836,
+        "name": "Zambezi Region",
+        "cities": [
+            {
+                "id": 74460,
+                "name": "Bagani"
+            },
+            {
+                "id": 74461,
+                "name": "Katima Mulilo"
+            }
+        ]
+    }
+]

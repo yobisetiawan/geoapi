@@ -1,0 +1,1340 @@
+[
+    {
+        "id": 2021,
+        "name": "Busan",
+        "cities": [
+            {
+                "id": 63392,
+                "name": "Buk-gu"
+            },
+            {
+                "id": 63393,
+                "name": "Busan"
+            },
+            {
+                "id": 63394,
+                "name": "Dongnae-gu"
+            },
+            {
+                "id": 63395,
+                "name": "Gangseo-gu"
+            },
+            {
+                "id": 63396,
+                "name": "Geumjeong-gu"
+            },
+            {
+                "id": 63397,
+                "name": "Gijang"
+            },
+            {
+                "id": 63398,
+                "name": "Gijang-gun"
+            },
+            {
+                "id": 63399,
+                "name": "Haeundae-gu"
+            },
+            {
+                "id": 63400,
+                "name": "Jung-gu"
+            },
+            {
+                "id": 63401,
+                "name": "Nam-gu"
+            },
+            {
+                "id": 63402,
+                "name": "Saha-gu"
+            },
+            {
+                "id": 63403,
+                "name": "Sasang-gu"
+            },
+            {
+                "id": 63404,
+                "name": "Seo-gu"
+            },
+            {
+                "id": 63405,
+                "name": "Suyeong-gu"
+            },
+            {
+                "id": 63406,
+                "name": "Yeongdo-gu"
+            }
+        ]
+    },
+    {
+        "id": 2022,
+        "name": "Daegu",
+        "cities": [
+            {
+                "id": 63407,
+                "name": "Daegu"
+            },
+            {
+                "id": 63408,
+                "name": "Dalseo-gu"
+            },
+            {
+                "id": 63409,
+                "name": "Dalseong-gun"
+            },
+            {
+                "id": 63410,
+                "name": "Dong-gu"
+            },
+            {
+                "id": 63411,
+                "name": "Hwawŏn"
+            },
+            {
+                "id": 63412,
+                "name": "Jung-gu"
+            },
+            {
+                "id": 63413,
+                "name": "Seo-gu"
+            },
+            {
+                "id": 63414,
+                "name": "Suseong-gu"
+            }
+        ]
+    },
+    {
+        "id": 2023,
+        "name": "Daejeon",
+        "cities": [
+            {
+                "id": 63415,
+                "name": "Daejeon"
+            },
+            {
+                "id": 63416,
+                "name": "Seo-gu"
+            },
+            {
+                "id": 63417,
+                "name": "Sintansin"
+            },
+            {
+                "id": 63418,
+                "name": "Songgangdong"
+            },
+            {
+                "id": 63419,
+                "name": "Yuseong-gu"
+            }
+        ]
+    },
+    {
+        "id": 2024,
+        "name": "Gangwon Province",
+        "cities": [
+            {
+                "id": 63420,
+                "name": "Cheorwon-gun"
+            },
+            {
+                "id": 63421,
+                "name": "Chuncheon"
+            },
+            {
+                "id": 63422,
+                "name": "Chuncheon-si"
+            },
+            {
+                "id": 63423,
+                "name": "Donghae-si"
+            },
+            {
+                "id": 63424,
+                "name": "Gangneung"
+            },
+            {
+                "id": 63425,
+                "name": "Gangneung-si"
+            },
+            {
+                "id": 63426,
+                "name": "Goseong-gun"
+            },
+            {
+                "id": 63427,
+                "name": "Hoengseong-gun"
+            },
+            {
+                "id": 63428,
+                "name": "Hongch’ŏn"
+            },
+            {
+                "id": 63429,
+                "name": "Hongcheon-gun"
+            },
+            {
+                "id": 63430,
+                "name": "Hwacheon"
+            },
+            {
+                "id": 63431,
+                "name": "Hwacheon-gun"
+            },
+            {
+                "id": 63432,
+                "name": "Inje-gun"
+            },
+            {
+                "id": 63433,
+                "name": "Jeongseon-gun"
+            },
+            {
+                "id": 63434,
+                "name": "Kosong"
+            },
+            {
+                "id": 63435,
+                "name": "Neietsu"
+            },
+            {
+                "id": 63436,
+                "name": "Pyeongchang"
+            },
+            {
+                "id": 63437,
+                "name": "Pyeongchang-gun"
+            },
+            {
+                "id": 63438,
+                "name": "Samcheok-si"
+            },
+            {
+                "id": 63439,
+                "name": "Santyoku"
+            },
+            {
+                "id": 63440,
+                "name": "Sokcho"
+            },
+            {
+                "id": 63441,
+                "name": "Sokcho-si"
+            },
+            {
+                "id": 63442,
+                "name": "T’aebaek"
+            },
+            {
+                "id": 63443,
+                "name": "Taebaek-si"
+            },
+            {
+                "id": 63444,
+                "name": "Tonghae"
+            },
+            {
+                "id": 63445,
+                "name": "Wŏnju"
+            },
+            {
+                "id": 63446,
+                "name": "Wonju-si"
+            },
+            {
+                "id": 63447,
+                "name": "Yanggu"
+            },
+            {
+                "id": 63448,
+                "name": "Yanggu-gun"
+            },
+            {
+                "id": 63449,
+                "name": "Yangyang-gun"
+            }
+        ]
+    },
+    {
+        "id": 2025,
+        "name": "Gwangju",
+        "cities": [
+            {
+                "id": 63450,
+                "name": "Gwangju"
+            },
+            {
+                "id": 63451,
+                "name": "Gwangsan-gu"
+            },
+            {
+                "id": 63452,
+                "name": "Masan"
+            }
+        ]
+    },
+    {
+        "id": 2026,
+        "name": "Gyeonggi Province",
+        "cities": [
+            {
+                "id": 63453,
+                "name": "Ansan-si"
+            },
+            {
+                "id": 63454,
+                "name": "Anseong"
+            },
+            {
+                "id": 63455,
+                "name": "Anyang-si"
+            },
+            {
+                "id": 63456,
+                "name": "Bucheon-si"
+            },
+            {
+                "id": 63457,
+                "name": "Dongducheon"
+            },
+            {
+                "id": 63458,
+                "name": "Gapyeong"
+            },
+            {
+                "id": 63459,
+                "name": "Gapyeong-gun"
+            },
+            {
+                "id": 63460,
+                "name": "Gimpo-si"
+            },
+            {
+                "id": 63461,
+                "name": "Goyang-si"
+            },
+            {
+                "id": 63462,
+                "name": "Gunpo-si"
+            },
+            {
+                "id": 63463,
+                "name": "Guri-si"
+            },
+            {
+                "id": 63464,
+                "name": "Gwacheon-si"
+            },
+            {
+                "id": 63465,
+                "name": "Gwangju"
+            },
+            {
+                "id": 63466,
+                "name": "Gwangju-si"
+            },
+            {
+                "id": 63467,
+                "name": "Gwangmyeong-si"
+            },
+            {
+                "id": 63468,
+                "name": "Hanam"
+            },
+            {
+                "id": 63469,
+                "name": "Hanam-si"
+            },
+            {
+                "id": 63470,
+                "name": "Hwado"
+            },
+            {
+                "id": 63471,
+                "name": "Hwaseong-si"
+            },
+            {
+                "id": 63472,
+                "name": "Icheon-si"
+            },
+            {
+                "id": 63473,
+                "name": "Kwangmyŏng"
+            },
+            {
+                "id": 63474,
+                "name": "Munsan"
+            },
+            {
+                "id": 63475,
+                "name": "Namyangju"
+            },
+            {
+                "id": 63476,
+                "name": "Namyangju-si"
+            },
+            {
+                "id": 63477,
+                "name": "Osan"
+            },
+            {
+                "id": 63478,
+                "name": "Osan-si"
+            },
+            {
+                "id": 63479,
+                "name": "Paju-si"
+            },
+            {
+                "id": 63480,
+                "name": "Pocheon-si"
+            },
+            {
+                "id": 63481,
+                "name": "Pubal"
+            },
+            {
+                "id": 63482,
+                "name": "Pyeongtaek"
+            },
+            {
+                "id": 63483,
+                "name": "Seongnam-si"
+            },
+            {
+                "id": 63484,
+                "name": "Siheung"
+            },
+            {
+                "id": 63485,
+                "name": "Suwon"
+            },
+            {
+                "id": 63486,
+                "name": "Uijeongbu-si"
+            },
+            {
+                "id": 63487,
+                "name": "Uiwang-si"
+            },
+            {
+                "id": 63488,
+                "name": "Wabu"
+            },
+            {
+                "id": 63489,
+                "name": "Yangju"
+            },
+            {
+                "id": 63490,
+                "name": "Yangju-si"
+            },
+            {
+                "id": 63491,
+                "name": "Yangp'yŏng"
+            },
+            {
+                "id": 63492,
+                "name": "Yangpyeong-gun"
+            },
+            {
+                "id": 63493,
+                "name": "Yeoju-si"
+            },
+            {
+                "id": 63494,
+                "name": "Yeoncheon-gun"
+            },
+            {
+                "id": 63495,
+                "name": "Yongin-si"
+            }
+        ]
+    },
+    {
+        "id": 2027,
+        "name": "Incheon",
+        "cities": [
+            {
+                "id": 63496,
+                "name": "Bupyeong-gu"
+            },
+            {
+                "id": 63497,
+                "name": "Incheon"
+            },
+            {
+                "id": 63498,
+                "name": "Michuhol"
+            },
+            {
+                "id": 63499,
+                "name": "Yeonsu-gu"
+            }
+        ]
+    },
+    {
+        "id": 2028,
+        "name": "Jeju",
+        "cities": [
+            {
+                "id": 63500,
+                "name": "Gaigeturi"
+            },
+            {
+                "id": 63501,
+                "name": "Jeju City"
+            },
+            {
+                "id": 63502,
+                "name": "Jeju-si"
+            },
+            {
+                "id": 63503,
+                "name": "Seogwipo"
+            }
+        ]
+    },
+    {
+        "id": 2029,
+        "name": "North Chungcheong Province",
+        "cities": [
+            {
+                "id": 63504,
+                "name": "Boeun-gun"
+            },
+            {
+                "id": 63505,
+                "name": "Cheongju-si"
+            },
+            {
+                "id": 63506,
+                "name": "Chinch'ŏn"
+            },
+            {
+                "id": 63507,
+                "name": "Chungju-si"
+            },
+            {
+                "id": 63508,
+                "name": "Danyang-gun"
+            },
+            {
+                "id": 63509,
+                "name": "Eumseong-gun"
+            },
+            {
+                "id": 63510,
+                "name": "Goesan-gun"
+            },
+            {
+                "id": 63511,
+                "name": "Jecheon-si"
+            },
+            {
+                "id": 63512,
+                "name": "Jeungpyeong-gun"
+            },
+            {
+                "id": 63513,
+                "name": "Jincheon-gun"
+            },
+            {
+                "id": 63514,
+                "name": "Koesan"
+            },
+            {
+                "id": 63515,
+                "name": "Okcheon"
+            },
+            {
+                "id": 63516,
+                "name": "Okcheon-gun"
+            },
+            {
+                "id": 63517,
+                "name": "Yeongdong"
+            },
+            {
+                "id": 63518,
+                "name": "Yeongdong-gun"
+            }
+        ]
+    },
+    {
+        "id": 2030,
+        "name": "North Gyeongsang Province",
+        "cities": [
+            {
+                "id": 63519,
+                "name": "Andong"
+            },
+            {
+                "id": 63520,
+                "name": "Andong-si"
+            },
+            {
+                "id": 63521,
+                "name": "Bonghwa-gun"
+            },
+            {
+                "id": 63522,
+                "name": "Cheongdo-gun"
+            },
+            {
+                "id": 63523,
+                "name": "Cheongsong gun"
+            },
+            {
+                "id": 63524,
+                "name": "Cheongsong-gun"
+            },
+            {
+                "id": 63525,
+                "name": "Chilgok-gun"
+            },
+            {
+                "id": 63526,
+                "name": "Eisen"
+            },
+            {
+                "id": 63527,
+                "name": "Gimcheon"
+            },
+            {
+                "id": 63528,
+                "name": "Gimcheon-si"
+            },
+            {
+                "id": 63529,
+                "name": "Goryeong-gun"
+            },
+            {
+                "id": 63530,
+                "name": "Gumi-si"
+            },
+            {
+                "id": 63531,
+                "name": "Gunwi-gun"
+            },
+            {
+                "id": 63532,
+                "name": "Gyeongju"
+            },
+            {
+                "id": 63533,
+                "name": "Gyeongsan-si"
+            },
+            {
+                "id": 63534,
+                "name": "Hayang"
+            },
+            {
+                "id": 63535,
+                "name": "Heunghae"
+            },
+            {
+                "id": 63536,
+                "name": "Jenzan"
+            },
+            {
+                "id": 63537,
+                "name": "Kunwi"
+            },
+            {
+                "id": 63538,
+                "name": "Mungyeong"
+            },
+            {
+                "id": 63539,
+                "name": "Mungyeong-si"
+            },
+            {
+                "id": 63540,
+                "name": "Pohang"
+            },
+            {
+                "id": 63541,
+                "name": "Pohang-si"
+            },
+            {
+                "id": 63542,
+                "name": "Sangju"
+            },
+            {
+                "id": 63543,
+                "name": "Seongju-gun"
+            },
+            {
+                "id": 63544,
+                "name": "Uiseong-gun"
+            },
+            {
+                "id": 63545,
+                "name": "Uljin-gun"
+            },
+            {
+                "id": 63546,
+                "name": "Ulleung-gun"
+            },
+            {
+                "id": 63547,
+                "name": "Waegwan"
+            },
+            {
+                "id": 63548,
+                "name": "Yecheon-gun"
+            },
+            {
+                "id": 63549,
+                "name": "Yeongcheon-si"
+            },
+            {
+                "id": 63550,
+                "name": "Yeongdeok-gun"
+            },
+            {
+                "id": 63551,
+                "name": "Yeongju-si"
+            },
+            {
+                "id": 63552,
+                "name": "Yeongyang-gun"
+            },
+            {
+                "id": 63553,
+                "name": "Yeonil"
+            }
+        ]
+    },
+    {
+        "id": 2031,
+        "name": "North Jeolla Province",
+        "cities": [
+            {
+                "id": 63554,
+                "name": "Buan-gun"
+            },
+            {
+                "id": 63555,
+                "name": "Changsu"
+            },
+            {
+                "id": 63556,
+                "name": "Gimje-si"
+            },
+            {
+                "id": 63557,
+                "name": "Gochang-gun"
+            },
+            {
+                "id": 63558,
+                "name": "Gunsan"
+            },
+            {
+                "id": 63559,
+                "name": "Gunsan-si"
+            },
+            {
+                "id": 63560,
+                "name": "Iksan"
+            },
+            {
+                "id": 63561,
+                "name": "Iksan-si"
+            },
+            {
+                "id": 63562,
+                "name": "Imsil"
+            },
+            {
+                "id": 63563,
+                "name": "Imsil-gun"
+            },
+            {
+                "id": 63564,
+                "name": "Jangsu-gun"
+            },
+            {
+                "id": 63565,
+                "name": "Jeongeup"
+            },
+            {
+                "id": 63566,
+                "name": "Jeongeup-si"
+            },
+            {
+                "id": 63567,
+                "name": "Jeonju"
+            },
+            {
+                "id": 63568,
+                "name": "Jeonju-si"
+            },
+            {
+                "id": 63569,
+                "name": "Jinan-gun"
+            },
+            {
+                "id": 63570,
+                "name": "Kimje"
+            },
+            {
+                "id": 63571,
+                "name": "Koch'ang"
+            },
+            {
+                "id": 63572,
+                "name": "Muju-gun"
+            },
+            {
+                "id": 63573,
+                "name": "Namwon"
+            },
+            {
+                "id": 63574,
+                "name": "Nangen"
+            },
+            {
+                "id": 63575,
+                "name": "Puan"
+            },
+            {
+                "id": 63576,
+                "name": "Sunchang-gun"
+            },
+            {
+                "id": 63577,
+                "name": "Wanju"
+            }
+        ]
+    },
+    {
+        "id": 2032,
+        "name": "Sejong City",
+        "cities": [
+            {
+                "id": 63578,
+                "name": "Sejong"
+            }
+        ]
+    },
+    {
+        "id": 2033,
+        "name": "Seoul",
+        "cities": [
+            {
+                "id": 63579,
+                "name": "Dobong-gu"
+            },
+            {
+                "id": 63580,
+                "name": "Dongdaemun-gu"
+            },
+            {
+                "id": 63581,
+                "name": "Dongjak-gu"
+            },
+            {
+                "id": 63582,
+                "name": "Eunpyeong-gu"
+            },
+            {
+                "id": 63583,
+                "name": "Gangbuk-gu"
+            },
+            {
+                "id": 63584,
+                "name": "Gangdong-gu"
+            },
+            {
+                "id": 63585,
+                "name": "Gangnam-gu"
+            },
+            {
+                "id": 63586,
+                "name": "Gangseo-gu"
+            },
+            {
+                "id": 63587,
+                "name": "Geumcheon-gu"
+            },
+            {
+                "id": 63588,
+                "name": "Guro-gu"
+            },
+            {
+                "id": 63589,
+                "name": "Gwanak-gu"
+            },
+            {
+                "id": 63590,
+                "name": "Gwangjin-gu"
+            },
+            {
+                "id": 63591,
+                "name": "Jongno-gu"
+            },
+            {
+                "id": 63592,
+                "name": "Jung-gu"
+            },
+            {
+                "id": 63593,
+                "name": "Jungnang-gu"
+            },
+            {
+                "id": 63594,
+                "name": "Mapo-gu"
+            },
+            {
+                "id": 63595,
+                "name": "Nowon-gu"
+            },
+            {
+                "id": 63596,
+                "name": "Seocho-gu"
+            },
+            {
+                "id": 63597,
+                "name": "Seodaemun-gu"
+            },
+            {
+                "id": 63598,
+                "name": "Seongbuk-gu"
+            },
+            {
+                "id": 63599,
+                "name": "Seongdong-gu"
+            },
+            {
+                "id": 63600,
+                "name": "Seoul"
+            },
+            {
+                "id": 63601,
+                "name": "Songpa-gu"
+            },
+            {
+                "id": 63602,
+                "name": "Yangcheon-gu"
+            },
+            {
+                "id": 63603,
+                "name": "Yeongdeungpo-gu"
+            },
+            {
+                "id": 63604,
+                "name": "Yongsan-dong"
+            },
+            {
+                "id": 63605,
+                "name": "Yongsan-gu"
+            }
+        ]
+    },
+    {
+        "id": 2034,
+        "name": "South Chungcheong Province",
+        "cities": [
+            {
+                "id": 63606,
+                "name": "Asan"
+            },
+            {
+                "id": 63607,
+                "name": "Asan-si"
+            },
+            {
+                "id": 63608,
+                "name": "Boryeong"
+            },
+            {
+                "id": 63609,
+                "name": "Boryeong-si"
+            },
+            {
+                "id": 63610,
+                "name": "Buyeo"
+            },
+            {
+                "id": 63611,
+                "name": "Buyeo-gun"
+            },
+            {
+                "id": 63612,
+                "name": "Cheonan"
+            },
+            {
+                "id": 63613,
+                "name": "Cheonan-si"
+            },
+            {
+                "id": 63614,
+                "name": "Cheongyang-gun"
+            },
+            {
+                "id": 63615,
+                "name": "Geumsan-gun"
+            },
+            {
+                "id": 63616,
+                "name": "Gongju"
+            },
+            {
+                "id": 63617,
+                "name": "Gongju-si"
+            },
+            {
+                "id": 63618,
+                "name": "Gyeryong-si"
+            },
+            {
+                "id": 63619,
+                "name": "Hongseong"
+            },
+            {
+                "id": 63620,
+                "name": "Hongseong-gun"
+            },
+            {
+                "id": 63621,
+                "name": "Kinzan"
+            },
+            {
+                "id": 63622,
+                "name": "Nonsan"
+            },
+            {
+                "id": 63623,
+                "name": "Nonsan-si"
+            },
+            {
+                "id": 63624,
+                "name": "Seocheon-gun"
+            },
+            {
+                "id": 63625,
+                "name": "Seonghwan"
+            },
+            {
+                "id": 63626,
+                "name": "Seosan"
+            },
+            {
+                "id": 63627,
+                "name": "Seosan-si"
+            },
+            {
+                "id": 63628,
+                "name": "Taean-gun"
+            },
+            {
+                "id": 63629,
+                "name": "Taesal-li"
+            },
+            {
+                "id": 63630,
+                "name": "Tangjin"
+            },
+            {
+                "id": 63631,
+                "name": "Yesan"
+            },
+            {
+                "id": 63632,
+                "name": "Yesan-gun"
+            },
+            {
+                "id": 63633,
+                "name": "Yŏnmu"
+            }
+        ]
+    },
+    {
+        "id": 2035,
+        "name": "South Gyeongsang Province",
+        "cities": [
+            {
+                "id": 63634,
+                "name": "Changnyeong"
+            },
+            {
+                "id": 63635,
+                "name": "Changnyeong-gun"
+            },
+            {
+                "id": 63636,
+                "name": "Changwon"
+            },
+            {
+                "id": 63637,
+                "name": "Changwon-si"
+            },
+            {
+                "id": 63638,
+                "name": "Chinju"
+            },
+            {
+                "id": 63639,
+                "name": "Geochang-gun"
+            },
+            {
+                "id": 63640,
+                "name": "Geoje-si"
+            },
+            {
+                "id": 63641,
+                "name": "Gimhae-si"
+            },
+            {
+                "id": 63642,
+                "name": "Goseong"
+            },
+            {
+                "id": 63643,
+                "name": "Goseong-gun"
+            },
+            {
+                "id": 63644,
+                "name": "Hadong-gun"
+            },
+            {
+                "id": 63645,
+                "name": "Haman-gun"
+            },
+            {
+                "id": 63646,
+                "name": "Hapcheon-gun"
+            },
+            {
+                "id": 63647,
+                "name": "Jinju-si"
+            },
+            {
+                "id": 63648,
+                "name": "Kimhae"
+            },
+            {
+                "id": 63649,
+                "name": "Kyosai"
+            },
+            {
+                "id": 63650,
+                "name": "Miryang"
+            },
+            {
+                "id": 63651,
+                "name": "Miryang-si"
+            },
+            {
+                "id": 63652,
+                "name": "Naesŏ"
+            },
+            {
+                "id": 63653,
+                "name": "Namhae-gun"
+            },
+            {
+                "id": 63654,
+                "name": "Sacheon-si"
+            },
+            {
+                "id": 63655,
+                "name": "Sancheong-gun"
+            },
+            {
+                "id": 63656,
+                "name": "Sinhyeon"
+            },
+            {
+                "id": 63657,
+                "name": "Uiryeong-gun"
+            },
+            {
+                "id": 63658,
+                "name": "Ungsang"
+            },
+            {
+                "id": 63659,
+                "name": "Yangsan"
+            }
+        ]
+    },
+    {
+        "id": 2036,
+        "name": "South Jeolla Province",
+        "cities": [
+            {
+                "id": 63660,
+                "name": "Beolgyo"
+            },
+            {
+                "id": 63661,
+                "name": "Boseong-gun"
+            },
+            {
+                "id": 63662,
+                "name": "Damyang-gun"
+            },
+            {
+                "id": 63663,
+                "name": "Gangjin-gun"
+            },
+            {
+                "id": 63664,
+                "name": "Goheung-gun"
+            },
+            {
+                "id": 63665,
+                "name": "Gokseong-gun"
+            },
+            {
+                "id": 63666,
+                "name": "Gurye-gun"
+            },
+            {
+                "id": 63667,
+                "name": "Gwangyang"
+            },
+            {
+                "id": 63668,
+                "name": "Gwangyang-si"
+            },
+            {
+                "id": 63669,
+                "name": "Haenam"
+            },
+            {
+                "id": 63670,
+                "name": "Haenam-gun"
+            },
+            {
+                "id": 63671,
+                "name": "Hampyeong-gun"
+            },
+            {
+                "id": 63672,
+                "name": "Hwasun"
+            },
+            {
+                "id": 63673,
+                "name": "Hwasun-gun"
+            },
+            {
+                "id": 63674,
+                "name": "Jangheung-gun"
+            },
+            {
+                "id": 63675,
+                "name": "Jangseong-gun"
+            },
+            {
+                "id": 63676,
+                "name": "Jindo-gun"
+            },
+            {
+                "id": 63677,
+                "name": "Kurye"
+            },
+            {
+                "id": 63678,
+                "name": "Kwangyang"
+            },
+            {
+                "id": 63679,
+                "name": "Mokpo"
+            },
+            {
+                "id": 63680,
+                "name": "Mokpo-si"
+            },
+            {
+                "id": 63681,
+                "name": "Muan"
+            },
+            {
+                "id": 63682,
+                "name": "Muan-gun"
+            },
+            {
+                "id": 63683,
+                "name": "Naju"
+            },
+            {
+                "id": 63684,
+                "name": "Naju-si"
+            },
+            {
+                "id": 63685,
+                "name": "Sinan"
+            },
+            {
+                "id": 63686,
+                "name": "Sinan-gun"
+            },
+            {
+                "id": 63687,
+                "name": "Suncheon"
+            },
+            {
+                "id": 63688,
+                "name": "Suncheon-si"
+            },
+            {
+                "id": 63689,
+                "name": "Wando-gun"
+            },
+            {
+                "id": 63690,
+                "name": "Yeongam"
+            },
+            {
+                "id": 63691,
+                "name": "Yeongam-gun"
+            },
+            {
+                "id": 63692,
+                "name": "Yeonggwang"
+            },
+            {
+                "id": 63693,
+                "name": "Yeonggwang-gun"
+            },
+            {
+                "id": 63694,
+                "name": "Yeosu"
+            }
+        ]
+    },
+    {
+        "id": 2037,
+        "name": "Ulsan",
+        "cities": [
+            {
+                "id": 63695,
+                "name": "Buk-gu"
+            },
+            {
+                "id": 63696,
+                "name": "Dong-gu"
+            },
+            {
+                "id": 63697,
+                "name": "Jung-gu"
+            },
+            {
+                "id": 63698,
+                "name": "Nam-gu"
+            },
+            {
+                "id": 63699,
+                "name": "Ulju-gun"
+            },
+            {
+                "id": 63700,
+                "name": "Ulsan"
+            }
+        ]
+    }
+]

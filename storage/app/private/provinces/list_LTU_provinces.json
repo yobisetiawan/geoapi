@@ -1,0 +1,949 @@
+[
+    {
+        "id": 2262,
+        "name": "Akmenė District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2263,
+        "name": "Alytus City Municipality",
+        "cities": [
+            {
+                "id": 64098,
+                "name": "Alytaus rajonas"
+            },
+            {
+                "id": 64099,
+                "name": "Alytus"
+            },
+            {
+                "id": 64100,
+                "name": "Daugai"
+            },
+            {
+                "id": 64101,
+                "name": "Druskininkai"
+            },
+            {
+                "id": 64102,
+                "name": "Lazdijai"
+            },
+            {
+                "id": 64103,
+                "name": "Simnas"
+            },
+            {
+                "id": 64104,
+                "name": "Varėna"
+            },
+            {
+                "id": 64105,
+                "name": "Veisiejai"
+            }
+        ]
+    },
+    {
+        "id": 2264,
+        "name": "Alytus County",
+        "cities": []
+    },
+    {
+        "id": 2265,
+        "name": "Alytus District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2266,
+        "name": "Birštonas Municipality",
+        "cities": []
+    },
+    {
+        "id": 2267,
+        "name": "Biržai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2268,
+        "name": "Druskininkai municipality",
+        "cities": []
+    },
+    {
+        "id": 2269,
+        "name": "Elektrėnai municipality",
+        "cities": []
+    },
+    {
+        "id": 2270,
+        "name": "Ignalina District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2271,
+        "name": "Jonava District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2272,
+        "name": "Joniškis District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2273,
+        "name": "Jurbarkas District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2274,
+        "name": "Kaišiadorys District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2275,
+        "name": "Kalvarija municipality",
+        "cities": []
+    },
+    {
+        "id": 2276,
+        "name": "Kaunas City Municipality",
+        "cities": [
+            {
+                "id": 64106,
+                "name": "Akademija (Kaunas)"
+            },
+            {
+                "id": 64107,
+                "name": "Aleksotas"
+            },
+            {
+                "id": 64108,
+                "name": "Ariogala"
+            },
+            {
+                "id": 64109,
+                "name": "Birštonas"
+            },
+            {
+                "id": 64110,
+                "name": "Dainava (Kaunas)"
+            },
+            {
+                "id": 64111,
+                "name": "Eiguliai"
+            },
+            {
+                "id": 64112,
+                "name": "Ežerėlis"
+            },
+            {
+                "id": 64113,
+                "name": "Garliava"
+            },
+            {
+                "id": 64114,
+                "name": "Jieznas"
+            },
+            {
+                "id": 64115,
+                "name": "Jonava"
+            },
+            {
+                "id": 64116,
+                "name": "Kaišiadorys"
+            },
+            {
+                "id": 64117,
+                "name": "Karmėlava"
+            },
+            {
+                "id": 64118,
+                "name": "Kaunas"
+            },
+            {
+                "id": 64119,
+                "name": "Kauno rajonas"
+            },
+            {
+                "id": 64120,
+                "name": "Kėdainiai"
+            },
+            {
+                "id": 64121,
+                "name": "Kulautuva"
+            },
+            {
+                "id": 64122,
+                "name": "Mastaiciai"
+            },
+            {
+                "id": 64123,
+                "name": "Prienai"
+            },
+            {
+                "id": 64124,
+                "name": "Ramučiai"
+            },
+            {
+                "id": 64125,
+                "name": "Raseiniai"
+            },
+            {
+                "id": 64126,
+                "name": "Sargėnai"
+            },
+            {
+                "id": 64127,
+                "name": "Šilainiai"
+            },
+            {
+                "id": 64128,
+                "name": "Vilkija"
+            },
+            {
+                "id": 64129,
+                "name": "Žiežmariai"
+            }
+        ]
+    },
+    {
+        "id": 2277,
+        "name": "Kaunas County",
+        "cities": []
+    },
+    {
+        "id": 2278,
+        "name": "Kaunas District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2279,
+        "name": "Kazlų Rūda municipality",
+        "cities": []
+    },
+    {
+        "id": 2280,
+        "name": "Kėdainiai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2281,
+        "name": "Kelmė District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2282,
+        "name": "Klaipeda City Municipality",
+        "cities": []
+    },
+    {
+        "id": 2283,
+        "name": "Klaipėda County",
+        "cities": []
+    },
+    {
+        "id": 2284,
+        "name": "Klaipėda District Municipality",
+        "cities": [
+            {
+                "id": 64130,
+                "name": "Gargždai"
+            },
+            {
+                "id": 64131,
+                "name": "Klaipėda"
+            },
+            {
+                "id": 64132,
+                "name": "Klaipėdos rajonas"
+            },
+            {
+                "id": 64133,
+                "name": "Kretinga"
+            },
+            {
+                "id": 64134,
+                "name": "Neringa"
+            },
+            {
+                "id": 64135,
+                "name": "Nida"
+            },
+            {
+                "id": 64136,
+                "name": "Palanga"
+            },
+            {
+                "id": 64137,
+                "name": "Priekulė"
+            },
+            {
+                "id": 64138,
+                "name": "Rusnė"
+            },
+            {
+                "id": 64139,
+                "name": "Salantai"
+            },
+            {
+                "id": 64140,
+                "name": "Silute"
+            },
+            {
+                "id": 64141,
+                "name": "Šilutė"
+            },
+            {
+                "id": 64142,
+                "name": "Skuodas"
+            },
+            {
+                "id": 64143,
+                "name": "Šventoji"
+            },
+            {
+                "id": 64144,
+                "name": "Žemaičių Naumiestis"
+            }
+        ]
+    },
+    {
+        "id": 2285,
+        "name": "Kretinga District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2286,
+        "name": "Kupiškis District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2287,
+        "name": "Lazdijai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2288,
+        "name": "Marijampolė County",
+        "cities": []
+    },
+    {
+        "id": 2289,
+        "name": "Marijampolė Municipality",
+        "cities": [
+            {
+                "id": 64145,
+                "name": "Gelgaudiškis"
+            },
+            {
+                "id": 64146,
+                "name": "Kalvarija"
+            },
+            {
+                "id": 64147,
+                "name": "Kalvarija Municipality"
+            },
+            {
+                "id": 64148,
+                "name": "Kazlų Rūda"
+            },
+            {
+                "id": 64149,
+                "name": "Kazlų Rūda Municipality"
+            },
+            {
+                "id": 64150,
+                "name": "Kudirkos Naumiestis"
+            },
+            {
+                "id": 64151,
+                "name": "Kybartai"
+            },
+            {
+                "id": 64152,
+                "name": "Marijampolė"
+            },
+            {
+                "id": 64153,
+                "name": "Marijampolė Municipality"
+            },
+            {
+                "id": 64154,
+                "name": "Sakiai"
+            },
+            {
+                "id": 64155,
+                "name": "Šakiai"
+            },
+            {
+                "id": 64156,
+                "name": "Vilkaviskis"
+            },
+            {
+                "id": 64157,
+                "name": "Vilkaviškis District Municipality"
+            },
+            {
+                "id": 64158,
+                "name": "Virbalis"
+            }
+        ]
+    },
+    {
+        "id": 2290,
+        "name": "Mažeikiai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2291,
+        "name": "Molėtai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2292,
+        "name": "Neringa Municipality",
+        "cities": []
+    },
+    {
+        "id": 2293,
+        "name": "Pagėgiai municipality",
+        "cities": []
+    },
+    {
+        "id": 2294,
+        "name": "Pakruojis District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2295,
+        "name": "Palanga City Municipality",
+        "cities": []
+    },
+    {
+        "id": 2296,
+        "name": "Panevėžys City Municipality",
+        "cities": []
+    },
+    {
+        "id": 2297,
+        "name": "Panevėžys County",
+        "cities": []
+    },
+    {
+        "id": 2298,
+        "name": "Panevėžys District Municipality",
+        "cities": [
+            {
+                "id": 64159,
+                "name": "Birzai"
+            },
+            {
+                "id": 64160,
+                "name": "Biržai"
+            },
+            {
+                "id": 64161,
+                "name": "Juodupė"
+            },
+            {
+                "id": 64162,
+                "name": "Kupiskis"
+            },
+            {
+                "id": 64163,
+                "name": "Kupiškis"
+            },
+            {
+                "id": 64164,
+                "name": "Obeliai"
+            },
+            {
+                "id": 64165,
+                "name": "Panevėžys"
+            },
+            {
+                "id": 64166,
+                "name": "Panevėžys City"
+            },
+            {
+                "id": 64167,
+                "name": "Panevėžys District Municipality"
+            },
+            {
+                "id": 64168,
+                "name": "Pasvalys"
+            },
+            {
+                "id": 64169,
+                "name": "Ramygala"
+            },
+            {
+                "id": 64170,
+                "name": "Rokiškis"
+            },
+            {
+                "id": 64171,
+                "name": "Vabalninkas"
+            }
+        ]
+    },
+    {
+        "id": 2299,
+        "name": "Pasvalys District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2300,
+        "name": "Plungė District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2301,
+        "name": "Prienai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2302,
+        "name": "Radviliškis District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2303,
+        "name": "Raseiniai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2304,
+        "name": "Rietavas municipality",
+        "cities": []
+    },
+    {
+        "id": 2305,
+        "name": "Rokiškis District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2306,
+        "name": "Šakiai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2307,
+        "name": "Šalčininkai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2308,
+        "name": "Šiauliai City Municipality",
+        "cities": [
+            {
+                "id": 64172,
+                "name": "Akmenė"
+            },
+            {
+                "id": 64173,
+                "name": "Akmenės Rajonas"
+            },
+            {
+                "id": 64174,
+                "name": "Joniškis"
+            },
+            {
+                "id": 64175,
+                "name": "Kelmė"
+            },
+            {
+                "id": 64176,
+                "name": "Kuršėnai"
+            },
+            {
+                "id": 64177,
+                "name": "Linkuva"
+            },
+            {
+                "id": 64178,
+                "name": "Naujoji Akmene"
+            },
+            {
+                "id": 64179,
+                "name": "Pakruojis"
+            },
+            {
+                "id": 64180,
+                "name": "Radviliskis"
+            },
+            {
+                "id": 64181,
+                "name": "Radviliškis"
+            },
+            {
+                "id": 64182,
+                "name": "Šeduva"
+            },
+            {
+                "id": 64183,
+                "name": "Šiauliai"
+            },
+            {
+                "id": 64184,
+                "name": "Šiaulių rajonas"
+            },
+            {
+                "id": 64185,
+                "name": "Tytuvėnėliai"
+            },
+            {
+                "id": 64186,
+                "name": "Venta"
+            },
+            {
+                "id": 64187,
+                "name": "Žagarė"
+            }
+        ]
+    },
+    {
+        "id": 2309,
+        "name": "Šiauliai County",
+        "cities": []
+    },
+    {
+        "id": 2310,
+        "name": "Šiauliai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2311,
+        "name": "Šilalė District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2312,
+        "name": "Šilutė District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2313,
+        "name": "Širvintos District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2314,
+        "name": "Skuodas District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2315,
+        "name": "Švenčionys District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2316,
+        "name": "Tauragė County",
+        "cities": [
+            {
+                "id": 64188,
+                "name": "Būgai"
+            },
+            {
+                "id": 64189,
+                "name": "Jurbarkas"
+            },
+            {
+                "id": 64190,
+                "name": "Pagėgiai"
+            },
+            {
+                "id": 64191,
+                "name": "Šilalė"
+            },
+            {
+                "id": 64192,
+                "name": "Taurage"
+            },
+            {
+                "id": 64193,
+                "name": "Tauragė"
+            }
+        ]
+    },
+    {
+        "id": 2317,
+        "name": "Tauragė District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2318,
+        "name": "Telšiai County",
+        "cities": []
+    },
+    {
+        "id": 2319,
+        "name": "Telšiai District Municipality",
+        "cities": [
+            {
+                "id": 64194,
+                "name": "Mazeikiai"
+            },
+            {
+                "id": 64195,
+                "name": "Mažeikiai"
+            },
+            {
+                "id": 64196,
+                "name": "Plateliai"
+            },
+            {
+                "id": 64197,
+                "name": "Plunge"
+            },
+            {
+                "id": 64198,
+                "name": "Plungė"
+            },
+            {
+                "id": 64199,
+                "name": "Rietavas"
+            },
+            {
+                "id": 64200,
+                "name": "Seda"
+            },
+            {
+                "id": 64201,
+                "name": "Telsiai"
+            },
+            {
+                "id": 64202,
+                "name": "Telšiai"
+            },
+            {
+                "id": 64203,
+                "name": "Varniai"
+            },
+            {
+                "id": 64204,
+                "name": "Viekšniai"
+            }
+        ]
+    },
+    {
+        "id": 2320,
+        "name": "Trakai District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2321,
+        "name": "Ukmergė District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2322,
+        "name": "Utena County",
+        "cities": [
+            {
+                "id": 64205,
+                "name": "Anyksciai"
+            },
+            {
+                "id": 64206,
+                "name": "Anykščiai"
+            },
+            {
+                "id": 64207,
+                "name": "Dūkštas"
+            },
+            {
+                "id": 64208,
+                "name": "Ignalina"
+            },
+            {
+                "id": 64209,
+                "name": "Moletai"
+            },
+            {
+                "id": 64210,
+                "name": "Molėtai"
+            },
+            {
+                "id": 64211,
+                "name": "Utena"
+            },
+            {
+                "id": 64212,
+                "name": "Visaginas"
+            },
+            {
+                "id": 64213,
+                "name": "Zarasai"
+            }
+        ]
+    },
+    {
+        "id": 2323,
+        "name": "Utena District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2324,
+        "name": "Varėna District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2325,
+        "name": "Vilkaviškis District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2326,
+        "name": "Vilnius City Municipality",
+        "cities": [
+            {
+                "id": 64214,
+                "name": "Aukstadvaris"
+            },
+            {
+                "id": 64215,
+                "name": "Baltoji Vokė"
+            },
+            {
+                "id": 64216,
+                "name": "Eišiškės"
+            },
+            {
+                "id": 64217,
+                "name": "Elektrėnai"
+            },
+            {
+                "id": 64218,
+                "name": "Fabijoniškės"
+            },
+            {
+                "id": 64219,
+                "name": "Grigiškės"
+            },
+            {
+                "id": 64220,
+                "name": "Justiniškės"
+            },
+            {
+                "id": 64221,
+                "name": "Lazdynai"
+            },
+            {
+                "id": 64222,
+                "name": "Lentvaris"
+            },
+            {
+                "id": 64223,
+                "name": "Naujamiestis"
+            },
+            {
+                "id": 64224,
+                "name": "Nemenčinė"
+            },
+            {
+                "id": 64225,
+                "name": "Pabradė"
+            },
+            {
+                "id": 64226,
+                "name": "Pašilaičiai"
+            },
+            {
+                "id": 64227,
+                "name": "Pilaitė"
+            },
+            {
+                "id": 64228,
+                "name": "Rasos"
+            },
+            {
+                "id": 64229,
+                "name": "Rūdiškės"
+            },
+            {
+                "id": 64230,
+                "name": "Šalčininkai"
+            },
+            {
+                "id": 64231,
+                "name": "Senieji Trakai"
+            },
+            {
+                "id": 64232,
+                "name": "Šeškinė"
+            },
+            {
+                "id": 64233,
+                "name": "Sirvintos"
+            },
+            {
+                "id": 64234,
+                "name": "Širvintos"
+            },
+            {
+                "id": 64235,
+                "name": "Skaidiškės"
+            },
+            {
+                "id": 64236,
+                "name": "Švenčionėliai"
+            },
+            {
+                "id": 64237,
+                "name": "Svencionys"
+            },
+            {
+                "id": 64238,
+                "name": "Švenčionys"
+            },
+            {
+                "id": 64239,
+                "name": "Trakai"
+            },
+            {
+                "id": 64240,
+                "name": "Ukmerge"
+            },
+            {
+                "id": 64241,
+                "name": "Ukmergė"
+            },
+            {
+                "id": 64242,
+                "name": "Vievis"
+            },
+            {
+                "id": 64243,
+                "name": "Vilkpėdė"
+            },
+            {
+                "id": 64244,
+                "name": "Vilnius"
+            },
+            {
+                "id": 64245,
+                "name": "Vilnius District Municipality"
+            }
+        ]
+    },
+    {
+        "id": 2327,
+        "name": "Vilnius County",
+        "cities": []
+    },
+    {
+        "id": 2328,
+        "name": "Vilnius District Municipality",
+        "cities": []
+    },
+    {
+        "id": 2329,
+        "name": "Visaginas Municipality",
+        "cities": []
+    },
+    {
+        "id": 2330,
+        "name": "Zarasai District Municipality",
+        "cities": []
+    }
+]

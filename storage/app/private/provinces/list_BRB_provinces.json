@@ -1,0 +1,92 @@
+[
+    {
+        "id": 403,
+        "name": "Christ Church",
+        "cities": [
+            {
+                "id": 8700,
+                "name": "Oistins"
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "name": "Saint Andrew",
+        "cities": [
+            {
+                "id": 8701,
+                "name": "Greenland"
+            }
+        ]
+    },
+    {
+        "id": 405,
+        "name": "Saint George",
+        "cities": []
+    },
+    {
+        "id": 406,
+        "name": "Saint James",
+        "cities": [
+            {
+                "id": 8702,
+                "name": "Holetown"
+            }
+        ]
+    },
+    {
+        "id": 407,
+        "name": "Saint John",
+        "cities": []
+    },
+    {
+        "id": 408,
+        "name": "Saint Joseph",
+        "cities": [
+            {
+                "id": 8703,
+                "name": "Bathsheba"
+            }
+        ]
+    },
+    {
+        "id": 409,
+        "name": "Saint Lucy",
+        "cities": []
+    },
+    {
+        "id": 410,
+        "name": "Saint Michael",
+        "cities": [
+            {
+                "id": 8704,
+                "name": "Bridgetown"
+            }
+        ]
+    },
+    {
+        "id": 411,
+        "name": "Saint Peter",
+        "cities": [
+            {
+                "id": 8705,
+                "name": "Speightstown"
+            }
+        ]
+    },
+    {
+        "id": 412,
+        "name": "Saint Philip",
+        "cities": [
+            {
+                "id": 8706,
+                "name": "Crane"
+            }
+        ]
+    },
+    {
+        "id": 413,
+        "name": "Saint Thomas",
+        "cities": []
+    }
+]

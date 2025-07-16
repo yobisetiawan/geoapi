@@ -1,0 +1,138 @@
+[
+    {
+        "id": 2045,
+        "name": "Al Ahmadi Governorate",
+        "cities": [
+            {
+                "id": 63701,
+                "name": "Al Aḩmadī"
+            },
+            {
+                "id": 63702,
+                "name": "Al Faḩāḩīl"
+            },
+            {
+                "id": 63703,
+                "name": "Al Finţās"
+            },
+            {
+                "id": 63704,
+                "name": "Al Mahbūlah"
+            },
+            {
+                "id": 63705,
+                "name": "Al Manqaf"
+            },
+            {
+                "id": 63706,
+                "name": "Al Wafrah"
+            },
+            {
+                "id": 63707,
+                "name": "Ar Riqqah"
+            }
+        ]
+    },
+    {
+        "id": 2046,
+        "name": "Al Farwaniyah Governorate",
+        "cities": [
+            {
+                "id": 63708,
+                "name": "Al Farwānīyah"
+            },
+            {
+                "id": 63709,
+                "name": "Janūb as Surrah"
+            }
+        ]
+    },
+    {
+        "id": 2047,
+        "name": "Al Jahra Governorate",
+        "cities": [
+            {
+                "id": 63710,
+                "name": "Al Jahrā’"
+            }
+        ]
+    },
+    {
+        "id": 2048,
+        "name": "Capital Governorate",
+        "cities": [
+            {
+                "id": 63711,
+                "name": "Ad Dasmah"
+            },
+            {
+                "id": 63712,
+                "name": "Ar Rābiyah"
+            },
+            {
+                "id": 63713,
+                "name": "Ash Shāmīyah"
+            },
+            {
+                "id": 63714,
+                "name": "Az Zawr"
+            },
+            {
+                "id": 63715,
+                "name": "Kuwait City"
+            }
+        ]
+    },
+    {
+        "id": 2049,
+        "name": "Hawalli Governorate",
+        "cities": [
+            {
+                "id": 63716,
+                "name": "Ar Rumaythīyah"
+            },
+            {
+                "id": 63717,
+                "name": "As Sālimīyah"
+            },
+            {
+                "id": 63718,
+                "name": "Bayān"
+            },
+            {
+                "id": 63719,
+                "name": "Ḩawallī"
+            },
+            {
+                "id": 63720,
+                "name": "Salwá"
+            }
+        ]
+    },
+    {
+        "id": 2050,
+        "name": "Mubarak Al-Kabeer Governorate",
+        "cities": [
+            {
+                "id": 63721,
+                "name": "Abu Al Hasaniya"
+            },
+            {
+                "id": 63722,
+                "name": "Abu Fatira"
+            },
+            {
+                "id": 63723,
+                "name": "Al Funayţīs"
+            },
+            {
+                "id": 63724,
+                "name": "Al-Masayel"
+            },
+            {
+                "id": 63725,
+                "name": "Şabāḩ as Sālim"
+            }
+        ]
+    }
+]

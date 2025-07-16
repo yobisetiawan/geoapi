@@ -1,0 +1,69 @@
+[
+    {
+        "id": 2430,
+        "name": "Antananarivo Province",
+        "cities": []
+    },
+    {
+        "id": 2431,
+        "name": "Antsiranana Province",
+        "cities": [
+            {
+                "id": 64587,
+                "name": "Ampasimanolotra"
+            },
+            {
+                "id": 64588,
+                "name": "Andovoranto"
+            },
+            {
+                "id": 64589,
+                "name": "Mahanoro"
+            },
+            {
+                "id": 64590,
+                "name": "Mahavelona"
+            },
+            {
+                "id": 64591,
+                "name": "Marolambo"
+            },
+            {
+                "id": 64592,
+                "name": "Toamasina"
+            },
+            {
+                "id": 64593,
+                "name": "Toamasina I"
+            },
+            {
+                "id": 64594,
+                "name": "Toamasina II"
+            },
+            {
+                "id": 64595,
+                "name": "Vohibinany"
+            }
+        ]
+    },
+    {
+        "id": 2432,
+        "name": "Fianarantsoa Province",
+        "cities": []
+    },
+    {
+        "id": 2433,
+        "name": "Mahajanga Province",
+        "cities": []
+    },
+    {
+        "id": 2434,
+        "name": "Toamasina Province",
+        "cities": []
+    },
+    {
+        "id": 2435,
+        "name": "Toliara Province",
+        "cities": []
+    }
+]

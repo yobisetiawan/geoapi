@@ -1,0 +1,342 @@
+[
+    {
+        "id": 1363,
+        "name": "Ashanti Region",
+        "cities": [
+            {
+                "id": 41204,
+                "name": "Agogo"
+            },
+            {
+                "id": 41205,
+                "name": "Bekwai"
+            },
+            {
+                "id": 41206,
+                "name": "Ejura"
+            },
+            {
+                "id": 41207,
+                "name": "Konongo"
+            },
+            {
+                "id": 41208,
+                "name": "Kumasi"
+            },
+            {
+                "id": 41209,
+                "name": "Mampong"
+            },
+            {
+                "id": 41210,
+                "name": "Obuase"
+            },
+            {
+                "id": 41211,
+                "name": "Tafo"
+            }
+        ]
+    },
+    {
+        "id": 1364,
+        "name": "Brong-Ahafo Region",
+        "cities": [
+            {
+                "id": 41212,
+                "name": "Bechem"
+            },
+            {
+                "id": 41213,
+                "name": "Berekum"
+            },
+            {
+                "id": 41214,
+                "name": "Duayaw-Nkwanta"
+            },
+            {
+                "id": 41215,
+                "name": "Japekrom"
+            },
+            {
+                "id": 41216,
+                "name": "Kintampo"
+            },
+            {
+                "id": 41217,
+                "name": "Sunyani"
+            },
+            {
+                "id": 41218,
+                "name": "Techiman"
+            },
+            {
+                "id": 41219,
+                "name": "Wenchi"
+            }
+        ]
+    },
+    {
+        "id": 1365,
+        "name": "Central Region",
+        "cities": [
+            {
+                "id": 41220,
+                "name": "Apam"
+            },
+            {
+                "id": 41221,
+                "name": "Cape Coast"
+            },
+            {
+                "id": 41222,
+                "name": "Dunkwa"
+            },
+            {
+                "id": 41223,
+                "name": "Elmina"
+            },
+            {
+                "id": 41224,
+                "name": "Foso"
+            },
+            {
+                "id": 41225,
+                "name": "Kasoa"
+            },
+            {
+                "id": 41226,
+                "name": "Mumford"
+            },
+            {
+                "id": 41227,
+                "name": "Saltpond"
+            },
+            {
+                "id": 41228,
+                "name": "Swedru"
+            },
+            {
+                "id": 41229,
+                "name": "Winneba"
+            }
+        ]
+    },
+    {
+        "id": 1366,
+        "name": "Eastern Region",
+        "cities": [
+            {
+                "id": 41230,
+                "name": "Aburi"
+            },
+            {
+                "id": 41231,
+                "name": "Akim Oda"
+            },
+            {
+                "id": 41232,
+                "name": "Akim Swedru"
+            },
+            {
+                "id": 41233,
+                "name": "Akropong"
+            },
+            {
+                "id": 41234,
+                "name": "Akwatia"
+            },
+            {
+                "id": 41235,
+                "name": "Asamankese"
+            },
+            {
+                "id": 41236,
+                "name": "Begoro"
+            },
+            {
+                "id": 41237,
+                "name": "Kibi"
+            },
+            {
+                "id": 41238,
+                "name": "Koforidua"
+            },
+            {
+                "id": 41239,
+                "name": "Mpraeso"
+            },
+            {
+                "id": 41240,
+                "name": "Nsawam"
+            },
+            {
+                "id": 41241,
+                "name": "Suhum"
+            }
+        ]
+    },
+    {
+        "id": 1367,
+        "name": "Greater Accra Region",
+        "cities": [
+            {
+                "id": 41242,
+                "name": "Accra"
+            },
+            {
+                "id": 41243,
+                "name": "Atsiaman"
+            },
+            {
+                "id": 41244,
+                "name": "Dome"
+            },
+            {
+                "id": 41245,
+                "name": "Gbawe"
+            },
+            {
+                "id": 41246,
+                "name": "Medina Estates"
+            },
+            {
+                "id": 41247,
+                "name": "Nungua"
+            },
+            {
+                "id": 41248,
+                "name": "Tema"
+            },
+            {
+                "id": 41249,
+                "name": "Teshi Old Town"
+            }
+        ]
+    },
+    {
+        "id": 1368,
+        "name": "Northern Region",
+        "cities": [
+            {
+                "id": 41250,
+                "name": "Kpandae"
+            },
+            {
+                "id": 41251,
+                "name": "Salaga"
+            },
+            {
+                "id": 41252,
+                "name": "Savelugu"
+            },
+            {
+                "id": 41253,
+                "name": "Tamale"
+            },
+            {
+                "id": 41254,
+                "name": "Yendi"
+            }
+        ]
+    },
+    {
+        "id": 1369,
+        "name": "Upper East Region",
+        "cities": [
+            {
+                "id": 41255,
+                "name": "Bawku"
+            },
+            {
+                "id": 41256,
+                "name": "Bolgatanga"
+            },
+            {
+                "id": 41257,
+                "name": "Navrongo"
+            }
+        ]
+    },
+    {
+        "id": 1370,
+        "name": "Upper West Region",
+        "cities": [
+            {
+                "id": 41258,
+                "name": "Wa"
+            }
+        ]
+    },
+    {
+        "id": 1371,
+        "name": "Volta Region",
+        "cities": [
+            {
+                "id": 41259,
+                "name": "Aflao"
+            },
+            {
+                "id": 41260,
+                "name": "Anloga"
+            },
+            {
+                "id": 41261,
+                "name": "Ho"
+            },
+            {
+                "id": 41262,
+                "name": "Hohoe"
+            },
+            {
+                "id": 41263,
+                "name": "Keta"
+            },
+            {
+                "id": 41264,
+                "name": "Kete Krachi"
+            },
+            {
+                "id": 41265,
+                "name": "Kpandu"
+            }
+        ]
+    },
+    {
+        "id": 1372,
+        "name": "Western Region",
+        "cities": [
+            {
+                "id": 41266,
+                "name": "Aboso"
+            },
+            {
+                "id": 41267,
+                "name": "Axim"
+            },
+            {
+                "id": 41268,
+                "name": "Bibiani"
+            },
+            {
+                "id": 41269,
+                "name": "Prestea"
+            },
+            {
+                "id": 41270,
+                "name": "Sekondi-Takoradi"
+            },
+            {
+                "id": 41271,
+                "name": "Shama Junction"
+            },
+            {
+                "id": 41272,
+                "name": "Takoradi"
+            },
+            {
+                "id": 41273,
+                "name": "Tarkwa"
+            }
+        ]
+    }
+]

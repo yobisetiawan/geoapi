@@ -1,0 +1,2606 @@
+[
+    {
+        "id": 1653,
+        "name": "Alborz Province",
+        "cities": [
+            {
+                "id": 49263,
+                "name": "Fardis"
+            },
+            {
+                "id": 49264,
+                "name": "Karaj"
+            },
+            {
+                "id": 49265,
+                "name": "Naz̧arābād"
+            },
+            {
+                "id": 49266,
+                "name": "Shahrestān-e Eshtehārd"
+            },
+            {
+                "id": 49267,
+                "name": "Shahrestān-e Naz̧arābād"
+            },
+            {
+                "id": 49268,
+                "name": "Shahrestān-e Sāvojbolāgh"
+            },
+            {
+                "id": 49269,
+                "name": "Shahrestān-e Ţāleqān"
+            }
+        ]
+    },
+    {
+        "id": 1654,
+        "name": "Ardabil Province",
+        "cities": [
+            {
+                "id": 49270,
+                "name": "Ardabīl"
+            },
+            {
+                "id": 49271,
+                "name": "Bīleh Savār"
+            },
+            {
+                "id": 49272,
+                "name": "Khalkhāl"
+            },
+            {
+                "id": 49273,
+                "name": "Omīdcheh"
+            },
+            {
+                "id": 49274,
+                "name": "Pārsābād"
+            },
+            {
+                "id": 49275,
+                "name": "Shahrestān-e Ardabīl"
+            },
+            {
+                "id": 49276,
+                "name": "Shahrestān-e Bīleh Savār"
+            },
+            {
+                "id": 49277,
+                "name": "Shahrestān-e Germī"
+            },
+            {
+                "id": 49278,
+                "name": "Shahrestān-e Khalkhāl"
+            },
+            {
+                "id": 49279,
+                "name": "Shahrestān-e Kows̄ar"
+            },
+            {
+                "id": 49280,
+                "name": "Shahrestān-e Meshgīn Shahr"
+            },
+            {
+                "id": 49281,
+                "name": "Shahrestān-e Namīn"
+            },
+            {
+                "id": 49282,
+                "name": "Shahrestān-e Nīr"
+            },
+            {
+                "id": 49283,
+                "name": "Shahrestān-e Pārsābād"
+            },
+            {
+                "id": 49284,
+                "name": "Shahrestān-e Sar‘eyn"
+            }
+        ]
+    },
+    {
+        "id": 1655,
+        "name": "Bushehr Province",
+        "cities": [
+            {
+                "id": 49285,
+                "name": "Ahram"
+            },
+            {
+                "id": 49286,
+                "name": "Bandar-e Genāveh"
+            },
+            {
+                "id": 49287,
+                "name": "Borāzjān"
+            },
+            {
+                "id": 49288,
+                "name": "Bushehr"
+            },
+            {
+                "id": 49289,
+                "name": "Deylam"
+            },
+            {
+                "id": 49290,
+                "name": "Khārk"
+            },
+            {
+                "id": 49291,
+                "name": "Shahrestān-e ‘Asalūyeh"
+            },
+            {
+                "id": 49292,
+                "name": "Shahrestān-e Būshehr"
+            },
+            {
+                "id": 49293,
+                "name": "Shahrestān-e Dashtestān"
+            },
+            {
+                "id": 49294,
+                "name": "Shahrestān-e Dashtī"
+            },
+            {
+                "id": 49295,
+                "name": "Shahrestān-e Genāveh"
+            },
+            {
+                "id": 49296,
+                "name": "Shahrestān-e Kangān"
+            },
+            {
+                "id": 49297,
+                "name": "Shahrestān-e Tangestān"
+            }
+        ]
+    },
+    {
+        "id": 1656,
+        "name": "Chaharmahal and Bakhtiari Province",
+        "cities": [
+            {
+                "id": 49298,
+                "name": "Ben"
+            },
+            {
+                "id": 49299,
+                "name": "Borūjen"
+            },
+            {
+                "id": 49300,
+                "name": "Chelgard"
+            },
+            {
+                "id": 49301,
+                "name": "Farrokh Shahr"
+            },
+            {
+                "id": 49302,
+                "name": "Fārsān"
+            },
+            {
+                "id": 49303,
+                "name": "Saman"
+            },
+            {
+                "id": 49304,
+                "name": "Shahr-e Kord"
+            },
+            {
+                "id": 49305,
+                "name": "Shahrekord"
+            },
+            {
+                "id": 49306,
+                "name": "Shahrestān-e Borūjen"
+            },
+            {
+                "id": 49307,
+                "name": "Shahrestān-e Fārsān"
+            },
+            {
+                "id": 49308,
+                "name": "Shahrestān-e Kīār"
+            },
+            {
+                "id": 49309,
+                "name": "Shahrestān-e Kūhrang"
+            },
+            {
+                "id": 49310,
+                "name": "Shahrestān-e Lordegān"
+            }
+        ]
+    },
+    {
+        "id": 1657,
+        "name": "East Azerbaijan Province",
+        "cities": [
+            {
+                "id": 49311,
+                "name": "‘Ajab Shīr"
+            },
+            {
+                "id": 49312,
+                "name": "Ahar"
+            },
+            {
+                "id": 49313,
+                "name": "Bonāb"
+            },
+            {
+                "id": 49314,
+                "name": "Hashtrūd"
+            },
+            {
+                "id": 49315,
+                "name": "Marand"
+            },
+            {
+                "id": 49316,
+                "name": "Sarāb"
+            },
+            {
+                "id": 49317,
+                "name": "Shahrestān-e ‘Ajab Shīr"
+            },
+            {
+                "id": 49318,
+                "name": "Shahrestān-e Āz̄arshahr"
+            },
+            {
+                "id": 49319,
+                "name": "Shahrestān-e Bonāb"
+            },
+            {
+                "id": 49320,
+                "name": "Shahrestān-e Bostānābād"
+            },
+            {
+                "id": 49321,
+                "name": "Shahrestān-e Chārāvīmāq"
+            },
+            {
+                "id": 49322,
+                "name": "Shahrestān-e Hashtrūd"
+            },
+            {
+                "id": 49323,
+                "name": "Shahrestān-e Herīs"
+            },
+            {
+                "id": 49324,
+                "name": "Shahrestān-e Jolfā"
+            },
+            {
+                "id": 49325,
+                "name": "Shahrestān-e Khodā Āfarīn"
+            },
+            {
+                "id": 49326,
+                "name": "Shahrestān-e Malekān"
+            },
+            {
+                "id": 49327,
+                "name": "Shahrestān-e Marāgheh"
+            },
+            {
+                "id": 49328,
+                "name": "Shahrestān-e Mīāneh"
+            },
+            {
+                "id": 49329,
+                "name": "Shahrestān-e Oskū"
+            },
+            {
+                "id": 49330,
+                "name": "Shahrestān-e Sarāb"
+            },
+            {
+                "id": 49331,
+                "name": "Shahrestān-e Tabrīz"
+            },
+            {
+                "id": 49332,
+                "name": "Shahrestān-e Varzaqān"
+            },
+            {
+                "id": 49333,
+                "name": "Tabriz"
+            }
+        ]
+    },
+    {
+        "id": 1658,
+        "name": "Fars Province",
+        "cities": [
+            {
+                "id": 49334,
+                "name": "Ābādeh"
+            },
+            {
+                "id": 49335,
+                "name": "Akbarābād"
+            },
+            {
+                "id": 49336,
+                "name": "Dārāb"
+            },
+            {
+                "id": 49337,
+                "name": "Fasā"
+            },
+            {
+                "id": 49338,
+                "name": "Fīrūzābād"
+            },
+            {
+                "id": 49339,
+                "name": "Gerāsh"
+            },
+            {
+                "id": 49340,
+                "name": "Kāzerūn"
+            },
+            {
+                "id": 49341,
+                "name": "Mamasanī"
+            },
+            {
+                "id": 49342,
+                "name": "Marvdasht"
+            },
+            {
+                "id": 49343,
+                "name": "Mohr"
+            },
+            {
+                "id": 49344,
+                "name": "Neyrīz"
+            },
+            {
+                "id": 49345,
+                "name": "Nūrābād"
+            },
+            {
+                "id": 49346,
+                "name": "Pāsārgād"
+            },
+            {
+                "id": 49347,
+                "name": "Rostam"
+            },
+            {
+                "id": 49348,
+                "name": "Shahr-e Qadīm-e Lār"
+            },
+            {
+                "id": 49349,
+                "name": "Shahrestān-e Ābādeh"
+            },
+            {
+                "id": 49350,
+                "name": "Shahrestān-e Arsanjān"
+            },
+            {
+                "id": 49351,
+                "name": "Shahrestān-e Bavānāt"
+            },
+            {
+                "id": 49352,
+                "name": "Shahrestān-e Dārāb"
+            },
+            {
+                "id": 49353,
+                "name": "Shahrestān-e Eqlīd"
+            },
+            {
+                "id": 49354,
+                "name": "Shahrestān-e Estahbān"
+            },
+            {
+                "id": 49355,
+                "name": "Shahrestān-e Farāshband"
+            },
+            {
+                "id": 49356,
+                "name": "Shahrestān-e Fasā"
+            },
+            {
+                "id": 49357,
+                "name": "Shahrestān-e Fīrūzābād"
+            },
+            {
+                "id": 49358,
+                "name": "Shahrestān-e Gerāsh"
+            },
+            {
+                "id": 49359,
+                "name": "Shahrestān-e Kavār"
+            },
+            {
+                "id": 49360,
+                "name": "Shahrestān-e Kāzerūn"
+            },
+            {
+                "id": 49361,
+                "name": "Shahrestān-e Kherāmeh"
+            },
+            {
+                "id": 49362,
+                "name": "Shahrestān-e Khorrambīd"
+            },
+            {
+                "id": 49363,
+                "name": "Shahrestān-e Lāmerd"
+            },
+            {
+                "id": 49364,
+                "name": "Shahrestān-e Lārestān"
+            },
+            {
+                "id": 49365,
+                "name": "Shahrestān-e Neyrīz"
+            },
+            {
+                "id": 49366,
+                "name": "Shahrestān-e Pāsārgād"
+            },
+            {
+                "id": 49367,
+                "name": "Shahrestān-e Qīr va Kārzīn"
+            },
+            {
+                "id": 49368,
+                "name": "Shahrestān-e Sarvestān"
+            },
+            {
+                "id": 49369,
+                "name": "Shahrestān-e Sepīdān"
+            },
+            {
+                "id": 49370,
+                "name": "Shahrestān-e Shīrāz"
+            },
+            {
+                "id": 49371,
+                "name": "Shahrestān-e Zarrīn Dasht"
+            },
+            {
+                "id": 49372,
+                "name": "Shiraz"
+            }
+        ]
+    },
+    {
+        "id": 1659,
+        "name": "Gilan Province",
+        "cities": [
+            {
+                "id": 49373,
+                "name": "Āstāneh-ye Ashrafīyeh"
+            },
+            {
+                "id": 49374,
+                "name": "Āstārā"
+            },
+            {
+                "id": 49375,
+                "name": "Bandar-e Anzalī"
+            },
+            {
+                "id": 49376,
+                "name": "Fūman"
+            },
+            {
+                "id": 49377,
+                "name": "Hashtpar"
+            },
+            {
+                "id": 49378,
+                "name": "Langarūd"
+            },
+            {
+                "id": 49379,
+                "name": "Pādegān-e Manjīl"
+            },
+            {
+                "id": 49380,
+                "name": "Rasht"
+            },
+            {
+                "id": 49381,
+                "name": "Reẕvānshahr"
+            },
+            {
+                "id": 49382,
+                "name": "Rūdsar"
+            },
+            {
+                "id": 49383,
+                "name": "Shahrestān-e Āstāneh-ye Ashrafīyeh"
+            },
+            {
+                "id": 49384,
+                "name": "Shahrestān-e Āstārā"
+            },
+            {
+                "id": 49385,
+                "name": "Shahrestān-e Bandar-e Anzalī"
+            },
+            {
+                "id": 49386,
+                "name": "Shahrestān-e Fūman"
+            },
+            {
+                "id": 49387,
+                "name": "Shahrestān-e Lāhījān"
+            },
+            {
+                "id": 49388,
+                "name": "Shahrestān-e Langarūd"
+            },
+            {
+                "id": 49389,
+                "name": "Shahrestān-e Māsāl"
+            },
+            {
+                "id": 49390,
+                "name": "Shahrestān-e Reẕvānshahr"
+            },
+            {
+                "id": 49391,
+                "name": "Shahrestān-e Rūdbār"
+            },
+            {
+                "id": 49392,
+                "name": "Shahrestān-e Rūdsar"
+            },
+            {
+                "id": 49393,
+                "name": "Shahrestān-e Sīāhkal"
+            },
+            {
+                "id": 49394,
+                "name": "Shahrestān-e Şowme‘eh Sarā"
+            },
+            {
+                "id": 49395,
+                "name": "Shahrestān-e Tālesh"
+            },
+            {
+                "id": 49396,
+                "name": "Ziabar (Gaskar)"
+            }
+        ]
+    },
+    {
+        "id": 1660,
+        "name": "Golestan Province",
+        "cities": [
+            {
+                "id": 49397,
+                "name": "Āq Qāyeh"
+            },
+            {
+                "id": 49398,
+                "name": "Āzādshahr"
+            },
+            {
+                "id": 49399,
+                "name": "Gonbad-e Kāvūs"
+            },
+            {
+                "id": 49400,
+                "name": "Gorgān"
+            },
+            {
+                "id": 49401,
+                "name": "Kalāleh"
+            },
+            {
+                "id": 49402,
+                "name": "Qarnābād"
+            },
+            {
+                "id": 49403,
+                "name": "Shahrestān-e ‘Alīābād"
+            },
+            {
+                "id": 49404,
+                "name": "Shahrestān-e Āq Qalā"
+            },
+            {
+                "id": 49405,
+                "name": "Shahrestān-e Āzādshahr"
+            },
+            {
+                "id": 49406,
+                "name": "Shahrestān-e Gālīkesh"
+            },
+            {
+                "id": 49407,
+                "name": "Shahrestān-e Gomīshān"
+            },
+            {
+                "id": 49408,
+                "name": "Shahrestān-e Gonbad-e Kāvūs"
+            },
+            {
+                "id": 49409,
+                "name": "Shahrestān-e Gorgān"
+            },
+            {
+                "id": 49410,
+                "name": "Shahrestān-e Kalāleh"
+            },
+            {
+                "id": 49411,
+                "name": "Shahrestān-e Kordkūy"
+            },
+            {
+                "id": 49412,
+                "name": "Shahrestān-e Marāveh Tappeh"
+            },
+            {
+                "id": 49413,
+                "name": "Shahrestān-e Mīnūdasht"
+            },
+            {
+                "id": 49414,
+                "name": "Shahrestān-e Rāmīān"
+            },
+            {
+                "id": 49415,
+                "name": "Torkaman"
+            }
+        ]
+    },
+    {
+        "id": 1661,
+        "name": "Hormozgan Province",
+        "cities": [
+            {
+                "id": 49416,
+                "name": "Bandar Abbas"
+            },
+            {
+                "id": 49417,
+                "name": "Bandar Lengeh"
+            },
+            {
+                "id": 49418,
+                "name": "Bandar-e Lengeh"
+            },
+            {
+                "id": 49419,
+                "name": "Bastak"
+            },
+            {
+                "id": 49420,
+                "name": "Kīsh"
+            },
+            {
+                "id": 49421,
+                "name": "Mīnāb"
+            },
+            {
+                "id": 49422,
+                "name": "Qeshm"
+            },
+            {
+                "id": 49423,
+                "name": "Shahrestān-e Abū Mūsá"
+            },
+            {
+                "id": 49424,
+                "name": "Shahrestān-e Bandar ‘Abbās"
+            },
+            {
+                "id": 49425,
+                "name": "Shahrestān-e Bashāgard"
+            },
+            {
+                "id": 49426,
+                "name": "Shahrestān-e Ḩājjīābād"
+            },
+            {
+                "id": 49427,
+                "name": "Shahrestān-e Jāsk"
+            },
+            {
+                "id": 49428,
+                "name": "Shahrestān-e Khamīr"
+            },
+            {
+                "id": 49429,
+                "name": "Shahrestān-e Mīnāb"
+            },
+            {
+                "id": 49430,
+                "name": "Shahrestān-e Pārsīān"
+            },
+            {
+                "id": 49431,
+                "name": "Shahrestān-e Rūdān"
+            },
+            {
+                "id": 49432,
+                "name": "Shahrestān-e Sīrīk"
+            }
+        ]
+    },
+    {
+        "id": 1662,
+        "name": "Ilam Province",
+        "cities": [
+            {
+                "id": 49433,
+                "name": "Ābdānān"
+            },
+            {
+                "id": 49434,
+                "name": "Badreh"
+            },
+            {
+                "id": 49435,
+                "name": "Chardavol County"
+            },
+            {
+                "id": 49436,
+                "name": "Darreh Shahr"
+            },
+            {
+                "id": 49437,
+                "name": "Darrehshahr"
+            },
+            {
+                "id": 49438,
+                "name": "Dehlorān"
+            },
+            {
+                "id": 49439,
+                "name": "Īlām"
+            },
+            {
+                "id": 49440,
+                "name": "Mehrān"
+            },
+            {
+                "id": 49441,
+                "name": "Shahrestān-e Ābdānān"
+            },
+            {
+                "id": 49442,
+                "name": "Shahrestān-e Dehlorān"
+            },
+            {
+                "id": 49443,
+                "name": "Shahrestān-e Eyvān"
+            },
+            {
+                "id": 49444,
+                "name": "Shahrestān-e Īlām"
+            },
+            {
+                "id": 49445,
+                "name": "Shahrestān-e Malekshāhī"
+            },
+            {
+                "id": 49446,
+                "name": "Shahrestān-e Mehrān"
+            },
+            {
+                "id": 49447,
+                "name": "Sirvan"
+            }
+        ]
+    },
+    {
+        "id": 1663,
+        "name": "Isfahan Province",
+        "cities": [
+            {
+                "id": 49448,
+                "name": "Abrīsham"
+            },
+            {
+                "id": 49449,
+                "name": "Ardestān"
+            },
+            {
+                "id": 49450,
+                "name": "Buin va Miandasht"
+            },
+            {
+                "id": 49451,
+                "name": "Chādegān"
+            },
+            {
+                "id": 49452,
+                "name": "Dārān"
+            },
+            {
+                "id": 49453,
+                "name": "Dehāqān"
+            },
+            {
+                "id": 49454,
+                "name": "Dorcheh Pīāz"
+            },
+            {
+                "id": 49455,
+                "name": "Dowlatābād"
+            },
+            {
+                "id": 49456,
+                "name": "Falāvarjān"
+            },
+            {
+                "id": 49457,
+                "name": "Fareydūnshahr"
+            },
+            {
+                "id": 49458,
+                "name": "Fereydan"
+            },
+            {
+                "id": 49459,
+                "name": "Golpāyegān"
+            },
+            {
+                "id": 49460,
+                "name": "Isfahan"
+            },
+            {
+                "id": 49461,
+                "name": "Kelīshād va Sūdarjān"
+            },
+            {
+                "id": 49462,
+                "name": "Khomeynī Shahr"
+            },
+            {
+                "id": 49463,
+                "name": "Khūr"
+            },
+            {
+                "id": 49464,
+                "name": "Khvānsār"
+            },
+            {
+                "id": 49465,
+                "name": "Mobārakeh"
+            },
+            {
+                "id": 49466,
+                "name": "Nā’īn"
+            },
+            {
+                "id": 49467,
+                "name": "Najafābād"
+            },
+            {
+                "id": 49468,
+                "name": "Naţanz"
+            },
+            {
+                "id": 49469,
+                "name": "Qahderījān"
+            },
+            {
+                "id": 49470,
+                "name": "Rehnān"
+            },
+            {
+                "id": 49471,
+                "name": "Semīrom"
+            },
+            {
+                "id": 49472,
+                "name": "Shāhīn Shahr"
+            },
+            {
+                "id": 49473,
+                "name": "Shahrestān-e Ārān va Bīdgol"
+            },
+            {
+                "id": 49474,
+                "name": "Shahrestān-e Ardestān"
+            },
+            {
+                "id": 49475,
+                "name": "Shahrestān-e Borkhvār"
+            },
+            {
+                "id": 49476,
+                "name": "Shahrestān-e Chādegān"
+            },
+            {
+                "id": 49477,
+                "name": "Shahrestān-e Dehāqān"
+            },
+            {
+                "id": 49478,
+                "name": "Shahrestān-e Eşfahān"
+            },
+            {
+                "id": 49479,
+                "name": "Shahrestān-e Falāvarjān"
+            },
+            {
+                "id": 49480,
+                "name": "Shahrestān-e Fareydūnshahr"
+            },
+            {
+                "id": 49481,
+                "name": "Shahrestān-e Golpāyegān"
+            },
+            {
+                "id": 49482,
+                "name": "Shahrestān-e Kāshān"
+            },
+            {
+                "id": 49483,
+                "name": "Shahrestān-e Khomeynī Shahr"
+            },
+            {
+                "id": 49484,
+                "name": "Shahrestān-e Khūr va Bīābānak"
+            },
+            {
+                "id": 49485,
+                "name": "Shahrestān-e Khvānsār"
+            },
+            {
+                "id": 49486,
+                "name": "Shahrestān-e Lenjān"
+            },
+            {
+                "id": 49487,
+                "name": "Shahrestān-e Mobārakeh"
+            },
+            {
+                "id": 49488,
+                "name": "Shahrestān-e Nā’īn"
+            },
+            {
+                "id": 49489,
+                "name": "Shahrestān-e Najafābād"
+            },
+            {
+                "id": 49490,
+                "name": "Shahrestān-e Naţanz"
+            },
+            {
+                "id": 49491,
+                "name": "Shahrestān-e Semīrom"
+            },
+            {
+                "id": 49492,
+                "name": "Shahrestān-e Shāhīn Shahr va Meymeh"
+            },
+            {
+                "id": 49493,
+                "name": "Shahrestān-e Shahreẕā"
+            },
+            {
+                "id": 49494,
+                "name": "Shahrestān-e Tīrān va Karvan"
+            },
+            {
+                "id": 49495,
+                "name": "Shahreẕā"
+            },
+            {
+                "id": 49496,
+                "name": "Tīrān"
+            },
+            {
+                "id": 49497,
+                "name": "Zarrīn Shahr"
+            }
+        ]
+    },
+    {
+        "id": 1664,
+        "name": "Kerman Province",
+        "cities": [
+            {
+                "id": 49498,
+                "name": "Bāft"
+            },
+            {
+                "id": 49499,
+                "name": "Bam"
+            },
+            {
+                "id": 49500,
+                "name": "Bardsīr"
+            },
+            {
+                "id": 49501,
+                "name": "Kerman"
+            },
+            {
+                "id": 49502,
+                "name": "Kūh Sefīd"
+            },
+            {
+                "id": 49503,
+                "name": "Rafsanjān"
+            },
+            {
+                "id": 49504,
+                "name": "Rāvar"
+            },
+            {
+                "id": 49505,
+                "name": "Rīgān"
+            },
+            {
+                "id": 49506,
+                "name": "Shahr-e Bābak"
+            },
+            {
+                "id": 49507,
+                "name": "Shahrak-e Pābedānā"
+            },
+            {
+                "id": 49508,
+                "name": "Shahrestān-e ‘Anbarābād"
+            },
+            {
+                "id": 49509,
+                "name": "Shahrestān-e Anār"
+            },
+            {
+                "id": 49510,
+                "name": "Shahrestān-e Bāft"
+            },
+            {
+                "id": 49511,
+                "name": "Shahrestān-e Bardsīr"
+            },
+            {
+                "id": 49512,
+                "name": "Shahrestān-e Fāryāb"
+            },
+            {
+                "id": 49513,
+                "name": "Shahrestān-e Jīroft"
+            },
+            {
+                "id": 49514,
+                "name": "Shahrestān-e Kahnūj"
+            },
+            {
+                "id": 49515,
+                "name": "Shahrestān-e Kermān"
+            },
+            {
+                "id": 49516,
+                "name": "Shahrestān-e Kūhbanān"
+            },
+            {
+                "id": 49517,
+                "name": "Shahrestān-e Manūjān"
+            },
+            {
+                "id": 49518,
+                "name": "Shahrestān-e Narmāshīr"
+            },
+            {
+                "id": 49519,
+                "name": "Shahrestān-e Orzū‘īyeh"
+            },
+            {
+                "id": 49520,
+                "name": "Shahrestān-e Qal‘eh Ganj"
+            },
+            {
+                "id": 49521,
+                "name": "Shahrestān-e Rābor"
+            },
+            {
+                "id": 49522,
+                "name": "Shahrestān-e Rafsanjān"
+            },
+            {
+                "id": 49523,
+                "name": "Shahrestān-e Rūdbār-e Jonūbī"
+            },
+            {
+                "id": 49524,
+                "name": "Shahrestān-e Shahr-e Bābak"
+            },
+            {
+                "id": 49525,
+                "name": "Shahrestān-e Sīrjān"
+            },
+            {
+                "id": 49526,
+                "name": "Sirjan"
+            },
+            {
+                "id": 49527,
+                "name": "Zarand"
+            }
+        ]
+    },
+    {
+        "id": 1665,
+        "name": "Kermanshah Province",
+        "cities": [
+            {
+                "id": 49528,
+                "name": "Harsīn"
+            },
+            {
+                "id": 49529,
+                "name": "Javānrūd"
+            },
+            {
+                "id": 49530,
+                "name": "Kahrīz"
+            },
+            {
+                "id": 49531,
+                "name": "Kangāvar"
+            },
+            {
+                "id": 49532,
+                "name": "Kermanshah"
+            },
+            {
+                "id": 49533,
+                "name": "Pāveh"
+            },
+            {
+                "id": 49534,
+                "name": "Sarpol-e Z̄ahāb"
+            },
+            {
+                "id": 49535,
+                "name": "Shahrestān-e Dālāhū"
+            },
+            {
+                "id": 49536,
+                "name": "Shahrestān-e Eslāmābād-e Gharb"
+            },
+            {
+                "id": 49537,
+                "name": "Shahrestān-e Gīlān-e Gharb"
+            },
+            {
+                "id": 49538,
+                "name": "Shahrestān-e Harsīn"
+            },
+            {
+                "id": 49539,
+                "name": "Shahrestān-e Javānrūd"
+            },
+            {
+                "id": 49540,
+                "name": "Shahrestān-e Kangāvar"
+            },
+            {
+                "id": 49541,
+                "name": "Shahrestān-e Kermānshāh"
+            },
+            {
+                "id": 49542,
+                "name": "Shahrestān-e Pāveh"
+            },
+            {
+                "id": 49543,
+                "name": "Shahrestān-e Qaşr-e Shīrīn"
+            },
+            {
+                "id": 49544,
+                "name": "Shahrestān-e Ravānsar"
+            },
+            {
+                "id": 49545,
+                "name": "Shahrestān-e Şaḩneh"
+            },
+            {
+                "id": 49546,
+                "name": "Shahrestān-e S̄alās̄-e Bābā Jānī"
+            },
+            {
+                "id": 49547,
+                "name": "Shahrestān-e Sarpol-e Z̄ahāb"
+            },
+            {
+                "id": 49548,
+                "name": "Sonqor"
+            }
+        ]
+    },
+    {
+        "id": 1666,
+        "name": "Khuzestan Province",
+        "cities": [
+            {
+                "id": 49549,
+                "name": "Abadan"
+            },
+            {
+                "id": 49550,
+                "name": "Aghajari"
+            },
+            {
+                "id": 49551,
+                "name": "Ahvaz"
+            },
+            {
+                "id": 49552,
+                "name": "Bāgh Shahrestān-e Malek"
+            },
+            {
+                "id": 49553,
+                "name": "Behbahān"
+            },
+            {
+                "id": 49554,
+                "name": "Gotvand"
+            },
+            {
+                "id": 49555,
+                "name": "Hamidiyeh"
+            },
+            {
+                "id": 49556,
+                "name": "Jongīyeh"
+            },
+            {
+                "id": 49557,
+                "name": "Karun"
+            },
+            {
+                "id": 49558,
+                "name": "Khorramshahr"
+            },
+            {
+                "id": 49559,
+                "name": "Masjed Soleymān"
+            },
+            {
+                "id": 49560,
+                "name": "Omīdīyeh"
+            },
+            {
+                "id": 49561,
+                "name": "Rāmhormoz"
+            },
+            {
+                "id": 49562,
+                "name": "Rāmshīr"
+            },
+            {
+                "id": 49563,
+                "name": "sedeyen-e Yek"
+            },
+            {
+                "id": 49564,
+                "name": "Shādegān"
+            },
+            {
+                "id": 49565,
+                "name": "Shahrak-e Kūlūrī"
+            },
+            {
+                "id": 49566,
+                "name": "Shahrestān-e Ābādān"
+            },
+            {
+                "id": 49567,
+                "name": "Shahrestān-e Ahvāz"
+            },
+            {
+                "id": 49568,
+                "name": "Shahrestān-e Andīkā"
+            },
+            {
+                "id": 49569,
+                "name": "Shahrestān-e Andīmeshk"
+            },
+            {
+                "id": 49570,
+                "name": "Shahrestān-e Bandar-e Māhshahr"
+            },
+            {
+                "id": 49571,
+                "name": "Shahrestān-e Bāvī"
+            },
+            {
+                "id": 49572,
+                "name": "Shahrestān-e Behbahān"
+            },
+            {
+                "id": 49573,
+                "name": "Shahrestān-e Dasht-e Āzādegān"
+            },
+            {
+                "id": 49574,
+                "name": "Shahrestān-e Dezfūl"
+            },
+            {
+                "id": 49575,
+                "name": "Shahrestān-e Hendījān"
+            },
+            {
+                "id": 49576,
+                "name": "Shahrestān-e Īz̄eh"
+            },
+            {
+                "id": 49577,
+                "name": "Shahrestān-e Lālī"
+            },
+            {
+                "id": 49578,
+                "name": "Shahrestān-e Masjed Soleymān"
+            },
+            {
+                "id": 49579,
+                "name": "Shahrestān-e Omīdīyeh"
+            },
+            {
+                "id": 49580,
+                "name": "Shahrestān-e Rāmhormoz"
+            },
+            {
+                "id": 49581,
+                "name": "Shahrestān-e Rāmshīr"
+            },
+            {
+                "id": 49582,
+                "name": "Shahrestān-e Shādegān"
+            },
+            {
+                "id": 49583,
+                "name": "Shahrestān-e Shūsh"
+            },
+            {
+                "id": 49584,
+                "name": "Shahrestān-e Shūshtar"
+            },
+            {
+                "id": 49585,
+                "name": "Shūsh"
+            },
+            {
+                "id": 49586,
+                "name": "Shūshtar"
+            },
+            {
+                "id": 49587,
+                "name": "Sūsangerd"
+            }
+        ]
+    },
+    {
+        "id": 1667,
+        "name": "Kohgiluyeh and Boyer-Ahmad Province",
+        "cities": [
+            {
+                "id": 49588,
+                "name": "Dehdasht"
+            },
+            {
+                "id": 49589,
+                "name": "Dogonbadan"
+            },
+            {
+                "id": 49590,
+                "name": "Landeh"
+            },
+            {
+                "id": 49591,
+                "name": "Shahrestān-e Bahma’ī"
+            },
+            {
+                "id": 49592,
+                "name": "Shahrestān-e Bāsht"
+            },
+            {
+                "id": 49593,
+                "name": "Shahrestān-e Bowyer Aḩmad"
+            },
+            {
+                "id": 49594,
+                "name": "Shahrestān-e Charām"
+            },
+            {
+                "id": 49595,
+                "name": "Shahrestān-e Danā"
+            },
+            {
+                "id": 49596,
+                "name": "Shahrestān-e Gachsārān"
+            },
+            {
+                "id": 49597,
+                "name": "Shahrestān-e Kohgīlūyeh"
+            },
+            {
+                "id": 49598,
+                "name": "Yasuj"
+            }
+        ]
+    },
+    {
+        "id": 1668,
+        "name": "Kurdistan Province",
+        "cities": [
+            {
+                "id": 49599,
+                "name": "Bāneh"
+            },
+            {
+                "id": 49600,
+                "name": "Bījār"
+            },
+            {
+                "id": 49601,
+                "name": "Kāmyārān"
+            },
+            {
+                "id": 49602,
+                "name": "Marīvān"
+            },
+            {
+                "id": 49603,
+                "name": "Qorveh"
+            },
+            {
+                "id": 49604,
+                "name": "Sanandaj"
+            },
+            {
+                "id": 49605,
+                "name": "Saqqez"
+            },
+            {
+                "id": 49606,
+                "name": "Shahrestān-e Bāneh"
+            },
+            {
+                "id": 49607,
+                "name": "Shahrestān-e Bījār"
+            },
+            {
+                "id": 49608,
+                "name": "Shahrestān-e Dehgolān"
+            },
+            {
+                "id": 49609,
+                "name": "Shahrestān-e Dīvāndarreh"
+            },
+            {
+                "id": 49610,
+                "name": "Shahrestān-e Kāmyārān"
+            },
+            {
+                "id": 49611,
+                "name": "Shahrestān-e Marīvān"
+            },
+            {
+                "id": 49612,
+                "name": "Shahrestān-e Sarvābād"
+            }
+        ]
+    },
+    {
+        "id": 1669,
+        "name": "Lorestan Province",
+        "cities": [
+            {
+                "id": 49613,
+                "name": "Aleshtar"
+            },
+            {
+                "id": 49614,
+                "name": "Alīgūdarz"
+            },
+            {
+                "id": 49615,
+                "name": "Aznā"
+            },
+            {
+                "id": 49616,
+                "name": "Borūjerd"
+            },
+            {
+                "id": 49617,
+                "name": "Delfan"
+            },
+            {
+                "id": 49618,
+                "name": "Khorramabad"
+            },
+            {
+                "id": 49619,
+                "name": "Kūhdasht"
+            },
+            {
+                "id": 49620,
+                "name": "Nūrābād"
+            },
+            {
+                "id": 49621,
+                "name": "Pol-e Dokhtar"
+            },
+            {
+                "id": 49622,
+                "name": "Rumeshkhan County"
+            },
+            {
+                "id": 49623,
+                "name": "Selseleh"
+            },
+            {
+                "id": 49624,
+                "name": "Shahrestān-e Alīgūdarz"
+            },
+            {
+                "id": 49625,
+                "name": "Shahrestān-e Aznā"
+            },
+            {
+                "id": 49626,
+                "name": "Shahrestān-e Borūjerd"
+            },
+            {
+                "id": 49627,
+                "name": "Shahrestān-e Dūreh"
+            },
+            {
+                "id": 49628,
+                "name": "Shahrestān-e Khorramābād"
+            },
+            {
+                "id": 49629,
+                "name": "Shahrestān-e Kūhdasht"
+            },
+            {
+                "id": 49630,
+                "name": "Vasīān"
+            }
+        ]
+    },
+    {
+        "id": 1670,
+        "name": "Markazi Province",
+        "cities": [
+            {
+                "id": 49631,
+                "name": "Ābyek"
+            },
+            {
+                "id": 49632,
+                "name": "Arāk"
+            },
+            {
+                "id": 49633,
+                "name": "Delījān"
+            },
+            {
+                "id": 49634,
+                "name": "Khomeyn"
+            },
+            {
+                "id": 49635,
+                "name": "Komījān"
+            },
+            {
+                "id": 49636,
+                "name": "Sāveh"
+            },
+            {
+                "id": 49637,
+                "name": "Shahrestān-e Arāk"
+            },
+            {
+                "id": 49638,
+                "name": "Shahrestān-e Āshtīān"
+            },
+            {
+                "id": 49639,
+                "name": "Shahrestān-e Delījān"
+            },
+            {
+                "id": 49640,
+                "name": "Shahrestān-e Farahān"
+            },
+            {
+                "id": 49641,
+                "name": "Shahrestān-e Khondāb"
+            },
+            {
+                "id": 49642,
+                "name": "Shahrestān-e Komījān"
+            },
+            {
+                "id": 49643,
+                "name": "Shahrestān-e Maḩallāt"
+            },
+            {
+                "id": 49644,
+                "name": "Shahrestān-e Sāveh"
+            },
+            {
+                "id": 49645,
+                "name": "Shahrestān-e Shāzand"
+            },
+            {
+                "id": 49646,
+                "name": "Shahrestān-e Zarandīyeh"
+            },
+            {
+                "id": 49647,
+                "name": "Tafresh"
+            }
+        ]
+    },
+    {
+        "id": 1671,
+        "name": "Mazandaran Province",
+        "cities": [
+            {
+                "id": 49648,
+                "name": "Āmol"
+            },
+            {
+                "id": 49649,
+                "name": "Bābol"
+            },
+            {
+                "id": 49650,
+                "name": "Bābolsar"
+            },
+            {
+                "id": 49651,
+                "name": "Behshahr"
+            },
+            {
+                "id": 49652,
+                "name": "Chālūs"
+            },
+            {
+                "id": 49653,
+                "name": "Fereydūnkenār"
+            },
+            {
+                "id": 49654,
+                "name": "Jūybār"
+            },
+            {
+                "id": 49655,
+                "name": "Nashtārūd"
+            },
+            {
+                "id": 49656,
+                "name": "Nekā"
+            },
+            {
+                "id": 49657,
+                "name": "Nowshahr"
+            },
+            {
+                "id": 49658,
+                "name": "Sari"
+            },
+            {
+                "id": 49659,
+                "name": "Savadkuh-e Shomali"
+            },
+            {
+                "id": 49660,
+                "name": "Shahrestān-e ‘Abbāsābād"
+            },
+            {
+                "id": 49661,
+                "name": "Shahrestān-e Āmol"
+            },
+            {
+                "id": 49662,
+                "name": "Shahrestān-e Bābol"
+            },
+            {
+                "id": 49663,
+                "name": "Shahrestān-e Bābolsar"
+            },
+            {
+                "id": 49664,
+                "name": "Shahrestān-e Chālūs"
+            },
+            {
+                "id": 49665,
+                "name": "Shahrestān-e Fareydūnkenār"
+            },
+            {
+                "id": 49666,
+                "name": "Shahrestān-e Galūgāh"
+            },
+            {
+                "id": 49667,
+                "name": "Shahrestān-e Jūybār"
+            },
+            {
+                "id": 49668,
+                "name": "Shahrestan-e Kalār Dasht"
+            },
+            {
+                "id": 49669,
+                "name": "Shahrestān-e Maḩmūdābād"
+            },
+            {
+                "id": 49670,
+                "name": "Shahrestān-e Mīāndorūd"
+            },
+            {
+                "id": 49671,
+                "name": "Shahrestān-e Nekā"
+            },
+            {
+                "id": 49672,
+                "name": "Shahrestān-e Nūr"
+            },
+            {
+                "id": 49673,
+                "name": "Shahrestān-e Qā’em Shahr"
+            },
+            {
+                "id": 49674,
+                "name": "Shahrestān-e Rāmsar"
+            },
+            {
+                "id": 49675,
+                "name": "Shahrestān-e Sārī"
+            },
+            {
+                "id": 49676,
+                "name": "Shahrestān-e Savādkūh"
+            },
+            {
+                "id": 49677,
+                "name": "Shahrestān-e Tonekābon"
+            },
+            {
+                "id": 49678,
+                "name": "Simorgh County"
+            },
+            {
+                "id": 49679,
+                "name": "Tonekābon"
+            }
+        ]
+    },
+    {
+        "id": 1672,
+        "name": "North Khorasan Province",
+        "cities": [
+            {
+                "id": 49680,
+                "name": "Bojnūrd"
+            },
+            {
+                "id": 49681,
+                "name": "Esfarāyen"
+            },
+            {
+                "id": 49682,
+                "name": "Raz and Jargalan"
+            },
+            {
+                "id": 49683,
+                "name": "Shahrestān-e Bojnūrd"
+            },
+            {
+                "id": 49684,
+                "name": "Shahrestān-e Esfarāyen"
+            },
+            {
+                "id": 49685,
+                "name": "Shahrestān-e Fārūj"
+            },
+            {
+                "id": 49686,
+                "name": "Shahrestān-e Jājarm"
+            },
+            {
+                "id": 49687,
+                "name": "Shahrestān-e Māneh va Samalqān"
+            },
+            {
+                "id": 49688,
+                "name": "Shahrestān-e Shīrvān"
+            },
+            {
+                "id": 49689,
+                "name": "Shīrvān"
+            }
+        ]
+    },
+    {
+        "id": 1673,
+        "name": "Qazvin Province",
+        "cities": [
+            {
+                "id": 49690,
+                "name": "Alborz"
+            },
+            {
+                "id": 49691,
+                "name": "Alvand"
+            },
+            {
+                "id": 49692,
+                "name": "Avaj"
+            },
+            {
+                "id": 49693,
+                "name": "Qazvin"
+            },
+            {
+                "id": 49694,
+                "name": "Shahrestān-e Bū’īn Zahrā"
+            },
+            {
+                "id": 49695,
+                "name": "Shahrestān-e Qazvīn"
+            },
+            {
+                "id": 49696,
+                "name": "Shahrestān-e Tākestān"
+            },
+            {
+                "id": 49697,
+                "name": "Tākestān"
+            }
+        ]
+    },
+    {
+        "id": 1674,
+        "name": "Qom Province",
+        "cities": [
+            {
+                "id": 49698,
+                "name": "Qom"
+            }
+        ]
+    },
+    {
+        "id": 1675,
+        "name": "Razavi Khorasan Province",
+        "cities": [
+            {
+                "id": 49699,
+                "name": "Bardaskan"
+            },
+            {
+                "id": 49700,
+                "name": "Chenārān"
+            },
+            {
+                "id": 49701,
+                "name": "Dargaz"
+            },
+            {
+                "id": 49702,
+                "name": "Dāvarzan"
+            },
+            {
+                "id": 49703,
+                "name": "Gonābād"
+            },
+            {
+                "id": 49704,
+                "name": "Joveyn"
+            },
+            {
+                "id": 49705,
+                "name": "Kāshmar"
+            },
+            {
+                "id": 49706,
+                "name": "Mashhad"
+            },
+            {
+                "id": 49707,
+                "name": "Neyshābūr"
+            },
+            {
+                "id": 49708,
+                "name": "Qūchān"
+            },
+            {
+                "id": 49709,
+                "name": "Sabzevar"
+            },
+            {
+                "id": 49710,
+                "name": "Sarakhs"
+            },
+            {
+                "id": 49711,
+                "name": "Shahrestān-e Bajestān"
+            },
+            {
+                "id": 49712,
+                "name": "Shahrestān-e Bākharz"
+            },
+            {
+                "id": 49713,
+                "name": "Shahrestān-e Bīnālūd"
+            },
+            {
+                "id": 49714,
+                "name": "Shahrestān-e Chenārān"
+            },
+            {
+                "id": 49715,
+                "name": "Shahrestān-e Farīmān"
+            },
+            {
+                "id": 49716,
+                "name": "Shahrestān-e Fīrūzeh"
+            },
+            {
+                "id": 49717,
+                "name": "Shahrestān-e Gonābād"
+            },
+            {
+                "id": 49718,
+                "name": "Shahrestān-e Joghatāy"
+            },
+            {
+                "id": 49719,
+                "name": "Shahrestān-e Kalāt"
+            },
+            {
+                "id": 49720,
+                "name": "Shahrestān-e Kāshmar"
+            },
+            {
+                "id": 49721,
+                "name": "Shahrestān-e Khalīlābād"
+            },
+            {
+                "id": 49722,
+                "name": "Shahrestān-e Khowshāb"
+            },
+            {
+                "id": 49723,
+                "name": "Shahrestān-e Khvāf"
+            },
+            {
+                "id": 49724,
+                "name": "Shahrestān-e Mah Velāt"
+            },
+            {
+                "id": 49725,
+                "name": "Shahrestān-e Neyshābūr"
+            },
+            {
+                "id": 49726,
+                "name": "Shahrestān-e Qūchān"
+            },
+            {
+                "id": 49727,
+                "name": "Shahrestān-e Roshtkhvār"
+            },
+            {
+                "id": 49728,
+                "name": "Shahrestān-e Sabzevār"
+            },
+            {
+                "id": 49729,
+                "name": "Shahrestān-e Tāybād"
+            },
+            {
+                "id": 49730,
+                "name": "Shahrestān-e Torbat-e Ḩeydarīyeh"
+            },
+            {
+                "id": 49731,
+                "name": "Shahrestān-e Torbat-e Jām"
+            },
+            {
+                "id": 49732,
+                "name": "Shahrestān-e Zāveh"
+            },
+            {
+                "id": 49733,
+                "name": "Tāybād"
+            },
+            {
+                "id": 49734,
+                "name": "Torbat-e Ḩeydarīyeh"
+            },
+            {
+                "id": 49735,
+                "name": "Torbat-e Jām"
+            }
+        ]
+    },
+    {
+        "id": 1676,
+        "name": "Semnan Province",
+        "cities": [
+            {
+                "id": 49736,
+                "name": "Dāmghān"
+            },
+            {
+                "id": 49737,
+                "name": "Īstgāh-e Rāh Āhan-e Garmsār"
+            },
+            {
+                "id": 49738,
+                "name": "Mahdishahr"
+            },
+            {
+                "id": 49739,
+                "name": "Semnan"
+            },
+            {
+                "id": 49740,
+                "name": "Shahrestān-e Ārādān"
+            },
+            {
+                "id": 49741,
+                "name": "Shahrestān-e Dāmghān"
+            },
+            {
+                "id": 49742,
+                "name": "Shahrestān-e Garmsār"
+            },
+            {
+                "id": 49743,
+                "name": "Shahrestān-e Mayāmey"
+            },
+            {
+                "id": 49744,
+                "name": "Shahrestān-e Semnān"
+            },
+            {
+                "id": 49745,
+                "name": "Shahrestān-e Shāhrūd"
+            },
+            {
+                "id": 49746,
+                "name": "Shahrud"
+            }
+        ]
+    },
+    {
+        "id": 1677,
+        "name": "Sistan and Baluchestan",
+        "cities": [
+            {
+                "id": 49747,
+                "name": "Chabahar"
+            },
+            {
+                "id": 49748,
+                "name": "Fannūj"
+            },
+            {
+                "id": 49749,
+                "name": "Fanuj"
+            },
+            {
+                "id": 49750,
+                "name": "Hamoon"
+            },
+            {
+                "id": 49751,
+                "name": "Iranshahr"
+            },
+            {
+                "id": 49752,
+                "name": "Khāsh"
+            },
+            {
+                "id": 49753,
+                "name": "Mirjaveh"
+            },
+            {
+                "id": 49754,
+                "name": "Nīkshahr"
+            },
+            {
+                "id": 49755,
+                "name": "Nimruz"
+            },
+            {
+                "id": 49756,
+                "name": "Noşratābād"
+            },
+            {
+                "id": 49757,
+                "name": "Qaser-e Qand"
+            },
+            {
+                "id": 49758,
+                "name": "Qaşr-e Qand"
+            },
+            {
+                "id": 49759,
+                "name": "Shahrestān-e Chābahār"
+            },
+            {
+                "id": 49760,
+                "name": "Shahrestān-e Dalgān"
+            },
+            {
+                "id": 49761,
+                "name": "Shahrestān-e Hīrmand"
+            },
+            {
+                "id": 49762,
+                "name": "Shahrestān-e Īrānshahr"
+            },
+            {
+                "id": 49763,
+                "name": "Shahrestān-e Khāsh"
+            },
+            {
+                "id": 49764,
+                "name": "Shahrestān-e Konārak"
+            },
+            {
+                "id": 49765,
+                "name": "Shahrestān-e Mehrestān"
+            },
+            {
+                "id": 49766,
+                "name": "Shahrestān-e Nīkshahr"
+            },
+            {
+                "id": 49767,
+                "name": "Shahrestān-e Sarāvān"
+            },
+            {
+                "id": 49768,
+                "name": "Shahrestān-e Sarbāz"
+            },
+            {
+                "id": 49769,
+                "name": "Shahrestān-e Sīb va Sūrān"
+            },
+            {
+                "id": 49770,
+                "name": "Shahrestān-e Zābol"
+            },
+            {
+                "id": 49771,
+                "name": "Shahrestān-e Zāhedān"
+            },
+            {
+                "id": 49772,
+                "name": "Zābol"
+            },
+            {
+                "id": 49773,
+                "name": "Zahedan"
+            },
+            {
+                "id": 49774,
+                "name": "Zehak"
+            }
+        ]
+    },
+    {
+        "id": 1678,
+        "name": "South Khorasan Province",
+        "cities": [
+            {
+                "id": 49775,
+                "name": "Bīrjand"
+            },
+            {
+                "id": 49776,
+                "name": "Boshrūyeh"
+            },
+            {
+                "id": 49777,
+                "name": "Qā’en"
+            },
+            {
+                "id": 49778,
+                "name": "Shahrestān-e Bīrjand"
+            },
+            {
+                "id": 49779,
+                "name": "Shahrestān-e Darmīān"
+            },
+            {
+                "id": 49780,
+                "name": "Shahrestān-e Khūsf"
+            },
+            {
+                "id": 49781,
+                "name": "Shahrestān-e Nehbandān"
+            },
+            {
+                "id": 49782,
+                "name": "Shahrestān-e Qā’en"
+            },
+            {
+                "id": 49783,
+                "name": "Shahrestān-e Sarāyān"
+            },
+            {
+                "id": 49784,
+                "name": "Shahrestān-e Sarbīsheh"
+            },
+            {
+                "id": 49785,
+                "name": "Shahrestān-e Zīrkūh"
+            },
+            {
+                "id": 49786,
+                "name": "Tabas"
+            }
+        ]
+    },
+    {
+        "id": 1679,
+        "name": "Tehran Province",
+        "cities": [
+            {
+                "id": 49787,
+                "name": "Damāvand"
+            },
+            {
+                "id": 49788,
+                "name": "Eqbālīyeh"
+            },
+            {
+                "id": 49789,
+                "name": "Eslāmshahr"
+            },
+            {
+                "id": 49790,
+                "name": "Malārd"
+            },
+            {
+                "id": 49791,
+                "name": "Pardis"
+            },
+            {
+                "id": 49792,
+                "name": "Pīshvā"
+            },
+            {
+                "id": 49793,
+                "name": "Qarchak"
+            },
+            {
+                "id": 49794,
+                "name": "Qods"
+            },
+            {
+                "id": 49795,
+                "name": "Rey"
+            },
+            {
+                "id": 49796,
+                "name": "Robāţ Karīm"
+            },
+            {
+                "id": 49797,
+                "name": "Shahrak-e Emām Ḩasan"
+            },
+            {
+                "id": 49798,
+                "name": "Shahre Jadide Andisheh"
+            },
+            {
+                "id": 49799,
+                "name": "Shahrestān-e Bahārestān"
+            },
+            {
+                "id": 49800,
+                "name": "Shahrestān-e Damāvand"
+            },
+            {
+                "id": 49801,
+                "name": "Shahrestān-e Eslāmshahr"
+            },
+            {
+                "id": 49802,
+                "name": "Shahrestān-e Fīrūzkūh"
+            },
+            {
+                "id": 49803,
+                "name": "Shahrestān-e Malārd"
+            },
+            {
+                "id": 49804,
+                "name": "Shahrestān-e Pākdasht"
+            },
+            {
+                "id": 49805,
+                "name": "Shahrestān-e Pīshvā"
+            },
+            {
+                "id": 49806,
+                "name": "Shahrestān-e Robāţ Karīm"
+            },
+            {
+                "id": 49807,
+                "name": "Shahrestān-e Shahrīār"
+            },
+            {
+                "id": 49808,
+                "name": "Shahrestān-e Shemīrānāt"
+            },
+            {
+                "id": 49809,
+                "name": "Shahrestān-e Tehrān"
+            },
+            {
+                "id": 49810,
+                "name": "Shahrestān-e Varāmīn"
+            },
+            {
+                "id": 49811,
+                "name": "Shahrīār"
+            },
+            {
+                "id": 49812,
+                "name": "Sharīfābād"
+            },
+            {
+                "id": 49813,
+                "name": "Soleh Bon"
+            },
+            {
+                "id": 49814,
+                "name": "Ţāleb ābād"
+            },
+            {
+                "id": 49815,
+                "name": "Tehran"
+            },
+            {
+                "id": 49816,
+                "name": "Varāmīn"
+            }
+        ]
+    },
+    {
+        "id": 1680,
+        "name": "West Azarbaijan Province",
+        "cities": [
+            {
+                "id": 49817,
+                "name": "Būkān"
+            },
+            {
+                "id": 49818,
+                "name": "Chāypāreh"
+            },
+            {
+                "id": 49819,
+                "name": "Khowy"
+            },
+            {
+                "id": 49820,
+                "name": "Mahābād"
+            },
+            {
+                "id": 49821,
+                "name": "Mīāndoāb"
+            },
+            {
+                "id": 49822,
+                "name": "Naqadeh"
+            },
+            {
+                "id": 49823,
+                "name": "Orūmīyeh"
+            },
+            {
+                "id": 49824,
+                "name": "Oshnavīyeh"
+            },
+            {
+                "id": 49825,
+                "name": "Piranshahr"
+            },
+            {
+                "id": 49826,
+                "name": "Poldasht"
+            },
+            {
+                "id": 49827,
+                "name": "Qarah Ẕīā’ od Dīn"
+            },
+            {
+                "id": 49828,
+                "name": "Salmās"
+            },
+            {
+                "id": 49829,
+                "name": "Sardasht"
+            },
+            {
+                "id": 49830,
+                "name": "Shāhīn Dezh"
+            },
+            {
+                "id": 49831,
+                "name": "Shahrestān-e Būkān"
+            },
+            {
+                "id": 49832,
+                "name": "Shahrestān-e Chāldorān"
+            },
+            {
+                "id": 49833,
+                "name": "Shahrestān-e Mahābād"
+            },
+            {
+                "id": 49834,
+                "name": "Shahrestān-e Mākū"
+            },
+            {
+                "id": 49835,
+                "name": "Shahrestān-e Mīāndoāb"
+            },
+            {
+                "id": 49836,
+                "name": "Shahrestān-e Orūmīyeh"
+            },
+            {
+                "id": 49837,
+                "name": "Shahrestān-e Oshnavīyeh"
+            },
+            {
+                "id": 49838,
+                "name": "Shahrestān-e Pīrānshahr"
+            },
+            {
+                "id": 49839,
+                "name": "Shahrestān-e Salmās"
+            },
+            {
+                "id": 49840,
+                "name": "Shahrestān-e Shāhīn Dezh"
+            },
+            {
+                "id": 49841,
+                "name": "Shahrestān-e Takāb"
+            },
+            {
+                "id": 49842,
+                "name": "Takāb"
+            }
+        ]
+    },
+    {
+        "id": 1681,
+        "name": "Yazd Province",
+        "cities": [
+            {
+                "id": 49843,
+                "name": "Ardakān"
+            },
+            {
+                "id": 49844,
+                "name": "Bāfq"
+            },
+            {
+                "id": 49845,
+                "name": "Khavāş Kūh"
+            },
+            {
+                "id": 49846,
+                "name": "Mahrīz"
+            },
+            {
+                "id": 49847,
+                "name": "Meybod"
+            },
+            {
+                "id": 49848,
+                "name": "Shahrestān-e Abarkūh"
+            },
+            {
+                "id": 49849,
+                "name": "Shahrestān-e Ardakān"
+            },
+            {
+                "id": 49850,
+                "name": "Shahrestān-e Ashkez̄ar"
+            },
+            {
+                "id": 49851,
+                "name": "Shahrestān-e Bāfq"
+            },
+            {
+                "id": 49852,
+                "name": "Shahrestān-e Behābād"
+            },
+            {
+                "id": 49853,
+                "name": "Shahrestān-e Khātam"
+            },
+            {
+                "id": 49854,
+                "name": "Shahrestān-e Mehrīz"
+            },
+            {
+                "id": 49855,
+                "name": "Shahrestān-e Yazd"
+            },
+            {
+                "id": 49856,
+                "name": "Tabas"
+            },
+            {
+                "id": 49857,
+                "name": "Taft"
+            },
+            {
+                "id": 49858,
+                "name": "Yazd"
+            }
+        ]
+    },
+    {
+        "id": 1682,
+        "name": "Zanjan Province",
+        "cities": [
+            {
+                "id": 49859,
+                "name": "Abhar"
+            },
+            {
+                "id": 49860,
+                "name": "Alvand"
+            },
+            {
+                "id": 49861,
+                "name": "Khorramdarreh"
+            },
+            {
+                "id": 49862,
+                "name": "Shahrestān-e Ījrūd"
+            },
+            {
+                "id": 49863,
+                "name": "Shahrestān-e Khodābandeh"
+            },
+            {
+                "id": 49864,
+                "name": "Shahrestān-e Māhneshān"
+            },
+            {
+                "id": 49865,
+                "name": "Shahrestān-e Ţārom"
+            },
+            {
+                "id": 49866,
+                "name": "Shahrestān-e Zanjān"
+            },
+            {
+                "id": 49867,
+                "name": "Soltaniyeh"
+            },
+            {
+                "id": 49868,
+                "name": "Zanjān"
+            }
+        ]
+    }
+]

@@ -1,0 +1,220 @@
+[
+    {
+        "id": 2797,
+        "name": "Cabo Delgado Province",
+        "cities": [
+            {
+                "id": 74302,
+                "name": "Chiure"
+            },
+            {
+                "id": 74303,
+                "name": "Mocímboa"
+            },
+            {
+                "id": 74304,
+                "name": "Montepuez"
+            },
+            {
+                "id": 74305,
+                "name": "Pemba"
+            }
+        ]
+    },
+    {
+        "id": 2798,
+        "name": "Gaza Province",
+        "cities": [
+            {
+                "id": 74306,
+                "name": "Chibuto"
+            },
+            {
+                "id": 74307,
+                "name": "Chokwé"
+            },
+            {
+                "id": 74308,
+                "name": "Macia"
+            },
+            {
+                "id": 74309,
+                "name": "Xai-Xai"
+            }
+        ]
+    },
+    {
+        "id": 2799,
+        "name": "Inhambane Province",
+        "cities": [
+            {
+                "id": 74310,
+                "name": "Inhambane"
+            },
+            {
+                "id": 74311,
+                "name": "Maxixe"
+            }
+        ]
+    },
+    {
+        "id": 2800,
+        "name": "Manica Province",
+        "cities": [
+            {
+                "id": 74312,
+                "name": "Chimoio"
+            }
+        ]
+    },
+    {
+        "id": 2801,
+        "name": "Maputo",
+        "cities": [
+            {
+                "id": 74313,
+                "name": "KaTembe"
+            },
+            {
+                "id": 74314,
+                "name": "Maputo"
+            }
+        ]
+    },
+    {
+        "id": 2802,
+        "name": "Maputo Province",
+        "cities": [
+            {
+                "id": 74315,
+                "name": "Boane District"
+            },
+            {
+                "id": 74316,
+                "name": "Concelho de Matola"
+            },
+            {
+                "id": 74317,
+                "name": "Magude District"
+            },
+            {
+                "id": 74318,
+                "name": "Manhica"
+            },
+            {
+                "id": 74319,
+                "name": "Marracuene District"
+            },
+            {
+                "id": 74320,
+                "name": "Matola"
+            },
+            {
+                "id": 74321,
+                "name": "Matutiune District"
+            },
+            {
+                "id": 74322,
+                "name": "Moamba District"
+            },
+            {
+                "id": 74323,
+                "name": "Namaacha District"
+            },
+            {
+                "id": 74324,
+                "name": "Ressano Garcia"
+            }
+        ]
+    },
+    {
+        "id": 2803,
+        "name": "Nampula Province",
+        "cities": [
+            {
+                "id": 74325,
+                "name": "António Enes"
+            },
+            {
+                "id": 74326,
+                "name": "Ilha de Moçambique"
+            },
+            {
+                "id": 74327,
+                "name": "Mutuáli"
+            },
+            {
+                "id": 74328,
+                "name": "Nacala"
+            },
+            {
+                "id": 74329,
+                "name": "Nampula"
+            }
+        ]
+    },
+    {
+        "id": 2804,
+        "name": "Niassa Province",
+        "cities": [
+            {
+                "id": 74330,
+                "name": "Cuamba"
+            },
+            {
+                "id": 74331,
+                "name": "Lichinga"
+            },
+            {
+                "id": 74332,
+                "name": "Mandimba"
+            }
+        ]
+    },
+    {
+        "id": 2805,
+        "name": "Sofala Province",
+        "cities": [
+            {
+                "id": 74333,
+                "name": "Beira"
+            },
+            {
+                "id": 74334,
+                "name": "Dondo"
+            },
+            {
+                "id": 74335,
+                "name": "Nhamatanda District"
+            }
+        ]
+    },
+    {
+        "id": 2806,
+        "name": "Tete Province",
+        "cities": [
+            {
+                "id": 74336,
+                "name": "Tete"
+            }
+        ]
+    },
+    {
+        "id": 2807,
+        "name": "Zambezia Province",
+        "cities": [
+            {
+                "id": 74337,
+                "name": "Alto Molócuè"
+            },
+            {
+                "id": 74338,
+                "name": "Chinde"
+            },
+            {
+                "id": 74339,
+                "name": "Quelimane"
+            }
+        ]
+    }
+]

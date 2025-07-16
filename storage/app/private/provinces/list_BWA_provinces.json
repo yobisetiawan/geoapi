@@ -1,0 +1,361 @@
+[
+    {
+        "id": 504,
+        "name": "Central District",
+        "cities": [
+            {
+                "id": 10120,
+                "name": "Gobojango"
+            },
+            {
+                "id": 10121,
+                "name": "Gweta"
+            },
+            {
+                "id": 10122,
+                "name": "Kalamare"
+            },
+            {
+                "id": 10123,
+                "name": "Letlhakane"
+            },
+            {
+                "id": 10124,
+                "name": "Letsheng"
+            },
+            {
+                "id": 10125,
+                "name": "Maapi"
+            },
+            {
+                "id": 10126,
+                "name": "Machaneng"
+            },
+            {
+                "id": 10127,
+                "name": "Mahalapye"
+            },
+            {
+                "id": 10128,
+                "name": "Makobeng"
+            },
+            {
+                "id": 10129,
+                "name": "Makwata"
+            },
+            {
+                "id": 10130,
+                "name": "Mathakola"
+            },
+            {
+                "id": 10131,
+                "name": "Mathambgwane"
+            },
+            {
+                "id": 10132,
+                "name": "Mathathane"
+            },
+            {
+                "id": 10133,
+                "name": "Maunatlala"
+            },
+            {
+                "id": 10134,
+                "name": "Mogapi"
+            },
+            {
+                "id": 10135,
+                "name": "Moijabana"
+            },
+            {
+                "id": 10136,
+                "name": "Mookane"
+            },
+            {
+                "id": 10137,
+                "name": "Mopipi"
+            },
+            {
+                "id": 10138,
+                "name": "Mosetse"
+            },
+            {
+                "id": 10139,
+                "name": "Nata"
+            },
+            {
+                "id": 10140,
+                "name": "Orapa"
+            },
+            {
+                "id": 10141,
+                "name": "Palapye"
+            },
+            {
+                "id": 10142,
+                "name": "Pilikwe"
+            },
+            {
+                "id": 10143,
+                "name": "Rakops"
+            },
+            {
+                "id": 10144,
+                "name": "Ramokgonami"
+            },
+            {
+                "id": 10145,
+                "name": "Ratholo"
+            },
+            {
+                "id": 10146,
+                "name": "Sefophe"
+            },
+            {
+                "id": 10147,
+                "name": "Serowe"
+            },
+            {
+                "id": 10148,
+                "name": "Sua"
+            },
+            {
+                "id": 10149,
+                "name": "Tamasane"
+            },
+            {
+                "id": 10150,
+                "name": "Tobane"
+            },
+            {
+                "id": 10151,
+                "name": "Tonota"
+            }
+        ]
+    },
+    {
+        "id": 505,
+        "name": "Ghanzi District",
+        "cities": [
+            {
+                "id": 10152,
+                "name": "Dekar"
+            },
+            {
+                "id": 10153,
+                "name": "Ghanzi"
+            }
+        ]
+    },
+    {
+        "id": 506,
+        "name": "Kgalagadi District",
+        "cities": [
+            {
+                "id": 10154,
+                "name": "Hukuntsi"
+            },
+            {
+                "id": 10155,
+                "name": "Kang"
+            },
+            {
+                "id": 10156,
+                "name": "Lehututu"
+            },
+            {
+                "id": 10157,
+                "name": "Manyana"
+            },
+            {
+                "id": 10158,
+                "name": "Tshabong"
+            },
+            {
+                "id": 10159,
+                "name": "Werda"
+            }
+        ]
+    },
+    {
+        "id": 507,
+        "name": "Kgatleng District",
+        "cities": [
+            {
+                "id": 10160,
+                "name": "Bokaa"
+            },
+            {
+                "id": 10161,
+                "name": "Mmathubudukwane"
+            },
+            {
+                "id": 10162,
+                "name": "Mochudi"
+            },
+            {
+                "id": 10163,
+                "name": "Pilane"
+            }
+        ]
+    },
+    {
+        "id": 508,
+        "name": "Kweneng District",
+        "cities": [
+            {
+                "id": 10164,
+                "name": "Botlhapatlou"
+            },
+            {
+                "id": 10165,
+                "name": "Dutlwe"
+            },
+            {
+                "id": 10166,
+                "name": "Gabane"
+            },
+            {
+                "id": 10167,
+                "name": "Gaphatshwe"
+            },
+            {
+                "id": 10168,
+                "name": "Khudumelapye"
+            },
+            {
+                "id": 10169,
+                "name": "Lenchwe Le Tau"
+            },
+            {
+                "id": 10170,
+                "name": "Letlhakeng"
+            },
+            {
+                "id": 10171,
+                "name": "Metsemotlhaba"
+            },
+            {
+                "id": 10172,
+                "name": "Mmopone"
+            },
+            {
+                "id": 10173,
+                "name": "Mogoditshane"
+            },
+            {
+                "id": 10174,
+                "name": "Molepolole"
+            },
+            {
+                "id": 10175,
+                "name": "Nkoyaphiri"
+            },
+            {
+                "id": 10176,
+                "name": "Thamaga"
+            }
+        ]
+    },
+    {
+        "id": 509,
+        "name": "Ngamiland",
+        "cities": []
+    },
+    {
+        "id": 510,
+        "name": "North-East District",
+        "cities": [
+            {
+                "id": 10177,
+                "name": "Dukwe"
+            },
+            {
+                "id": 10178,
+                "name": "Makaleng"
+            },
+            {
+                "id": 10179,
+                "name": "Masunga"
+            },
+            {
+                "id": 10180,
+                "name": "Sebina"
+            }
+        ]
+    },
+    {
+        "id": 511,
+        "name": "North-West District",
+        "cities": [
+            {
+                "id": 10181,
+                "name": "Maun"
+            },
+            {
+                "id": 10182,
+                "name": "Nokaneng"
+            },
+            {
+                "id": 10183,
+                "name": "Pandamatenga"
+            },
+            {
+                "id": 10184,
+                "name": "Sehithwa"
+            },
+            {
+                "id": 10185,
+                "name": "Shakawe"
+            }
+        ]
+    },
+    {
+        "id": 512,
+        "name": "South-East District",
+        "cities": [
+            {
+                "id": 10186,
+                "name": "Gaborone"
+            },
+            {
+                "id": 10187,
+                "name": "Janeng"
+            },
+            {
+                "id": 10188,
+                "name": "Kopong"
+            },
+            {
+                "id": 10189,
+                "name": "Otse"
+            },
+            {
+                "id": 10190,
+                "name": "Ramotswa"
+            }
+        ]
+    },
+    {
+        "id": 513,
+        "name": "Southern District",
+        "cities": [
+            {
+                "id": 10191,
+                "name": "Kanye"
+            },
+            {
+                "id": 10192,
+                "name": "Khakhea"
+            },
+            {
+                "id": 10193,
+                "name": "Mosopa"
+            },
+            {
+                "id": 10194,
+                "name": "Sekoma"
+            }
+        ]
+    }
+]

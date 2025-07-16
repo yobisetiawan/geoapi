@@ -1,0 +1,419 @@
+[
+    {
+        "id": 2060,
+        "name": "Attapeu Province",
+        "cities": [
+            {
+                "id": 63779,
+                "name": "Attapeu"
+            },
+            {
+                "id": 63780,
+                "name": "Muang Phouvong"
+            },
+            {
+                "id": 63781,
+                "name": "Muang Samakhixai"
+            },
+            {
+                "id": 63782,
+                "name": "Muang Sanamxai"
+            },
+            {
+                "id": 63783,
+                "name": "Muang Sanxai"
+            },
+            {
+                "id": 63784,
+                "name": "Muang Xaiséttha"
+            }
+        ]
+    },
+    {
+        "id": 2061,
+        "name": "Bokeo Province",
+        "cities": [
+            {
+                "id": 63785,
+                "name": "Ban Houakhoua"
+            },
+            {
+                "id": 63786,
+                "name": "Ban Houayxay"
+            },
+            {
+                "id": 63787,
+                "name": "Muang Houayxay"
+            },
+            {
+                "id": 63788,
+                "name": "Muang Meung"
+            },
+            {
+                "id": 63789,
+                "name": "Muang Paktha"
+            },
+            {
+                "id": 63790,
+                "name": "Muang Pha Oudôm"
+            },
+            {
+                "id": 63791,
+                "name": "Muang Tônpheung"
+            }
+        ]
+    },
+    {
+        "id": 2062,
+        "name": "Bolikhamsai Province",
+        "cities": [
+            {
+                "id": 63792,
+                "name": "Ban Nahin"
+            },
+            {
+                "id": 63793,
+                "name": "Pakxan"
+            }
+        ]
+    },
+    {
+        "id": 2063,
+        "name": "Champasak Province",
+        "cities": [
+            {
+                "id": 63794,
+                "name": "Champasak"
+            },
+            {
+                "id": 63795,
+                "name": "Muang Bachiangchaleunsook"
+            },
+            {
+                "id": 63796,
+                "name": "Muang Champasak"
+            },
+            {
+                "id": 63797,
+                "name": "Muang Không"
+            },
+            {
+                "id": 63798,
+                "name": "Muang Mounlapamôk"
+            },
+            {
+                "id": 63799,
+                "name": "Muang Pakxé"
+            },
+            {
+                "id": 63800,
+                "name": "Muang Pakxong"
+            },
+            {
+                "id": 63801,
+                "name": "Muang Pathoumphon"
+            },
+            {
+                "id": 63802,
+                "name": "Muang Phônthong"
+            },
+            {
+                "id": 63803,
+                "name": "Muang Soukhouma"
+            },
+            {
+                "id": 63804,
+                "name": "Muang Xanasômboun"
+            },
+            {
+                "id": 63805,
+                "name": "Pakse"
+            },
+            {
+                "id": 63806,
+                "name": "Pakxong"
+            }
+        ]
+    },
+    {
+        "id": 2064,
+        "name": "Houaphanh Province",
+        "cities": [
+            {
+                "id": 63807,
+                "name": "Xam Neua"
+            },
+            {
+                "id": 63808,
+                "name": "Xam Nua"
+            }
+        ]
+    },
+    {
+        "id": 2065,
+        "name": "Khammouane Province",
+        "cities": [
+            {
+                "id": 63809,
+                "name": "Muang Thakhèk"
+            },
+            {
+                "id": 63810,
+                "name": "Thakhèk"
+            }
+        ]
+    },
+    {
+        "id": 2066,
+        "name": "Luang Namtha Province",
+        "cities": [
+            {
+                "id": 63811,
+                "name": "Luang Namtha"
+            },
+            {
+                "id": 63812,
+                "name": "Muang Louang Namtha"
+            }
+        ]
+    },
+    {
+        "id": 2067,
+        "name": "Luang Prabang Province",
+        "cities": [
+            {
+                "id": 63813,
+                "name": "Luang Prabang"
+            }
+        ]
+    },
+    {
+        "id": 2068,
+        "name": "Oudomxay Province",
+        "cities": [
+            {
+                "id": 63814,
+                "name": "Muang Xay"
+            }
+        ]
+    },
+    {
+        "id": 2069,
+        "name": "Phongsaly Province",
+        "cities": [
+            {
+                "id": 63815,
+                "name": "Phôngsali"
+            }
+        ]
+    },
+    {
+        "id": 2070,
+        "name": "Sainyabuli Province",
+        "cities": [
+            {
+                "id": 63816,
+                "name": "Sainyabuli"
+            }
+        ]
+    },
+    {
+        "id": 2071,
+        "name": "Salavan Province",
+        "cities": [
+            {
+                "id": 63817,
+                "name": "Muang Khôngxédôn"
+            },
+            {
+                "id": 63818,
+                "name": "Muang Lakhonphéng"
+            },
+            {
+                "id": 63819,
+                "name": "Muang Laongam"
+            },
+            {
+                "id": 63820,
+                "name": "Muang Samouay"
+            },
+            {
+                "id": 63821,
+                "name": "Muang Saravan"
+            },
+            {
+                "id": 63822,
+                "name": "Muang Ta-Ôy"
+            },
+            {
+                "id": 63823,
+                "name": "Muang Toumlan"
+            },
+            {
+                "id": 63824,
+                "name": "Muang Vapi"
+            },
+            {
+                "id": 63825,
+                "name": "Salavan"
+            }
+        ]
+    },
+    {
+        "id": 2072,
+        "name": "Savannakhet Province",
+        "cities": [
+            {
+                "id": 63826,
+                "name": "Kaysone Phomvihane"
+            },
+            {
+                "id": 63827,
+                "name": "Muang Alsaphangthong"
+            },
+            {
+                "id": 63828,
+                "name": "Muang Atsaphan"
+            },
+            {
+                "id": 63829,
+                "name": "Muang Champhon"
+            },
+            {
+                "id": 63830,
+                "name": "Muang Nong"
+            },
+            {
+                "id": 63831,
+                "name": "Muang Outhoumphon"
+            },
+            {
+                "id": 63832,
+                "name": "Muang Phin"
+            },
+            {
+                "id": 63833,
+                "name": "Muang Songkhon"
+            },
+            {
+                "id": 63834,
+                "name": "Muang Thapangthong"
+            },
+            {
+                "id": 63835,
+                "name": "Muang Vilabouli"
+            },
+            {
+                "id": 63836,
+                "name": "Muang Xaibouli"
+            },
+            {
+                "id": 63837,
+                "name": "Muang Xayphoothong"
+            },
+            {
+                "id": 63838,
+                "name": "Muang Xônbouli"
+            },
+            {
+                "id": 63839,
+                "name": "Savannakhet"
+            },
+            {
+                "id": 63840,
+                "name": "Thaphalanxay"
+            }
+        ]
+    },
+    {
+        "id": 2073,
+        "name": "Sekong Province",
+        "cities": [
+            {
+                "id": 63841,
+                "name": "Ban Thatèng"
+            },
+            {
+                "id": 63842,
+                "name": "Lamam"
+            },
+            {
+                "id": 63843,
+                "name": "Muang Dakchung"
+            },
+            {
+                "id": 63844,
+                "name": "Muang Khaleum"
+            },
+            {
+                "id": 63845,
+                "name": "Muang Laman"
+            },
+            {
+                "id": 63846,
+                "name": "Muang Thatèng"
+            }
+        ]
+    },
+    {
+        "id": 2074,
+        "name": "Vientiane Prefecture",
+        "cities": [
+            {
+                "id": 63847,
+                "name": "Vientiane"
+            }
+        ]
+    },
+    {
+        "id": 2075,
+        "name": "Vientiane Province",
+        "cities": [
+            {
+                "id": 63848,
+                "name": "Muang Phôn-Hông"
+            },
+            {
+                "id": 63849,
+                "name": "Vangviang"
+            }
+        ]
+    },
+    {
+        "id": 2076,
+        "name": "Xaisomboun",
+        "cities": []
+    },
+    {
+        "id": 2077,
+        "name": "Xaisomboun Province",
+        "cities": [
+            {
+                "id": 63850,
+                "name": "Anouvong district"
+            },
+            {
+                "id": 63851,
+                "name": "Longchaeng"
+            },
+            {
+                "id": 63852,
+                "name": "Muang Longxan"
+            },
+            {
+                "id": 63853,
+                "name": "Muang Thathôm"
+            }
+        ]
+    },
+    {
+        "id": 2078,
+        "name": "Xiangkhouang Province",
+        "cities": [
+            {
+                "id": 63854,
+                "name": "Muang Phônsavan"
+            }
+        ]
+    }
+]

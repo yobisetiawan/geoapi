@@ -1,0 +1,2026 @@
+[
+    {
+        "id": 3071,
+        "name": "Amazonas",
+        "cities": [
+            {
+                "id": 79075,
+                "name": "Bagua Grande"
+            },
+            {
+                "id": 79076,
+                "name": "Cajaruro"
+            },
+            {
+                "id": 79077,
+                "name": "Chachapoyas"
+            },
+            {
+                "id": 79078,
+                "name": "Condorcanqui"
+            },
+            {
+                "id": 79079,
+                "name": "La Peca"
+            },
+            {
+                "id": 79080,
+                "name": "Provincia de Bagua"
+            },
+            {
+                "id": 79081,
+                "name": "Provincia de Bongará"
+            },
+            {
+                "id": 79082,
+                "name": "Provincia de Chachapoyas"
+            },
+            {
+                "id": 79083,
+                "name": "Provincia de Luya"
+            },
+            {
+                "id": 79084,
+                "name": "Provincia de Rodríguez de Mendoza"
+            },
+            {
+                "id": 79085,
+                "name": "Utcubamba"
+            }
+        ]
+    },
+    {
+        "id": 3072,
+        "name": "Áncash",
+        "cities": [
+            {
+                "id": 79086,
+                "name": "Asuncion"
+            },
+            {
+                "id": 79087,
+                "name": "Carás"
+            },
+            {
+                "id": 79088,
+                "name": "Carhuaz"
+            },
+            {
+                "id": 79089,
+                "name": "Carlos Fermin Fitzcarrald"
+            },
+            {
+                "id": 79090,
+                "name": "Chimbote"
+            },
+            {
+                "id": 79091,
+                "name": "Coishco"
+            },
+            {
+                "id": 79092,
+                "name": "Huaraz"
+            },
+            {
+                "id": 79093,
+                "name": "Huarmey"
+            },
+            {
+                "id": 79094,
+                "name": "Pomabamba"
+            },
+            {
+                "id": 79095,
+                "name": "Provincia de Aija"
+            },
+            {
+                "id": 79096,
+                "name": "Provincia de Antonio Raymondi"
+            },
+            {
+                "id": 79097,
+                "name": "Provincia de Bolognesi"
+            },
+            {
+                "id": 79098,
+                "name": "Provincia de Carhuaz"
+            },
+            {
+                "id": 79099,
+                "name": "Provincia de Casma"
+            },
+            {
+                "id": 79100,
+                "name": "Provincia de Corongo"
+            },
+            {
+                "id": 79101,
+                "name": "Provincia de Huaraz"
+            },
+            {
+                "id": 79102,
+                "name": "Provincia de Huari"
+            },
+            {
+                "id": 79103,
+                "name": "Provincia de Huarmey"
+            },
+            {
+                "id": 79104,
+                "name": "Provincia de Huaylas"
+            },
+            {
+                "id": 79105,
+                "name": "Provincia de Mariscal Luzuriaga"
+            },
+            {
+                "id": 79106,
+                "name": "Provincia de Pallasca"
+            },
+            {
+                "id": 79107,
+                "name": "Provincia de Pomabamba"
+            },
+            {
+                "id": 79108,
+                "name": "Provincia de Recuay"
+            },
+            {
+                "id": 79109,
+                "name": "Provincia de Santa"
+            },
+            {
+                "id": 79110,
+                "name": "Provincia de Sihuas"
+            },
+            {
+                "id": 79111,
+                "name": "Provincia de Yungay"
+            },
+            {
+                "id": 79112,
+                "name": "Puerto Santa"
+            },
+            {
+                "id": 79113,
+                "name": "Yauya"
+            },
+            {
+                "id": 79114,
+                "name": "Yungay"
+            }
+        ]
+    },
+    {
+        "id": 3073,
+        "name": "Apurímac",
+        "cities": [
+            {
+                "id": 79115,
+                "name": "Abancay"
+            },
+            {
+                "id": 79116,
+                "name": "Andahuaylas"
+            },
+            {
+                "id": 79117,
+                "name": "Provincia de Abancay"
+            },
+            {
+                "id": 79118,
+                "name": "Provincia de Andahuaylas"
+            },
+            {
+                "id": 79119,
+                "name": "Provincia de Antabamba"
+            },
+            {
+                "id": 79120,
+                "name": "Provincia de Aymaraes"
+            },
+            {
+                "id": 79121,
+                "name": "Provincia de Cotabambas"
+            },
+            {
+                "id": 79122,
+                "name": "Provincia de Grau"
+            },
+            {
+                "id": 79123,
+                "name": "San Jerónimo"
+            },
+            {
+                "id": 79124,
+                "name": "Talavera"
+            }
+        ]
+    },
+    {
+        "id": 3074,
+        "name": "Arequipa",
+        "cities": [
+            {
+                "id": 79125,
+                "name": "Acarí"
+            },
+            {
+                "id": 79126,
+                "name": "Arequipa"
+            },
+            {
+                "id": 79127,
+                "name": "Camaná"
+            },
+            {
+                "id": 79128,
+                "name": "Ccolo"
+            },
+            {
+                "id": 79129,
+                "name": "Chivay"
+            },
+            {
+                "id": 79130,
+                "name": "Cocachacra"
+            },
+            {
+                "id": 79131,
+                "name": "Cotahuasi"
+            },
+            {
+                "id": 79132,
+                "name": "Huarancante"
+            },
+            {
+                "id": 79133,
+                "name": "Huarichancara"
+            },
+            {
+                "id": 79134,
+                "name": "Jatun Orcochiri"
+            },
+            {
+                "id": 79135,
+                "name": "Jayune"
+            },
+            {
+                "id": 79136,
+                "name": "Llongasora"
+            },
+            {
+                "id": 79137,
+                "name": "Lluta"
+            },
+            {
+                "id": 79138,
+                "name": "Mollendo"
+            },
+            {
+                "id": 79139,
+                "name": "Orcopampa"
+            },
+            {
+                "id": 79140,
+                "name": "Provincia de Arequipa"
+            },
+            {
+                "id": 79141,
+                "name": "Provincia de Camaná"
+            },
+            {
+                "id": 79142,
+                "name": "Provincia de Caravelí"
+            },
+            {
+                "id": 79143,
+                "name": "Provincia de Castilla"
+            },
+            {
+                "id": 79144,
+                "name": "Provincia de Caylloma"
+            },
+            {
+                "id": 79145,
+                "name": "Provincia de Condesuyos"
+            },
+            {
+                "id": 79146,
+                "name": "Provincia de Islay"
+            },
+            {
+                "id": 79147,
+                "name": "Provincia de La Unión"
+            },
+            {
+                "id": 79148,
+                "name": "Pucara"
+            },
+            {
+                "id": 79149,
+                "name": "Punta de Bombón"
+            },
+            {
+                "id": 79150,
+                "name": "Vizcachane"
+            },
+            {
+                "id": 79151,
+                "name": "Yura"
+            }
+        ]
+    },
+    {
+        "id": 3075,
+        "name": "Ayacucho",
+        "cities": [
+            {
+                "id": 79152,
+                "name": "Ayacucho"
+            },
+            {
+                "id": 79153,
+                "name": "Ayna"
+            },
+            {
+                "id": 79154,
+                "name": "Coracora"
+            },
+            {
+                "id": 79155,
+                "name": "Huanta"
+            },
+            {
+                "id": 79156,
+                "name": "Paucar Del Sara Sara"
+            },
+            {
+                "id": 79157,
+                "name": "Provincia de Cangallo"
+            },
+            {
+                "id": 79158,
+                "name": "Provincia de Huamanga"
+            },
+            {
+                "id": 79159,
+                "name": "Provincia de Huanca Sancos"
+            },
+            {
+                "id": 79160,
+                "name": "Provincia de Huanta"
+            },
+            {
+                "id": 79161,
+                "name": "Provincia de La Mar"
+            },
+            {
+                "id": 79162,
+                "name": "Provincia de Lucanas"
+            },
+            {
+                "id": 79163,
+                "name": "Provincia de Parinacochas"
+            },
+            {
+                "id": 79164,
+                "name": "Provincia de Sucre"
+            },
+            {
+                "id": 79165,
+                "name": "Provincia de Víctor Fajardo"
+            },
+            {
+                "id": 79166,
+                "name": "Provincia de Vilcas Huamán"
+            },
+            {
+                "id": 79167,
+                "name": "Puquio"
+            },
+            {
+                "id": 79168,
+                "name": "San Miguel"
+            },
+            {
+                "id": 79169,
+                "name": "Tambo"
+            }
+        ]
+    },
+    {
+        "id": 3076,
+        "name": "Cajamarca",
+        "cities": [
+            {
+                "id": 79170,
+                "name": "Bambamarca"
+            },
+            {
+                "id": 79171,
+                "name": "Bellavista"
+            },
+            {
+                "id": 79172,
+                "name": "Cajabamba"
+            },
+            {
+                "id": 79173,
+                "name": "Cajamarca"
+            },
+            {
+                "id": 79174,
+                "name": "Celendín"
+            },
+            {
+                "id": 79175,
+                "name": "Chota"
+            },
+            {
+                "id": 79176,
+                "name": "Jaén"
+            },
+            {
+                "id": 79177,
+                "name": "Provincia de Cajabamba"
+            },
+            {
+                "id": 79178,
+                "name": "Provincia de Cajamarca"
+            },
+            {
+                "id": 79179,
+                "name": "Provincia de Celendín"
+            },
+            {
+                "id": 79180,
+                "name": "Provincia de Chota"
+            },
+            {
+                "id": 79181,
+                "name": "Provincia de Contumazá"
+            },
+            {
+                "id": 79182,
+                "name": "Provincia de Cutervo"
+            },
+            {
+                "id": 79183,
+                "name": "Provincia de Hualgayoc"
+            },
+            {
+                "id": 79184,
+                "name": "Provincia de Jaén"
+            },
+            {
+                "id": 79185,
+                "name": "Provincia de San Ignacio"
+            },
+            {
+                "id": 79186,
+                "name": "Provincia de San Miguel"
+            },
+            {
+                "id": 79187,
+                "name": "Provincia de Santa Cruz"
+            },
+            {
+                "id": 79188,
+                "name": "San Ignacio"
+            }
+        ]
+    },
+    {
+        "id": 3077,
+        "name": "Callao",
+        "cities": [
+            {
+                "id": 79189,
+                "name": "Callao"
+            }
+        ]
+    },
+    {
+        "id": 3078,
+        "name": "Cusco",
+        "cities": [
+            {
+                "id": 79190,
+                "name": "Anta"
+            },
+            {
+                "id": 79191,
+                "name": "Cahuanuyo"
+            },
+            {
+                "id": 79192,
+                "name": "Calca"
+            },
+            {
+                "id": 79193,
+                "name": "Callanca"
+            },
+            {
+                "id": 79194,
+                "name": "Ccaquiracunca"
+            },
+            {
+                "id": 79195,
+                "name": "Ccuntuma"
+            },
+            {
+                "id": 79196,
+                "name": "Checacupe"
+            },
+            {
+                "id": 79197,
+                "name": "Checca"
+            },
+            {
+                "id": 79198,
+                "name": "Chignayhua"
+            },
+            {
+                "id": 79199,
+                "name": "Chinchero"
+            },
+            {
+                "id": 79200,
+                "name": "Combapata"
+            },
+            {
+                "id": 79201,
+                "name": "Conchopata"
+            },
+            {
+                "id": 79202,
+                "name": "Cullcuyre"
+            },
+            {
+                "id": 79203,
+                "name": "Cusco"
+            },
+            {
+                "id": 79204,
+                "name": "Huayna Alcalde"
+            },
+            {
+                "id": 79205,
+                "name": "Jayobamba"
+            },
+            {
+                "id": 79206,
+                "name": "Langui"
+            },
+            {
+                "id": 79207,
+                "name": "Layo"
+            },
+            {
+                "id": 79208,
+                "name": "Lima Pampa"
+            },
+            {
+                "id": 79209,
+                "name": "Maranganí"
+            },
+            {
+                "id": 79210,
+                "name": "Maras"
+            },
+            {
+                "id": 79211,
+                "name": "Mosoc Cancha"
+            },
+            {
+                "id": 79212,
+                "name": "Mosoc Llacta"
+            },
+            {
+                "id": 79213,
+                "name": "Ollantaytambo"
+            },
+            {
+                "id": 79214,
+                "name": "Oropesa"
+            },
+            {
+                "id": 79215,
+                "name": "Pampamarca"
+            },
+            {
+                "id": 79216,
+                "name": "Pangoa"
+            },
+            {
+                "id": 79217,
+                "name": "Paucartambo"
+            },
+            {
+                "id": 79218,
+                "name": "Pisac"
+            },
+            {
+                "id": 79219,
+                "name": "Provincia de Acomayo"
+            },
+            {
+                "id": 79220,
+                "name": "Provincia de Anta"
+            },
+            {
+                "id": 79221,
+                "name": "Provincia de Calca"
+            },
+            {
+                "id": 79222,
+                "name": "Provincia de Canas"
+            },
+            {
+                "id": 79223,
+                "name": "Provincia de Canchis"
+            },
+            {
+                "id": 79224,
+                "name": "Provincia de Chumbivilcas"
+            },
+            {
+                "id": 79225,
+                "name": "Provincia de Cusco"
+            },
+            {
+                "id": 79226,
+                "name": "Provincia de Espinar"
+            },
+            {
+                "id": 79227,
+                "name": "Provincia de La Convención"
+            },
+            {
+                "id": 79228,
+                "name": "Provincia de Paruro"
+            },
+            {
+                "id": 79229,
+                "name": "Provincia de Paucartambo"
+            },
+            {
+                "id": 79230,
+                "name": "Provincia de Quispicanchis"
+            },
+            {
+                "id": 79231,
+                "name": "Provincia de Urubamba"
+            },
+            {
+                "id": 79232,
+                "name": "Qquea"
+            },
+            {
+                "id": 79233,
+                "name": "Queromarca"
+            },
+            {
+                "id": 79234,
+                "name": "San Pablo"
+            },
+            {
+                "id": 79235,
+                "name": "Santa Ana"
+            },
+            {
+                "id": 79236,
+                "name": "Santo Tomas"
+            },
+            {
+                "id": 79237,
+                "name": "Sicuani"
+            },
+            {
+                "id": 79238,
+                "name": "Tinta"
+            },
+            {
+                "id": 79239,
+                "name": "Tungasuca"
+            },
+            {
+                "id": 79240,
+                "name": "Urcos"
+            },
+            {
+                "id": 79241,
+                "name": "Urubamba"
+            },
+            {
+                "id": 79242,
+                "name": "Yanaoca"
+            }
+        ]
+    },
+    {
+        "id": 3079,
+        "name": "Huancavelica",
+        "cities": [
+            {
+                "id": 79243,
+                "name": "Huancavelica"
+            },
+            {
+                "id": 79244,
+                "name": "Huaytara"
+            },
+            {
+                "id": 79245,
+                "name": "Pampas"
+            },
+            {
+                "id": 79246,
+                "name": "Provincia de Acobamba"
+            },
+            {
+                "id": 79247,
+                "name": "Provincia de Angaraes"
+            },
+            {
+                "id": 79248,
+                "name": "Provincia de Castrovirreyna"
+            },
+            {
+                "id": 79249,
+                "name": "Provincia de Churcampa"
+            },
+            {
+                "id": 79250,
+                "name": "Provincia de Huancavelica"
+            },
+            {
+                "id": 79251,
+                "name": "Provincia de Tayacaja"
+            }
+        ]
+    },
+    {
+        "id": 3080,
+        "name": "Huanuco",
+        "cities": [
+            {
+                "id": 79252,
+                "name": "Ambo"
+            },
+            {
+                "id": 79253,
+                "name": "Huacaybamba"
+            },
+            {
+                "id": 79254,
+                "name": "Huánuco"
+            },
+            {
+                "id": 79255,
+                "name": "La Unión"
+            },
+            {
+                "id": 79256,
+                "name": "Lauricocha"
+            },
+            {
+                "id": 79257,
+                "name": "Llata"
+            },
+            {
+                "id": 79258,
+                "name": "Provincia de Ambo"
+            },
+            {
+                "id": 79259,
+                "name": "Provincia de Dos de Mayo"
+            },
+            {
+                "id": 79260,
+                "name": "Provincia de Huamalíes"
+            },
+            {
+                "id": 79261,
+                "name": "Provincia de Huánuco"
+            },
+            {
+                "id": 79262,
+                "name": "Provincia de Leoncio Prado"
+            },
+            {
+                "id": 79263,
+                "name": "Provincia de Marañón"
+            },
+            {
+                "id": 79264,
+                "name": "Provincia de Pachitea"
+            },
+            {
+                "id": 79265,
+                "name": "Puerto Inca"
+            },
+            {
+                "id": 79266,
+                "name": "San Miguel de Cauri"
+            },
+            {
+                "id": 79267,
+                "name": "Tingo María"
+            },
+            {
+                "id": 79268,
+                "name": "Yanacancha"
+            },
+            {
+                "id": 79269,
+                "name": "Yarowilca"
+            }
+        ]
+    },
+    {
+        "id": 3081,
+        "name": "Ica",
+        "cities": [
+            {
+                "id": 79270,
+                "name": "Chincha Alta"
+            },
+            {
+                "id": 79271,
+                "name": "Ica"
+            },
+            {
+                "id": 79272,
+                "name": "Los Aquijes"
+            },
+            {
+                "id": 79273,
+                "name": "Minas de Marcona"
+            },
+            {
+                "id": 79274,
+                "name": "Nazca"
+            },
+            {
+                "id": 79275,
+                "name": "Palpa"
+            },
+            {
+                "id": 79276,
+                "name": "Paracas"
+            },
+            {
+                "id": 79277,
+                "name": "Pisco"
+            },
+            {
+                "id": 79278,
+                "name": "Provincia de Chincha"
+            },
+            {
+                "id": 79279,
+                "name": "Provincia de Ica"
+            },
+            {
+                "id": 79280,
+                "name": "Provincia de Nazca"
+            },
+            {
+                "id": 79281,
+                "name": "Provincia de Palpa"
+            },
+            {
+                "id": 79282,
+                "name": "Provincia de Pisco"
+            },
+            {
+                "id": 79283,
+                "name": "Río Grande"
+            },
+            {
+                "id": 79284,
+                "name": "San Clemente"
+            },
+            {
+                "id": 79285,
+                "name": "San Juan Bautista"
+            },
+            {
+                "id": 79286,
+                "name": "Santiago"
+            },
+            {
+                "id": 79287,
+                "name": "Subtanjalla"
+            },
+            {
+                "id": 79288,
+                "name": "Villa Tupac Amaru"
+            }
+        ]
+    },
+    {
+        "id": 3082,
+        "name": "Junín",
+        "cities": [
+            {
+                "id": 79289,
+                "name": "Acolla"
+            },
+            {
+                "id": 79290,
+                "name": "Carhuamayo"
+            },
+            {
+                "id": 79291,
+                "name": "Chanchamayo"
+            },
+            {
+                "id": 79292,
+                "name": "Chupaca"
+            },
+            {
+                "id": 79293,
+                "name": "Concepción"
+            },
+            {
+                "id": 79294,
+                "name": "Huancayo"
+            },
+            {
+                "id": 79295,
+                "name": "Huasahuasi"
+            },
+            {
+                "id": 79296,
+                "name": "Huayucachi"
+            },
+            {
+                "id": 79297,
+                "name": "Jauja"
+            },
+            {
+                "id": 79298,
+                "name": "Junín"
+            },
+            {
+                "id": 79299,
+                "name": "La Oroya"
+            },
+            {
+                "id": 79300,
+                "name": "Mazamari"
+            },
+            {
+                "id": 79301,
+                "name": "Morococha"
+            },
+            {
+                "id": 79302,
+                "name": "Orcotuna"
+            },
+            {
+                "id": 79303,
+                "name": "Perené"
+            },
+            {
+                "id": 79304,
+                "name": "Pilcomay"
+            },
+            {
+                "id": 79305,
+                "name": "Provincia de Chupaca"
+            },
+            {
+                "id": 79306,
+                "name": "Provincia de Concepción"
+            },
+            {
+                "id": 79307,
+                "name": "Provincia de Huancayo"
+            },
+            {
+                "id": 79308,
+                "name": "Provincia de Jauja"
+            },
+            {
+                "id": 79309,
+                "name": "Provincia de Junín"
+            },
+            {
+                "id": 79310,
+                "name": "Provincia de Satipo"
+            },
+            {
+                "id": 79311,
+                "name": "Provincia de Tarma"
+            },
+            {
+                "id": 79312,
+                "name": "Provincia de Yauli"
+            },
+            {
+                "id": 79313,
+                "name": "San Agustin"
+            },
+            {
+                "id": 79314,
+                "name": "San Jerónimo"
+            },
+            {
+                "id": 79315,
+                "name": "San Pedro de Cajas"
+            },
+            {
+                "id": 79316,
+                "name": "San Ramón"
+            },
+            {
+                "id": 79317,
+                "name": "Satipo"
+            },
+            {
+                "id": 79318,
+                "name": "Sicaya"
+            },
+            {
+                "id": 79319,
+                "name": "Tarma"
+            }
+        ]
+    },
+    {
+        "id": 3083,
+        "name": "La Libertad",
+        "cities": [
+            {
+                "id": 79320,
+                "name": "Ascope"
+            },
+            {
+                "id": 79321,
+                "name": "Cascas"
+            },
+            {
+                "id": 79322,
+                "name": "Chepen"
+            },
+            {
+                "id": 79323,
+                "name": "Chepén"
+            },
+            {
+                "id": 79324,
+                "name": "Chicama"
+            },
+            {
+                "id": 79325,
+                "name": "Chocope"
+            },
+            {
+                "id": 79326,
+                "name": "Gran Chimu"
+            },
+            {
+                "id": 79327,
+                "name": "Guadalupe"
+            },
+            {
+                "id": 79328,
+                "name": "Huamachuco"
+            },
+            {
+                "id": 79329,
+                "name": "Julcan"
+            },
+            {
+                "id": 79330,
+                "name": "Laredo"
+            },
+            {
+                "id": 79331,
+                "name": "Moche"
+            },
+            {
+                "id": 79332,
+                "name": "Otuzco"
+            },
+            {
+                "id": 79333,
+                "name": "Pacanga"
+            },
+            {
+                "id": 79334,
+                "name": "Pacasmayo"
+            },
+            {
+                "id": 79335,
+                "name": "Paiján"
+            },
+            {
+                "id": 79336,
+                "name": "Provincia de Bolívar"
+            },
+            {
+                "id": 79337,
+                "name": "Provincia de Otuzco"
+            },
+            {
+                "id": 79338,
+                "name": "Provincia de Pacasmayo"
+            },
+            {
+                "id": 79339,
+                "name": "Provincia de Pataz"
+            },
+            {
+                "id": 79340,
+                "name": "Provincia de Santiago de Chuco"
+            },
+            {
+                "id": 79341,
+                "name": "Provincia de Trujillo"
+            },
+            {
+                "id": 79342,
+                "name": "Pueblo Nuevo"
+            },
+            {
+                "id": 79343,
+                "name": "Quiruvilca"
+            },
+            {
+                "id": 79344,
+                "name": "Salaverry"
+            },
+            {
+                "id": 79345,
+                "name": "San Pedro de Lloc"
+            },
+            {
+                "id": 79346,
+                "name": "Sanchez Carrion"
+            },
+            {
+                "id": 79347,
+                "name": "Santiago de Cao"
+            },
+            {
+                "id": 79348,
+                "name": "Santiago de Chuco"
+            },
+            {
+                "id": 79349,
+                "name": "Trujillo"
+            },
+            {
+                "id": 79350,
+                "name": "Viru"
+            },
+            {
+                "id": 79351,
+                "name": "Virú"
+            }
+        ]
+    },
+    {
+        "id": 3084,
+        "name": "Lambayeque",
+        "cities": [
+            {
+                "id": 79352,
+                "name": "Chiclayo"
+            },
+            {
+                "id": 79353,
+                "name": "Chongoyape"
+            },
+            {
+                "id": 79354,
+                "name": "Eten"
+            },
+            {
+                "id": 79355,
+                "name": "Ferreñafe"
+            },
+            {
+                "id": 79356,
+                "name": "Jayanca"
+            },
+            {
+                "id": 79357,
+                "name": "Lambayeque"
+            },
+            {
+                "id": 79358,
+                "name": "Mochumí"
+            },
+            {
+                "id": 79359,
+                "name": "Monsefú"
+            },
+            {
+                "id": 79360,
+                "name": "Mórrope"
+            },
+            {
+                "id": 79361,
+                "name": "Motupe"
+            },
+            {
+                "id": 79362,
+                "name": "Olmos"
+            },
+            {
+                "id": 79363,
+                "name": "Oyotún"
+            },
+            {
+                "id": 79364,
+                "name": "Picsi"
+            },
+            {
+                "id": 79365,
+                "name": "Pimentel"
+            },
+            {
+                "id": 79366,
+                "name": "Provincia de Chiclayo"
+            },
+            {
+                "id": 79367,
+                "name": "Provincia de Ferreñafe"
+            },
+            {
+                "id": 79368,
+                "name": "Provincia de Lambayeque"
+            },
+            {
+                "id": 79369,
+                "name": "Pueblo Nuevo"
+            },
+            {
+                "id": 79370,
+                "name": "Reque"
+            },
+            {
+                "id": 79371,
+                "name": "San José"
+            },
+            {
+                "id": 79372,
+                "name": "Saña"
+            },
+            {
+                "id": 79373,
+                "name": "Santa Rosa"
+            },
+            {
+                "id": 79374,
+                "name": "Túcume"
+            }
+        ]
+    },
+    {
+        "id": 3085,
+        "name": "Lima",
+        "cities": [
+            {
+                "id": 79375,
+                "name": "Asentamiento Humano Nicolas de Pierola"
+            },
+            {
+                "id": 79376,
+                "name": "Barranca"
+            },
+            {
+                "id": 79377,
+                "name": "Caleta de Carquín"
+            },
+            {
+                "id": 79378,
+                "name": "Chancay"
+            },
+            {
+                "id": 79379,
+                "name": "Chilca"
+            },
+            {
+                "id": 79380,
+                "name": "Chosica"
+            },
+            {
+                "id": 79381,
+                "name": "Huacho"
+            },
+            {
+                "id": 79382,
+                "name": "Hualmay"
+            },
+            {
+                "id": 79383,
+                "name": "Huaral"
+            },
+            {
+                "id": 79384,
+                "name": "Huaura"
+            },
+            {
+                "id": 79385,
+                "name": "Imperial"
+            },
+            {
+                "id": 79386,
+                "name": "Independencia"
+            },
+            {
+                "id": 79387,
+                "name": "Lima"
+            },
+            {
+                "id": 79388,
+                "name": "Mala"
+            },
+            {
+                "id": 79389,
+                "name": "Matucana"
+            },
+            {
+                "id": 79390,
+                "name": "Nuevo Imperial"
+            },
+            {
+                "id": 79391,
+                "name": "Oyon"
+            },
+            {
+                "id": 79392,
+                "name": "Oyón"
+            },
+            {
+                "id": 79393,
+                "name": "Paramonga"
+            },
+            {
+                "id": 79394,
+                "name": "Pativilca"
+            },
+            {
+                "id": 79395,
+                "name": "Provincia de Cajatambo"
+            },
+            {
+                "id": 79396,
+                "name": "Provincia de Cañete"
+            },
+            {
+                "id": 79397,
+                "name": "Provincia de Canta"
+            },
+            {
+                "id": 79398,
+                "name": "Provincia de Huaral"
+            },
+            {
+                "id": 79399,
+                "name": "Provincia de Huarochirí"
+            },
+            {
+                "id": 79400,
+                "name": "Provincia de Yauyos"
+            },
+            {
+                "id": 79401,
+                "name": "Puerto Supe"
+            },
+            {
+                "id": 79402,
+                "name": "Quilmaná"
+            },
+            {
+                "id": 79403,
+                "name": "Ricardo Palma"
+            },
+            {
+                "id": 79404,
+                "name": "San Bartolo"
+            },
+            {
+                "id": 79405,
+                "name": "San Isidro"
+            },
+            {
+                "id": 79406,
+                "name": "San Luis"
+            },
+            {
+                "id": 79407,
+                "name": "San Vicente de Cañete"
+            },
+            {
+                "id": 79408,
+                "name": "Santa María"
+            },
+            {
+                "id": 79409,
+                "name": "Santiago de Surco"
+            },
+            {
+                "id": 79410,
+                "name": "Sayán"
+            },
+            {
+                "id": 79411,
+                "name": "Supe"
+            },
+            {
+                "id": 79412,
+                "name": "Urb. Santo Domingo"
+            },
+            {
+                "id": 79413,
+                "name": "Végueta"
+            }
+        ]
+    },
+    {
+        "id": 3086,
+        "name": "Madre de Dios",
+        "cities": [
+            {
+                "id": 79414,
+                "name": "Iberia"
+            },
+            {
+                "id": 79415,
+                "name": "Provincia de Manú"
+            },
+            {
+                "id": 79416,
+                "name": "Provincia de Tahuamanú"
+            },
+            {
+                "id": 79417,
+                "name": "Provincia de Tambopata"
+            },
+            {
+                "id": 79418,
+                "name": "Puerto Maldonado"
+            },
+            {
+                "id": 79419,
+                "name": "Salvación"
+            },
+            {
+                "id": 79420,
+                "name": "Tambopata"
+            }
+        ]
+    },
+    {
+        "id": 3087,
+        "name": "Moquegua",
+        "cities": [
+            {
+                "id": 79421,
+                "name": "Ilo"
+            },
+            {
+                "id": 79422,
+                "name": "Moquegua"
+            },
+            {
+                "id": 79423,
+                "name": "Pacocha"
+            },
+            {
+                "id": 79424,
+                "name": "Provincia de General Sánchez Cerro"
+            },
+            {
+                "id": 79425,
+                "name": "Provincia de Ilo"
+            },
+            {
+                "id": 79426,
+                "name": "Provincia de Mariscal Nieto"
+            },
+            {
+                "id": 79427,
+                "name": "Torata"
+            }
+        ]
+    },
+    {
+        "id": 3088,
+        "name": "Pasco",
+        "cities": [
+            {
+                "id": 79428,
+                "name": "Cerro de Pasco"
+            },
+            {
+                "id": 79429,
+                "name": "Chaupimarca"
+            },
+            {
+                "id": 79430,
+                "name": "Oxapampa"
+            },
+            {
+                "id": 79431,
+                "name": "Paucartambo"
+            },
+            {
+                "id": 79432,
+                "name": "Provincia de Daniel Carrión"
+            },
+            {
+                "id": 79433,
+                "name": "Provincia de Oxapampa"
+            },
+            {
+                "id": 79434,
+                "name": "Provincia de Pasco"
+            },
+            {
+                "id": 79435,
+                "name": "Tinyahuarco"
+            },
+            {
+                "id": 79436,
+                "name": "Villa Rica"
+            }
+        ]
+    },
+    {
+        "id": 3089,
+        "name": "Piura",
+        "cities": [
+            {
+                "id": 79437,
+                "name": "Ayabaca"
+            },
+            {
+                "id": 79438,
+                "name": "Bernal"
+            },
+            {
+                "id": 79439,
+                "name": "Buenos Aires"
+            },
+            {
+                "id": 79440,
+                "name": "Catacaos"
+            },
+            {
+                "id": 79441,
+                "name": "Chulucanas"
+            },
+            {
+                "id": 79442,
+                "name": "El Alto"
+            },
+            {
+                "id": 79443,
+                "name": "Huancabamba"
+            },
+            {
+                "id": 79444,
+                "name": "La Breita"
+            },
+            {
+                "id": 79445,
+                "name": "La Huaca"
+            },
+            {
+                "id": 79446,
+                "name": "La Unión"
+            },
+            {
+                "id": 79447,
+                "name": "Las Lomas"
+            },
+            {
+                "id": 79448,
+                "name": "Máncora"
+            },
+            {
+                "id": 79449,
+                "name": "Marcavelica"
+            },
+            {
+                "id": 79450,
+                "name": "Morropon"
+            },
+            {
+                "id": 79451,
+                "name": "Morropón"
+            },
+            {
+                "id": 79452,
+                "name": "Paita"
+            },
+            {
+                "id": 79453,
+                "name": "Piura"
+            },
+            {
+                "id": 79454,
+                "name": "Provincia de Ayabaca"
+            },
+            {
+                "id": 79455,
+                "name": "Provincia de Huancabamba"
+            },
+            {
+                "id": 79456,
+                "name": "Provincia de Paita"
+            },
+            {
+                "id": 79457,
+                "name": "Provincia de Piura"
+            },
+            {
+                "id": 79458,
+                "name": "Provincia de Sullana"
+            },
+            {
+                "id": 79459,
+                "name": "Provincia de Talara"
+            },
+            {
+                "id": 79460,
+                "name": "Querecotillo"
+            },
+            {
+                "id": 79461,
+                "name": "Salinera Colán"
+            },
+            {
+                "id": 79462,
+                "name": "Salitral"
+            },
+            {
+                "id": 79463,
+                "name": "Sechura"
+            },
+            {
+                "id": 79464,
+                "name": "Sullana"
+            },
+            {
+                "id": 79465,
+                "name": "Talara"
+            },
+            {
+                "id": 79466,
+                "name": "Tambo Grande"
+            },
+            {
+                "id": 79467,
+                "name": "Vice"
+            }
+        ]
+    },
+    {
+        "id": 3090,
+        "name": "Puno",
+        "cities": [
+            {
+                "id": 79468,
+                "name": "Atuncolla"
+            },
+            {
+                "id": 79469,
+                "name": "Ayaviri"
+            },
+            {
+                "id": 79470,
+                "name": "Azángaro"
+            },
+            {
+                "id": 79471,
+                "name": "Desaguadero"
+            },
+            {
+                "id": 79472,
+                "name": "El Collao"
+            },
+            {
+                "id": 79473,
+                "name": "Hacienda Huancane"
+            },
+            {
+                "id": 79474,
+                "name": "Ilave"
+            },
+            {
+                "id": 79475,
+                "name": "Juli"
+            },
+            {
+                "id": 79476,
+                "name": "Juliaca"
+            },
+            {
+                "id": 79477,
+                "name": "La Rinconada"
+            },
+            {
+                "id": 79478,
+                "name": "Lampa"
+            },
+            {
+                "id": 79479,
+                "name": "Macusani"
+            },
+            {
+                "id": 79480,
+                "name": "Ñuñoa"
+            },
+            {
+                "id": 79481,
+                "name": "Provincia de Azángaro"
+            },
+            {
+                "id": 79482,
+                "name": "Provincia de Carabaya"
+            },
+            {
+                "id": 79483,
+                "name": "Provincia de Chucuito"
+            },
+            {
+                "id": 79484,
+                "name": "Provincia de Huancané"
+            },
+            {
+                "id": 79485,
+                "name": "Provincia de Lampa"
+            },
+            {
+                "id": 79486,
+                "name": "Provincia de Melgar"
+            },
+            {
+                "id": 79487,
+                "name": "Provincia de Puno"
+            },
+            {
+                "id": 79488,
+                "name": "Provincia de Sandia"
+            },
+            {
+                "id": 79489,
+                "name": "Puno"
+            },
+            {
+                "id": 79490,
+                "name": "San Antonio De Putina"
+            },
+            {
+                "id": 79491,
+                "name": "San Roman"
+            },
+            {
+                "id": 79492,
+                "name": "Santa Lucía"
+            },
+            {
+                "id": 79493,
+                "name": "Taquile"
+            },
+            {
+                "id": 79494,
+                "name": "Yunguyo"
+            }
+        ]
+    },
+    {
+        "id": 3091,
+        "name": "San Martín",
+        "cities": [
+            {
+                "id": 79495,
+                "name": "Bellavista"
+            },
+            {
+                "id": 79496,
+                "name": "Chazuta"
+            },
+            {
+                "id": 79497,
+                "name": "El Dorado"
+            },
+            {
+                "id": 79498,
+                "name": "Huicungo"
+            },
+            {
+                "id": 79499,
+                "name": "Jepelacio"
+            },
+            {
+                "id": 79500,
+                "name": "Juanjuí"
+            },
+            {
+                "id": 79501,
+                "name": "Lamas"
+            },
+            {
+                "id": 79502,
+                "name": "Moyobamba"
+            },
+            {
+                "id": 79503,
+                "name": "Picota"
+            },
+            {
+                "id": 79504,
+                "name": "Provincia de Huallaga"
+            },
+            {
+                "id": 79505,
+                "name": "Provincia de Lamas"
+            },
+            {
+                "id": 79506,
+                "name": "Provincia de Mariscal Cáceres"
+            },
+            {
+                "id": 79507,
+                "name": "Provincia de Moyobamba"
+            },
+            {
+                "id": 79508,
+                "name": "Provincia de Rioja"
+            },
+            {
+                "id": 79509,
+                "name": "Provincia de San Martín"
+            },
+            {
+                "id": 79510,
+                "name": "Rioja"
+            },
+            {
+                "id": 79511,
+                "name": "Saposoa"
+            },
+            {
+                "id": 79512,
+                "name": "Sisa"
+            },
+            {
+                "id": 79513,
+                "name": "Soritor"
+            },
+            {
+                "id": 79514,
+                "name": "Tabalosos"
+            },
+            {
+                "id": 79515,
+                "name": "Tarapoto"
+            },
+            {
+                "id": 79516,
+                "name": "Tocache"
+            },
+            {
+                "id": 79517,
+                "name": "Uchiza"
+            }
+        ]
+    },
+    {
+        "id": 3092,
+        "name": "Tacna",
+        "cities": [
+            {
+                "id": 79518,
+                "name": "Calana"
+            },
+            {
+                "id": 79519,
+                "name": "Candarave"
+            },
+            {
+                "id": 79520,
+                "name": "Chipispaya"
+            },
+            {
+                "id": 79521,
+                "name": "Chuquitira"
+            },
+            {
+                "id": 79522,
+                "name": "Ilabaya"
+            },
+            {
+                "id": 79523,
+                "name": "Jorge Basadre"
+            },
+            {
+                "id": 79524,
+                "name": "Provincia de Tacna"
+            },
+            {
+                "id": 79525,
+                "name": "Provincia de Tarata"
+            },
+            {
+                "id": 79526,
+                "name": "Pujocucho"
+            },
+            {
+                "id": 79527,
+                "name": "Quilahuani"
+            },
+            {
+                "id": 79528,
+                "name": "Tacna"
+            },
+            {
+                "id": 79529,
+                "name": "Tarata"
+            },
+            {
+                "id": 79530,
+                "name": "Totoral"
+            }
+        ]
+    },
+    {
+        "id": 3093,
+        "name": "Tumbes",
+        "cities": [
+            {
+                "id": 79531,
+                "name": "Aguas Verdes"
+            },
+            {
+                "id": 79532,
+                "name": "Papayal"
+            },
+            {
+                "id": 79533,
+                "name": "Provincia de Contralmirante Villar"
+            },
+            {
+                "id": 79534,
+                "name": "Provincia de Tumbes"
+            },
+            {
+                "id": 79535,
+                "name": "Provincia de Zarumilla"
+            },
+            {
+                "id": 79536,
+                "name": "Tumbes"
+            },
+            {
+                "id": 79537,
+                "name": "Zarumilla"
+            },
+            {
+                "id": 79538,
+                "name": "Zorritos"
+            }
+        ]
+    },
+    {
+        "id": 3094,
+        "name": "Ucayali",
+        "cities": [
+            {
+                "id": 79539,
+                "name": "Atalaya"
+            },
+            {
+                "id": 79540,
+                "name": "Campoverde"
+            },
+            {
+                "id": 79541,
+                "name": "Padre Abad"
+            },
+            {
+                "id": 79542,
+                "name": "Provincia de Coronel Portillo"
+            },
+            {
+                "id": 79543,
+                "name": "Pucallpa"
+            },
+            {
+                "id": 79544,
+                "name": "Purus"
+            }
+        ]
+    }
+]

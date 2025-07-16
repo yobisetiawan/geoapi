@@ -1,0 +1,626 @@
+[
+    {
+        "id": 4468,
+        "name": "Andijan Region",
+        "cities": [
+            {
+                "id": 138184,
+                "name": "Andijon"
+            },
+            {
+                "id": 138185,
+                "name": "Andijon Tumani"
+            },
+            {
+                "id": 138186,
+                "name": "Asaka"
+            },
+            {
+                "id": 138187,
+                "name": "Asaka Tumani"
+            },
+            {
+                "id": 138188,
+                "name": "Baliqchi Tumani"
+            },
+            {
+                "id": 138189,
+                "name": "Bo‘z Tumani"
+            },
+            {
+                "id": 138190,
+                "name": "Buloqboshi Tumani"
+            },
+            {
+                "id": 138191,
+                "name": "Izboskan Tumani"
+            },
+            {
+                "id": 138192,
+                "name": "Jalolkuduk Tumani"
+            },
+            {
+                "id": 138193,
+                "name": "Khŭjaobod Tumani"
+            },
+            {
+                "id": 138194,
+                "name": "Marhamat"
+            },
+            {
+                "id": 138195,
+                "name": "Marhamat Tumani"
+            },
+            {
+                "id": 138196,
+                "name": "Oltinkŭl Tumani"
+            },
+            {
+                "id": 138197,
+                "name": "Pakhtaobod Tumani"
+            },
+            {
+                "id": 138198,
+                "name": "Paxtaobod"
+            },
+            {
+                "id": 138199,
+                "name": "Qo‘rg‘ontepa"
+            },
+            {
+                "id": 138200,
+                "name": "Qŭrghontepa Tumani"
+            },
+            {
+                "id": 138201,
+                "name": "Shahrikhon Tumani"
+            },
+            {
+                "id": 138202,
+                "name": "Shahrixon"
+            },
+            {
+                "id": 138203,
+                "name": "Ulug‘nor Tumani"
+            },
+            {
+                "id": 138204,
+                "name": "Xo‘jaobod"
+            }
+        ]
+    },
+    {
+        "id": 4469,
+        "name": "Bukhara Region",
+        "cities": [
+            {
+                "id": 138205,
+                "name": "Bukhara"
+            },
+            {
+                "id": 138206,
+                "name": "Galaosiyo"
+            },
+            {
+                "id": 138207,
+                "name": "Gazli"
+            },
+            {
+                "id": 138208,
+                "name": "Ghijduwon"
+            },
+            {
+                "id": 138209,
+                "name": "Karakul’"
+            },
+            {
+                "id": 138210,
+                "name": "Kogon"
+            },
+            {
+                "id": 138211,
+                "name": "Olot"
+            },
+            {
+                "id": 138212,
+                "name": "Peshku Tumani"
+            },
+            {
+                "id": 138213,
+                "name": "Qorako’l"
+            },
+            {
+                "id": 138214,
+                "name": "Qorovulbozor"
+            },
+            {
+                "id": 138215,
+                "name": "Romiton"
+            },
+            {
+                "id": 138216,
+                "name": "Shofirkon"
+            },
+            {
+                "id": 138217,
+                "name": "Wobkent"
+            },
+            {
+                "id": 138218,
+                "name": "Wobkent Tumani"
+            }
+        ]
+    },
+    {
+        "id": 4470,
+        "name": "Fergana Region",
+        "cities": [
+            {
+                "id": 138219,
+                "name": "Beshariq"
+            },
+            {
+                "id": 138220,
+                "name": "Fergana"
+            },
+            {
+                "id": 138221,
+                "name": "Hamza"
+            },
+            {
+                "id": 138222,
+                "name": "Kirguli"
+            },
+            {
+                "id": 138223,
+                "name": "Marg‘ilon"
+            },
+            {
+                "id": 138224,
+                "name": "Oltiariq"
+            },
+            {
+                "id": 138225,
+                "name": "Qo‘qon"
+            },
+            {
+                "id": 138226,
+                "name": "Quva"
+            },
+            {
+                "id": 138227,
+                "name": "Quvasoy"
+            },
+            {
+                "id": 138228,
+                "name": "Rishton"
+            },
+            {
+                "id": 138229,
+                "name": "Shohimardon"
+            },
+            {
+                "id": 138230,
+                "name": "So‘x Tumani"
+            },
+            {
+                "id": 138231,
+                "name": "Toshloq"
+            },
+            {
+                "id": 138232,
+                "name": "Yangi Marg‘ilon"
+            },
+            {
+                "id": 138233,
+                "name": "Yaypan"
+            }
+        ]
+    },
+    {
+        "id": 4471,
+        "name": "Jizzakh Region",
+        "cities": [
+            {
+                "id": 138234,
+                "name": "Dashtobod"
+            },
+            {
+                "id": 138235,
+                "name": "Dŭstlik"
+            },
+            {
+                "id": 138236,
+                "name": "Gagarin"
+            },
+            {
+                "id": 138237,
+                "name": "Jizzax"
+            },
+            {
+                "id": 138238,
+                "name": "Paxtakor"
+            },
+            {
+                "id": 138239,
+                "name": "Zomin"
+            }
+        ]
+    },
+    {
+        "id": 4472,
+        "name": "Karakalpakstan",
+        "cities": [
+            {
+                "id": 138240,
+                "name": "Beruniy"
+            },
+            {
+                "id": 138241,
+                "name": "Kegeyli Shahar"
+            },
+            {
+                "id": 138242,
+                "name": "Khŭjayli"
+            },
+            {
+                "id": 138243,
+                "name": "Manghit"
+            },
+            {
+                "id": 138244,
+                "name": "Mŭynoq"
+            },
+            {
+                "id": 138245,
+                "name": "Novyy Turtkul’"
+            },
+            {
+                "id": 138246,
+                "name": "Nukus"
+            },
+            {
+                "id": 138247,
+                "name": "Oltinko‘l"
+            }
+        ]
+    },
+    {
+        "id": 4473,
+        "name": "Namangan Region",
+        "cities": [
+            {
+                "id": 138248,
+                "name": "Chortoq"
+            },
+            {
+                "id": 138249,
+                "name": "Chust"
+            },
+            {
+                "id": 138250,
+                "name": "Haqqulobod"
+            },
+            {
+                "id": 138251,
+                "name": "Kosonsoy"
+            },
+            {
+                "id": 138252,
+                "name": "Namangan"
+            },
+            {
+                "id": 138253,
+                "name": "Pop"
+            },
+            {
+                "id": 138254,
+                "name": "To‘rqao‘rg‘on"
+            },
+            {
+                "id": 138255,
+                "name": "Toshbuloq"
+            },
+            {
+                "id": 138256,
+                "name": "Uchqŭrghon Shahri"
+            },
+            {
+                "id": 138257,
+                "name": "Uychi"
+            },
+            {
+                "id": 138258,
+                "name": "Yangiqo‘rg‘on"
+            }
+        ]
+    },
+    {
+        "id": 4474,
+        "name": "Navoiy Region",
+        "cities": [
+            {
+                "id": 138259,
+                "name": "Navoiy"
+            },
+            {
+                "id": 138260,
+                "name": "Nurota"
+            },
+            {
+                "id": 138261,
+                "name": "Qiziltepa"
+            },
+            {
+                "id": 138262,
+                "name": "Yangirabot"
+            }
+        ]
+    },
+    {
+        "id": 4475,
+        "name": "Qashqadaryo Region",
+        "cities": [
+            {
+                "id": 138263,
+                "name": "Beshkent"
+            },
+            {
+                "id": 138264,
+                "name": "Chiroqchi"
+            },
+            {
+                "id": 138265,
+                "name": "G‘uzor"
+            },
+            {
+                "id": 138266,
+                "name": "Kitob"
+            },
+            {
+                "id": 138267,
+                "name": "Koson"
+            },
+            {
+                "id": 138268,
+                "name": "Muborak"
+            },
+            {
+                "id": 138269,
+                "name": "Nishon Tumani"
+            },
+            {
+                "id": 138270,
+                "name": "Qarshi"
+            },
+            {
+                "id": 138271,
+                "name": "Shahrisabz"
+            }
+        ]
+    },
+    {
+        "id": 4476,
+        "name": "Samarqand Region",
+        "cities": [
+            {
+                "id": 138272,
+                "name": "Bulung’ur"
+            },
+            {
+                "id": 138273,
+                "name": "Charxin"
+            },
+            {
+                "id": 138274,
+                "name": "Chelak"
+            },
+            {
+                "id": 138275,
+                "name": "Daxbet"
+            },
+            {
+                "id": 138276,
+                "name": "Ishtixon"
+            },
+            {
+                "id": 138277,
+                "name": "Jomboy"
+            },
+            {
+                "id": 138278,
+                "name": "Juma"
+            },
+            {
+                "id": 138279,
+                "name": "Kattaqo‘rg‘on"
+            },
+            {
+                "id": 138280,
+                "name": "Oqtosh"
+            },
+            {
+                "id": 138281,
+                "name": "Payshanba"
+            },
+            {
+                "id": 138282,
+                "name": "Samarkand"
+            },
+            {
+                "id": 138283,
+                "name": "Urgut"
+            }
+        ]
+    },
+    {
+        "id": 4477,
+        "name": "Sirdaryo Region",
+        "cities": [
+            {
+                "id": 138284,
+                "name": "Guliston"
+            },
+            {
+                "id": 138285,
+                "name": "Sirdaryo"
+            },
+            {
+                "id": 138286,
+                "name": "Yangiyer"
+            }
+        ]
+    },
+    {
+        "id": 4478,
+        "name": "Surxondaryo Region",
+        "cities": [
+            {
+                "id": 138287,
+                "name": "Boysun"
+            },
+            {
+                "id": 138288,
+                "name": "Denov"
+            },
+            {
+                "id": 138289,
+                "name": "Sho‘rchi"
+            },
+            {
+                "id": 138290,
+                "name": "Tirmiz"
+            }
+        ]
+    },
+    {
+        "id": 4479,
+        "name": "Tashkent",
+        "cities": [
+            {
+                "id": 138291,
+                "name": "Bektemir"
+            },
+            {
+                "id": 138292,
+                "name": "Tashkent"
+            }
+        ]
+    },
+    {
+        "id": 4480,
+        "name": "Tashkent Region",
+        "cities": [
+            {
+                "id": 138293,
+                "name": "Angren"
+            },
+            {
+                "id": 138294,
+                "name": "Bekobod"
+            },
+            {
+                "id": 138295,
+                "name": "Bo‘ka"
+            },
+            {
+                "id": 138296,
+                "name": "Chinoz"
+            },
+            {
+                "id": 138297,
+                "name": "Chirchiq"
+            },
+            {
+                "id": 138298,
+                "name": "G‘azalkent"
+            },
+            {
+                "id": 138299,
+                "name": "Iskandar"
+            },
+            {
+                "id": 138300,
+                "name": "Kyzyldzhar"
+            },
+            {
+                "id": 138301,
+                "name": "Ohangaron"
+            },
+            {
+                "id": 138302,
+                "name": "Olmaliq"
+            },
+            {
+                "id": 138303,
+                "name": "Parkent"
+            },
+            {
+                "id": 138304,
+                "name": "Piskent"
+            },
+            {
+                "id": 138305,
+                "name": "Qibray"
+            },
+            {
+                "id": 138306,
+                "name": "Salor"
+            },
+            {
+                "id": 138307,
+                "name": "Tŭytepa"
+            },
+            {
+                "id": 138308,
+                "name": "Ŭrtaowul"
+            },
+            {
+                "id": 138309,
+                "name": "Yangiobod"
+            },
+            {
+                "id": 138310,
+                "name": "Yangiyŭl"
+            },
+            {
+                "id": 138311,
+                "name": "Zafar"
+            }
+        ]
+    },
+    {
+        "id": 4481,
+        "name": "Xorazm Region",
+        "cities": [
+            {
+                "id": 138312,
+                "name": "Boghot Tumani"
+            },
+            {
+                "id": 138313,
+                "name": "Gurlan"
+            },
+            {
+                "id": 138314,
+                "name": "Hazorasp"
+            },
+            {
+                "id": 138315,
+                "name": "Khiwa"
+            },
+            {
+                "id": 138316,
+                "name": "Qŭshkŭpir"
+            },
+            {
+                "id": 138317,
+                "name": "Showot"
+            },
+            {
+                "id": 138318,
+                "name": "Urganch"
+            }
+        ]
+    }
+]

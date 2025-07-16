@@ -1,0 +1,346 @@
+[
+    {
+        "id": 4597,
+        "name": "Central Province",
+        "cities": [
+            {
+                "id": 139276,
+                "name": "Chibombo"
+            },
+            {
+                "id": 139277,
+                "name": "Chibombo District"
+            },
+            {
+                "id": 139278,
+                "name": "Kabwe"
+            },
+            {
+                "id": 139279,
+                "name": "Kapiri Mposhi"
+            },
+            {
+                "id": 139280,
+                "name": "Mkushi"
+            },
+            {
+                "id": 139281,
+                "name": "Mumbwa"
+            },
+            {
+                "id": 139282,
+                "name": "Serenje"
+            }
+        ]
+    },
+    {
+        "id": 4598,
+        "name": "Copperbelt Province",
+        "cities": [
+            {
+                "id": 139283,
+                "name": "Chambishi"
+            },
+            {
+                "id": 139284,
+                "name": "Chililabombwe"
+            },
+            {
+                "id": 139285,
+                "name": "Chingola"
+            },
+            {
+                "id": 139286,
+                "name": "Chingola District"
+            },
+            {
+                "id": 139287,
+                "name": "Kalulushi"
+            },
+            {
+                "id": 139288,
+                "name": "Kataba"
+            },
+            {
+                "id": 139289,
+                "name": "Kitwe"
+            },
+            {
+                "id": 139290,
+                "name": "Luanshya"
+            },
+            {
+                "id": 139291,
+                "name": "Mpongwe"
+            },
+            {
+                "id": 139292,
+                "name": "Mufulira"
+            },
+            {
+                "id": 139293,
+                "name": "Ndola"
+            }
+        ]
+    },
+    {
+        "id": 4599,
+        "name": "Eastern Province",
+        "cities": [
+            {
+                "id": 139294,
+                "name": "Chadiza"
+            },
+            {
+                "id": 139295,
+                "name": "Chipata"
+            },
+            {
+                "id": 139296,
+                "name": "Lundazi"
+            },
+            {
+                "id": 139297,
+                "name": "Nyimba"
+            },
+            {
+                "id": 139298,
+                "name": "Petauke"
+            }
+        ]
+    },
+    {
+        "id": 4600,
+        "name": "Luapula Province",
+        "cities": [
+            {
+                "id": 139299,
+                "name": "Kawambwa"
+            },
+            {
+                "id": 139300,
+                "name": "Mansa"
+            },
+            {
+                "id": 139301,
+                "name": "Mwense"
+            },
+            {
+                "id": 139302,
+                "name": "Nchelenge"
+            },
+            {
+                "id": 139303,
+                "name": "Samfya"
+            }
+        ]
+    },
+    {
+        "id": 4601,
+        "name": "Lusaka Province",
+        "cities": [
+            {
+                "id": 139304,
+                "name": "Chongwe"
+            },
+            {
+                "id": 139305,
+                "name": "Kafue"
+            },
+            {
+                "id": 139306,
+                "name": "Luangwa"
+            },
+            {
+                "id": 139307,
+                "name": "Lusaka"
+            }
+        ]
+    },
+    {
+        "id": 4602,
+        "name": "Muchinga Province",
+        "cities": [
+            {
+                "id": 139308,
+                "name": "Chama"
+            },
+            {
+                "id": 139309,
+                "name": "Chinsali"
+            },
+            {
+                "id": 139310,
+                "name": "Isoka"
+            },
+            {
+                "id": 139311,
+                "name": "Mpika"
+            },
+            {
+                "id": 139312,
+                "name": "Nakonde"
+            }
+        ]
+    },
+    {
+        "id": 4603,
+        "name": "Northern Province",
+        "cities": [
+            {
+                "id": 139313,
+                "name": "Kaputa"
+            },
+            {
+                "id": 139314,
+                "name": "Kasama"
+            },
+            {
+                "id": 139315,
+                "name": "Luwingu"
+            },
+            {
+                "id": 139316,
+                "name": "Mbala"
+            },
+            {
+                "id": 139317,
+                "name": "Mporokoso"
+            },
+            {
+                "id": 139318,
+                "name": "Mpulungu"
+            },
+            {
+                "id": 139319,
+                "name": "Mungwi"
+            }
+        ]
+    },
+    {
+        "id": 4604,
+        "name": "Northwestern Province",
+        "cities": [
+            {
+                "id": 139320,
+                "name": "Kabompo"
+            },
+            {
+                "id": 139321,
+                "name": "Kalengwa"
+            },
+            {
+                "id": 139322,
+                "name": "Kansanshi"
+            },
+            {
+                "id": 139323,
+                "name": "Kasempa"
+            },
+            {
+                "id": 139324,
+                "name": "Mufumbwe"
+            },
+            {
+                "id": 139325,
+                "name": "Mwinilunga"
+            },
+            {
+                "id": 139326,
+                "name": "Solwezi"
+            },
+            {
+                "id": 139327,
+                "name": "Zambezi"
+            }
+        ]
+    },
+    {
+        "id": 4605,
+        "name": "Southern Province",
+        "cities": [
+            {
+                "id": 139328,
+                "name": "Choma"
+            },
+            {
+                "id": 139329,
+                "name": "Gwembe"
+            },
+            {
+                "id": 139330,
+                "name": "Itezhi-Tezhi District"
+            },
+            {
+                "id": 139331,
+                "name": "Livingstone"
+            },
+            {
+                "id": 139332,
+                "name": "Maamba"
+            },
+            {
+                "id": 139333,
+                "name": "Mazabuka"
+            },
+            {
+                "id": 139334,
+                "name": "Monze"
+            },
+            {
+                "id": 139335,
+                "name": "Nakambala"
+            },
+            {
+                "id": 139336,
+                "name": "Namwala"
+            },
+            {
+                "id": 139337,
+                "name": "Siavonga"
+            },
+            {
+                "id": 139338,
+                "name": "Siavonga District"
+            },
+            {
+                "id": 139339,
+                "name": "Sinazongwe"
+            }
+        ]
+    },
+    {
+        "id": 4606,
+        "name": "Western Province",
+        "cities": [
+            {
+                "id": 139340,
+                "name": "Kalabo"
+            },
+            {
+                "id": 139341,
+                "name": "Kaoma"
+            },
+            {
+                "id": 139342,
+                "name": "Limulunga"
+            },
+            {
+                "id": 139343,
+                "name": "Lukulu"
+            },
+            {
+                "id": 139344,
+                "name": "Mongu"
+            },
+            {
+                "id": 139345,
+                "name": "Senanga"
+            },
+            {
+                "id": 139346,
+                "name": "Sesheke"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1296 @@
+[
+    {
+        "id": 81,
+        "name": "Adrar Province",
+        "cities": [
+            {
+                "id": 223,
+                "name": "Adrar"
+            },
+            {
+                "id": 224,
+                "name": "Aoulef"
+            },
+            {
+                "id": 225,
+                "name": "Reggane"
+            },
+            {
+                "id": 226,
+                "name": "Timimoun"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Aïn Defla Province",
+        "cities": [
+            {
+                "id": 227,
+                "name": "Aïn Defla"
+            },
+            {
+                "id": 228,
+                "name": "El Abadia"
+            },
+            {
+                "id": 229,
+                "name": "El Attaf"
+            },
+            {
+                "id": 230,
+                "name": "Khemis Miliana"
+            },
+            {
+                "id": 231,
+                "name": "Theniet el Had"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Aïn Témouchent Province",
+        "cities": [
+            {
+                "id": 232,
+                "name": "Aïn Temouchent"
+            },
+            {
+                "id": 233,
+                "name": "Beni Saf"
+            },
+            {
+                "id": 234,
+                "name": "El Amria"
+            },
+            {
+                "id": 235,
+                "name": "El Malah"
+            },
+            {
+                "id": 236,
+                "name": "Hammam Bou Hadjar"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Algiers Province",
+        "cities": [
+            {
+                "id": 237,
+                "name": "Aïn Taya"
+            },
+            {
+                "id": 238,
+                "name": "Algiers"
+            },
+            {
+                "id": 239,
+                "name": "Bab Ezzouar"
+            },
+            {
+                "id": 240,
+                "name": "Birkhadem"
+            },
+            {
+                "id": 241,
+                "name": "Bordj el Kiffan"
+            },
+            {
+                "id": 242,
+                "name": "Dar el Beïda"
+            },
+            {
+                "id": 243,
+                "name": "Rouiba"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "Annaba Province",
+        "cities": [
+            {
+                "id": 244,
+                "name": "Annaba"
+            },
+            {
+                "id": 245,
+                "name": "Berrahal"
+            },
+            {
+                "id": 246,
+                "name": "Drean"
+            },
+            {
+                "id": 247,
+                "name": "El Hadjar"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Batna Province",
+        "cities": [
+            {
+                "id": 248,
+                "name": "Aïn Touta"
+            },
+            {
+                "id": 249,
+                "name": "Arris"
+            },
+            {
+                "id": 250,
+                "name": "Barika"
+            },
+            {
+                "id": 251,
+                "name": "Batna"
+            },
+            {
+                "id": 252,
+                "name": "Boumagueur"
+            },
+            {
+                "id": 253,
+                "name": "Merouana"
+            },
+            {
+                "id": 254,
+                "name": "Râs el Aïoun"
+            },
+            {
+                "id": 255,
+                "name": "Tazoult-Lambese"
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Béchar Province",
+        "cities": [
+            {
+                "id": 256,
+                "name": "Béchar"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "name": "Béjaïa Province",
+        "cities": [
+            {
+                "id": 257,
+                "name": "Akbou"
+            },
+            {
+                "id": 258,
+                "name": "Amizour"
+            },
+            {
+                "id": 259,
+                "name": "Barbacha"
+            },
+            {
+                "id": 260,
+                "name": "Bejaïa"
+            },
+            {
+                "id": 261,
+                "name": "el hed"
+            },
+            {
+                "id": 262,
+                "name": "El Kseur"
+            },
+            {
+                "id": 263,
+                "name": "Feraoun"
+            },
+            {
+                "id": 264,
+                "name": "Seddouk"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "Biskra",
+        "cities": [
+            {
+                "id": 265,
+                "name": "Biskra"
+            },
+            {
+                "id": 266,
+                "name": "Oumache"
+            },
+            {
+                "id": 267,
+                "name": "Sidi Khaled"
+            },
+            {
+                "id": 268,
+                "name": "Sidi Okba"
+            },
+            {
+                "id": 269,
+                "name": "Tolga"
+            },
+            {
+                "id": 270,
+                "name": "Zeribet el Oued"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Blida Province",
+        "cities": [
+            {
+                "id": 271,
+                "name": "Beni Mered"
+            },
+            {
+                "id": 272,
+                "name": "Blida"
+            },
+            {
+                "id": 273,
+                "name": "Boû Arfa"
+            },
+            {
+                "id": 274,
+                "name": "Boufarik"
+            },
+            {
+                "id": 275,
+                "name": "Bougara"
+            },
+            {
+                "id": 276,
+                "name": "Bouinan"
+            },
+            {
+                "id": 277,
+                "name": "Chebli"
+            },
+            {
+                "id": 278,
+                "name": "Chiffa"
+            },
+            {
+                "id": 279,
+                "name": "Larbaâ"
+            },
+            {
+                "id": 280,
+                "name": "Meftah"
+            },
+            {
+                "id": 281,
+                "name": "Sidi Moussa"
+            },
+            {
+                "id": 282,
+                "name": "Souma"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Bordj Bou Arréridj Province",
+        "cities": [
+            {
+                "id": 283,
+                "name": "Bordj Bou Arreridj"
+            },
+            {
+                "id": 284,
+                "name": "Bordj Ghdir"
+            },
+            {
+                "id": 285,
+                "name": "Bordj Zemoura"
+            },
+            {
+                "id": 286,
+                "name": "El Achir"
+            },
+            {
+                "id": 287,
+                "name": "Mansourah"
+            },
+            {
+                "id": 288,
+                "name": "Melouza"
+            },
+            {
+                "id": 289,
+                "name": "Râs el Oued"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Bouïra Province",
+        "cities": [
+            {
+                "id": 290,
+                "name": "Aïn Bessem"
+            },
+            {
+                "id": 291,
+                "name": "Bouïra"
+            },
+            {
+                "id": 292,
+                "name": "Chorfa"
+            },
+            {
+                "id": 293,
+                "name": "Draa el Mizan"
+            },
+            {
+                "id": 294,
+                "name": "Lakhdaria"
+            },
+            {
+                "id": 295,
+                "name": "Sour el Ghozlane"
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Boumerdès Province",
+        "cities": [
+            {
+                "id": 296,
+                "name": "Arbatache"
+            },
+            {
+                "id": 297,
+                "name": "Beni Amrane"
+            },
+            {
+                "id": 298,
+                "name": "Boudouaou"
+            },
+            {
+                "id": 299,
+                "name": "Boumerdas"
+            },
+            {
+                "id": 300,
+                "name": "Chabet el Ameur"
+            },
+            {
+                "id": 301,
+                "name": "Dellys"
+            },
+            {
+                "id": 302,
+                "name": "Khemis el Khechna"
+            },
+            {
+                "id": 303,
+                "name": "Makouda"
+            },
+            {
+                "id": 304,
+                "name": "Naciria"
+            },
+            {
+                "id": 305,
+                "name": "Ouled Moussa"
+            },
+            {
+                "id": 306,
+                "name": "Reghaïa"
+            },
+            {
+                "id": 307,
+                "name": "Tadmaït"
+            },
+            {
+                "id": 308,
+                "name": "Thenia"
+            },
+            {
+                "id": 309,
+                "name": "Tizi Gheniff"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Chlef Province",
+        "cities": [
+            {
+                "id": 310,
+                "name": "Abou el Hassan"
+            },
+            {
+                "id": 311,
+                "name": "Boukadir"
+            },
+            {
+                "id": 312,
+                "name": "Chlef"
+            },
+            {
+                "id": 313,
+                "name": "Ech Chettia"
+            },
+            {
+                "id": 314,
+                "name": "Oued Fodda"
+            },
+            {
+                "id": 315,
+                "name": "Oued Sly"
+            },
+            {
+                "id": 316,
+                "name": "Sidi Akkacha"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Constantine Province",
+        "cities": [
+            {
+                "id": 317,
+                "name": "’Aïn Abid"
+            },
+            {
+                "id": 318,
+                "name": "Aïn Smara"
+            },
+            {
+                "id": 319,
+                "name": "Constantine"
+            },
+            {
+                "id": 320,
+                "name": "Didouche Mourad"
+            },
+            {
+                "id": 321,
+                "name": "El Khroub"
+            },
+            {
+                "id": 322,
+                "name": "Hamma Bouziane"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Djelfa Province",
+        "cities": [
+            {
+                "id": 323,
+                "name": "’Aïn el Bell"
+            },
+            {
+                "id": 324,
+                "name": "Aïn Oussera"
+            },
+            {
+                "id": 325,
+                "name": "Birine"
+            },
+            {
+                "id": 326,
+                "name": "Charef"
+            },
+            {
+                "id": 327,
+                "name": "Dar Chioukh"
+            },
+            {
+                "id": 328,
+                "name": "Djelfa"
+            },
+            {
+                "id": 329,
+                "name": "El Idrissia"
+            },
+            {
+                "id": 330,
+                "name": "Messaad"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "El Bayadh Province",
+        "cities": [
+            {
+                "id": 331,
+                "name": "Brezina"
+            },
+            {
+                "id": 332,
+                "name": "El Abiodh Sidi Cheikh"
+            },
+            {
+                "id": 333,
+                "name": "El Bayadh"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "name": "El Oued Province",
+        "cities": [
+            {
+                "id": 334,
+                "name": "Debila"
+            },
+            {
+                "id": 335,
+                "name": "El Oued"
+            },
+            {
+                "id": 336,
+                "name": "Reguiba"
+            },
+            {
+                "id": 337,
+                "name": "Robbah"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "El Tarf Province",
+        "cities": [
+            {
+                "id": 338,
+                "name": "Ben Mehidi"
+            },
+            {
+                "id": 339,
+                "name": "Besbes"
+            },
+            {
+                "id": 340,
+                "name": "El Kala"
+            },
+            {
+                "id": 341,
+                "name": "El Tarf"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Ghardaïa Province",
+        "cities": [
+            {
+                "id": 342,
+                "name": "Berriane"
+            },
+            {
+                "id": 343,
+                "name": "Ghardaïa"
+            },
+            {
+                "id": 344,
+                "name": "Metlili Chaamba"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "Guelma Province",
+        "cities": [
+            {
+                "id": 345,
+                "name": "Boumahra Ahmed"
+            },
+            {
+                "id": 346,
+                "name": "Guelma"
+            },
+            {
+                "id": 347,
+                "name": "Héliopolis"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Illizi Province",
+        "cities": [
+            {
+                "id": 348,
+                "name": "Illizi"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Jijel Province",
+        "cities": [
+            {
+                "id": 349,
+                "name": "Jijel"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Khenchela Province",
+        "cities": [
+            {
+                "id": 350,
+                "name": "Khenchela"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "Laghouat Province",
+        "cities": [
+            {
+                "id": 351,
+                "name": "Aflou"
+            },
+            {
+                "id": 352,
+                "name": "Laghouat"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "M'Sila Province",
+        "cities": [
+            {
+                "id": 353,
+                "name": "‘Aïn el Hadjel"
+            },
+            {
+                "id": 354,
+                "name": "’Aïn el Melh"
+            },
+            {
+                "id": 355,
+                "name": "M’Sila"
+            },
+            {
+                "id": 356,
+                "name": "Sidi Aïssa"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Mascara Province",
+        "cities": [
+            {
+                "id": 357,
+                "name": "Bou Hanifia el Hamamat"
+            },
+            {
+                "id": 358,
+                "name": "Mascara"
+            },
+            {
+                "id": 359,
+                "name": "Oued el Abtal"
+            },
+            {
+                "id": 360,
+                "name": "Sig"
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Médéa Province",
+        "cities": [
+            {
+                "id": 361,
+                "name": "’Aïn Boucif"
+            },
+            {
+                "id": 362,
+                "name": "Berrouaghia"
+            },
+            {
+                "id": 363,
+                "name": "Ksar el Boukhari"
+            },
+            {
+                "id": 364,
+                "name": "Médéa"
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Mila Province",
+        "cities": [
+            {
+                "id": 365,
+                "name": "Chelghoum el Aïd"
+            },
+            {
+                "id": 366,
+                "name": "Mila"
+            },
+            {
+                "id": 367,
+                "name": "Rouached"
+            },
+            {
+                "id": 368,
+                "name": "Sidi Mérouane"
+            },
+            {
+                "id": 369,
+                "name": "Telerghma"
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "Mostaganem Province",
+        "cities": [
+            {
+                "id": 370,
+                "name": "Mostaganem"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "Naama Province",
+        "cities": [
+            {
+                "id": 371,
+                "name": "Aïn Sefra"
+            },
+            {
+                "id": 372,
+                "name": "Naama"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Oran Province",
+        "cities": [
+            {
+                "id": 373,
+                "name": "’Aïn el Turk"
+            },
+            {
+                "id": 374,
+                "name": "Aïn el Bya"
+            },
+            {
+                "id": 375,
+                "name": "Bir el Djir"
+            },
+            {
+                "id": 376,
+                "name": "Bou Tlelis"
+            },
+            {
+                "id": 377,
+                "name": "Es Senia"
+            },
+            {
+                "id": 378,
+                "name": "Mers el Kebir"
+            },
+            {
+                "id": 379,
+                "name": "Oran"
+            },
+            {
+                "id": 380,
+                "name": "Sidi ech Chahmi"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Ouargla Province",
+        "cities": [
+            {
+                "id": 381,
+                "name": "Djamaa"
+            },
+            {
+                "id": 382,
+                "name": "El Hadjira"
+            },
+            {
+                "id": 383,
+                "name": "Hassi Messaoud"
+            },
+            {
+                "id": 384,
+                "name": "Megarine"
+            },
+            {
+                "id": 385,
+                "name": "Ouargla"
+            },
+            {
+                "id": 386,
+                "name": "Rouissat"
+            },
+            {
+                "id": 387,
+                "name": "Sidi Amrane"
+            },
+            {
+                "id": 388,
+                "name": "Tebesbest"
+            },
+            {
+                "id": 389,
+                "name": "Touggourt"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Oum El Bouaghi Province",
+        "cities": [
+            {
+                "id": 390,
+                "name": "Aïn Beïda"
+            },
+            {
+                "id": 391,
+                "name": "Aïn Fakroun"
+            },
+            {
+                "id": 392,
+                "name": "Aïn Kercha"
+            },
+            {
+                "id": 393,
+                "name": "El Aouinet"
+            },
+            {
+                "id": 394,
+                "name": "Meskiana"
+            },
+            {
+                "id": 395,
+                "name": "Oum el Bouaghi"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "Relizane Province",
+        "cities": [
+            {
+                "id": 396,
+                "name": "’Aïn Merane"
+            },
+            {
+                "id": 397,
+                "name": "Ammi Moussa"
+            },
+            {
+                "id": 398,
+                "name": "Djidiouia"
+            },
+            {
+                "id": 399,
+                "name": "Mazouna"
+            },
+            {
+                "id": 400,
+                "name": "Oued Rhiou"
+            },
+            {
+                "id": 401,
+                "name": "Relizane"
+            },
+            {
+                "id": 402,
+                "name": "Smala"
+            },
+            {
+                "id": 403,
+                "name": "Zemoura"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Saïda Province",
+        "cities": [
+            {
+                "id": 404,
+                "name": "’Aïn el Hadjar"
+            },
+            {
+                "id": 405,
+                "name": "Saïda"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "name": "Sétif Province",
+        "cities": [
+            {
+                "id": 406,
+                "name": "Aïn Arnat"
+            },
+            {
+                "id": 407,
+                "name": "BABOR - VILLE"
+            },
+            {
+                "id": 408,
+                "name": "Bougaa"
+            },
+            {
+                "id": 409,
+                "name": "El Eulma"
+            },
+            {
+                "id": 410,
+                "name": "Salah Bey"
+            },
+            {
+                "id": 411,
+                "name": "Sétif"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "name": "Skikda Province",
+        "cities": [
+            {
+                "id": 412,
+                "name": "Azzaba"
+            },
+            {
+                "id": 413,
+                "name": "Karkira"
+            },
+            {
+                "id": 414,
+                "name": "Skikda"
+            },
+            {
+                "id": 415,
+                "name": "Tamalous"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "Souk Ahras Province",
+        "cities": [
+            {
+                "id": 416,
+                "name": "Sedrata"
+            },
+            {
+                "id": 417,
+                "name": "Souk Ahras"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "Tamanghasset Province",
+        "cities": [
+            {
+                "id": 418,
+                "name": "I-n-Salah"
+            },
+            {
+                "id": 419,
+                "name": "Tamanrasset"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "Tébessa Province",
+        "cities": [
+            {
+                "id": 420,
+                "name": "Bir el Ater"
+            },
+            {
+                "id": 421,
+                "name": "Cheria"
+            },
+            {
+                "id": 422,
+                "name": "Hammamet"
+            },
+            {
+                "id": 423,
+                "name": "Tébessa"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Tiaret Province",
+        "cities": [
+            {
+                "id": 424,
+                "name": "’Aïn Deheb"
+            },
+            {
+                "id": 425,
+                "name": "Djebilet Rosfa"
+            },
+            {
+                "id": 426,
+                "name": "Frenda"
+            },
+            {
+                "id": 427,
+                "name": "Ksar Chellala"
+            },
+            {
+                "id": 428,
+                "name": "Mehdia daira de meghila"
+            },
+            {
+                "id": 429,
+                "name": "Sougueur"
+            },
+            {
+                "id": 430,
+                "name": "Tiaret"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "Tindouf Province",
+        "cities": [
+            {
+                "id": 431,
+                "name": "Tindouf"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "Tipasa Province",
+        "cities": [
+            {
+                "id": 432,
+                "name": "’Aïn Benian"
+            },
+            {
+                "id": 433,
+                "name": "Baraki"
+            },
+            {
+                "id": 434,
+                "name": "Bou Ismaïl"
+            },
+            {
+                "id": 435,
+                "name": "Cheraga"
+            },
+            {
+                "id": 436,
+                "name": "Douera"
+            },
+            {
+                "id": 437,
+                "name": "El Affroun"
+            },
+            {
+                "id": 438,
+                "name": "Hadjout"
+            },
+            {
+                "id": 439,
+                "name": "Kolea"
+            },
+            {
+                "id": 440,
+                "name": "Mouzaïa"
+            },
+            {
+                "id": 441,
+                "name": "Oued el Alleug"
+            },
+            {
+                "id": 442,
+                "name": "Saoula"
+            },
+            {
+                "id": 443,
+                "name": "Tipasa"
+            },
+            {
+                "id": 444,
+                "name": "Zeralda"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "Tissemsilt Province",
+        "cities": [
+            {
+                "id": 445,
+                "name": "Lardjem"
+            },
+            {
+                "id": 446,
+                "name": "Tissemsilt"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Tizi Ouzou Province",
+        "cities": [
+            {
+                "id": 447,
+                "name": "’Aïn el Hammam"
+            },
+            {
+                "id": 448,
+                "name": "Arhribs"
+            },
+            {
+                "id": 449,
+                "name": "Azazga"
+            },
+            {
+                "id": 450,
+                "name": "Beni Douala"
+            },
+            {
+                "id": 451,
+                "name": "Boghni"
+            },
+            {
+                "id": 452,
+                "name": "Boudjima"
+            },
+            {
+                "id": 453,
+                "name": "Chemini"
+            },
+            {
+                "id": 454,
+                "name": "Draa Ben Khedda"
+            },
+            {
+                "id": 455,
+                "name": "Freha"
+            },
+            {
+                "id": 456,
+                "name": "Ighram"
+            },
+            {
+                "id": 457,
+                "name": "L’Arbaa Naït Irathen"
+            },
+            {
+                "id": 458,
+                "name": "Mekla"
+            },
+            {
+                "id": 459,
+                "name": "Timizart"
+            },
+            {
+                "id": 460,
+                "name": "Tirmitine"
+            },
+            {
+                "id": 461,
+                "name": "Tizi Ouzou"
+            },
+            {
+                "id": 462,
+                "name": "Tizi Rached"
+            },
+            {
+                "id": 463,
+                "name": "Tizi-n-Tleta"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Tlemcen Province",
+        "cities": [
+            {
+                "id": 464,
+                "name": "Beni Mester"
+            },
+            {
+                "id": 465,
+                "name": "Bensekrane"
+            },
+            {
+                "id": 466,
+                "name": "Chetouane"
+            },
+            {
+                "id": 467,
+                "name": "Hennaya"
+            },
+            {
+                "id": 468,
+                "name": "Mansoûra"
+            },
+            {
+                "id": 469,
+                "name": "Nedroma"
+            },
+            {
+                "id": 470,
+                "name": "Ouled Mimoun"
+            },
+            {
+                "id": 471,
+                "name": "Remchi"
+            },
+            {
+                "id": 472,
+                "name": "Sebdou"
+            },
+            {
+                "id": 473,
+                "name": "Sidi Abdelli"
+            },
+            {
+                "id": 474,
+                "name": "Sidi Senoussi سيدي سنوسي"
+            },
+            {
+                "id": 475,
+                "name": "Tlemcen"
+            }
+        ]
+    }
+]

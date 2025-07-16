@@ -1,0 +1,142 @@
+[
+    {
+        "id": 3367,
+        "name": "Christ Church Nichola Town Parish",
+        "cities": [
+            {
+                "id": 101234,
+                "name": "Nicola Town"
+            }
+        ]
+    },
+    {
+        "id": 3368,
+        "name": "Nevis",
+        "cities": []
+    },
+    {
+        "id": 3369,
+        "name": "Saint Anne Sandy Point Parish",
+        "cities": [
+            {
+                "id": 101235,
+                "name": "Sandy Point Town"
+            }
+        ]
+    },
+    {
+        "id": 3370,
+        "name": "Saint George Gingerland Parish",
+        "cities": [
+            {
+                "id": 101236,
+                "name": "Market Shop"
+            }
+        ]
+    },
+    {
+        "id": 3371,
+        "name": "Saint James Windward Parish",
+        "cities": [
+            {
+                "id": 101237,
+                "name": "Newcastle"
+            }
+        ]
+    },
+    {
+        "id": 3372,
+        "name": "Saint John Capisterre Parish",
+        "cities": [
+            {
+                "id": 101238,
+                "name": "Dieppe Bay Town"
+            }
+        ]
+    },
+    {
+        "id": 3373,
+        "name": "Saint John Figtree Parish",
+        "cities": [
+            {
+                "id": 101239,
+                "name": "Fig Tree"
+            }
+        ]
+    },
+    {
+        "id": 3374,
+        "name": "Saint Kitts",
+        "cities": []
+    },
+    {
+        "id": 3375,
+        "name": "Saint Mary Cayon Parish",
+        "cities": [
+            {
+                "id": 101240,
+                "name": "Cayon"
+            }
+        ]
+    },
+    {
+        "id": 3376,
+        "name": "Saint Paul Capisterre Parish",
+        "cities": [
+            {
+                "id": 101241,
+                "name": "Saint Paul’s"
+            }
+        ]
+    },
+    {
+        "id": 3377,
+        "name": "Saint Paul Charlestown Parish",
+        "cities": [
+            {
+                "id": 101242,
+                "name": "Charlestown"
+            }
+        ]
+    },
+    {
+        "id": 3378,
+        "name": "Saint Peter Basseterre Parish",
+        "cities": [
+            {
+                "id": 101243,
+                "name": "Monkey Hill"
+            }
+        ]
+    },
+    {
+        "id": 3379,
+        "name": "Saint Thomas Lowland Parish",
+        "cities": [
+            {
+                "id": 101244,
+                "name": "Cotton Ground"
+            }
+        ]
+    },
+    {
+        "id": 3380,
+        "name": "Saint Thomas Middle Island Parish",
+        "cities": [
+            {
+                "id": 101245,
+                "name": "Middle Island"
+            }
+        ]
+    },
+    {
+        "id": 3381,
+        "name": "Trinity Palmetto Point Parish",
+        "cities": [
+            {
+                "id": 101246,
+                "name": "Trinity"
+            }
+        ]
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "id": 1195,
+        "name": "Annobón Province",
+        "cities": [
+            {
+                "id": 24185,
+                "name": "San Antonio de Palé"
+            }
+        ]
+    },
+    {
+        "id": 1196,
+        "name": "Bioko Norte Province",
+        "cities": [
+            {
+                "id": 24186,
+                "name": "Malabo"
+            },
+            {
+                "id": 24187,
+                "name": "Rebola"
+            },
+            {
+                "id": 24188,
+                "name": "Santiago de Baney"
+            }
+        ]
+    },
+    {
+        "id": 1197,
+        "name": "Bioko Sur Province",
+        "cities": [
+            {
+                "id": 24189,
+                "name": "Luba"
+            }
+        ]
+    },
+    {
+        "id": 1198,
+        "name": "Centro Sur Province",
+        "cities": [
+            {
+                "id": 24190,
+                "name": "Acurenam"
+            },
+            {
+                "id": 24191,
+                "name": "Bicurga"
+            },
+            {
+                "id": 24192,
+                "name": "Evinayong"
+            }
+        ]
+    },
+    {
+        "id": 1199,
+        "name": "Insular Region",
+        "cities": []
+    },
+    {
+        "id": 1200,
+        "name": "Kié-Ntem Province",
+        "cities": [
+            {
+                "id": 24193,
+                "name": "Ebebiyin"
+            },
+            {
+                "id": 24194,
+                "name": "Mikomeseng"
+            },
+            {
+                "id": 24195,
+                "name": "Ncue"
+            },
+            {
+                "id": 24196,
+                "name": "Nsang"
+            }
+        ]
+    },
+    {
+        "id": 1201,
+        "name": "Litoral Province",
+        "cities": [
+            {
+                "id": 24197,
+                "name": "Bata"
+            },
+            {
+                "id": 24198,
+                "name": "Bitica"
+            },
+            {
+                "id": 24199,
+                "name": "Cogo"
+            },
+            {
+                "id": 24200,
+                "name": "Machinda"
+            },
+            {
+                "id": 24201,
+                "name": "Mbini"
+            },
+            {
+                "id": 24202,
+                "name": "Río Campo"
+            }
+        ]
+    },
+    {
+        "id": 1202,
+        "name": "Río Muni",
+        "cities": []
+    },
+    {
+        "id": 1203,
+        "name": "Wele-Nzas Province",
+        "cities": [
+            {
+                "id": 24203,
+                "name": "Aconibe"
+            },
+            {
+                "id": 24204,
+                "name": "Añisoc"
+            },
+            {
+                "id": 24205,
+                "name": "Ayene"
+            },
+            {
+                "id": 24206,
+                "name": "Mengomeyén"
+            },
+            {
+                "id": 24207,
+                "name": "Mongomo"
+            },
+            {
+                "id": 24208,
+                "name": "Nsok"
+            }
+        ]
+    }
+]

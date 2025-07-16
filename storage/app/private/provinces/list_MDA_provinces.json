@@ -1,0 +1,381 @@
+[
+    {
+        "id": 2656,
+        "name": "Anenii Noi District",
+        "cities": [
+            {
+                "id": 73989,
+                "name": "Anenii Noi"
+            },
+            {
+                "id": 73990,
+                "name": "Varniţa"
+            }
+        ]
+    },
+    {
+        "id": 2657,
+        "name": "Bălți Municipality",
+        "cities": [
+            {
+                "id": 73991,
+                "name": "Bălţi"
+            }
+        ]
+    },
+    {
+        "id": 2658,
+        "name": "Basarabeasca District",
+        "cities": [
+            {
+                "id": 73992,
+                "name": "Basarabeasca"
+            }
+        ]
+    },
+    {
+        "id": 2659,
+        "name": "Bender Municipality",
+        "cities": [
+            {
+                "id": 73993,
+                "name": "Bender"
+            }
+        ]
+    },
+    {
+        "id": 2660,
+        "name": "Briceni District",
+        "cities": [
+            {
+                "id": 73994,
+                "name": "Briceni"
+            }
+        ]
+    },
+    {
+        "id": 2661,
+        "name": "Cahul District",
+        "cities": [
+            {
+                "id": 73995,
+                "name": "Cahul"
+            },
+            {
+                "id": 73996,
+                "name": "Giurgiuleşti"
+            }
+        ]
+    },
+    {
+        "id": 2662,
+        "name": "Călărași District",
+        "cities": [
+            {
+                "id": 73997,
+                "name": "Călăraşi"
+            }
+        ]
+    },
+    {
+        "id": 2663,
+        "name": "Cantemir District",
+        "cities": []
+    },
+    {
+        "id": 2664,
+        "name": "Căușeni District",
+        "cities": [
+            {
+                "id": 73998,
+                "name": "Căuşeni"
+            },
+            {
+                "id": 73999,
+                "name": "Chiţcani"
+            }
+        ]
+    },
+    {
+        "id": 2665,
+        "name": "Chișinău Municipality",
+        "cities": [
+            {
+                "id": 74000,
+                "name": "Chisinau"
+            },
+            {
+                "id": 74001,
+                "name": "Ciorescu"
+            },
+            {
+                "id": 74002,
+                "name": "Cricova"
+            },
+            {
+                "id": 74003,
+                "name": "Sîngera"
+            },
+            {
+                "id": 74004,
+                "name": "Stăuceni"
+            },
+            {
+                "id": 74005,
+                "name": "Vadul lui Vodă"
+            },
+            {
+                "id": 74006,
+                "name": "Vatra"
+            }
+        ]
+    },
+    {
+        "id": 2666,
+        "name": "Cimișlia District",
+        "cities": []
+    },
+    {
+        "id": 2667,
+        "name": "Criuleni District",
+        "cities": [
+            {
+                "id": 74007,
+                "name": "Criuleni"
+            }
+        ]
+    },
+    {
+        "id": 2668,
+        "name": "Dondușeni District",
+        "cities": [
+            {
+                "id": 74008,
+                "name": "Briceni"
+            },
+            {
+                "id": 74009,
+                "name": "Donduşeni"
+            }
+        ]
+    },
+    {
+        "id": 2669,
+        "name": "Drochia District",
+        "cities": []
+    },
+    {
+        "id": 2670,
+        "name": "Dubăsari District",
+        "cities": [
+            {
+                "id": 74010,
+                "name": "Cocieri"
+            },
+            {
+                "id": 74011,
+                "name": "Ustia"
+            }
+        ]
+    },
+    {
+        "id": 2671,
+        "name": "Edineț District",
+        "cities": [
+            {
+                "id": 74012,
+                "name": "Edineţ"
+            }
+        ]
+    },
+    {
+        "id": 2672,
+        "name": "Fălești District",
+        "cities": [
+            {
+                "id": 74013,
+                "name": "Fălești"
+            }
+        ]
+    },
+    {
+        "id": 2673,
+        "name": "Florești District",
+        "cities": [
+            {
+                "id": 74014,
+                "name": "Floreşti"
+            },
+            {
+                "id": 74015,
+                "name": "Ghindești"
+            },
+            {
+                "id": 74016,
+                "name": "Mărculeşti"
+            }
+        ]
+    },
+    {
+        "id": 2674,
+        "name": "Gagauzia",
+        "cities": [
+            {
+                "id": 74017,
+                "name": "Bugeac"
+            },
+            {
+                "id": 74018,
+                "name": "Ceadîr-Lunga"
+            },
+            {
+                "id": 74019,
+                "name": "Comrat"
+            },
+            {
+                "id": 74020,
+                "name": "Vulcăneşti"
+            }
+        ]
+    },
+    {
+        "id": 2675,
+        "name": "Glodeni District",
+        "cities": []
+    },
+    {
+        "id": 2676,
+        "name": "Hîncești District",
+        "cities": [
+            {
+                "id": 74021,
+                "name": "Dancu"
+            },
+            {
+                "id": 74022,
+                "name": "Hînceşti"
+            }
+        ]
+    },
+    {
+        "id": 2677,
+        "name": "Ialoveni District",
+        "cities": [
+            {
+                "id": 74023,
+                "name": "Ialoveni"
+            }
+        ]
+    },
+    {
+        "id": 2678,
+        "name": "Nisporeni District",
+        "cities": []
+    },
+    {
+        "id": 2679,
+        "name": "Ocnița District",
+        "cities": [
+            {
+                "id": 74024,
+                "name": "Ocniţa"
+            },
+            {
+                "id": 74025,
+                "name": "Otaci"
+            }
+        ]
+    },
+    {
+        "id": 2680,
+        "name": "Orhei District",
+        "cities": [
+            {
+                "id": 74026,
+                "name": "Orhei"
+            }
+        ]
+    },
+    {
+        "id": 2681,
+        "name": "Rezina District",
+        "cities": []
+    },
+    {
+        "id": 2682,
+        "name": "Rîșcani District",
+        "cities": []
+    },
+    {
+        "id": 2683,
+        "name": "Sîngerei District",
+        "cities": [
+            {
+                "id": 74027,
+                "name": "Bilicenii Vechi"
+            },
+            {
+                "id": 74028,
+                "name": "Biruinţa"
+            },
+            {
+                "id": 74029,
+                "name": "Sîngerei"
+            }
+        ]
+    },
+    {
+        "id": 2684,
+        "name": "Șoldănești District",
+        "cities": []
+    },
+    {
+        "id": 2685,
+        "name": "Soroca District",
+        "cities": []
+    },
+    {
+        "id": 2686,
+        "name": "Ștefan Vodă District",
+        "cities": [
+            {
+                "id": 74030,
+                "name": "Ştefan Vodă"
+            }
+        ]
+    },
+    {
+        "id": 2687,
+        "name": "Strășeni District",
+        "cities": []
+    },
+    {
+        "id": 2688,
+        "name": "Taraclia District",
+        "cities": [
+            {
+                "id": 74031,
+                "name": "Taraclia"
+            },
+            {
+                "id": 74032,
+                "name": "Tvardița"
+            }
+        ]
+    },
+    {
+        "id": 2689,
+        "name": "Telenești District",
+        "cities": []
+    },
+    {
+        "id": 2690,
+        "name": "Transnistria autonomous territorial unit",
+        "cities": []
+    },
+    {
+        "id": 2691,
+        "name": "Ungheni District",
+        "cities": []
+    }
+]

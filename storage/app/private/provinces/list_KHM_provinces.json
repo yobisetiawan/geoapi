@@ -1,0 +1,564 @@
+[
+    {
+        "id": 647,
+        "name": "Banteay Meanchey Province",
+        "cities": [
+            {
+                "id": 16448,
+                "name": "Mongkol Borei"
+            },
+            {
+                "id": 16449,
+                "name": "Paoy Paet"
+            },
+            {
+                "id": 16450,
+                "name": "Sisophon"
+            },
+            {
+                "id": 16451,
+                "name": "Srŏk Malai"
+            },
+            {
+                "id": 16452,
+                "name": "Srŏk Svay Chék"
+            }
+        ]
+    },
+    {
+        "id": 648,
+        "name": "Battambang Province",
+        "cities": [
+            {
+                "id": 16453,
+                "name": "Battambang"
+            },
+            {
+                "id": 16454,
+                "name": "Srŏk Âk Phnŭm"
+            },
+            {
+                "id": 16455,
+                "name": "Srŏk Banăn"
+            },
+            {
+                "id": 16456,
+                "name": "Srŏk Bâvĭl"
+            },
+            {
+                "id": 16457,
+                "name": "Srŏk Rotanak Mondol"
+            }
+        ]
+    },
+    {
+        "id": 649,
+        "name": "Kampong Cham Province",
+        "cities": [
+            {
+                "id": 16458,
+                "name": "Cheung Prey"
+            },
+            {
+                "id": 16459,
+                "name": "Kampong Cham"
+            },
+            {
+                "id": 16460,
+                "name": "Srŏk Bathéay"
+            }
+        ]
+    },
+    {
+        "id": 650,
+        "name": "Kampong Chhnang Province",
+        "cities": [
+            {
+                "id": 16461,
+                "name": "Baribour"
+            },
+            {
+                "id": 16462,
+                "name": "Kampong Chhnang"
+            },
+            {
+                "id": 16463,
+                "name": "Rolea B'ier"
+            },
+            {
+                "id": 16464,
+                "name": "Srŏk Chol Kiri"
+            },
+            {
+                "id": 16465,
+                "name": "Srŏk Sameakki Mean Chey"
+            }
+        ]
+    },
+    {
+        "id": 651,
+        "name": "Kampong Speu Province",
+        "cities": [
+            {
+                "id": 16466,
+                "name": "Kampong Speu"
+            },
+            {
+                "id": 16467,
+                "name": "Krŏng Chbar Mon"
+            },
+            {
+                "id": 16468,
+                "name": "Srŏk Basedth"
+            },
+            {
+                "id": 16469,
+                "name": "Srŏk Kông Pĭsei"
+            },
+            {
+                "id": 16470,
+                "name": "Srŏk Ŏdŏngk"
+            }
+        ]
+    },
+    {
+        "id": 652,
+        "name": "Kampot Province",
+        "cities": [
+            {
+                "id": 16471,
+                "name": "Angkor Chey"
+            },
+            {
+                "id": 16472,
+                "name": "Banteay Meas"
+            },
+            {
+                "id": 16473,
+                "name": "Chhouk District"
+            },
+            {
+                "id": 16474,
+                "name": "Kampong Bay"
+            },
+            {
+                "id": 16475,
+                "name": "Kampong Tranch"
+            },
+            {
+                "id": 16476,
+                "name": "Kampot"
+            },
+            {
+                "id": 16477,
+                "name": "Srŏk Chŭm Kiri"
+            },
+            {
+                "id": 16478,
+                "name": "Srŏk Dângtóng"
+            },
+            {
+                "id": 16479,
+                "name": "Srok Tuek Chhou"
+            }
+        ]
+    },
+    {
+        "id": 653,
+        "name": "Kandal Province",
+        "cities": [
+            {
+                "id": 16480,
+                "name": "Krŏng Ta Khmau"
+            },
+            {
+                "id": 16481,
+                "name": "Srŏk Khsăch Kândal"
+            },
+            {
+                "id": 16482,
+                "name": "Ta Khmau"
+            }
+        ]
+    },
+    {
+        "id": 654,
+        "name": "Kep Province",
+        "cities": [
+            {
+                "id": 16483,
+                "name": "Krong Kep"
+            },
+            {
+                "id": 16484,
+                "name": "Srŏk Dâmnăk Châng’aeur"
+            }
+        ]
+    },
+    {
+        "id": 655,
+        "name": "Koh Kong Province",
+        "cities": [
+            {
+                "id": 16485,
+                "name": "Koh Kong"
+            },
+            {
+                "id": 16486,
+                "name": "Smach Mean Chey"
+            },
+            {
+                "id": 16487,
+                "name": "Srae Ambel"
+            },
+            {
+                "id": 16488,
+                "name": "Srŏk Batum Sakôr"
+            },
+            {
+                "id": 16489,
+                "name": "Srŏk Môndôl Seima"
+            }
+        ]
+    },
+    {
+        "id": 656,
+        "name": "Kratié Province",
+        "cities": [
+            {
+                "id": 16490,
+                "name": "Kracheh"
+            },
+            {
+                "id": 16491,
+                "name": "Kratié"
+            },
+            {
+                "id": 16492,
+                "name": "Snuol"
+            }
+        ]
+    },
+    {
+        "id": 657,
+        "name": "Mondulkiri Province",
+        "cities": [
+            {
+                "id": 16493,
+                "name": "Krŏng Sênmônoŭrôm"
+            },
+            {
+                "id": 16494,
+                "name": "Sen Monorom"
+            },
+            {
+                "id": 16495,
+                "name": "Srŏk Kaev Seima"
+            },
+            {
+                "id": 16496,
+                "name": "Srŏk Pech Chreada"
+            }
+        ]
+    },
+    {
+        "id": 658,
+        "name": "Oddar Meanchey Province",
+        "cities": [
+            {
+                "id": 16497,
+                "name": "Samraong"
+            },
+            {
+                "id": 16498,
+                "name": "Srŏk Bântéay Âmpĭl"
+            },
+            {
+                "id": 16499,
+                "name": "Srŏk Sâmraông"
+            },
+            {
+                "id": 16500,
+                "name": "Srŏk Trâpeăng Prasat"
+            }
+        ]
+    },
+    {
+        "id": 659,
+        "name": "Pailin Province",
+        "cities": [
+            {
+                "id": 16501,
+                "name": "Khan Sala Krau"
+            },
+            {
+                "id": 16502,
+                "name": "Pailin"
+            }
+        ]
+    },
+    {
+        "id": 660,
+        "name": "Phnom Penh",
+        "cities": [
+            {
+                "id": 16503,
+                "name": "Khan 7 Makara"
+            },
+            {
+                "id": 16504,
+                "name": "Khan Châmkar Mon"
+            },
+            {
+                "id": 16505,
+                "name": "Khan Dângkaô"
+            },
+            {
+                "id": 16506,
+                "name": "Khan Duŏn Pénh"
+            },
+            {
+                "id": 16507,
+                "name": "Khan Méan Chey"
+            },
+            {
+                "id": 16508,
+                "name": "Khan Russey Keo"
+            },
+            {
+                "id": 16509,
+                "name": "Khan Saen Sokh"
+            },
+            {
+                "id": 16510,
+                "name": "Phnom Penh"
+            }
+        ]
+    },
+    {
+        "id": 661,
+        "name": "Preah Vihear Province",
+        "cities": [
+            {
+                "id": 16511,
+                "name": "Sangkom Thmei"
+            },
+            {
+                "id": 16512,
+                "name": "Srŏk Ch’êh Sên"
+            },
+            {
+                "id": 16513,
+                "name": "Srŏk Chhêb"
+            },
+            {
+                "id": 16514,
+                "name": "Srŏk Kulén"
+            },
+            {
+                "id": 16515,
+                "name": "Srŏk Rôviĕng"
+            },
+            {
+                "id": 16516,
+                "name": "Srŏk Tbêng Méanchey"
+            },
+            {
+                "id": 16517,
+                "name": "Tbeng Meanchey"
+            }
+        ]
+    },
+    {
+        "id": 662,
+        "name": "Prey Veng Province",
+        "cities": [
+            {
+                "id": 16518,
+                "name": "Prey Veng"
+            },
+            {
+                "id": 16519,
+                "name": "Srŏk Kâmpóng Léav"
+            },
+            {
+                "id": 16520,
+                "name": "Srŏk Mésang"
+            },
+            {
+                "id": 16521,
+                "name": "Srŏk Preăh Sdéch"
+            }
+        ]
+    },
+    {
+        "id": 663,
+        "name": "Pursat Province",
+        "cities": [
+            {
+                "id": 16522,
+                "name": "Bakan"
+            },
+            {
+                "id": 16523,
+                "name": "Krakor"
+            },
+            {
+                "id": 16524,
+                "name": "Pursat"
+            },
+            {
+                "id": 16525,
+                "name": "Sampov Meas"
+            },
+            {
+                "id": 16526,
+                "name": "Srŏk Kândiĕng"
+            },
+            {
+                "id": 16527,
+                "name": "Srŏk Véal Vêng"
+            }
+        ]
+    },
+    {
+        "id": 664,
+        "name": "Ratanakiri Province",
+        "cities": [
+            {
+                "id": 16528,
+                "name": "Banlung"
+            },
+            {
+                "id": 16529,
+                "name": "Lumphat"
+            },
+            {
+                "id": 16530,
+                "name": "Srŏk Ândong Méas"
+            },
+            {
+                "id": 16531,
+                "name": "Srŏk Bâ Kêv"
+            },
+            {
+                "id": 16532,
+                "name": "Srŏk Ban Lŭng"
+            },
+            {
+                "id": 16533,
+                "name": "Srŏk Koun Mom"
+            },
+            {
+                "id": 16534,
+                "name": "Srŏk Ou Chum"
+            },
+            {
+                "id": 16535,
+                "name": "Srŏk Ou Ya Dav"
+            },
+            {
+                "id": 16536,
+                "name": "Srŏk Ta Vêng"
+            }
+        ]
+    },
+    {
+        "id": 665,
+        "name": "Siem Reap Province",
+        "cities": [
+            {
+                "id": 16537,
+                "name": "Siem Reap"
+            },
+            {
+                "id": 16538,
+                "name": "Srŏk Ângkôr Thum"
+            },
+            {
+                "id": 16539,
+                "name": "Srŏk Prasat Bakong"
+            },
+            {
+                "id": 16540,
+                "name": "Svay Leu"
+            },
+            {
+                "id": 16541,
+                "name": "Varin"
+            }
+        ]
+    },
+    {
+        "id": 666,
+        "name": "Sihanoukville Province",
+        "cities": [
+            {
+                "id": 16542,
+                "name": "Sihanoukville"
+            },
+            {
+                "id": 16543,
+                "name": "Srok Stueng Hav"
+            }
+        ]
+    },
+    {
+        "id": 667,
+        "name": "Stung Treng Province",
+        "cities": [
+            {
+                "id": 16544,
+                "name": "Srŏk Srêsén"
+            },
+            {
+                "id": 16545,
+                "name": "Stueng Traeng"
+            },
+            {
+                "id": 16546,
+                "name": "Stung Treng"
+            }
+        ]
+    },
+    {
+        "id": 668,
+        "name": "Svay Rieng Province",
+        "cities": [
+            {
+                "id": 16547,
+                "name": "Srŏk Svay Chrŭm"
+            },
+            {
+                "id": 16548,
+                "name": "Svay Rieng"
+            }
+        ]
+    },
+    {
+        "id": 669,
+        "name": "Takéo Province",
+        "cities": [
+            {
+                "id": 16549,
+                "name": "Krŏng Doun Kaev"
+            },
+            {
+                "id": 16550,
+                "name": "Phumĭ Véal Srê"
+            },
+            {
+                "id": 16551,
+                "name": "Srŏk Ângkôr Borei"
+            },
+            {
+                "id": 16552,
+                "name": "Srŏk Borei Cholsar"
+            },
+            {
+                "id": 16553,
+                "name": "Takeo"
+            }
+        ]
+    }
+]

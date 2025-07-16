@@ -1,0 +1,306 @@
+[
+    {
+        "id": 3984,
+        "name": "districts of Republican Subordination",
+        "cities": [
+            {
+                "id": 112960,
+                "name": "Darband"
+            },
+            {
+                "id": 112961,
+                "name": "Hisor"
+            },
+            {
+                "id": 112962,
+                "name": "Karakenja"
+            },
+            {
+                "id": 112963,
+                "name": "Khodzha-Maston"
+            },
+            {
+                "id": 112964,
+                "name": "Novobod"
+            },
+            {
+                "id": 112965,
+                "name": "Obigarm"
+            },
+            {
+                "id": 112966,
+                "name": "Rasht"
+            },
+            {
+                "id": 112967,
+                "name": "Roghun"
+            },
+            {
+                "id": 112968,
+                "name": "Shahrinav"
+            },
+            {
+                "id": 112969,
+                "name": "Tagob"
+            },
+            {
+                "id": 112970,
+                "name": "Tursunzoda"
+            },
+            {
+                "id": 112971,
+                "name": "Vahdat"
+            },
+            {
+                "id": 112972,
+                "name": "Vahdat District"
+            },
+            {
+                "id": 112973,
+                "name": "Varzob"
+            },
+            {
+                "id": 112974,
+                "name": "Varzob District"
+            }
+        ]
+    },
+    {
+        "id": 3985,
+        "name": "Gorno-Badakhshan Autonomous Province",
+        "cities": [
+            {
+                "id": 112975,
+                "name": "Ishqoshim"
+            },
+            {
+                "id": 112976,
+                "name": "Khorugh"
+            },
+            {
+                "id": 112977,
+                "name": "Murghob"
+            },
+            {
+                "id": 112978,
+                "name": "Nohiyai Shughnon"
+            }
+        ]
+    },
+    {
+        "id": 3986,
+        "name": "Khatlon Province",
+        "cities": [
+            {
+                "id": 112979,
+                "name": "Abdurahmoni Jomí"
+            },
+            {
+                "id": 112980,
+                "name": "Boshchorbogh"
+            },
+            {
+                "id": 112981,
+                "name": "Bŭstonqal’a"
+            },
+            {
+                "id": 112982,
+                "name": "Chubek"
+            },
+            {
+                "id": 112983,
+                "name": "Danghara"
+            },
+            {
+                "id": 112984,
+                "name": "Dŭstí"
+            },
+            {
+                "id": 112985,
+                "name": "Farkhor"
+            },
+            {
+                "id": 112986,
+                "name": "Gharavŭtí"
+            },
+            {
+                "id": 112987,
+                "name": "Jilikŭl"
+            },
+            {
+                "id": 112988,
+                "name": "Kirov"
+            },
+            {
+                "id": 112989,
+                "name": "Kolkhozobod"
+            },
+            {
+                "id": 112990,
+                "name": "Kŭlob"
+            },
+            {
+                "id": 112991,
+                "name": "Moskovskiy"
+            },
+            {
+                "id": 112992,
+                "name": "Mŭ’minobod"
+            },
+            {
+                "id": 112993,
+                "name": "Nohiyai Kolkhozobod"
+            },
+            {
+                "id": 112994,
+                "name": "Nohiyai Panj"
+            },
+            {
+                "id": 112995,
+                "name": "Nohiyai Vakhsh"
+            },
+            {
+                "id": 112996,
+                "name": "Norak"
+            },
+            {
+                "id": 112997,
+                "name": "Orzu"
+            },
+            {
+                "id": 112998,
+                "name": "Panj"
+            },
+            {
+                "id": 112999,
+                "name": "Qŭrghonteppa"
+            },
+            {
+                "id": 113000,
+                "name": "Shahritus"
+            },
+            {
+                "id": 113001,
+                "name": "Sovet"
+            },
+            {
+                "id": 113002,
+                "name": "Tartiki"
+            },
+            {
+                "id": 113003,
+                "name": "Vakhsh"
+            },
+            {
+                "id": 113004,
+                "name": "Vose’"
+            },
+            {
+                "id": 113005,
+                "name": "Yovon"
+            }
+        ]
+    },
+    {
+        "id": 3987,
+        "name": "Sughd Province",
+        "cities": [
+            {
+                "id": 113006,
+                "name": "Adrasmon"
+            },
+            {
+                "id": 113007,
+                "name": "Ayní"
+            },
+            {
+                "id": 113008,
+                "name": "Bŭston"
+            },
+            {
+                "id": 113009,
+                "name": "Chkalov"
+            },
+            {
+                "id": 113010,
+                "name": "Ghafurov"
+            },
+            {
+                "id": 113011,
+                "name": "Isfara"
+            },
+            {
+                "id": 113012,
+                "name": "Istaravshan"
+            },
+            {
+                "id": 113013,
+                "name": "Khŭjand"
+            },
+            {
+                "id": 113014,
+                "name": "Kim"
+            },
+            {
+                "id": 113015,
+                "name": "Konibodom"
+            },
+            {
+                "id": 113016,
+                "name": "Konsoy"
+            },
+            {
+                "id": 113017,
+                "name": "Neftobod"
+            },
+            {
+                "id": 113018,
+                "name": "Nohiyai Konibodom"
+            },
+            {
+                "id": 113019,
+                "name": "Nov"
+            },
+            {
+                "id": 113020,
+                "name": "Oltintopkan"
+            },
+            {
+                "id": 113021,
+                "name": "Pakhtakoron"
+            },
+            {
+                "id": 113022,
+                "name": "Palos"
+            },
+            {
+                "id": 113023,
+                "name": "Panjakent"
+            },
+            {
+                "id": 113024,
+                "name": "Proletar"
+            },
+            {
+                "id": 113025,
+                "name": "Quruqsoy"
+            },
+            {
+                "id": 113026,
+                "name": "Shaydon"
+            },
+            {
+                "id": 113027,
+                "name": "Shŭrob"
+            },
+            {
+                "id": 113028,
+                "name": "Taboshar"
+            },
+            {
+                "id": 113029,
+                "name": "Vorukh"
+            }
+        ]
+    }
+]

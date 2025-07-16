@@ -1,0 +1,141 @@
+[
+    {
+        "id": 841,
+        "name": "Bouenza Department",
+        "cities": [
+            {
+                "id": 20568,
+                "name": "Kayes"
+            },
+            {
+                "id": 20569,
+                "name": "Madingou"
+            }
+        ]
+    },
+    {
+        "id": 842,
+        "name": "Brazzaville",
+        "cities": [
+            {
+                "id": 20570,
+                "name": "Brazzaville"
+            }
+        ]
+    },
+    {
+        "id": 843,
+        "name": "Cuvette Department",
+        "cities": [
+            {
+                "id": 20571,
+                "name": "Makoua"
+            },
+            {
+                "id": 20572,
+                "name": "Owando"
+            }
+        ]
+    },
+    {
+        "id": 844,
+        "name": "Cuvette-Ouest Department",
+        "cities": [
+            {
+                "id": 20573,
+                "name": "Ewo"
+            }
+        ]
+    },
+    {
+        "id": 845,
+        "name": "Kouilou Department",
+        "cities": []
+    },
+    {
+        "id": 846,
+        "name": "Lékoumou Department",
+        "cities": [
+            {
+                "id": 20574,
+                "name": "Sibiti"
+            }
+        ]
+    },
+    {
+        "id": 847,
+        "name": "Likouala Department",
+        "cities": [
+            {
+                "id": 20575,
+                "name": "Impfondo"
+            }
+        ]
+    },
+    {
+        "id": 848,
+        "name": "Niari Department",
+        "cities": [
+            {
+                "id": 20576,
+                "name": "Dolisie"
+            },
+            {
+                "id": 20577,
+                "name": "Mossendjo"
+            }
+        ]
+    },
+    {
+        "id": 849,
+        "name": "Plateaux Department",
+        "cities": [
+            {
+                "id": 20578,
+                "name": "Djambala"
+            },
+            {
+                "id": 20579,
+                "name": "Gamboma"
+            }
+        ]
+    },
+    {
+        "id": 850,
+        "name": "Pointe-Noire",
+        "cities": [
+            {
+                "id": 20580,
+                "name": "Loandjili"
+            },
+            {
+                "id": 20581,
+                "name": "Pointe-Noire"
+            }
+        ]
+    },
+    {
+        "id": 851,
+        "name": "Pool Department",
+        "cities": [
+            {
+                "id": 20582,
+                "name": "Kinkala"
+            }
+        ]
+    },
+    {
+        "id": 852,
+        "name": "Sangha Department",
+        "cities": [
+            {
+                "id": 20583,
+                "name": "Ouésso"
+            },
+            {
+                "id": 20584,
+                "name": "Sémbé"
+            }
+        ]
+    }
+]

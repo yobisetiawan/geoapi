@@ -1,0 +1,162 @@
+[
+    {
+        "id": 3897,
+        "name": "Hhohho District",
+        "cities": [
+            {
+                "id": 110160,
+                "name": "Bulembu"
+            },
+            {
+                "id": 110161,
+                "name": "Hhukwini"
+            },
+            {
+                "id": 110162,
+                "name": "Lobamba"
+            },
+            {
+                "id": 110163,
+                "name": "Mbabane"
+            },
+            {
+                "id": 110164,
+                "name": "Nkhaba"
+            },
+            {
+                "id": 110165,
+                "name": "Piggs Peak"
+            }
+        ]
+    },
+    {
+        "id": 3898,
+        "name": "Lubombo District",
+        "cities": [
+            {
+                "id": 110166,
+                "name": "Big Bend"
+            },
+            {
+                "id": 110167,
+                "name": "Dvokodvweni Inkhundla"
+            },
+            {
+                "id": 110168,
+                "name": "Lomashasha"
+            },
+            {
+                "id": 110169,
+                "name": "Mhlume"
+            },
+            {
+                "id": 110170,
+                "name": "Nsoko"
+            },
+            {
+                "id": 110171,
+                "name": "Siteki"
+            },
+            {
+                "id": 110172,
+                "name": "Tshaneni"
+            },
+            {
+                "id": 110173,
+                "name": "Vuvulane"
+            }
+        ]
+    },
+    {
+        "id": 3899,
+        "name": "Manzini District",
+        "cities": [
+            {
+                "id": 110174,
+                "name": "Bhunya"
+            },
+            {
+                "id": 110175,
+                "name": "Ekukhanyeni"
+            },
+            {
+                "id": 110176,
+                "name": "Kwaluseni"
+            },
+            {
+                "id": 110177,
+                "name": "Malkerns"
+            },
+            {
+                "id": 110178,
+                "name": "Manzini"
+            },
+            {
+                "id": 110179,
+                "name": "Manzini South"
+            },
+            {
+                "id": 110180,
+                "name": "Mhlambanyatsi"
+            },
+            {
+                "id": 110181,
+                "name": "Ngwempisi"
+            },
+            {
+                "id": 110182,
+                "name": "Ntondozi"
+            },
+            {
+                "id": 110183,
+                "name": "Sidvokodvo"
+            }
+        ]
+    },
+    {
+        "id": 3900,
+        "name": "Shiselweni District",
+        "cities": [
+            {
+                "id": 110184,
+                "name": "Hlatikulu"
+            },
+            {
+                "id": 110185,
+                "name": "Hluti"
+            },
+            {
+                "id": 110186,
+                "name": "Kubuta"
+            },
+            {
+                "id": 110187,
+                "name": "Lavumisa"
+            },
+            {
+                "id": 110188,
+                "name": "Matsanjeni"
+            },
+            {
+                "id": 110189,
+                "name": "Ngudzeni"
+            },
+            {
+                "id": 110190,
+                "name": "Nhlangano"
+            },
+            {
+                "id": 110191,
+                "name": "Nkwene"
+            },
+            {
+                "id": 110192,
+                "name": "Sigwe Inkhundla"
+            },
+            {
+                "id": 110193,
+                "name": "Zombodze Ikhundla"
+            }
+        ]
+    }
+]

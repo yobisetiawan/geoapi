@@ -1,0 +1,4310 @@
+[
+    {
+        "id": 1373,
+        "name": "Achaea Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1374,
+        "name": "Aetolia-Acarnania Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1375,
+        "name": "Arcadia Prefecture",
+        "cities": []
+    },
+    {
+        "id": 1376,
+        "name": "Argolis Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1377,
+        "name": "Attica Region",
+        "cities": [
+            {
+                "id": 41274,
+                "name": "Acharnés"
+            },
+            {
+                "id": 41275,
+                "name": "Aegina"
+            },
+            {
+                "id": 41276,
+                "name": "Afidnés"
+            },
+            {
+                "id": 41277,
+                "name": "Aghios Panteleímon"
+            },
+            {
+                "id": 41278,
+                "name": "Agía Marína"
+            },
+            {
+                "id": 41279,
+                "name": "Agía Paraskeví"
+            },
+            {
+                "id": 41280,
+                "name": "Agía Varvára"
+            },
+            {
+                "id": 41281,
+                "name": "Ágioi Anárgyroi"
+            },
+            {
+                "id": 41282,
+                "name": "Agios Dimitrios"
+            },
+            {
+                "id": 41283,
+                "name": "Agios Dimítrios Kropiás"
+            },
+            {
+                "id": 41284,
+                "name": "Agios Ioannis Rentis"
+            },
+            {
+                "id": 41285,
+                "name": "Ágios Stéfanos"
+            },
+            {
+                "id": 41286,
+                "name": "Aiánteio"
+            },
+            {
+                "id": 41287,
+                "name": "Aigáleo"
+            },
+            {
+                "id": 41288,
+                "name": "Álimos"
+            },
+            {
+                "id": 41289,
+                "name": "Ampelákia"
+            },
+            {
+                "id": 41290,
+                "name": "Anávyssos"
+            },
+            {
+                "id": 41291,
+                "name": "Áno Liósia"
+            },
+            {
+                "id": 41292,
+                "name": "Anoixi"
+            },
+            {
+                "id": 41293,
+                "name": "Anthoúsa"
+            },
+            {
+                "id": 41294,
+                "name": "Argithéa"
+            },
+            {
+                "id": 41295,
+                "name": "Argyroúpoli"
+            },
+            {
+                "id": 41296,
+                "name": "Artémida"
+            },
+            {
+                "id": 41297,
+                "name": "Asprópyrgos"
+            },
+            {
+                "id": 41298,
+                "name": "Athens"
+            },
+            {
+                "id": 41299,
+                "name": "Avlónas"
+            },
+            {
+                "id": 41300,
+                "name": "Áyioi Apóstoloi"
+            },
+            {
+                "id": 41301,
+                "name": "Chaïdári"
+            },
+            {
+                "id": 41302,
+                "name": "Cholargós"
+            },
+            {
+                "id": 41303,
+                "name": "Dhafní"
+            },
+            {
+                "id": 41304,
+                "name": "Dhráfi"
+            },
+            {
+                "id": 41305,
+                "name": "Dióni"
+            },
+            {
+                "id": 41306,
+                "name": "Diónysos"
+            },
+            {
+                "id": 41307,
+                "name": "Drapetsóna"
+            },
+            {
+                "id": 41308,
+                "name": "Drosiá"
+            },
+            {
+                "id": 41309,
+                "name": "Ekáli"
+            },
+            {
+                "id": 41310,
+                "name": "Elefsína"
+            },
+            {
+                "id": 41311,
+                "name": "Ellinikó"
+            },
+            {
+                "id": 41312,
+                "name": "Erythrés"
+            },
+            {
+                "id": 41313,
+                "name": "Filothéi"
+            },
+            {
+                "id": 41314,
+                "name": "Fylí"
+            },
+            {
+                "id": 41315,
+                "name": "Galatás"
+            },
+            {
+                "id": 41316,
+                "name": "Galátsi"
+            },
+            {
+                "id": 41317,
+                "name": "Gérakas"
+            },
+            {
+                "id": 41318,
+                "name": "Glyfáda"
+            },
+            {
+                "id": 41319,
+                "name": "Grammatikó"
+            },
+            {
+                "id": 41320,
+                "name": "Ílion"
+            },
+            {
+                "id": 41321,
+                "name": "Ilioúpoli"
+            },
+            {
+                "id": 41322,
+                "name": "Irákleio"
+            },
+            {
+                "id": 41323,
+                "name": "Kaisarianí"
+            },
+            {
+                "id": 41324,
+                "name": "Kálamos"
+            },
+            {
+                "id": 41325,
+                "name": "Kallithéa"
+            },
+            {
+                "id": 41326,
+                "name": "Kalývia Thorikoú"
+            },
+            {
+                "id": 41327,
+                "name": "Kamaterón"
+            },
+            {
+                "id": 41328,
+                "name": "Kapandríti"
+            },
+            {
+                "id": 41329,
+                "name": "Karellás"
+            },
+            {
+                "id": 41330,
+                "name": "Káto Soúlion"
+            },
+            {
+                "id": 41331,
+                "name": "Keratéa"
+            },
+            {
+                "id": 41332,
+                "name": "Keratsíni"
+            },
+            {
+                "id": 41333,
+                "name": "Khalándrion"
+            },
+            {
+                "id": 41334,
+                "name": "Khalkoútsion"
+            },
+            {
+                "id": 41335,
+                "name": "Kifisiá"
+            },
+            {
+                "id": 41336,
+                "name": "Kinéta"
+            },
+            {
+                "id": 41337,
+                "name": "Kipséli"
+            },
+            {
+                "id": 41338,
+                "name": "Kítsi"
+            },
+            {
+                "id": 41339,
+                "name": "Koropí"
+            },
+            {
+                "id": 41340,
+                "name": "Korydallós"
+            },
+            {
+                "id": 41341,
+                "name": "Kouvarás"
+            },
+            {
+                "id": 41342,
+                "name": "Kryonéri"
+            },
+            {
+                "id": 41343,
+                "name": "Kypséli"
+            },
+            {
+                "id": 41344,
+                "name": "Kýthira"
+            },
+            {
+                "id": 41345,
+                "name": "Lávrio"
+            },
+            {
+                "id": 41346,
+                "name": "Leondárion"
+            },
+            {
+                "id": 41347,
+                "name": "Limín Mesoyaías"
+            },
+            {
+                "id": 41348,
+                "name": "Lykóvrysi"
+            },
+            {
+                "id": 41349,
+                "name": "Magoúla"
+            },
+            {
+                "id": 41350,
+                "name": "Mándra"
+            },
+            {
+                "id": 41351,
+                "name": "Marathónas"
+            },
+            {
+                "id": 41352,
+                "name": "Markópoulo"
+            },
+            {
+                "id": 41353,
+                "name": "Markópoulo Oropoú"
+            },
+            {
+                "id": 41354,
+                "name": "Maroúsi"
+            },
+            {
+                "id": 41355,
+                "name": "Megalochóri"
+            },
+            {
+                "id": 41356,
+                "name": "Mégara"
+            },
+            {
+                "id": 41357,
+                "name": "Melíssia"
+            },
+            {
+                "id": 41358,
+                "name": "Metamórfosi"
+            },
+            {
+                "id": 41359,
+                "name": "Moskháton"
+            },
+            {
+                "id": 41360,
+                "name": "Néa Chalkidóna"
+            },
+            {
+                "id": 41361,
+                "name": "Néa Erythraía"
+            },
+            {
+                "id": 41362,
+                "name": "Néa Filadélfeia"
+            },
+            {
+                "id": 41363,
+                "name": "Néa Ionía"
+            },
+            {
+                "id": 41364,
+                "name": "Néa Mákri"
+            },
+            {
+                "id": 41365,
+                "name": "Néa Palátia"
+            },
+            {
+                "id": 41366,
+                "name": "Néa Pentéli"
+            },
+            {
+                "id": 41367,
+                "name": "Néa Péramos"
+            },
+            {
+                "id": 41368,
+                "name": "Néa Smýrni"
+            },
+            {
+                "id": 41369,
+                "name": "Néo Psychikó"
+            },
+            {
+                "id": 41370,
+                "name": "Neos Voutzás"
+            },
+            {
+                "id": 41371,
+                "name": "Níkaia"
+            },
+            {
+                "id": 41372,
+                "name": "Oropós"
+            },
+            {
+                "id": 41373,
+                "name": "Paianía"
+            },
+            {
+                "id": 41374,
+                "name": "Palaiá Fókaia"
+            },
+            {
+                "id": 41375,
+                "name": "Palaió Fáliro"
+            },
+            {
+                "id": 41376,
+                "name": "Pallíni"
+            },
+            {
+                "id": 41377,
+                "name": "Papágou"
+            },
+            {
+                "id": 41378,
+                "name": "Péfki"
+            },
+            {
+                "id": 41379,
+                "name": "Pentéli"
+            },
+            {
+                "id": 41380,
+                "name": "Pérama"
+            },
+            {
+                "id": 41381,
+                "name": "Peristéri"
+            },
+            {
+                "id": 41382,
+                "name": "Petroúpolis"
+            },
+            {
+                "id": 41383,
+                "name": "Pikérmi"
+            },
+            {
+                "id": 41384,
+                "name": "Piraeus"
+            },
+            {
+                "id": 41385,
+                "name": "Polydéndri"
+            },
+            {
+                "id": 41386,
+                "name": "Póros"
+            },
+            {
+                "id": 41387,
+                "name": "Psychikó"
+            },
+            {
+                "id": 41388,
+                "name": "Rafína"
+            },
+            {
+                "id": 41389,
+                "name": "Rodópoli"
+            },
+            {
+                "id": 41390,
+                "name": "Salamína"
+            },
+            {
+                "id": 41391,
+                "name": "Saronída"
+            },
+            {
+                "id": 41392,
+                "name": "Selínia"
+            },
+            {
+                "id": 41393,
+                "name": "Skála Oropoú"
+            },
+            {
+                "id": 41394,
+                "name": "Skarmagkás"
+            },
+            {
+                "id": 41395,
+                "name": "Spáta"
+            },
+            {
+                "id": 41396,
+                "name": "Spétses"
+            },
+            {
+                "id": 41397,
+                "name": "Stamáta"
+            },
+            {
+                "id": 41398,
+                "name": "Távros"
+            },
+            {
+                "id": 41399,
+                "name": "Thrakomakedónes"
+            },
+            {
+                "id": 41400,
+                "name": "Vári"
+            },
+            {
+                "id": 41401,
+                "name": "Varnávas"
+            },
+            {
+                "id": 41402,
+                "name": "Varybóbi"
+            },
+            {
+                "id": 41403,
+                "name": "Vathý"
+            },
+            {
+                "id": 41404,
+                "name": "Vília"
+            },
+            {
+                "id": 41405,
+                "name": "Vlycháda"
+            },
+            {
+                "id": 41406,
+                "name": "Voúla"
+            },
+            {
+                "id": 41407,
+                "name": "Vouliagméni"
+            },
+            {
+                "id": 41408,
+                "name": "Vraná"
+            },
+            {
+                "id": 41409,
+                "name": "Vrilissia"
+            },
+            {
+                "id": 41410,
+                "name": "Výronas"
+            },
+            {
+                "id": 41411,
+                "name": "Ýdra"
+            },
+            {
+                "id": 41412,
+                "name": "Ymittos"
+            },
+            {
+                "id": 41413,
+                "name": "Zefyri"
+            },
+            {
+                "id": 41414,
+                "name": "Zográfos"
+            }
+        ]
+    },
+    {
+        "id": 1378,
+        "name": "Boeotia Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1379,
+        "name": "Central Greece Region",
+        "cities": [
+            {
+                "id": 41415,
+                "name": "Afrátion"
+            },
+            {
+                "id": 41416,
+                "name": "Agía Triáda"
+            },
+            {
+                "id": 41417,
+                "name": "Ágios Geórgios"
+            },
+            {
+                "id": 41418,
+                "name": "Aidipsós"
+            },
+            {
+                "id": 41419,
+                "name": "Akraifnía"
+            },
+            {
+                "id": 41420,
+                "name": "Alíartos"
+            },
+            {
+                "id": 41421,
+                "name": "Alivéri"
+            },
+            {
+                "id": 41422,
+                "name": "Amárynthos"
+            },
+            {
+                "id": 41423,
+                "name": "Amfíkleia"
+            },
+            {
+                "id": 41424,
+                "name": "Ámfissa"
+            },
+            {
+                "id": 41425,
+                "name": "Anthíli"
+            },
+            {
+                "id": 41426,
+                "name": "Antikyra"
+            },
+            {
+                "id": 41427,
+                "name": "Aráchova"
+            },
+            {
+                "id": 41428,
+                "name": "Árma"
+            },
+            {
+                "id": 41429,
+                "name": "Asopía"
+            },
+            {
+                "id": 41430,
+                "name": "Atalánti"
+            },
+            {
+                "id": 41431,
+                "name": "Áyios Konstandínos"
+            },
+            {
+                "id": 41432,
+                "name": "Áyios Nikólaos"
+            },
+            {
+                "id": 41433,
+                "name": "Áyios Thomás"
+            },
+            {
+                "id": 41434,
+                "name": "Chairóneia"
+            },
+            {
+                "id": 41435,
+                "name": "Chalkída"
+            },
+            {
+                "id": 41436,
+                "name": "Delphi"
+            },
+            {
+                "id": 41437,
+                "name": "Dhrosiá"
+            },
+            {
+                "id": 41438,
+                "name": "Dílesi"
+            },
+            {
+                "id": 41439,
+                "name": "Dístomo"
+            },
+            {
+                "id": 41440,
+                "name": "Domokós"
+            },
+            {
+                "id": 41441,
+                "name": "Domvraína"
+            },
+            {
+                "id": 41442,
+                "name": "Eláteia"
+            },
+            {
+                "id": 41443,
+                "name": "Erétria"
+            },
+            {
+                "id": 41444,
+                "name": "Fáros"
+            },
+            {
+                "id": 41445,
+                "name": "Fílla"
+            },
+            {
+                "id": 41446,
+                "name": "Galaxídhion"
+            },
+            {
+                "id": 41447,
+                "name": "Istiaía"
+            },
+            {
+                "id": 41448,
+                "name": "Itéa"
+            },
+            {
+                "id": 41449,
+                "name": "Kainoúryion"
+            },
+            {
+                "id": 41450,
+                "name": "Kaména Voúrla"
+            },
+            {
+                "id": 41451,
+                "name": "Kaparéllion"
+            },
+            {
+                "id": 41452,
+                "name": "Karpenísi"
+            },
+            {
+                "id": 41453,
+                "name": "Kárystos"
+            },
+            {
+                "id": 41454,
+                "name": "Kastélla"
+            },
+            {
+                "id": 41455,
+                "name": "Káto Tithoréa"
+            },
+            {
+                "id": 41456,
+                "name": "Kerasochóri"
+            },
+            {
+                "id": 41457,
+                "name": "Kírra"
+            },
+            {
+                "id": 41458,
+                "name": "Kými"
+            },
+            {
+                "id": 41459,
+                "name": "Kyriáki"
+            },
+            {
+                "id": 41460,
+                "name": "Lamía"
+            },
+            {
+                "id": 41461,
+                "name": "Lianokládhion"
+            },
+            {
+                "id": 41462,
+                "name": "Lidoríki"
+            },
+            {
+                "id": 41463,
+                "name": "Límni"
+            },
+            {
+                "id": 41464,
+                "name": "Livadeiá"
+            },
+            {
+                "id": 41465,
+                "name": "Livanátes"
+            },
+            {
+                "id": 41466,
+                "name": "Loukísia"
+            },
+            {
+                "id": 41467,
+                "name": "Loutrá Aidhipsoú"
+            },
+            {
+                "id": 41468,
+                "name": "Magoúla"
+            },
+            {
+                "id": 41469,
+                "name": "Makrakómi"
+            },
+            {
+                "id": 41470,
+                "name": "Malakónta"
+            },
+            {
+                "id": 41471,
+                "name": "Malesína"
+            },
+            {
+                "id": 41472,
+                "name": "Mantoúdi"
+            },
+            {
+                "id": 41473,
+                "name": "Marmárion"
+            },
+            {
+                "id": 41474,
+                "name": "Martínon"
+            },
+            {
+                "id": 41475,
+                "name": "Mólos"
+            },
+            {
+                "id": 41476,
+                "name": "Mytikas"
+            },
+            {
+                "id": 41477,
+                "name": "Néa Artáki"
+            },
+            {
+                "id": 41478,
+                "name": "Néa Lámpsakos"
+            },
+            {
+                "id": 41479,
+                "name": "Néa Stíra"
+            },
+            {
+                "id": 41480,
+                "name": "Néon Monastírion"
+            },
+            {
+                "id": 41481,
+                "name": "Nomós Evrytanías"
+            },
+            {
+                "id": 41482,
+                "name": "Nomós Fokídos"
+            },
+            {
+                "id": 41483,
+                "name": "Oinófyta"
+            },
+            {
+                "id": 41484,
+                "name": "Omvriakí"
+            },
+            {
+                "id": 41485,
+                "name": "Orchomenós"
+            },
+            {
+                "id": 41486,
+                "name": "Oreoí"
+            },
+            {
+                "id": 41487,
+                "name": "Oxílithos"
+            },
+            {
+                "id": 41488,
+                "name": "Paralía Avlídhos"
+            },
+            {
+                "id": 41489,
+                "name": "Pelasgía"
+            },
+            {
+                "id": 41490,
+                "name": "Pláka Dílesi"
+            },
+            {
+                "id": 41491,
+                "name": "Politiká"
+            },
+            {
+                "id": 41492,
+                "name": "Prokópi"
+            },
+            {
+                "id": 41493,
+                "name": "Psachná"
+            },
+            {
+                "id": 41494,
+                "name": "Rodhítsa"
+            },
+            {
+                "id": 41495,
+                "name": "Roviés"
+            },
+            {
+                "id": 41496,
+                "name": "Schimatári"
+            },
+            {
+                "id": 41497,
+                "name": "Skýros"
+            },
+            {
+                "id": 41498,
+                "name": "Spercheiáda"
+            },
+            {
+                "id": 41499,
+                "name": "Stavrós"
+            },
+            {
+                "id": 41500,
+                "name": "Steíri"
+            },
+            {
+                "id": 41501,
+                "name": "Stylída"
+            },
+            {
+                "id": 41502,
+                "name": "Thespiés"
+            },
+            {
+                "id": 41503,
+                "name": "Thívai"
+            },
+            {
+                "id": 41504,
+                "name": "Vágia"
+            },
+            {
+                "id": 41505,
+                "name": "Vasilikón"
+            },
+            {
+                "id": 41506,
+                "name": "Vathí"
+            },
+            {
+                "id": 41507,
+                "name": "Yimnón"
+            }
+        ]
+    },
+    {
+        "id": 1380,
+        "name": "Central Macedonia",
+        "cities": [
+            {
+                "id": 41508,
+                "name": "Ádendro"
+            },
+            {
+                "id": 41509,
+                "name": "Áfytos"
+            },
+            {
+                "id": 41510,
+                "name": "Agía Paraskeví"
+            },
+            {
+                "id": 41511,
+                "name": "Agía Triáda"
+            },
+            {
+                "id": 41512,
+                "name": "Ágio Pnévma"
+            },
+            {
+                "id": 41513,
+                "name": "Ágios Athanásios"
+            },
+            {
+                "id": 41514,
+                "name": "Ágios Geórgios"
+            },
+            {
+                "id": 41515,
+                "name": "Ágios Loukás"
+            },
+            {
+                "id": 41516,
+                "name": "Ágios Nikólaos"
+            },
+            {
+                "id": 41517,
+                "name": "Ágios Pávlos"
+            },
+            {
+                "id": 41518,
+                "name": "Ágios Pétros"
+            },
+            {
+                "id": 41519,
+                "name": "Ágios Spyrídon"
+            },
+            {
+                "id": 41520,
+                "name": "Ágios Vasíleios"
+            },
+            {
+                "id": 41521,
+                "name": "Agkathiá"
+            },
+            {
+                "id": 41522,
+                "name": "Aigínio"
+            },
+            {
+                "id": 41523,
+                "name": "Akrolímni"
+            },
+            {
+                "id": 41524,
+                "name": "Alexándreia"
+            },
+            {
+                "id": 41525,
+                "name": "Alistráti"
+            },
+            {
+                "id": 41526,
+                "name": "Ampeleíes"
+            },
+            {
+                "id": 41527,
+                "name": "Ampelókipoi"
+            },
+            {
+                "id": 41528,
+                "name": "Anatolikó"
+            },
+            {
+                "id": 41529,
+                "name": "Angelochóri"
+            },
+            {
+                "id": 41530,
+                "name": "Ápsalos"
+            },
+            {
+                "id": 41531,
+                "name": "Aravissós"
+            },
+            {
+                "id": 41532,
+                "name": "Aridaía"
+            },
+            {
+                "id": 41533,
+                "name": "Arnaía"
+            },
+            {
+                "id": 41534,
+                "name": "Árnissa"
+            },
+            {
+                "id": 41535,
+                "name": "Arsénio"
+            },
+            {
+                "id": 41536,
+                "name": "Askós"
+            },
+            {
+                "id": 41537,
+                "name": "Asproválta"
+            },
+            {
+                "id": 41538,
+                "name": "Ássiros"
+            },
+            {
+                "id": 41539,
+                "name": "Asvestochóri"
+            },
+            {
+                "id": 41540,
+                "name": "Áthyra"
+            },
+            {
+                "id": 41541,
+                "name": "Axioúpoli"
+            },
+            {
+                "id": 41542,
+                "name": "Axós"
+            },
+            {
+                "id": 41543,
+                "name": "Chalástra"
+            },
+            {
+                "id": 41544,
+                "name": "Chalkidóna"
+            },
+            {
+                "id": 41545,
+                "name": "Charopó"
+            },
+            {
+                "id": 41546,
+                "name": "Chortiátis"
+            },
+            {
+                "id": 41547,
+                "name": "Chrysó"
+            },
+            {
+                "id": 41548,
+                "name": "Chrysochórafa"
+            },
+            {
+                "id": 41549,
+                "name": "Diavatá"
+            },
+            {
+                "id": 41550,
+                "name": "Diavatós"
+            },
+            {
+                "id": 41551,
+                "name": "Díon"
+            },
+            {
+                "id": 41552,
+                "name": "Dravískos"
+            },
+            {
+                "id": 41553,
+                "name": "Drymós"
+            },
+            {
+                "id": 41554,
+                "name": "Édessa"
+            },
+            {
+                "id": 41555,
+                "name": "Efkarpía"
+            },
+            {
+                "id": 41556,
+                "name": "Eirinoúpoli"
+            },
+            {
+                "id": 41557,
+                "name": "Epanomí"
+            },
+            {
+                "id": 41558,
+                "name": "Episkopí"
+            },
+            {
+                "id": 41559,
+                "name": "Évosmos"
+            },
+            {
+                "id": 41560,
+                "name": "Evropós"
+            },
+            {
+                "id": 41561,
+                "name": "Exaplátanos"
+            },
+            {
+                "id": 41562,
+                "name": "Fíliro"
+            },
+            {
+                "id": 41563,
+                "name": "Galatádes"
+            },
+            {
+                "id": 41564,
+                "name": "Galátista"
+            },
+            {
+                "id": 41565,
+                "name": "Gázoros"
+            },
+            {
+                "id": 41566,
+                "name": "Géfyra"
+            },
+            {
+                "id": 41567,
+                "name": "Gerakaroú"
+            },
+            {
+                "id": 41568,
+                "name": "Giannitsá"
+            },
+            {
+                "id": 41569,
+                "name": "Gouménissa"
+            },
+            {
+                "id": 41570,
+                "name": "Ierissós"
+            },
+            {
+                "id": 41571,
+                "name": "Irákleia"
+            },
+            {
+                "id": 41572,
+                "name": "Kalá Déndra"
+            },
+            {
+                "id": 41573,
+                "name": "Kalamariá"
+            },
+            {
+                "id": 41574,
+                "name": "Kalí"
+            },
+            {
+                "id": 41575,
+                "name": "Kallithéa"
+            },
+            {
+                "id": 41576,
+                "name": "Kalochóri"
+            },
+            {
+                "id": 41577,
+                "name": "Kalýves Polygýrou"
+            },
+            {
+                "id": 41578,
+                "name": "Kalývia"
+            },
+            {
+                "id": 41579,
+                "name": "Kampánis"
+            },
+            {
+                "id": 41580,
+                "name": "Kardiá"
+            },
+            {
+                "id": 41581,
+                "name": "Karítsa"
+            },
+            {
+                "id": 41582,
+                "name": "Karyótissa"
+            },
+            {
+                "id": 41583,
+                "name": "Kassándreia"
+            },
+            {
+                "id": 41584,
+                "name": "Kateríni"
+            },
+            {
+                "id": 41585,
+                "name": "Káto Kamíla"
+            },
+            {
+                "id": 41586,
+                "name": "Káto Lipochóri"
+            },
+            {
+                "id": 41587,
+                "name": "Káto Miliá"
+            },
+            {
+                "id": 41588,
+                "name": "Káto Scholári"
+            },
+            {
+                "id": 41589,
+                "name": "Kavallári"
+            },
+            {
+                "id": 41590,
+                "name": "Kilkís"
+            },
+            {
+                "id": 41591,
+                "name": "Kítros"
+            },
+            {
+                "id": 41592,
+                "name": "Kleidí"
+            },
+            {
+                "id": 41593,
+                "name": "Koímisi"
+            },
+            {
+                "id": 41594,
+                "name": "Kolchikón"
+            },
+            {
+                "id": 41595,
+                "name": "Kolindrós"
+            },
+            {
+                "id": 41596,
+                "name": "Kontariótissa"
+            },
+            {
+                "id": 41597,
+                "name": "Kopanós"
+            },
+            {
+                "id": 41598,
+                "name": "Korinós"
+            },
+            {
+                "id": 41599,
+                "name": "Koryfí"
+            },
+            {
+                "id": 41600,
+                "name": "Koufália"
+            },
+            {
+                "id": 41601,
+                "name": "Kouloúra"
+            },
+            {
+                "id": 41602,
+                "name": "Krithiá"
+            },
+            {
+                "id": 41603,
+                "name": "Krýa Vrýsi"
+            },
+            {
+                "id": 41604,
+                "name": "Kýmina"
+            },
+            {
+                "id": 41605,
+                "name": "Lagkadás"
+            },
+            {
+                "id": 41606,
+                "name": "Lagyná"
+            },
+            {
+                "id": 41607,
+                "name": "Lákkoma"
+            },
+            {
+                "id": 41608,
+                "name": "Lefkónas"
+            },
+            {
+                "id": 41609,
+                "name": "Leptokaryá"
+            },
+            {
+                "id": 41610,
+                "name": "Lianovérgi"
+            },
+            {
+                "id": 41611,
+                "name": "Lití"
+            },
+            {
+                "id": 41612,
+                "name": "Litóchoro"
+            },
+            {
+                "id": 41613,
+                "name": "Lófos"
+            },
+            {
+                "id": 41614,
+                "name": "Loutráki"
+            },
+            {
+                "id": 41615,
+                "name": "Loutrós"
+            },
+            {
+                "id": 41616,
+                "name": "Makrochóri"
+            },
+            {
+                "id": 41617,
+                "name": "Makrýgialos"
+            },
+            {
+                "id": 41618,
+                "name": "Mándalo"
+            },
+            {
+                "id": 41619,
+                "name": "Marína"
+            },
+            {
+                "id": 41620,
+                "name": "Mavrothálassa"
+            },
+            {
+                "id": 41621,
+                "name": "Mavrovoúni"
+            },
+            {
+                "id": 41622,
+                "name": "Megáli Panagía"
+            },
+            {
+                "id": 41623,
+                "name": "Melíki"
+            },
+            {
+                "id": 41624,
+                "name": "Melíssi"
+            },
+            {
+                "id": 41625,
+                "name": "Melissochóri"
+            },
+            {
+                "id": 41626,
+                "name": "Meneméni"
+            },
+            {
+                "id": 41627,
+                "name": "Mesiméri"
+            },
+            {
+                "id": 41628,
+                "name": "Mikró Monastíri"
+            },
+            {
+                "id": 41629,
+                "name": "Mitroúsi"
+            },
+            {
+                "id": 41630,
+                "name": "Náousa"
+            },
+            {
+                "id": 41631,
+                "name": "Néa Apollonía"
+            },
+            {
+                "id": 41632,
+                "name": "Néa Éfesos"
+            },
+            {
+                "id": 41633,
+                "name": "Néa Flogitá"
+            },
+            {
+                "id": 41634,
+                "name": "Néa Fókaia"
+            },
+            {
+                "id": 41635,
+                "name": "Néa Kallikráteia"
+            },
+            {
+                "id": 41636,
+                "name": "Néa Magnisía"
+            },
+            {
+                "id": 41637,
+                "name": "Néa Málgara"
+            },
+            {
+                "id": 41638,
+                "name": "Néa Mesimvría"
+            },
+            {
+                "id": 41639,
+                "name": "Néa Michanióna"
+            },
+            {
+                "id": 41640,
+                "name": "Néa Moudhaniá"
+            },
+            {
+                "id": 41641,
+                "name": "Néa Pélla"
+            },
+            {
+                "id": 41642,
+                "name": "Néa Plágia"
+            },
+            {
+                "id": 41643,
+                "name": "Néa Poteídaia"
+            },
+            {
+                "id": 41644,
+                "name": "Néa Potídhaia"
+            },
+            {
+                "id": 41645,
+                "name": "Néa Róda"
+            },
+            {
+                "id": 41646,
+                "name": "Néa Sánta"
+            },
+            {
+                "id": 41647,
+                "name": "Néa Tríglia"
+            },
+            {
+                "id": 41648,
+                "name": "Néa Vrasná"
+            },
+            {
+                "id": 41649,
+                "name": "Néa Zíchni"
+            },
+            {
+                "id": 41650,
+                "name": "Neapoli"
+            },
+            {
+                "id": 41651,
+                "name": "Néo Agionéri"
+            },
+            {
+                "id": 41652,
+                "name": "Néo Petrítsi"
+            },
+            {
+                "id": 41653,
+                "name": "Néo Rýsi"
+            },
+            {
+                "id": 41654,
+                "name": "Néo Soúli"
+            },
+            {
+                "id": 41655,
+                "name": "Neochóri"
+            },
+            {
+                "id": 41656,
+                "name": "Neochoroúda"
+            },
+            {
+                "id": 41657,
+                "name": "Néoi Epivátes"
+            },
+            {
+                "id": 41658,
+                "name": "Néos Marmarás"
+            },
+            {
+                "id": 41659,
+                "name": "Néos Mylótopos"
+            },
+            {
+                "id": 41660,
+                "name": "Néos Skopós"
+            },
+            {
+                "id": 41661,
+                "name": "Nigríta"
+            },
+            {
+                "id": 41662,
+                "name": "Níkiti"
+            },
+            {
+                "id": 41663,
+                "name": "Nisí"
+            },
+            {
+                "id": 41664,
+                "name": "Nomós Chalkidikís"
+            },
+            {
+                "id": 41665,
+                "name": "Nomós Péllis"
+            },
+            {
+                "id": 41666,
+                "name": "Nomós Thessaloníkis"
+            },
+            {
+                "id": 41667,
+                "name": "Ólynthos"
+            },
+            {
+                "id": 41668,
+                "name": "Oraiókastro"
+            },
+            {
+                "id": 41669,
+                "name": "Ormýlia"
+            },
+            {
+                "id": 41670,
+                "name": "Ouranoupolis"
+            },
+            {
+                "id": 41671,
+                "name": "Palaífyto"
+            },
+            {
+                "id": 41672,
+                "name": "Palaiochóri"
+            },
+            {
+                "id": 41673,
+                "name": "Palaiokómi"
+            },
+            {
+                "id": 41674,
+                "name": "Panórama"
+            },
+            {
+                "id": 41675,
+                "name": "Paralía"
+            },
+            {
+                "id": 41676,
+                "name": "Patrída"
+            },
+            {
+                "id": 41677,
+                "name": "Péfka"
+            },
+            {
+                "id": 41678,
+                "name": "Pefkochóri"
+            },
+            {
+                "id": 41679,
+                "name": "Pélla"
+            },
+            {
+                "id": 41680,
+                "name": "Pentálofos"
+            },
+            {
+                "id": 41681,
+                "name": "Pentaplátano"
+            },
+            {
+                "id": 41682,
+                "name": "Peraía"
+            },
+            {
+                "id": 41683,
+                "name": "Perístasi"
+            },
+            {
+                "id": 41684,
+                "name": "Peristerá"
+            },
+            {
+                "id": 41685,
+                "name": "Plagiári"
+            },
+            {
+                "id": 41686,
+                "name": "Platý"
+            },
+            {
+                "id": 41687,
+                "name": "Políchni"
+            },
+            {
+                "id": 41688,
+                "name": "Polýgyros"
+            },
+            {
+                "id": 41689,
+                "name": "Polykárpi"
+            },
+            {
+                "id": 41690,
+                "name": "Polýkastro"
+            },
+            {
+                "id": 41691,
+                "name": "Pontisméno"
+            },
+            {
+                "id": 41692,
+                "name": "Portariá"
+            },
+            {
+                "id": 41693,
+                "name": "Próchoma"
+            },
+            {
+                "id": 41694,
+                "name": "Profítis Ilías"
+            },
+            {
+                "id": 41695,
+                "name": "Prómachoi"
+            },
+            {
+                "id": 41696,
+                "name": "Próti"
+            },
+            {
+                "id": 41697,
+                "name": "Provatás"
+            },
+            {
+                "id": 41698,
+                "name": "Pylaía"
+            },
+            {
+                "id": 41699,
+                "name": "Ritíni"
+            },
+            {
+                "id": 41700,
+                "name": "Rizári"
+            },
+            {
+                "id": 41701,
+                "name": "Rizó"
+            },
+            {
+                "id": 41702,
+                "name": "Rizómata"
+            },
+            {
+                "id": 41703,
+                "name": "Rodolívos"
+            },
+            {
+                "id": 41704,
+                "name": "Sárti"
+            },
+            {
+                "id": 41705,
+                "name": "Sérres"
+            },
+            {
+                "id": 41706,
+                "name": "Sevastianá"
+            },
+            {
+                "id": 41707,
+                "name": "Sfendámi"
+            },
+            {
+                "id": 41708,
+                "name": "Sidirókastro"
+            },
+            {
+                "id": 41709,
+                "name": "Símantra"
+            },
+            {
+                "id": 41710,
+                "name": "Síndos"
+            },
+            {
+                "id": 41711,
+                "name": "Skotoússa"
+            },
+            {
+                "id": 41712,
+                "name": "Skoútari"
+            },
+            {
+                "id": 41713,
+                "name": "Skýdra"
+            },
+            {
+                "id": 41714,
+                "name": "Sochós"
+            },
+            {
+                "id": 41715,
+                "name": "Sosándra"
+            },
+            {
+                "id": 41716,
+                "name": "Sourotí"
+            },
+            {
+                "id": 41717,
+                "name": "Stathmós Mourión"
+            },
+            {
+                "id": 41718,
+                "name": "Stavrós"
+            },
+            {
+                "id": 41719,
+                "name": "Stavroúpoli"
+            },
+            {
+                "id": 41720,
+                "name": "Stratónion"
+            },
+            {
+                "id": 41721,
+                "name": "Strymonikó"
+            },
+            {
+                "id": 41722,
+                "name": "Svorónos"
+            },
+            {
+                "id": 41723,
+                "name": "Sykiá"
+            },
+            {
+                "id": 41724,
+                "name": "Sykiés"
+            },
+            {
+                "id": 41725,
+                "name": "Terpní"
+            },
+            {
+                "id": 41726,
+                "name": "Thérmi"
+            },
+            {
+                "id": 41727,
+                "name": "Thessaloníki"
+            },
+            {
+                "id": 41728,
+                "name": "Triandría"
+            },
+            {
+                "id": 41729,
+                "name": "Tríkala"
+            },
+            {
+                "id": 41730,
+                "name": "Trílofos"
+            },
+            {
+                "id": 41731,
+                "name": "Valteró"
+            },
+            {
+                "id": 41732,
+                "name": "Vamvakófyto"
+            },
+            {
+                "id": 41733,
+                "name": "Vasiliká"
+            },
+            {
+                "id": 41734,
+                "name": "Vathýlakkos"
+            },
+            {
+                "id": 41735,
+                "name": "Vergína"
+            },
+            {
+                "id": 41736,
+                "name": "Véroia"
+            },
+            {
+                "id": 41737,
+                "name": "Vrontoú"
+            },
+            {
+                "id": 41738,
+                "name": "Xilópolis"
+            }
+        ]
+    },
+    {
+        "id": 1381,
+        "name": "Chania Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1382,
+        "name": "Corfu Prefecture",
+        "cities": [
+            {
+                "id": 41739,
+                "name": "Farkadóna"
+            },
+            {
+                "id": 41740,
+                "name": "Fíki"
+            },
+            {
+                "id": 41741,
+                "name": "Gómfoi"
+            },
+            {
+                "id": 41742,
+                "name": "Grizáno"
+            },
+            {
+                "id": 41743,
+                "name": "Kalampáka"
+            },
+            {
+                "id": 41744,
+                "name": "Kastráki"
+            },
+            {
+                "id": 41745,
+                "name": "Megála Kalývia"
+            },
+            {
+                "id": 41746,
+                "name": "Megalochóri"
+            },
+            {
+                "id": 41747,
+                "name": "Oichalía"
+            },
+            {
+                "id": 41748,
+                "name": "Palaiomonástiro"
+            },
+            {
+                "id": 41749,
+                "name": "Palaiópyrgos"
+            },
+            {
+                "id": 41750,
+                "name": "Pigí"
+            },
+            {
+                "id": 41751,
+                "name": "Pýli"
+            },
+            {
+                "id": 41752,
+                "name": "Pyrgetós"
+            },
+            {
+                "id": 41753,
+                "name": "Rízoma"
+            },
+            {
+                "id": 41754,
+                "name": "Taxiárches"
+            },
+            {
+                "id": 41755,
+                "name": "Tríkala"
+            },
+            {
+                "id": 41756,
+                "name": "Vasilikí"
+            },
+            {
+                "id": 41757,
+                "name": "Zárkos"
+            }
+        ]
+    },
+    {
+        "id": 1383,
+        "name": "Corinthia Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1384,
+        "name": "Crete Region",
+        "cities": [
+            {
+                "id": 41758,
+                "name": "Agía Foteiní"
+            },
+            {
+                "id": 41759,
+                "name": "Agía Galíni"
+            },
+            {
+                "id": 41760,
+                "name": "Agía Marína"
+            },
+            {
+                "id": 41761,
+                "name": "Agía Varvára"
+            },
+            {
+                "id": 41762,
+                "name": "Ágioi Déka"
+            },
+            {
+                "id": 41763,
+                "name": "Ágios Nikólaos"
+            },
+            {
+                "id": 41764,
+                "name": "Ano Arhanes"
+            },
+            {
+                "id": 41765,
+                "name": "Anógeia"
+            },
+            {
+                "id": 41766,
+                "name": "Arkalochóri"
+            },
+            {
+                "id": 41767,
+                "name": "Asímion"
+            },
+            {
+                "id": 41768,
+                "name": "Atsipópoulo"
+            },
+            {
+                "id": 41769,
+                "name": "Chaniá"
+            },
+            {
+                "id": 41770,
+                "name": "Chóra Sfakíon"
+            },
+            {
+                "id": 41771,
+                "name": "Darátsos"
+            },
+            {
+                "id": 41772,
+                "name": "Eloúnda"
+            },
+            {
+                "id": 41773,
+                "name": "Galatás"
+            },
+            {
+                "id": 41774,
+                "name": "Gázi"
+            },
+            {
+                "id": 41775,
+                "name": "Georgioupolis"
+            },
+            {
+                "id": 41776,
+                "name": "Geráni"
+            },
+            {
+                "id": 41777,
+                "name": "Gérgeri"
+            },
+            {
+                "id": 41778,
+                "name": "Goúrnes"
+            },
+            {
+                "id": 41779,
+                "name": "Gra Liyiá"
+            },
+            {
+                "id": 41780,
+                "name": "Ierápetra"
+            },
+            {
+                "id": 41781,
+                "name": "Irákleion"
+            },
+            {
+                "id": 41782,
+                "name": "Kalýves"
+            },
+            {
+                "id": 41783,
+                "name": "Kastélli"
+            },
+            {
+                "id": 41784,
+                "name": "Kastrí"
+            },
+            {
+                "id": 41785,
+                "name": "Káto Asítai"
+            },
+            {
+                "id": 41786,
+                "name": "Káto Goúves"
+            },
+            {
+                "id": 41787,
+                "name": "Kentrí"
+            },
+            {
+                "id": 41788,
+                "name": "Kíssamos"
+            },
+            {
+                "id": 41789,
+                "name": "Kokkíni Cháni"
+            },
+            {
+                "id": 41790,
+                "name": "Kolympári"
+            },
+            {
+                "id": 41791,
+                "name": "Kritsá"
+            },
+            {
+                "id": 41792,
+                "name": "Krousón"
+            },
+            {
+                "id": 41793,
+                "name": "Limín Khersonísou"
+            },
+            {
+                "id": 41794,
+                "name": "Mália"
+            },
+            {
+                "id": 41795,
+                "name": "Moíres"
+            },
+            {
+                "id": 41796,
+                "name": "Mokhós"
+            },
+            {
+                "id": 41797,
+                "name": "Mourniés"
+            },
+            {
+                "id": 41798,
+                "name": "Mouzourás"
+            },
+            {
+                "id": 41799,
+                "name": "Néa Alikarnassós"
+            },
+            {
+                "id": 41800,
+                "name": "Néa Anatolí"
+            },
+            {
+                "id": 41801,
+                "name": "Neápoli"
+            },
+            {
+                "id": 41802,
+                "name": "Nerokoúros"
+            },
+            {
+                "id": 41803,
+                "name": "Nomós Irakleíou"
+            },
+            {
+                "id": 41804,
+                "name": "Nomós Rethýmnis"
+            },
+            {
+                "id": 41805,
+                "name": "Palaióchora"
+            },
+            {
+                "id": 41806,
+                "name": "Palekastro"
+            },
+            {
+                "id": 41807,
+                "name": "Pánormos"
+            },
+            {
+                "id": 41808,
+                "name": "Pérama"
+            },
+            {
+                "id": 41809,
+                "name": "Perivólia"
+            },
+            {
+                "id": 41810,
+                "name": "Pithári"
+            },
+            {
+                "id": 41811,
+                "name": "Profítis Ilías"
+            },
+            {
+                "id": 41812,
+                "name": "Pýrgos"
+            },
+            {
+                "id": 41813,
+                "name": "Rethymno"
+            },
+            {
+                "id": 41814,
+                "name": "Schísma Eloúndas"
+            },
+            {
+                "id": 41815,
+                "name": "Sísion"
+            },
+            {
+                "id": 41816,
+                "name": "Sitia"
+            },
+            {
+                "id": 41817,
+                "name": "Skalánion"
+            },
+            {
+                "id": 41818,
+                "name": "Soúda"
+            },
+            {
+                "id": 41819,
+                "name": "Stalís"
+            },
+            {
+                "id": 41820,
+                "name": "Thrapsanón"
+            },
+            {
+                "id": 41821,
+                "name": "Tílisos"
+            },
+            {
+                "id": 41822,
+                "name": "Tsikalariá"
+            },
+            {
+                "id": 41823,
+                "name": "Tympáki"
+            },
+            {
+                "id": 41824,
+                "name": "Violí Charáki"
+            },
+            {
+                "id": 41825,
+                "name": "Vrýses"
+            },
+            {
+                "id": 41826,
+                "name": "Zarós"
+            },
+            {
+                "id": 41827,
+                "name": "Zonianá"
+            }
+        ]
+    },
+    {
+        "id": 1385,
+        "name": "Drama Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1386,
+        "name": "East Attica Regional Unit",
+        "cities": [
+            {
+                "id": 41828,
+                "name": "Ágios Athanásios"
+            },
+            {
+                "id": 41829,
+                "name": "Alexandroupoli"
+            },
+            {
+                "id": 41830,
+                "name": "Amygdaleónas"
+            },
+            {
+                "id": 41831,
+                "name": "Áratos"
+            },
+            {
+                "id": 41832,
+                "name": "Arísvi"
+            },
+            {
+                "id": 41833,
+                "name": "Arrianá"
+            },
+            {
+                "id": 41834,
+                "name": "Ávato"
+            },
+            {
+                "id": 41835,
+                "name": "Choristí"
+            },
+            {
+                "id": 41836,
+                "name": "Chrysochóri"
+            },
+            {
+                "id": 41837,
+                "name": "Chrysoúpolis"
+            },
+            {
+                "id": 41838,
+                "name": "Didymóteicho"
+            },
+            {
+                "id": 41839,
+                "name": "Dráma"
+            },
+            {
+                "id": 41840,
+                "name": "Echínos"
+            },
+            {
+                "id": 41841,
+                "name": "Elaiochóri"
+            },
+            {
+                "id": 41842,
+                "name": "Eleftherés"
+            },
+            {
+                "id": 41843,
+                "name": "Eleftheroúpolis"
+            },
+            {
+                "id": 41844,
+                "name": "Évlalo"
+            },
+            {
+                "id": 41845,
+                "name": "Féres"
+            },
+            {
+                "id": 41846,
+                "name": "Fillýra"
+            },
+            {
+                "id": 41847,
+                "name": "Fotolívos"
+            },
+            {
+                "id": 41848,
+                "name": "Fteliá"
+            },
+            {
+                "id": 41849,
+                "name": "Genisséa"
+            },
+            {
+                "id": 41850,
+                "name": "Íasmos"
+            },
+            {
+                "id": 41851,
+                "name": "Iliokentima"
+            },
+            {
+                "id": 41852,
+                "name": "Kalampáki"
+            },
+            {
+                "id": 41853,
+                "name": "Kalí Vrýsi"
+            },
+            {
+                "id": 41854,
+                "name": "Kallífytos"
+            },
+            {
+                "id": 41855,
+                "name": "Kalós Agrós"
+            },
+            {
+                "id": 41856,
+                "name": "Kamariótissa"
+            },
+            {
+                "id": 41857,
+                "name": "Kastaniés"
+            },
+            {
+                "id": 41858,
+                "name": "Káto Nevrokópi"
+            },
+            {
+                "id": 41859,
+                "name": "Kavála"
+            },
+            {
+                "id": 41860,
+                "name": "Kavýli"
+            },
+            {
+                "id": 41861,
+                "name": "Keramotí"
+            },
+            {
+                "id": 41862,
+                "name": "Kimméria"
+            },
+            {
+                "id": 41863,
+                "name": "Kokkinóchoma"
+            },
+            {
+                "id": 41864,
+                "name": "Komotiní"
+            },
+            {
+                "id": 41865,
+                "name": "Krinídes"
+            },
+            {
+                "id": 41866,
+                "name": "Kyprínos"
+            },
+            {
+                "id": 41867,
+                "name": "Kýria"
+            },
+            {
+                "id": 41868,
+                "name": "Lagós"
+            },
+            {
+                "id": 41869,
+                "name": "Lávara"
+            },
+            {
+                "id": 41870,
+                "name": "Limenária"
+            },
+            {
+                "id": 41871,
+                "name": "Lýkeio"
+            },
+            {
+                "id": 41872,
+                "name": "Mikrópolis"
+            },
+            {
+                "id": 41873,
+                "name": "Mýki"
+            },
+            {
+                "id": 41874,
+                "name": "Néa Iraklítsa"
+            },
+            {
+                "id": 41875,
+                "name": "Néa Karváli"
+            },
+            {
+                "id": 41876,
+                "name": "Néa Karyá"
+            },
+            {
+                "id": 41877,
+                "name": "Néa Péramos"
+            },
+            {
+                "id": 41878,
+                "name": "Néa Výssa"
+            },
+            {
+                "id": 41879,
+                "name": "Neochóri"
+            },
+            {
+                "id": 41880,
+                "name": "Nikísiani"
+            },
+            {
+                "id": 41881,
+                "name": "Orestiáda"
+            },
+            {
+                "id": 41882,
+                "name": "Páchni"
+            },
+            {
+                "id": 41883,
+                "name": "Palaió Tsiflíki"
+            },
+            {
+                "id": 41884,
+                "name": "Palaiochóri"
+            },
+            {
+                "id": 41885,
+                "name": "Paralía Ofryníou"
+            },
+            {
+                "id": 41886,
+                "name": "Paranésti"
+            },
+            {
+                "id": 41887,
+                "name": "Péplos"
+            },
+            {
+                "id": 41888,
+                "name": "Peteinós"
+            },
+            {
+                "id": 41889,
+                "name": "Petrochóri"
+            },
+            {
+                "id": 41890,
+                "name": "Petroússa"
+            },
+            {
+                "id": 41891,
+                "name": "Potamiá"
+            },
+            {
+                "id": 41892,
+                "name": "Prínos"
+            },
+            {
+                "id": 41893,
+                "name": "Prosotsáni"
+            },
+            {
+                "id": 41894,
+                "name": "Rízia"
+            },
+            {
+                "id": 41895,
+                "name": "Samothráki"
+            },
+            {
+                "id": 41896,
+                "name": "Sápes"
+            },
+            {
+                "id": 41897,
+                "name": "Sélero"
+            },
+            {
+                "id": 41898,
+                "name": "Sitagroí"
+            },
+            {
+                "id": 41899,
+                "name": "Smínthi"
+            },
+            {
+                "id": 41900,
+                "name": "Souflí"
+            },
+            {
+                "id": 41901,
+                "name": "Thásos"
+            },
+            {
+                "id": 41902,
+                "name": "Tycheró"
+            },
+            {
+                "id": 41903,
+                "name": "Vólakas"
+            },
+            {
+                "id": 41904,
+                "name": "Xánthi"
+            },
+            {
+                "id": 41905,
+                "name": "Xiropótamos"
+            },
+            {
+                "id": 41906,
+                "name": "Xylaganí"
+            },
+            {
+                "id": 41907,
+                "name": "Zygós"
+            }
+        ]
+    },
+    {
+        "id": 1387,
+        "name": "East Macedonia and Thrace",
+        "cities": []
+    },
+    {
+        "id": 1388,
+        "name": "Epirus Region",
+        "cities": [
+            {
+                "id": 41908,
+                "name": "Agía Kyriakí"
+            },
+            {
+                "id": 41909,
+                "name": "Anatolí"
+            },
+            {
+                "id": 41910,
+                "name": "Anéza"
+            },
+            {
+                "id": 41911,
+                "name": "Áno Kalentíni"
+            },
+            {
+                "id": 41912,
+                "name": "Árta"
+            },
+            {
+                "id": 41913,
+                "name": "Asprángeloi"
+            },
+            {
+                "id": 41914,
+                "name": "Chalkiádes"
+            },
+            {
+                "id": 41915,
+                "name": "Eksochí"
+            },
+            {
+                "id": 41916,
+                "name": "Eleoúsa"
+            },
+            {
+                "id": 41917,
+                "name": "Filiátes"
+            },
+            {
+                "id": 41918,
+                "name": "Filippiáda"
+            },
+            {
+                "id": 41919,
+                "name": "Graikochóri"
+            },
+            {
+                "id": 41920,
+                "name": "Grammenítsa"
+            },
+            {
+                "id": 41921,
+                "name": "Igoumenítsa"
+            },
+            {
+                "id": 41922,
+                "name": "Ioánnina"
+            },
+            {
+                "id": 41923,
+                "name": "Kalamiá"
+            },
+            {
+                "id": 41924,
+                "name": "Kalpáki"
+            },
+            {
+                "id": 41925,
+                "name": "Kanaláki"
+            },
+            {
+                "id": 41926,
+                "name": "Kardamítsia"
+            },
+            {
+                "id": 41927,
+                "name": "Katsikás"
+            },
+            {
+                "id": 41928,
+                "name": "Kompóti"
+            },
+            {
+                "id": 41929,
+                "name": "Kónitsa"
+            },
+            {
+                "id": 41930,
+                "name": "Kostakioí"
+            },
+            {
+                "id": 41931,
+                "name": "Koutselió"
+            },
+            {
+                "id": 41932,
+                "name": "Loúros"
+            },
+            {
+                "id": 41933,
+                "name": "Metsovo"
+            },
+            {
+                "id": 41934,
+                "name": "Néa Seléfkeia"
+            },
+            {
+                "id": 41935,
+                "name": "Neochóri"
+            },
+            {
+                "id": 41936,
+                "name": "Neochorópoulo"
+            },
+            {
+                "id": 41937,
+                "name": "Néos Oropós"
+            },
+            {
+                "id": 41938,
+                "name": "Nomós Ioannínon"
+            },
+            {
+                "id": 41939,
+                "name": "Pappadátes"
+            },
+            {
+                "id": 41940,
+                "name": "Paramythiá"
+            },
+            {
+                "id": 41941,
+                "name": "Parapótamos"
+            },
+            {
+                "id": 41942,
+                "name": "Párga"
+            },
+            {
+                "id": 41943,
+                "name": "Pediní"
+            },
+            {
+                "id": 41944,
+                "name": "Pérama"
+            },
+            {
+                "id": 41945,
+                "name": "Pérdika"
+            },
+            {
+                "id": 41946,
+                "name": "Péta"
+            },
+            {
+                "id": 41947,
+                "name": "Platariá"
+            },
+            {
+                "id": 41948,
+                "name": "Prámanta"
+            },
+            {
+                "id": 41949,
+                "name": "Préveza"
+            },
+            {
+                "id": 41950,
+                "name": "Rodotópi"
+            },
+            {
+                "id": 41951,
+                "name": "Stavráki"
+            },
+            {
+                "id": 41952,
+                "name": "Thesprotikó"
+            },
+            {
+                "id": 41953,
+                "name": "Tsiflikópoulo"
+            },
+            {
+                "id": 41954,
+                "name": "Voulgaréli"
+            },
+            {
+                "id": 41955,
+                "name": "Vounoplagiá"
+            }
+        ]
+    },
+    {
+        "id": 1389,
+        "name": "Euboea",
+        "cities": []
+    },
+    {
+        "id": 1390,
+        "name": "Grevena Prefecture",
+        "cities": []
+    },
+    {
+        "id": 1391,
+        "name": "Imathia Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1392,
+        "name": "Ioannina Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1393,
+        "name": "Ionian Islands Region",
+        "cities": [
+            {
+                "id": 41956,
+                "name": "Acharávi"
+            },
+            {
+                "id": 41957,
+                "name": "Agios Georgis"
+            },
+            {
+                "id": 41958,
+                "name": "Ágios Matthaíos"
+            },
+            {
+                "id": 41959,
+                "name": "Alepoú"
+            },
+            {
+                "id": 41960,
+                "name": "Ambelókipoi"
+            },
+            {
+                "id": 41961,
+                "name": "Argostólion"
+            },
+            {
+                "id": 41962,
+                "name": "Corfu"
+            },
+            {
+                "id": 41963,
+                "name": "Gáïos"
+            },
+            {
+                "id": 41964,
+                "name": "Gaïtánion"
+            },
+            {
+                "id": 41965,
+                "name": "Itháki"
+            },
+            {
+                "id": 41966,
+                "name": "Kanáli"
+            },
+            {
+                "id": 41967,
+                "name": "Katastárion"
+            },
+            {
+                "id": 41968,
+                "name": "Kontokáli"
+            },
+            {
+                "id": 41969,
+                "name": "Kynopiástes"
+            },
+            {
+                "id": 41970,
+                "name": "Lefkada"
+            },
+            {
+                "id": 41971,
+                "name": "Lefkáda"
+            },
+            {
+                "id": 41972,
+                "name": "Lefkímmi"
+            },
+            {
+                "id": 41973,
+                "name": "Lithakiá"
+            },
+            {
+                "id": 41974,
+                "name": "Lixoúri"
+            },
+            {
+                "id": 41975,
+                "name": "Mouzaki"
+            },
+            {
+                "id": 41976,
+                "name": "Nomós Kerkýras"
+            },
+            {
+                "id": 41977,
+                "name": "Nomós Zakýnthou"
+            },
+            {
+                "id": 41978,
+                "name": "Perama"
+            },
+            {
+                "id": 41979,
+                "name": "Perivóli"
+            },
+            {
+                "id": 41980,
+                "name": "Póros"
+            },
+            {
+                "id": 41981,
+                "name": "Potamós"
+            },
+            {
+                "id": 41982,
+                "name": "Sámi"
+            },
+            {
+                "id": 41983,
+                "name": "Valsamáta"
+            },
+            {
+                "id": 41984,
+                "name": "Vanáton"
+            },
+            {
+                "id": 41985,
+                "name": "Virós"
+            },
+            {
+                "id": 41986,
+                "name": "Zakynthos"
+            }
+        ]
+    },
+    {
+        "id": 1394,
+        "name": "Karditsa Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1395,
+        "name": "Kastoria Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1396,
+        "name": "Kefalonia Prefecture",
+        "cities": [
+            {
+                "id": 41987,
+                "name": "Agía Triáda"
+            },
+            {
+                "id": 41988,
+                "name": "Agnanteró"
+            },
+            {
+                "id": 41989,
+                "name": "Anávra"
+            },
+            {
+                "id": 41990,
+                "name": "Anthiró"
+            },
+            {
+                "id": 41991,
+                "name": "Artesianó"
+            },
+            {
+                "id": 41992,
+                "name": "Itéa"
+            },
+            {
+                "id": 41993,
+                "name": "Kallifóni"
+            },
+            {
+                "id": 41994,
+                "name": "Kallíthiro"
+            },
+            {
+                "id": 41995,
+                "name": "Kardítsa"
+            },
+            {
+                "id": 41996,
+                "name": "Karditsomagoúla"
+            },
+            {
+                "id": 41997,
+                "name": "Karpochóri"
+            },
+            {
+                "id": 41998,
+                "name": "Magoúla"
+            },
+            {
+                "id": 41999,
+                "name": "Makrychóri"
+            },
+            {
+                "id": 42000,
+                "name": "Mavrommáti"
+            },
+            {
+                "id": 42001,
+                "name": "Mitrópoli"
+            },
+            {
+                "id": 42002,
+                "name": "Morfovoúni"
+            },
+            {
+                "id": 42003,
+                "name": "Mouzáki"
+            },
+            {
+                "id": 42004,
+                "name": "Palamás"
+            },
+            {
+                "id": 42005,
+                "name": "Proástio"
+            },
+            {
+                "id": 42006,
+                "name": "Sofádes"
+            }
+        ]
+    },
+    {
+        "id": 1397,
+        "name": "Kilkis Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1398,
+        "name": "Kozani Prefecture",
+        "cities": []
+    },
+    {
+        "id": 1399,
+        "name": "Laconia",
+        "cities": []
+    },
+    {
+        "id": 1400,
+        "name": "Larissa Prefecture",
+        "cities": []
+    },
+    {
+        "id": 1401,
+        "name": "Lefkada Regional Unit",
+        "cities": [
+            {
+                "id": 42007,
+                "name": "Agriá"
+            },
+            {
+                "id": 42008,
+                "name": "Álli Meriá"
+            },
+            {
+                "id": 42009,
+                "name": "Almyrós"
+            },
+            {
+                "id": 42010,
+                "name": "Anakasiá"
+            },
+            {
+                "id": 42011,
+                "name": "Áno Lekhónia"
+            },
+            {
+                "id": 42012,
+                "name": "Argalastí"
+            },
+            {
+                "id": 42013,
+                "name": "Evxinoúpolis"
+            },
+            {
+                "id": 42014,
+                "name": "Kanália"
+            },
+            {
+                "id": 42015,
+                "name": "Káto Lekhónia"
+            },
+            {
+                "id": 42016,
+                "name": "Néa Anchiálos"
+            },
+            {
+                "id": 42017,
+                "name": "Néa Ionía"
+            },
+            {
+                "id": 42018,
+                "name": "Patitírion"
+            },
+            {
+                "id": 42019,
+                "name": "Portariá"
+            },
+            {
+                "id": 42020,
+                "name": "Pteleós"
+            },
+            {
+                "id": 42021,
+                "name": "Rizómylos"
+            },
+            {
+                "id": 42022,
+                "name": "Skiáthos"
+            },
+            {
+                "id": 42023,
+                "name": "Skópelos"
+            },
+            {
+                "id": 42024,
+                "name": "Soúrpi"
+            },
+            {
+                "id": 42025,
+                "name": "Stefanovíkeio"
+            },
+            {
+                "id": 42026,
+                "name": "Tríkeri"
+            },
+            {
+                "id": 42027,
+                "name": "Velestíno"
+            },
+            {
+                "id": 42028,
+                "name": "Volos"
+            },
+            {
+                "id": 42029,
+                "name": "Zagorá"
+            }
+        ]
+    },
+    {
+        "id": 1402,
+        "name": "Pella Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1403,
+        "name": "Peloponnese Region",
+        "cities": [
+            {
+                "id": 42030,
+                "name": "Ágioi Theódoroi"
+            },
+            {
+                "id": 42031,
+                "name": "Ágios Andréas"
+            },
+            {
+                "id": 42032,
+                "name": "Arfará"
+            },
+            {
+                "id": 42033,
+                "name": "Árgos"
+            },
+            {
+                "id": 42034,
+                "name": "Aria"
+            },
+            {
+                "id": 42035,
+                "name": "Áris"
+            },
+            {
+                "id": 42036,
+                "name": "Arkhaía Kórinthos"
+            },
+            {
+                "id": 42037,
+                "name": "Asíni"
+            },
+            {
+                "id": 42038,
+                "name": "Asopós"
+            },
+            {
+                "id": 42039,
+                "name": "Ássos"
+            },
+            {
+                "id": 42040,
+                "name": "Ástros"
+            },
+            {
+                "id": 42041,
+                "name": "Athíkia"
+            },
+            {
+                "id": 42042,
+                "name": "Ayía Triás"
+            },
+            {
+                "id": 42043,
+                "name": "Áyios Adhrianós"
+            },
+            {
+                "id": 42044,
+                "name": "Áyios Vasílios"
+            },
+            {
+                "id": 42045,
+                "name": "Chóra"
+            },
+            {
+                "id": 42046,
+                "name": "Dídyma"
+            },
+            {
+                "id": 42047,
+                "name": "Dimitsána"
+            },
+            {
+                "id": 42048,
+                "name": "Drépanon"
+            },
+            {
+                "id": 42049,
+                "name": "Ermióni"
+            },
+            {
+                "id": 42050,
+                "name": "Examília"
+            },
+            {
+                "id": 42051,
+                "name": "Filiatrá"
+            },
+            {
+                "id": 42052,
+                "name": "Gargaliánoi"
+            },
+            {
+                "id": 42053,
+                "name": "Géfyra"
+            },
+            {
+                "id": 42054,
+                "name": "Geráki"
+            },
+            {
+                "id": 42055,
+                "name": "Gýtheio"
+            },
+            {
+                "id": 42056,
+                "name": "Isthmía"
+            },
+            {
+                "id": 42057,
+                "name": "Kalamata"
+            },
+            {
+                "id": 42058,
+                "name": "Kardamýli"
+            },
+            {
+                "id": 42059,
+                "name": "Karyés"
+            },
+            {
+                "id": 42060,
+                "name": "Káto Dhiminió"
+            },
+            {
+                "id": 42061,
+                "name": "Káto Glykóvrysi"
+            },
+            {
+                "id": 42062,
+                "name": "Khiliomódhi"
+            },
+            {
+                "id": 42063,
+                "name": "Kiáto"
+            },
+            {
+                "id": 42064,
+                "name": "Koilás"
+            },
+            {
+                "id": 42065,
+                "name": "Kokkónion"
+            },
+            {
+                "id": 42066,
+                "name": "Kopanáki"
+            },
+            {
+                "id": 42067,
+                "name": "Kórinthos"
+            },
+            {
+                "id": 42068,
+                "name": "Koróni"
+            },
+            {
+                "id": 42069,
+                "name": "Koutsopódi"
+            },
+            {
+                "id": 42070,
+                "name": "Kranídi"
+            },
+            {
+                "id": 42071,
+                "name": "Krokeés"
+            },
+            {
+                "id": 42072,
+                "name": "Kyparissía"
+            },
+            {
+                "id": 42073,
+                "name": "Kyrás Vrýsi"
+            },
+            {
+                "id": 42074,
+                "name": "Langádhia"
+            },
+            {
+                "id": 42075,
+                "name": "Lékhaio"
+            },
+            {
+                "id": 42076,
+                "name": "Leonídio"
+            },
+            {
+                "id": 42077,
+                "name": "Levídion"
+            },
+            {
+                "id": 42078,
+                "name": "Ligourión"
+            },
+            {
+                "id": 42079,
+                "name": "Loutrá Oraías Elénis"
+            },
+            {
+                "id": 42080,
+                "name": "Loutráki"
+            },
+            {
+                "id": 42081,
+                "name": "Magoúla"
+            },
+            {
+                "id": 42082,
+                "name": "Megalópoli"
+            },
+            {
+                "id": 42083,
+                "name": "Meligalás"
+            },
+            {
+                "id": 42084,
+                "name": "Messíni"
+            },
+            {
+                "id": 42085,
+                "name": "Methóni"
+            },
+            {
+                "id": 42086,
+                "name": "Moláoi"
+            },
+            {
+                "id": 42087,
+                "name": "Moúlki"
+            },
+            {
+                "id": 42088,
+                "name": "Náfplio"
+            },
+            {
+                "id": 42089,
+                "name": "Néa Kíos"
+            },
+            {
+                "id": 42090,
+                "name": "Néa Tírins"
+            },
+            {
+                "id": 42091,
+                "name": "Neméa"
+            },
+            {
+                "id": 42092,
+                "name": "Nomós Arkadías"
+            },
+            {
+                "id": 42093,
+                "name": "Palaiá Epídavros"
+            },
+            {
+                "id": 42094,
+                "name": "Paralía Vérgas"
+            },
+            {
+                "id": 42095,
+                "name": "Pásion"
+            },
+            {
+                "id": 42096,
+                "name": "Perachóra"
+            },
+            {
+                "id": 42097,
+                "name": "Periyiáli"
+            },
+            {
+                "id": 42098,
+                "name": "Pórto Chéli"
+            },
+            {
+                "id": 42099,
+                "name": "Pýlos"
+            },
+            {
+                "id": 42100,
+                "name": "Sikyón"
+            },
+            {
+                "id": 42101,
+                "name": "Skála"
+            },
+            {
+                "id": 42102,
+                "name": "Sofikón"
+            },
+            {
+                "id": 42103,
+                "name": "Spárti"
+            },
+            {
+                "id": 42104,
+                "name": "Sperchógeia"
+            },
+            {
+                "id": 42105,
+                "name": "Sykiá"
+            },
+            {
+                "id": 42106,
+                "name": "Thouría"
+            },
+            {
+                "id": 42107,
+                "name": "Tolón"
+            },
+            {
+                "id": 42108,
+                "name": "Traganón"
+            },
+            {
+                "id": 42109,
+                "name": "Trípoli"
+            },
+            {
+                "id": 42110,
+                "name": "Vélo"
+            },
+            {
+                "id": 42111,
+                "name": "Vlachiótis"
+            },
+            {
+                "id": 42112,
+                "name": "Vlachópoulo"
+            },
+            {
+                "id": 42113,
+                "name": "Vokhaïkó"
+            },
+            {
+                "id": 42114,
+                "name": "Vrakháti"
+            },
+            {
+                "id": 42115,
+                "name": "Xylókastro"
+            },
+            {
+                "id": 42116,
+                "name": "Zevgolateió"
+            }
+        ]
+    },
+    {
+        "id": 1404,
+        "name": "Phthiotis Prefecture",
+        "cities": []
+    },
+    {
+        "id": 1405,
+        "name": "Preveza Prefecture",
+        "cities": []
+    },
+    {
+        "id": 1406,
+        "name": "Serres Prefecture",
+        "cities": []
+    },
+    {
+        "id": 1407,
+        "name": "South Aegean",
+        "cities": [
+            {
+                "id": 42117,
+                "name": "Adámas"
+            },
+            {
+                "id": 42118,
+                "name": "Afántou"
+            },
+            {
+                "id": 42119,
+                "name": "Agía Marína"
+            },
+            {
+                "id": 42120,
+                "name": "Amorgós"
+            },
+            {
+                "id": 42121,
+                "name": "Anáfi"
+            },
+            {
+                "id": 42122,
+                "name": "Andros"
+            },
+            {
+                "id": 42123,
+                "name": "Áno Merá"
+            },
+            {
+                "id": 42124,
+                "name": "Áno Sýros"
+            },
+            {
+                "id": 42125,
+                "name": "Antimácheia"
+            },
+            {
+                "id": 42126,
+                "name": "Antíparos"
+            },
+            {
+                "id": 42127,
+                "name": "Archángelos"
+            },
+            {
+                "id": 42128,
+                "name": "Astypálaia"
+            },
+            {
+                "id": 42129,
+                "name": "Chálki"
+            },
+            {
+                "id": 42130,
+                "name": "Émponas"
+            },
+            {
+                "id": 42131,
+                "name": "Emporeío"
+            },
+            {
+                "id": 42132,
+                "name": "Ermoúpolis"
+            },
+            {
+                "id": 42133,
+                "name": "Faliraki"
+            },
+            {
+                "id": 42134,
+                "name": "Filótion"
+            },
+            {
+                "id": 42135,
+                "name": "Firá"
+            },
+            {
+                "id": 42136,
+                "name": "Folégandros"
+            },
+            {
+                "id": 42137,
+                "name": "Fry"
+            },
+            {
+                "id": 42138,
+                "name": "Ialysós"
+            },
+            {
+                "id": 42139,
+                "name": "Íos"
+            },
+            {
+                "id": 42140,
+                "name": "Kálymnos"
+            },
+            {
+                "id": 42141,
+                "name": "Kardámaina"
+            },
+            {
+                "id": 42142,
+                "name": "Karpathos"
+            },
+            {
+                "id": 42143,
+                "name": "Kéfalos"
+            },
+            {
+                "id": 42144,
+                "name": "Kímolos"
+            },
+            {
+                "id": 42145,
+                "name": "Kos"
+            },
+            {
+                "id": 42146,
+                "name": "Kremastí"
+            },
+            {
+                "id": 42147,
+                "name": "Kýthnos"
+            },
+            {
+                "id": 42148,
+                "name": "Lakkí"
+            },
+            {
+                "id": 42149,
+                "name": "Lárdos"
+            },
+            {
+                "id": 42150,
+                "name": "Mandráki"
+            },
+            {
+                "id": 42151,
+                "name": "Megálo Chorió"
+            },
+            {
+                "id": 42152,
+                "name": "Megísti"
+            },
+            {
+                "id": 42153,
+                "name": "Mesariá"
+            },
+            {
+                "id": 42154,
+                "name": "Mílos"
+            },
+            {
+                "id": 42155,
+                "name": "Mykonos"
+            },
+            {
+                "id": 42156,
+                "name": "Náousa"
+            },
+            {
+                "id": 42157,
+                "name": "Náxos"
+            },
+            {
+                "id": 42158,
+                "name": "Nomós Kykládon"
+            },
+            {
+                "id": 42159,
+                "name": "Oía"
+            },
+            {
+                "id": 42160,
+                "name": "Ornós"
+            },
+            {
+                "id": 42161,
+                "name": "Pánormos"
+            },
+            {
+                "id": 42162,
+                "name": "Páros"
+            },
+            {
+                "id": 42163,
+                "name": "Pátmos"
+            },
+            {
+                "id": 42164,
+                "name": "Pylí"
+            },
+            {
+                "id": 42165,
+                "name": "Ródos"
+            },
+            {
+                "id": 42166,
+                "name": "Sérifos"
+            },
+            {
+                "id": 42167,
+                "name": "Skála"
+            },
+            {
+                "id": 42168,
+                "name": "Sými"
+            },
+            {
+                "id": 42169,
+                "name": "Tínos"
+            },
+            {
+                "id": 42170,
+                "name": "Vári"
+            },
+            {
+                "id": 42171,
+                "name": "Zipári"
+            }
+        ]
+    },
+    {
+        "id": 1408,
+        "name": "Thessaloniki Regional Unit",
+        "cities": []
+    },
+    {
+        "id": 1409,
+        "name": "West Greece Region",
+        "cities": [
+            {
+                "id": 42172,
+                "name": "Agrínio"
+            },
+            {
+                "id": 42173,
+                "name": "Aígio"
+            },
+            {
+                "id": 42174,
+                "name": "Aitolikó"
+            },
+            {
+                "id": 42175,
+                "name": "Aíyira"
+            },
+            {
+                "id": 42176,
+                "name": "Akráta"
+            },
+            {
+                "id": 42177,
+                "name": "Aktaío"
+            },
+            {
+                "id": 42178,
+                "name": "Alfeioúsa"
+            },
+            {
+                "id": 42179,
+                "name": "Amaliáda"
+            },
+            {
+                "id": 42180,
+                "name": "Amfilochía"
+            },
+            {
+                "id": 42181,
+                "name": "Andravída"
+            },
+            {
+                "id": 42182,
+                "name": "Angelókastro"
+            },
+            {
+                "id": 42183,
+                "name": "Áno Kastrítsi"
+            },
+            {
+                "id": 42184,
+                "name": "Antirrio"
+            },
+            {
+                "id": 42185,
+                "name": "Archaía Olympía"
+            },
+            {
+                "id": 42186,
+                "name": "Archontochóri"
+            },
+            {
+                "id": 42187,
+                "name": "Arkoúdi"
+            },
+            {
+                "id": 42188,
+                "name": "Astakós"
+            },
+            {
+                "id": 42189,
+                "name": "Áyios Konstandínos"
+            },
+            {
+                "id": 42190,
+                "name": "Chalandrítsa"
+            },
+            {
+                "id": 42191,
+                "name": "Chávari"
+            },
+            {
+                "id": 42192,
+                "name": "Dhokímion"
+            },
+            {
+                "id": 42193,
+                "name": "Epitálio"
+            },
+            {
+                "id": 42194,
+                "name": "Fyteíes"
+            },
+            {
+                "id": 42195,
+                "name": "Galatás"
+            },
+            {
+                "id": 42196,
+                "name": "Gastoúni"
+            },
+            {
+                "id": 42197,
+                "name": "Gavaloú"
+            },
+            {
+                "id": 42198,
+                "name": "Goúmero"
+            },
+            {
+                "id": 42199,
+                "name": "Kainoúryion"
+            },
+            {
+                "id": 42200,
+                "name": "Kalávryta"
+            },
+            {
+                "id": 42201,
+                "name": "Kamárai"
+            },
+            {
+                "id": 42202,
+                "name": "Kandíla"
+            },
+            {
+                "id": 42203,
+                "name": "Karátoula"
+            },
+            {
+                "id": 42204,
+                "name": "Kardamás"
+            },
+            {
+                "id": 42205,
+                "name": "Káto Achaḯa"
+            },
+            {
+                "id": 42206,
+                "name": "Káto Mazaráki"
+            },
+            {
+                "id": 42207,
+                "name": "Katochí"
+            },
+            {
+                "id": 42208,
+                "name": "Katoúna"
+            },
+            {
+                "id": 42209,
+                "name": "Kavásila"
+            },
+            {
+                "id": 42210,
+                "name": "Kréstena"
+            },
+            {
+                "id": 42211,
+                "name": "Kríkellos"
+            },
+            {
+                "id": 42212,
+                "name": "Kyllíni"
+            },
+            {
+                "id": 42213,
+                "name": "Lálas"
+            },
+            {
+                "id": 42214,
+                "name": "Lápas"
+            },
+            {
+                "id": 42215,
+                "name": "Lechainá"
+            },
+            {
+                "id": 42216,
+                "name": "Lepenoú"
+            },
+            {
+                "id": 42217,
+                "name": "Limnokhórion"
+            },
+            {
+                "id": 42218,
+                "name": "Makrísia"
+            },
+            {
+                "id": 42219,
+                "name": "Manoláda"
+            },
+            {
+                "id": 42220,
+                "name": "Mataránga"
+            },
+            {
+                "id": 42221,
+                "name": "Megáli Khóra"
+            },
+            {
+                "id": 42222,
+                "name": "Menídi"
+            },
+            {
+                "id": 42223,
+                "name": "Mesolóngi"
+            },
+            {
+                "id": 42224,
+                "name": "Mindilóglion"
+            },
+            {
+                "id": 42225,
+                "name": "Monastiráki"
+            },
+            {
+                "id": 42226,
+                "name": "Myrsíni"
+            },
+            {
+                "id": 42227,
+                "name": "Náfpaktos"
+            },
+            {
+                "id": 42228,
+                "name": "Néa Manoláda"
+            },
+            {
+                "id": 42229,
+                "name": "Neápolis"
+            },
+            {
+                "id": 42230,
+                "name": "Neochóri"
+            },
+            {
+                "id": 42231,
+                "name": "Neochórion"
+            },
+            {
+                "id": 42232,
+                "name": "Nomós Achaḯas"
+            },
+            {
+                "id": 42233,
+                "name": "Nomós Aitolías kai Akarnanías"
+            },
+            {
+                "id": 42234,
+                "name": "Nomós Ileías"
+            },
+            {
+                "id": 42235,
+                "name": "Ovriá"
+            },
+            {
+                "id": 42236,
+                "name": "Pálairos"
+            },
+            {
+                "id": 42237,
+                "name": "Panaitólion"
+            },
+            {
+                "id": 42238,
+                "name": "Pappadhátai"
+            },
+            {
+                "id": 42239,
+                "name": "Paralía"
+            },
+            {
+                "id": 42240,
+                "name": "Paravóla"
+            },
+            {
+                "id": 42241,
+                "name": "Pátra"
+            },
+            {
+                "id": 42242,
+                "name": "Pelópi"
+            },
+            {
+                "id": 42243,
+                "name": "Plátanos"
+            },
+            {
+                "id": 42244,
+                "name": "Pýrgos"
+            },
+            {
+                "id": 42245,
+                "name": "Río"
+            },
+            {
+                "id": 42246,
+                "name": "Rododáfni"
+            },
+            {
+                "id": 42247,
+                "name": "Royítika"
+            },
+            {
+                "id": 42248,
+                "name": "Sardínia"
+            },
+            {
+                "id": 42249,
+                "name": "Savália"
+            },
+            {
+                "id": 42250,
+                "name": "Stános"
+            },
+            {
+                "id": 42251,
+                "name": "Sylivainiótika"
+            },
+            {
+                "id": 42252,
+                "name": "Synoikismós Chavaríou"
+            },
+            {
+                "id": 42253,
+                "name": "Témeni"
+            },
+            {
+                "id": 42254,
+                "name": "Thérmo"
+            },
+            {
+                "id": 42255,
+                "name": "Triandaíika"
+            },
+            {
+                "id": 42256,
+                "name": "Várda"
+            },
+            {
+                "id": 42257,
+                "name": "Vartholomió"
+            },
+            {
+                "id": 42258,
+                "name": "Varvásaina"
+            },
+            {
+                "id": 42259,
+                "name": "Vónitsa"
+            },
+            {
+                "id": 42260,
+                "name": "Vrachnaíika"
+            },
+            {
+                "id": 42261,
+                "name": "Zacháro"
+            }
+        ]
+    },
+    {
+        "id": 1410,
+        "name": "West Macedonia Region",
+        "cities": [
+            {
+                "id": 42262,
+                "name": "Aianí"
+            },
+            {
+                "id": 42263,
+                "name": "Akriní"
+            },
+            {
+                "id": 42264,
+                "name": "Ammochóri"
+            },
+            {
+                "id": 42265,
+                "name": "Amýntaio"
+            },
+            {
+                "id": 42266,
+                "name": "Anaráchi"
+            },
+            {
+                "id": 42267,
+                "name": "Áno Kómi"
+            },
+            {
+                "id": 42268,
+                "name": "Argos Orestiko"
+            },
+            {
+                "id": 42269,
+                "name": "Chlói"
+            },
+            {
+                "id": 42270,
+                "name": "Deskáti"
+            },
+            {
+                "id": 42271,
+                "name": "Empório"
+            },
+            {
+                "id": 42272,
+                "name": "Erátyra"
+            },
+            {
+                "id": 42273,
+                "name": "Filótas"
+            },
+            {
+                "id": 42274,
+                "name": "Flórina"
+            },
+            {
+                "id": 42275,
+                "name": "Galatiní"
+            },
+            {
+                "id": 42276,
+                "name": "Grevená"
+            },
+            {
+                "id": 42277,
+                "name": "Kastoria"
+            },
+            {
+                "id": 42278,
+                "name": "Kleítos"
+            },
+            {
+                "id": 42279,
+                "name": "Koíla"
+            },
+            {
+                "id": 42280,
+                "name": "Komniná"
+            },
+            {
+                "id": 42281,
+                "name": "Kozáni"
+            },
+            {
+                "id": 42282,
+                "name": "Krókos"
+            },
+            {
+                "id": 42283,
+                "name": "Laimós"
+            },
+            {
+                "id": 42284,
+                "name": "Léchovo"
+            },
+            {
+                "id": 42285,
+                "name": "Livaderó"
+            },
+            {
+                "id": 42286,
+                "name": "Maniákoi"
+            },
+            {
+                "id": 42287,
+                "name": "Mavrochóri"
+            },
+            {
+                "id": 42288,
+                "name": "Melíti"
+            },
+            {
+                "id": 42289,
+                "name": "Mesopotamía"
+            },
+            {
+                "id": 42290,
+                "name": "Nea Lava"
+            },
+            {
+                "id": 42291,
+                "name": "Nestório"
+            },
+            {
+                "id": 42292,
+                "name": "Nomós Kozánis"
+            },
+            {
+                "id": 42293,
+                "name": "Platanórevma"
+            },
+            {
+                "id": 42294,
+                "name": "Ptolemaḯda"
+            },
+            {
+                "id": 42295,
+                "name": "Sérvia"
+            },
+            {
+                "id": 42296,
+                "name": "Siátista"
+            },
+            {
+                "id": 42297,
+                "name": "Tsotíli"
+            },
+            {
+                "id": 42298,
+                "name": "Velventós"
+            },
+            {
+                "id": 42299,
+                "name": "Xinó Neró"
+            }
+        ]
+    }
+]

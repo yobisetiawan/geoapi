@@ -1,0 +1,211 @@
+[
+    {
+        "id": 463,
+        "name": "Bumthang District",
+        "cities": [
+            {
+                "id": 9636,
+                "name": "Jakar"
+            }
+        ]
+    },
+    {
+        "id": 464,
+        "name": "Chukha District",
+        "cities": [
+            {
+                "id": 9637,
+                "name": "Daphu"
+            },
+            {
+                "id": 9638,
+                "name": "Phuntsholing"
+            },
+            {
+                "id": 9639,
+                "name": "Tsimasham"
+            }
+        ]
+    },
+    {
+        "id": 465,
+        "name": "Dagana District",
+        "cities": [
+            {
+                "id": 9640,
+                "name": "Daga"
+            },
+            {
+                "id": 9641,
+                "name": "Wangdue Phodrang"
+            }
+        ]
+    },
+    {
+        "id": 466,
+        "name": "Gasa District",
+        "cities": [
+            {
+                "id": 9642,
+                "name": "Gasa"
+            }
+        ]
+    },
+    {
+        "id": 467,
+        "name": "Haa District",
+        "cities": [
+            {
+                "id": 9643,
+                "name": "Ha"
+            }
+        ]
+    },
+    {
+        "id": 468,
+        "name": "Lhuntse District",
+        "cities": [
+            {
+                "id": 9644,
+                "name": "Lhuentse"
+            }
+        ]
+    },
+    {
+        "id": 469,
+        "name": "Mongar District",
+        "cities": [
+            {
+                "id": 9645,
+                "name": "Mongar"
+            }
+        ]
+    },
+    {
+        "id": 470,
+        "name": "Paro District",
+        "cities": [
+            {
+                "id": 9646,
+                "name": "Paro"
+            }
+        ]
+    },
+    {
+        "id": 471,
+        "name": "Pemagatshel District",
+        "cities": [
+            {
+                "id": 9647,
+                "name": "Pemagatshel"
+            }
+        ]
+    },
+    {
+        "id": 472,
+        "name": "Punakha District",
+        "cities": [
+            {
+                "id": 9648,
+                "name": "Pajo"
+            },
+            {
+                "id": 9649,
+                "name": "Punākha"
+            }
+        ]
+    },
+    {
+        "id": 473,
+        "name": "Samdrup Jongkhar District",
+        "cities": [
+            {
+                "id": 9650,
+                "name": "Samdrup Jongkhar"
+            }
+        ]
+    },
+    {
+        "id": 474,
+        "name": "Samtse District",
+        "cities": [
+            {
+                "id": 9651,
+                "name": "Samtse"
+            }
+        ]
+    },
+    {
+        "id": 475,
+        "name": "Sarpang District",
+        "cities": [
+            {
+                "id": 9652,
+                "name": "Sarpang"
+            }
+        ]
+    },
+    {
+        "id": 476,
+        "name": "Thimphu District",
+        "cities": [
+            {
+                "id": 9653,
+                "name": "Thimphu"
+            }
+        ]
+    },
+    {
+        "id": 477,
+        "name": "Trashigang District",
+        "cities": [
+            {
+                "id": 9654,
+                "name": "Trashigang"
+            }
+        ]
+    },
+    {
+        "id": 478,
+        "name": "Trongsa District",
+        "cities": []
+    },
+    {
+        "id": 479,
+        "name": "Tsirang District",
+        "cities": [
+            {
+                "id": 9655,
+                "name": "Trongsa"
+            },
+            {
+                "id": 9656,
+                "name": "Tsirang"
+            }
+        ]
+    },
+    {
+        "id": 480,
+        "name": "Wangdue Phodrang District",
+        "cities": [
+            {
+                "id": 9657,
+                "name": "Trashi Yangtse"
+            }
+        ]
+    },
+    {
+        "id": 481,
+        "name": "Zhemgang District",
+        "cities": [
+            {
+                "id": 9658,
+                "name": "Panbang"
+            },
+            {
+                "id": 9659,
+                "name": "Shemgang"
+            }
+        ]
+    }
+]

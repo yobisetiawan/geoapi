@@ -1,0 +1,154 @@
+[
+    {
+        "id": 2197,
+        "name": "Akkar Governorate",
+        "cities": [
+            {
+                "id": 63980,
+                "name": "Caza de Aakkar"
+            }
+        ]
+    },
+    {
+        "id": 2198,
+        "name": "Baalbek-Hermel Governorate",
+        "cities": [
+            {
+                "id": 63981,
+                "name": "Baalbek"
+            },
+            {
+                "id": 63982,
+                "name": "Caza de Baalbek"
+            }
+        ]
+    },
+    {
+        "id": 2199,
+        "name": "Beirut Governorate",
+        "cities": [
+            {
+                "id": 63983,
+                "name": "Beirut"
+            },
+            {
+                "id": 63984,
+                "name": "Ra’s Bayrūt"
+            }
+        ]
+    },
+    {
+        "id": 2200,
+        "name": "Beqaa Governorate",
+        "cities": [
+            {
+                "id": 63985,
+                "name": "Aanjar"
+            },
+            {
+                "id": 63986,
+                "name": "Zahlé"
+            }
+        ]
+    },
+    {
+        "id": 2201,
+        "name": "Mount Lebanon Governorate",
+        "cities": [
+            {
+                "id": 63987,
+                "name": "Baabda"
+            },
+            {
+                "id": 63988,
+                "name": "Bhamdoun"
+            },
+            {
+                "id": 63989,
+                "name": "Bhamdoûn el Mhatta"
+            },
+            {
+                "id": 63990,
+                "name": "Caza de Baabda"
+            },
+            {
+                "id": 63991,
+                "name": "Jbaïl"
+            },
+            {
+                "id": 63992,
+                "name": "Jounieh"
+            }
+        ]
+    },
+    {
+        "id": 2202,
+        "name": "Nabatieh Governorate",
+        "cities": [
+            {
+                "id": 63993,
+                "name": "Ain Ebel"
+            },
+            {
+                "id": 63994,
+                "name": "Caza de Bent Jbaïl"
+            },
+            {
+                "id": 63995,
+                "name": "Caza de Nabatîyé"
+            },
+            {
+                "id": 63996,
+                "name": "Habboûch"
+            },
+            {
+                "id": 63997,
+                "name": "Marjayoûn"
+            },
+            {
+                "id": 63998,
+                "name": "Nabatîyé et Tahta"
+            }
+        ]
+    },
+    {
+        "id": 2203,
+        "name": "North Governorate",
+        "cities": [
+            {
+                "id": 63999,
+                "name": "Batroûn"
+            },
+            {
+                "id": 64000,
+                "name": "Bcharré"
+            },
+            {
+                "id": 64001,
+                "name": "Tripoli"
+            }
+        ]
+    },
+    {
+        "id": 2204,
+        "name": "South Governorate",
+        "cities": [
+            {
+                "id": 64002,
+                "name": "En Nâqoûra"
+            },
+            {
+                "id": 64003,
+                "name": "Ghazieh"
+            },
+            {
+                "id": 64004,
+                "name": "Sidon"
+            },
+            {
+                "id": 64005,
+                "name": "Tyre"
+            }
+        ]
+    }
+]

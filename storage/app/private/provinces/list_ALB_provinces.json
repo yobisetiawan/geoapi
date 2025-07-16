@@ -1,0 +1,768 @@
+[
+    {
+        "id": 34,
+        "name": "Berat County",
+        "cities": []
+    },
+    {
+        "id": 35,
+        "name": "Berat District",
+        "cities": [
+            {
+                "id": 93,
+                "name": "Banaj"
+            },
+            {
+                "id": 94,
+                "name": "Bashkia Berat"
+            },
+            {
+                "id": 95,
+                "name": "Bashkia Kuçovë"
+            },
+            {
+                "id": 96,
+                "name": "Bashkia Poliçan"
+            },
+            {
+                "id": 97,
+                "name": "Bashkia Skrapar"
+            },
+            {
+                "id": 98,
+                "name": "Berat"
+            },
+            {
+                "id": 99,
+                "name": "Çorovodë"
+            },
+            {
+                "id": 100,
+                "name": "Kuçovë"
+            },
+            {
+                "id": 101,
+                "name": "Poliçan"
+            },
+            {
+                "id": 102,
+                "name": "Rrethi i Beratit"
+            },
+            {
+                "id": 103,
+                "name": "Rrethi i Kuçovës"
+            },
+            {
+                "id": 104,
+                "name": "Rrethi i Skraparit"
+            },
+            {
+                "id": 105,
+                "name": "Ura Vajgurore"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Bulqizë District",
+        "cities": []
+    },
+    {
+        "id": 37,
+        "name": "Delvinë District",
+        "cities": []
+    },
+    {
+        "id": 38,
+        "name": "Devoll District",
+        "cities": []
+    },
+    {
+        "id": 39,
+        "name": "Dibër County",
+        "cities": [
+            {
+                "id": 106,
+                "name": "Bashkia Bulqizë"
+            },
+            {
+                "id": 107,
+                "name": "Bashkia Klos"
+            },
+            {
+                "id": 108,
+                "name": "Bashkia Mat"
+            },
+            {
+                "id": 109,
+                "name": "Bulqizë"
+            },
+            {
+                "id": 110,
+                "name": "Burrel"
+            },
+            {
+                "id": 111,
+                "name": "Klos"
+            },
+            {
+                "id": 112,
+                "name": "Peshkopi"
+            },
+            {
+                "id": 113,
+                "name": "Rrethi i Bulqizës"
+            },
+            {
+                "id": 114,
+                "name": "Rrethi i Dibrës"
+            },
+            {
+                "id": 115,
+                "name": "Rrethi i Matit"
+            },
+            {
+                "id": 116,
+                "name": "Ulëz"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Dibër District",
+        "cities": []
+    },
+    {
+        "id": 41,
+        "name": "Durrës County",
+        "cities": []
+    },
+    {
+        "id": 42,
+        "name": "Durrës District",
+        "cities": [
+            {
+                "id": 117,
+                "name": "Bashkia Durrës"
+            },
+            {
+                "id": 118,
+                "name": "Bashkia Krujë"
+            },
+            {
+                "id": 119,
+                "name": "Bashkia Shijak"
+            },
+            {
+                "id": 120,
+                "name": "Durrës"
+            },
+            {
+                "id": 121,
+                "name": "Durrës District"
+            },
+            {
+                "id": 122,
+                "name": "Fushë-Krujë"
+            },
+            {
+                "id": 123,
+                "name": "Krujë"
+            },
+            {
+                "id": 124,
+                "name": "Rrethi i Krujës"
+            },
+            {
+                "id": 125,
+                "name": "Shijak"
+            },
+            {
+                "id": 126,
+                "name": "Sukth"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Elbasan County",
+        "cities": []
+    },
+    {
+        "id": 44,
+        "name": "Fier County",
+        "cities": [
+            {
+                "id": 127,
+                "name": "Ballsh"
+            },
+            {
+                "id": 128,
+                "name": "Bashkia Divjakë"
+            },
+            {
+                "id": 129,
+                "name": "Bashkia Fier"
+            },
+            {
+                "id": 130,
+                "name": "Bashkia Mallakastër"
+            },
+            {
+                "id": 131,
+                "name": "Bashkia Patos"
+            },
+            {
+                "id": 132,
+                "name": "Divjakë"
+            },
+            {
+                "id": 133,
+                "name": "Fier"
+            },
+            {
+                "id": 134,
+                "name": "Fier-Çifçi"
+            },
+            {
+                "id": 135,
+                "name": "Lushnjë"
+            },
+            {
+                "id": 136,
+                "name": "Patos"
+            },
+            {
+                "id": 137,
+                "name": "Patos Fshat"
+            },
+            {
+                "id": 138,
+                "name": "Roskovec"
+            },
+            {
+                "id": 139,
+                "name": "Rrethi i Mallakastrës"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "Fier District",
+        "cities": []
+    },
+    {
+        "id": 46,
+        "name": "Gjirokastër County",
+        "cities": []
+    },
+    {
+        "id": 47,
+        "name": "Gjirokastër District",
+        "cities": [
+            {
+                "id": 140,
+                "name": "Bashkia Dropull"
+            },
+            {
+                "id": 141,
+                "name": "Bashkia Kelcyrë"
+            },
+            {
+                "id": 142,
+                "name": "Bashkia Libohovë"
+            },
+            {
+                "id": 143,
+                "name": "Bashkia Memaliaj"
+            },
+            {
+                "id": 144,
+                "name": "Bashkia Përmet"
+            },
+            {
+                "id": 145,
+                "name": "Bashkia Tepelenë"
+            },
+            {
+                "id": 146,
+                "name": "Gjinkar"
+            },
+            {
+                "id": 147,
+                "name": "Gjirokastër"
+            },
+            {
+                "id": 148,
+                "name": "Këlcyrë"
+            },
+            {
+                "id": 149,
+                "name": "Lazarat"
+            },
+            {
+                "id": 150,
+                "name": "Libohovë"
+            },
+            {
+                "id": 151,
+                "name": "Memaliaj"
+            },
+            {
+                "id": 152,
+                "name": "Përmet"
+            },
+            {
+                "id": 153,
+                "name": "Tepelenë"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Gramsh District",
+        "cities": []
+    },
+    {
+        "id": 49,
+        "name": "Has District",
+        "cities": []
+    },
+    {
+        "id": 50,
+        "name": "Kavajë District",
+        "cities": []
+    },
+    {
+        "id": 51,
+        "name": "Kolonjë District",
+        "cities": []
+    },
+    {
+        "id": 52,
+        "name": "Korçë County",
+        "cities": [
+            {
+                "id": 154,
+                "name": "Bashkia Devoll"
+            },
+            {
+                "id": 155,
+                "name": "Bashkia Kolonjë"
+            },
+            {
+                "id": 156,
+                "name": "Bashkia Maliq"
+            },
+            {
+                "id": 157,
+                "name": "Bashkia Pustec"
+            },
+            {
+                "id": 158,
+                "name": "Bilisht"
+            },
+            {
+                "id": 159,
+                "name": "Ersekë"
+            },
+            {
+                "id": 160,
+                "name": "Korçë"
+            },
+            {
+                "id": 161,
+                "name": "Leskovik"
+            },
+            {
+                "id": 162,
+                "name": "Libonik"
+            },
+            {
+                "id": 163,
+                "name": "Maliq"
+            },
+            {
+                "id": 164,
+                "name": "Mborje"
+            },
+            {
+                "id": 165,
+                "name": "Pogradec"
+            },
+            {
+                "id": 166,
+                "name": "Rrethi i Devollit"
+            },
+            {
+                "id": 167,
+                "name": "Rrethi i Kolonjës"
+            },
+            {
+                "id": 168,
+                "name": "Velçan"
+            },
+            {
+                "id": 169,
+                "name": "Voskopojë"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Korçë District",
+        "cities": []
+    },
+    {
+        "id": 54,
+        "name": "Krujë District",
+        "cities": []
+    },
+    {
+        "id": 55,
+        "name": "Kuçovë District",
+        "cities": []
+    },
+    {
+        "id": 56,
+        "name": "Kukës County",
+        "cities": []
+    },
+    {
+        "id": 57,
+        "name": "Kukës District",
+        "cities": [
+            {
+                "id": 170,
+                "name": "Bajram Curri"
+            },
+            {
+                "id": 171,
+                "name": "Krumë"
+            },
+            {
+                "id": 172,
+                "name": "Kukës"
+            },
+            {
+                "id": 173,
+                "name": "Rrethi i Hasit"
+            },
+            {
+                "id": 174,
+                "name": "Rrethi i Kukësit"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "name": "Kurbin District",
+        "cities": []
+    },
+    {
+        "id": 59,
+        "name": "Lezhë County",
+        "cities": [
+            {
+                "id": 175,
+                "name": "Bashkia Kurbin"
+            },
+            {
+                "id": 176,
+                "name": "Bashkia Lezhë"
+            },
+            {
+                "id": 177,
+                "name": "Bashkia Mirditë"
+            },
+            {
+                "id": 178,
+                "name": "Kurbnesh"
+            },
+            {
+                "id": 179,
+                "name": "Laç"
+            },
+            {
+                "id": 180,
+                "name": "Lezhë"
+            },
+            {
+                "id": 181,
+                "name": "Mamurras"
+            },
+            {
+                "id": 182,
+                "name": "Milot"
+            },
+            {
+                "id": 183,
+                "name": "Rrëshen"
+            },
+            {
+                "id": 184,
+                "name": "Rrethi i Kurbinit"
+            },
+            {
+                "id": 185,
+                "name": "Rubik"
+            },
+            {
+                "id": 186,
+                "name": "Shëngjin"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "name": "Lezhë District",
+        "cities": []
+    },
+    {
+        "id": 61,
+        "name": "Librazhd District",
+        "cities": []
+    },
+    {
+        "id": 62,
+        "name": "Lushnjë District",
+        "cities": []
+    },
+    {
+        "id": 63,
+        "name": "Malësi e Madhe District",
+        "cities": []
+    },
+    {
+        "id": 64,
+        "name": "Mallakastër District",
+        "cities": []
+    },
+    {
+        "id": 65,
+        "name": "Mat District",
+        "cities": []
+    },
+    {
+        "id": 66,
+        "name": "Mirditë District",
+        "cities": []
+    },
+    {
+        "id": 67,
+        "name": "Peqin District",
+        "cities": []
+    },
+    {
+        "id": 68,
+        "name": "Përmet District",
+        "cities": []
+    },
+    {
+        "id": 69,
+        "name": "Pogradec District",
+        "cities": []
+    },
+    {
+        "id": 70,
+        "name": "Pukë District",
+        "cities": []
+    },
+    {
+        "id": 71,
+        "name": "Sarandë District",
+        "cities": []
+    },
+    {
+        "id": 72,
+        "name": "Shkodër County",
+        "cities": []
+    },
+    {
+        "id": 73,
+        "name": "Shkodër District",
+        "cities": [
+            {
+                "id": 187,
+                "name": "Bashkia Malësi e Madhe"
+            },
+            {
+                "id": 188,
+                "name": "Bashkia Pukë"
+            },
+            {
+                "id": 189,
+                "name": "Bashkia Vau i Dejës"
+            },
+            {
+                "id": 190,
+                "name": "Fushë-Arrëz"
+            },
+            {
+                "id": 191,
+                "name": "Koplik"
+            },
+            {
+                "id": 192,
+                "name": "Pukë"
+            },
+            {
+                "id": 193,
+                "name": "Rrethi i Malësia e Madhe"
+            },
+            {
+                "id": 194,
+                "name": "Rrethi i Shkodrës"
+            },
+            {
+                "id": 195,
+                "name": "Shkodër"
+            },
+            {
+                "id": 196,
+                "name": "Vau i Dejës"
+            },
+            {
+                "id": 197,
+                "name": "Vukatanë"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Skrapar District",
+        "cities": []
+    },
+    {
+        "id": 75,
+        "name": "Tepelenë District",
+        "cities": []
+    },
+    {
+        "id": 76,
+        "name": "Tirana County",
+        "cities": []
+    },
+    {
+        "id": 77,
+        "name": "Tirana District",
+        "cities": [
+            {
+                "id": 198,
+                "name": "Bashkia Kavajë"
+            },
+            {
+                "id": 199,
+                "name": "Bashkia Vorë"
+            },
+            {
+                "id": 200,
+                "name": "Kamëz"
+            },
+            {
+                "id": 201,
+                "name": "Kavajë"
+            },
+            {
+                "id": 202,
+                "name": "Krrabë"
+            },
+            {
+                "id": 203,
+                "name": "Rrethi i Kavajës"
+            },
+            {
+                "id": 204,
+                "name": "Rrethi i Tiranës"
+            },
+            {
+                "id": 205,
+                "name": "Rrogozhinë"
+            },
+            {
+                "id": 206,
+                "name": "Sinaballaj"
+            },
+            {
+                "id": 207,
+                "name": "Tirana"
+            },
+            {
+                "id": 208,
+                "name": "Vorë"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Tropojë District",
+        "cities": []
+    },
+    {
+        "id": 79,
+        "name": "Vlorë County",
+        "cities": [
+            {
+                "id": 209,
+                "name": "Bashkia Finiq"
+            },
+            {
+                "id": 210,
+                "name": "Bashkia Himarë"
+            },
+            {
+                "id": 211,
+                "name": "Bashkia Konispol"
+            },
+            {
+                "id": 212,
+                "name": "Bashkia Selenicë"
+            },
+            {
+                "id": 213,
+                "name": "Bashkia Vlorë"
+            },
+            {
+                "id": 214,
+                "name": "Delvinë"
+            },
+            {
+                "id": 215,
+                "name": "Himarë"
+            },
+            {
+                "id": 216,
+                "name": "Konispol"
+            },
+            {
+                "id": 217,
+                "name": "Ksamil"
+            },
+            {
+                "id": 218,
+                "name": "Orikum"
+            },
+            {
+                "id": 219,
+                "name": "Rrethi i Delvinës"
+            },
+            {
+                "id": 220,
+                "name": "Sarandë"
+            },
+            {
+                "id": 221,
+                "name": "Selenicë"
+            },
+            {
+                "id": 222,
+                "name": "Vlorë"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "Vlorë District",
+        "cities": []
+    }
+]

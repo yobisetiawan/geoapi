@@ -1,0 +1,84 @@
+[
+    {
+        "id": 128,
+        "name": "Andorra la Vella",
+        "cities": [
+            {
+                "id": 476,
+                "name": "Andorra la Vella"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "name": "Canillo",
+        "cities": [
+            {
+                "id": 477,
+                "name": "Canillo"
+            },
+            {
+                "id": 478,
+                "name": "El Tarter"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Encamp",
+        "cities": [
+            {
+                "id": 479,
+                "name": "Encamp"
+            },
+            {
+                "id": 480,
+                "name": "Pas de la Casa"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Escaldes-Engordany",
+        "cities": [
+            {
+                "id": 481,
+                "name": "les Escaldes"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "La Massana",
+        "cities": [
+            {
+                "id": 482,
+                "name": "Arinsal"
+            },
+            {
+                "id": 483,
+                "name": "la Massana"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Ordino",
+        "cities": [
+            {
+                "id": 484,
+                "name": "Ordino"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Sant Julià de Lòria",
+        "cities": [
+            {
+                "id": 485,
+                "name": "Sant Julià de Lòria"
+            }
+        ]
+    }
+]

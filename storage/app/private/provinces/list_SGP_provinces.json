@@ -1,0 +1,37 @@
+[
+    {
+        "id": 3503,
+        "name": "Central Singapore Community Development Council",
+        "cities": [
+            {
+                "id": 102371,
+                "name": "Singapore"
+            }
+        ]
+    },
+    {
+        "id": 3504,
+        "name": "North East Community Development Council",
+        "cities": []
+    },
+    {
+        "id": 3505,
+        "name": "North West Community Development Council",
+        "cities": [
+            {
+                "id": 102372,
+                "name": "Woodlands"
+            }
+        ]
+    },
+    {
+        "id": 3506,
+        "name": "South East Community Development Council",
+        "cities": []
+    },
+    {
+        "id": 3507,
+        "name": "South West Community Development Council",
+        "cities": []
+    }
+]

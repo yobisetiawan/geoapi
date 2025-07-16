@@ -1,0 +1,161 @@
+[
+    {
+        "id": 3004,
+        "name": "Aimeliik",
+        "cities": [
+            {
+                "id": 78218,
+                "name": "Ngchemiangel"
+            }
+        ]
+    },
+    {
+        "id": 3005,
+        "name": "Airai",
+        "cities": [
+            {
+                "id": 78219,
+                "name": "Ngetkib"
+            }
+        ]
+    },
+    {
+        "id": 3006,
+        "name": "Angaur",
+        "cities": [
+            {
+                "id": 78220,
+                "name": "Angaur State"
+            }
+        ]
+    },
+    {
+        "id": 3007,
+        "name": "Hatohobei",
+        "cities": [
+            {
+                "id": 78221,
+                "name": "Tobi Village"
+            }
+        ]
+    },
+    {
+        "id": 3008,
+        "name": "Kayangel",
+        "cities": [
+            {
+                "id": 78222,
+                "name": "Kayangel"
+            }
+        ]
+    },
+    {
+        "id": 3009,
+        "name": "Koror",
+        "cities": [
+            {
+                "id": 78223,
+                "name": "Koror"
+            },
+            {
+                "id": 78224,
+                "name": "Koror Town"
+            }
+        ]
+    },
+    {
+        "id": 3010,
+        "name": "Melekeok",
+        "cities": [
+            {
+                "id": 78225,
+                "name": "Melekeok Village"
+            }
+        ]
+    },
+    {
+        "id": 3011,
+        "name": "Ngaraard",
+        "cities": [
+            {
+                "id": 78226,
+                "name": "Ulimang"
+            }
+        ]
+    },
+    {
+        "id": 3012,
+        "name": "Ngarchelong",
+        "cities": [
+            {
+                "id": 78227,
+                "name": "Mengellang"
+            }
+        ]
+    },
+    {
+        "id": 3013,
+        "name": "Ngardmau",
+        "cities": [
+            {
+                "id": 78228,
+                "name": "Ngardmau"
+            }
+        ]
+    },
+    {
+        "id": 3014,
+        "name": "Ngatpang",
+        "cities": []
+    },
+    {
+        "id": 3015,
+        "name": "Ngchesar",
+        "cities": [
+            {
+                "id": 78229,
+                "name": "Ngchesar Hamlet"
+            }
+        ]
+    },
+    {
+        "id": 3016,
+        "name": "Ngeremlengui",
+        "cities": [
+            {
+                "id": 78230,
+                "name": "Imeong Hamlet"
+            }
+        ]
+    },
+    {
+        "id": 3017,
+        "name": "Ngiwal",
+        "cities": [
+            {
+                "id": 78231,
+                "name": "Ngerkeai"
+            }
+        ]
+    },
+    {
+        "id": 3018,
+        "name": "Peleliu",
+        "cities": [
+            {
+                "id": 78232,
+                "name": "Kloulklubed"
+            }
+        ]
+    },
+    {
+        "id": 3019,
+        "name": "Sonsorol",
+        "cities": [
+            {
+                "id": 78233,
+                "name": "Sonsorol Village"
+            }
+        ]
+    }
+]

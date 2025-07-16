@@ -1,0 +1,6522 @@
+[
+    {
+        "id": 1878,
+        "name": "Aichi Prefecture",
+        "cities": [
+            {
+                "id": 61261,
+                "name": "Aisai-shi"
+            },
+            {
+                "id": 61262,
+                "name": "Ama-gun"
+            },
+            {
+                "id": 61263,
+                "name": "Anjō-shi"
+            },
+            {
+                "id": 61264,
+                "name": "Chiryū"
+            },
+            {
+                "id": 61265,
+                "name": "Chiryū-shi"
+            },
+            {
+                "id": 61266,
+                "name": "Chita"
+            },
+            {
+                "id": 61267,
+                "name": "Chita-shi"
+            },
+            {
+                "id": 61268,
+                "name": "Gamagōri"
+            },
+            {
+                "id": 61269,
+                "name": "Gamagōri-shi"
+            },
+            {
+                "id": 61270,
+                "name": "Handa"
+            },
+            {
+                "id": 61271,
+                "name": "Handa-shi"
+            },
+            {
+                "id": 61272,
+                "name": "Hekinan"
+            },
+            {
+                "id": 61273,
+                "name": "Hekinan-shi"
+            },
+            {
+                "id": 61274,
+                "name": "Ichinomiya"
+            },
+            {
+                "id": 61275,
+                "name": "Ichinomiya-shi"
+            },
+            {
+                "id": 61276,
+                "name": "Inazawa"
+            },
+            {
+                "id": 61277,
+                "name": "Inazawa-shi"
+            },
+            {
+                "id": 61278,
+                "name": "Inuyama"
+            },
+            {
+                "id": 61279,
+                "name": "Inuyama-shi"
+            },
+            {
+                "id": 61280,
+                "name": "Ishiki"
+            },
+            {
+                "id": 61281,
+                "name": "Iwakura"
+            },
+            {
+                "id": 61282,
+                "name": "Iwakura-shi"
+            },
+            {
+                "id": 61283,
+                "name": "Kanie"
+            },
+            {
+                "id": 61284,
+                "name": "Kariya"
+            },
+            {
+                "id": 61285,
+                "name": "Kariya-shi"
+            },
+            {
+                "id": 61286,
+                "name": "Kasugai"
+            },
+            {
+                "id": 61287,
+                "name": "Kasugai-shi"
+            },
+            {
+                "id": 61288,
+                "name": "Kitanagoya"
+            },
+            {
+                "id": 61289,
+                "name": "Kitanagoya-shi"
+            },
+            {
+                "id": 61290,
+                "name": "Kiyosu-shi"
+            },
+            {
+                "id": 61291,
+                "name": "Komaki"
+            },
+            {
+                "id": 61292,
+                "name": "Komaki-shi"
+            },
+            {
+                "id": 61293,
+                "name": "Kōnan"
+            },
+            {
+                "id": 61294,
+                "name": "Kōnan-shi"
+            },
+            {
+                "id": 61295,
+                "name": "Kozakai-chō"
+            },
+            {
+                "id": 61296,
+                "name": "Kuroda"
+            },
+            {
+                "id": 61297,
+                "name": "Miyoshi-shi"
+            },
+            {
+                "id": 61298,
+                "name": "Nagakute-shi"
+            },
+            {
+                "id": 61299,
+                "name": "Nagoya"
+            },
+            {
+                "id": 61300,
+                "name": "Nishio"
+            },
+            {
+                "id": 61301,
+                "name": "Nishio-shi"
+            },
+            {
+                "id": 61302,
+                "name": "Nisshin-shi"
+            },
+            {
+                "id": 61303,
+                "name": "Ōbu"
+            },
+            {
+                "id": 61304,
+                "name": "Ōbu-shi"
+            },
+            {
+                "id": 61305,
+                "name": "Okazaki-shi"
+            },
+            {
+                "id": 61306,
+                "name": "Owariasahi-shi"
+            },
+            {
+                "id": 61307,
+                "name": "Seto"
+            },
+            {
+                "id": 61308,
+                "name": "Seto-shi"
+            },
+            {
+                "id": 61309,
+                "name": "Shinshiro"
+            },
+            {
+                "id": 61310,
+                "name": "Shinshiro-shi"
+            },
+            {
+                "id": 61311,
+                "name": "Sobue"
+            },
+            {
+                "id": 61312,
+                "name": "Tahara"
+            },
+            {
+                "id": 61313,
+                "name": "Tahara-shi"
+            },
+            {
+                "id": 61314,
+                "name": "Takahama"
+            },
+            {
+                "id": 61315,
+                "name": "Takahama-shi"
+            },
+            {
+                "id": 61316,
+                "name": "Taketoyo"
+            },
+            {
+                "id": 61317,
+                "name": "Tōkai-shi"
+            },
+            {
+                "id": 61318,
+                "name": "Tokoname"
+            },
+            {
+                "id": 61319,
+                "name": "Tokoname-shi"
+            },
+            {
+                "id": 61320,
+                "name": "Toyoake"
+            },
+            {
+                "id": 61321,
+                "name": "Toyoake-shi"
+            },
+            {
+                "id": 61322,
+                "name": "Toyohama"
+            },
+            {
+                "id": 61323,
+                "name": "Toyohashi"
+            },
+            {
+                "id": 61324,
+                "name": "Toyohashi-shi"
+            },
+            {
+                "id": 61325,
+                "name": "Toyokawa"
+            },
+            {
+                "id": 61326,
+                "name": "Toyokawa-shi"
+            },
+            {
+                "id": 61327,
+                "name": "Toyota-shi"
+            },
+            {
+                "id": 61328,
+                "name": "Tsushima"
+            },
+            {
+                "id": 61329,
+                "name": "Tsushima-shi"
+            },
+            {
+                "id": 61330,
+                "name": "Yatomi-shi"
+            }
+        ]
+    },
+    {
+        "id": 1879,
+        "name": "Akita Prefecture",
+        "cities": [
+            {
+                "id": 61331,
+                "name": "Akita"
+            },
+            {
+                "id": 61332,
+                "name": "Akita Shi"
+            },
+            {
+                "id": 61333,
+                "name": "Daisen"
+            },
+            {
+                "id": 61334,
+                "name": "Daisen-shi"
+            },
+            {
+                "id": 61335,
+                "name": "Hanawa"
+            },
+            {
+                "id": 61336,
+                "name": "Kakunodatemachi"
+            },
+            {
+                "id": 61337,
+                "name": "Katagami"
+            },
+            {
+                "id": 61338,
+                "name": "Katagami-shi"
+            },
+            {
+                "id": 61339,
+                "name": "Kazuno Shi"
+            },
+            {
+                "id": 61340,
+                "name": "Kitaakita-shi"
+            },
+            {
+                "id": 61341,
+                "name": "Nikaho-shi"
+            },
+            {
+                "id": 61342,
+                "name": "Noshiro"
+            },
+            {
+                "id": 61343,
+                "name": "Noshiro Shi"
+            },
+            {
+                "id": 61344,
+                "name": "Ōdate"
+            },
+            {
+                "id": 61345,
+                "name": "Ōdate-shi"
+            },
+            {
+                "id": 61346,
+                "name": "Oga"
+            },
+            {
+                "id": 61347,
+                "name": "Oga-shi"
+            },
+            {
+                "id": 61348,
+                "name": "Ōmagari"
+            },
+            {
+                "id": 61349,
+                "name": "Semboku-shi"
+            },
+            {
+                "id": 61350,
+                "name": "Takanosu"
+            },
+            {
+                "id": 61351,
+                "name": "Tennō"
+            },
+            {
+                "id": 61352,
+                "name": "Yokote"
+            },
+            {
+                "id": 61353,
+                "name": "Yokote-shi"
+            },
+            {
+                "id": 61354,
+                "name": "Yurihonjō"
+            },
+            {
+                "id": 61355,
+                "name": "Yurihonjō-shi"
+            },
+            {
+                "id": 61356,
+                "name": "Yuzawa"
+            },
+            {
+                "id": 61357,
+                "name": "Yuzawa-shi"
+            }
+        ]
+    },
+    {
+        "id": 1880,
+        "name": "Aomori Prefecture",
+        "cities": [
+            {
+                "id": 61358,
+                "name": "Aomori"
+            },
+            {
+                "id": 61359,
+                "name": "Aomori Shi"
+            },
+            {
+                "id": 61360,
+                "name": "Goshogawara"
+            },
+            {
+                "id": 61361,
+                "name": "Goshogawara Shi"
+            },
+            {
+                "id": 61362,
+                "name": "Hachinohe"
+            },
+            {
+                "id": 61363,
+                "name": "Hachinohe Shi"
+            },
+            {
+                "id": 61364,
+                "name": "Hirakawa"
+            },
+            {
+                "id": 61365,
+                "name": "Hirakawa Shi"
+            },
+            {
+                "id": 61366,
+                "name": "Hirosaki"
+            },
+            {
+                "id": 61367,
+                "name": "Hirosaki Shi"
+            },
+            {
+                "id": 61368,
+                "name": "Kuroishi"
+            },
+            {
+                "id": 61369,
+                "name": "Kuroishi Shi"
+            },
+            {
+                "id": 61370,
+                "name": "Misawa"
+            },
+            {
+                "id": 61371,
+                "name": "Misawa Shi"
+            },
+            {
+                "id": 61372,
+                "name": "Mutsu"
+            },
+            {
+                "id": 61373,
+                "name": "Mutsu-shi"
+            },
+            {
+                "id": 61374,
+                "name": "Namioka"
+            },
+            {
+                "id": 61375,
+                "name": "Shimokizukuri"
+            },
+            {
+                "id": 61376,
+                "name": "Towada Shi"
+            },
+            {
+                "id": 61377,
+                "name": "Tsugaru"
+            },
+            {
+                "id": 61378,
+                "name": "Tsugaru Shi"
+            }
+        ]
+    },
+    {
+        "id": 1881,
+        "name": "Chiba Prefecture",
+        "cities": [
+            {
+                "id": 61379,
+                "name": "Abiko"
+            },
+            {
+                "id": 61380,
+                "name": "Abiko-shi"
+            },
+            {
+                "id": 61381,
+                "name": "Asahi-shi"
+            },
+            {
+                "id": 61382,
+                "name": "Chiba"
+            },
+            {
+                "id": 61383,
+                "name": "Chōshi-shi"
+            },
+            {
+                "id": 61384,
+                "name": "Funabashi-shi"
+            },
+            {
+                "id": 61385,
+                "name": "Futtsu"
+            },
+            {
+                "id": 61386,
+                "name": "Hasaki"
+            },
+            {
+                "id": 61387,
+                "name": "Honchō"
+            },
+            {
+                "id": 61388,
+                "name": "Ichihara"
+            },
+            {
+                "id": 61389,
+                "name": "Ichihara Shi"
+            },
+            {
+                "id": 61390,
+                "name": "Ichikawa Shi"
+            },
+            {
+                "id": 61391,
+                "name": "Inzai-shi"
+            },
+            {
+                "id": 61392,
+                "name": "Isumi"
+            },
+            {
+                "id": 61393,
+                "name": "Isumi Shi"
+            },
+            {
+                "id": 61394,
+                "name": "Kamagaya Shi"
+            },
+            {
+                "id": 61395,
+                "name": "Kamogawa"
+            },
+            {
+                "id": 61396,
+                "name": "Kamogawa-shi"
+            },
+            {
+                "id": 61397,
+                "name": "Kashiwa"
+            },
+            {
+                "id": 61398,
+                "name": "Kashiwa Shi"
+            },
+            {
+                "id": 61399,
+                "name": "Katori-shi"
+            },
+            {
+                "id": 61400,
+                "name": "Katsuura"
+            },
+            {
+                "id": 61401,
+                "name": "Katsuura-shi"
+            },
+            {
+                "id": 61402,
+                "name": "Kimitsu"
+            },
+            {
+                "id": 61403,
+                "name": "Kisarazu"
+            },
+            {
+                "id": 61404,
+                "name": "Kisarazu Shi"
+            },
+            {
+                "id": 61405,
+                "name": "Matsudo Shi"
+            },
+            {
+                "id": 61406,
+                "name": "Minamibōsō Shi"
+            },
+            {
+                "id": 61407,
+                "name": "Mobara"
+            },
+            {
+                "id": 61408,
+                "name": "Mobara Shi"
+            },
+            {
+                "id": 61409,
+                "name": "Nagareyama"
+            },
+            {
+                "id": 61410,
+                "name": "Nagareyama-shi"
+            },
+            {
+                "id": 61411,
+                "name": "Narashino-shi"
+            },
+            {
+                "id": 61412,
+                "name": "Narita"
+            },
+            {
+                "id": 61413,
+                "name": "Narita-shi"
+            },
+            {
+                "id": 61414,
+                "name": "Narutō"
+            },
+            {
+                "id": 61415,
+                "name": "Noda"
+            },
+            {
+                "id": 61416,
+                "name": "Noda-shi"
+            },
+            {
+                "id": 61417,
+                "name": "Ōami"
+            },
+            {
+                "id": 61418,
+                "name": "Ōamishirasato-shi"
+            },
+            {
+                "id": 61419,
+                "name": "Ōhara"
+            },
+            {
+                "id": 61420,
+                "name": "Omigawa"
+            },
+            {
+                "id": 61421,
+                "name": "Sakura"
+            },
+            {
+                "id": 61422,
+                "name": "Sakura-shi"
+            },
+            {
+                "id": 61423,
+                "name": "Sambu-gun"
+            },
+            {
+                "id": 61424,
+                "name": "Sanmu"
+            },
+            {
+                "id": 61425,
+                "name": "Sanmu-shi"
+            },
+            {
+                "id": 61426,
+                "name": "Sawara"
+            },
+            {
+                "id": 61427,
+                "name": "Shiroi"
+            },
+            {
+                "id": 61428,
+                "name": "Shiroi-shi"
+            },
+            {
+                "id": 61429,
+                "name": "Shisui"
+            },
+            {
+                "id": 61430,
+                "name": "Sodegaura-shi"
+            },
+            {
+                "id": 61431,
+                "name": "Sōsa-shi"
+            },
+            {
+                "id": 61432,
+                "name": "Tateyama"
+            },
+            {
+                "id": 61433,
+                "name": "Tateyama-shi"
+            },
+            {
+                "id": 61434,
+                "name": "Tōgane"
+            },
+            {
+                "id": 61435,
+                "name": "Tōgane-shi"
+            },
+            {
+                "id": 61436,
+                "name": "Tomisato-shi"
+            },
+            {
+                "id": 61437,
+                "name": "Urayasu-shi"
+            },
+            {
+                "id": 61438,
+                "name": "Yachimata"
+            },
+            {
+                "id": 61439,
+                "name": "Yachimata-shi"
+            },
+            {
+                "id": 61440,
+                "name": "Yachiyo-shi"
+            },
+            {
+                "id": 61441,
+                "name": "Yōkaichiba"
+            },
+            {
+                "id": 61442,
+                "name": "Yotsukaidō"
+            },
+            {
+                "id": 61443,
+                "name": "Yotsukaidō-shi"
+            }
+        ]
+    },
+    {
+        "id": 1882,
+        "name": "Ehime Prefecture",
+        "cities": [
+            {
+                "id": 61444,
+                "name": "Hōjō"
+            },
+            {
+                "id": 61445,
+                "name": "Imabari-shi"
+            },
+            {
+                "id": 61446,
+                "name": "Iyo"
+            },
+            {
+                "id": 61447,
+                "name": "Iyo-shi"
+            },
+            {
+                "id": 61448,
+                "name": "Kawanoechō"
+            },
+            {
+                "id": 61449,
+                "name": "Kihoku-chō"
+            },
+            {
+                "id": 61450,
+                "name": "Masaki-chō"
+            },
+            {
+                "id": 61451,
+                "name": "Matsuyama-shi"
+            },
+            {
+                "id": 61452,
+                "name": "Niihama"
+            },
+            {
+                "id": 61453,
+                "name": "Niihama-shi"
+            },
+            {
+                "id": 61454,
+                "name": "Ōzu"
+            },
+            {
+                "id": 61455,
+                "name": "Ōzu-shi"
+            },
+            {
+                "id": 61456,
+                "name": "Saijō"
+            },
+            {
+                "id": 61457,
+                "name": "Saijō-shi"
+            },
+            {
+                "id": 61458,
+                "name": "Seiyo-shi"
+            },
+            {
+                "id": 61459,
+                "name": "Shikoku-chūō Shi"
+            },
+            {
+                "id": 61460,
+                "name": "Tōon-shi"
+            },
+            {
+                "id": 61461,
+                "name": "Uwajima"
+            },
+            {
+                "id": 61462,
+                "name": "Uwajima-shi"
+            },
+            {
+                "id": 61463,
+                "name": "Yawatahama-shi"
+            }
+        ]
+    },
+    {
+        "id": 1883,
+        "name": "Fukui Prefecture",
+        "cities": [
+            {
+                "id": 61464,
+                "name": "Asahi"
+            },
+            {
+                "id": 61465,
+                "name": "Awara-shi"
+            },
+            {
+                "id": 61466,
+                "name": "Echizen-shi"
+            },
+            {
+                "id": 61467,
+                "name": "Fukui-shi"
+            },
+            {
+                "id": 61468,
+                "name": "Katsuyama"
+            },
+            {
+                "id": 61469,
+                "name": "Katsuyama Shi"
+            },
+            {
+                "id": 61470,
+                "name": "Maruoka"
+            },
+            {
+                "id": 61471,
+                "name": "Mikuni"
+            },
+            {
+                "id": 61472,
+                "name": "Obama"
+            },
+            {
+                "id": 61473,
+                "name": "Obama-shi"
+            },
+            {
+                "id": 61474,
+                "name": "Ōi-gun"
+            },
+            {
+                "id": 61475,
+                "name": "Ono"
+            },
+            {
+                "id": 61476,
+                "name": "Ōno-shi"
+            },
+            {
+                "id": 61477,
+                "name": "Sabae"
+            },
+            {
+                "id": 61478,
+                "name": "Sabae-shi"
+            },
+            {
+                "id": 61479,
+                "name": "Sakai-shi"
+            },
+            {
+                "id": 61480,
+                "name": "Takefu"
+            },
+            {
+                "id": 61481,
+                "name": "Tsuruga"
+            },
+            {
+                "id": 61482,
+                "name": "Tsuruga-shi"
+            }
+        ]
+    },
+    {
+        "id": 1884,
+        "name": "Fukuoka Prefecture",
+        "cities": [
+            {
+                "id": 61483,
+                "name": "Amagi"
+            },
+            {
+                "id": 61484,
+                "name": "Asakura Shi"
+            },
+            {
+                "id": 61485,
+                "name": "Buzen"
+            },
+            {
+                "id": 61486,
+                "name": "Buzen-shi"
+            },
+            {
+                "id": 61487,
+                "name": "Chikugo Shi"
+            },
+            {
+                "id": 61488,
+                "name": "Chikushino-shi"
+            },
+            {
+                "id": 61489,
+                "name": "Dazaifu-shi"
+            },
+            {
+                "id": 61490,
+                "name": "Fukuoka"
+            },
+            {
+                "id": 61491,
+                "name": "Fukuoka-shi"
+            },
+            {
+                "id": 61492,
+                "name": "Fukutsu Shi"
+            },
+            {
+                "id": 61493,
+                "name": "Iizuka"
+            },
+            {
+                "id": 61494,
+                "name": "Iizuka Shi"
+            },
+            {
+                "id": 61495,
+                "name": "Itoshima-shi"
+            },
+            {
+                "id": 61496,
+                "name": "Kama Shi"
+            },
+            {
+                "id": 61497,
+                "name": "Kanda"
+            },
+            {
+                "id": 61498,
+                "name": "Kasuga Shi"
+            },
+            {
+                "id": 61499,
+                "name": "Kawasaki"
+            },
+            {
+                "id": 61500,
+                "name": "Kitakyushu"
+            },
+            {
+                "id": 61501,
+                "name": "Koga"
+            },
+            {
+                "id": 61502,
+                "name": "Koga-shi"
+            },
+            {
+                "id": 61503,
+                "name": "Kurume"
+            },
+            {
+                "id": 61504,
+                "name": "Kurume Shi"
+            },
+            {
+                "id": 61505,
+                "name": "Maebaru-chūō"
+            },
+            {
+                "id": 61506,
+                "name": "Miyama Shi"
+            },
+            {
+                "id": 61507,
+                "name": "Miyata"
+            },
+            {
+                "id": 61508,
+                "name": "Miyawaka Shi"
+            },
+            {
+                "id": 61509,
+                "name": "Munakata-shi"
+            },
+            {
+                "id": 61510,
+                "name": "Nakama"
+            },
+            {
+                "id": 61511,
+                "name": "Nakama Shi"
+            },
+            {
+                "id": 61512,
+                "name": "Nishifukuma"
+            },
+            {
+                "id": 61513,
+                "name": "Nōgata"
+            },
+            {
+                "id": 61514,
+                "name": "Nōgata Shi"
+            },
+            {
+                "id": 61515,
+                "name": "Ogōri-shi"
+            },
+            {
+                "id": 61516,
+                "name": "Ōkawa"
+            },
+            {
+                "id": 61517,
+                "name": "Ōkawa-shi"
+            },
+            {
+                "id": 61518,
+                "name": "Ōmuta"
+            },
+            {
+                "id": 61519,
+                "name": "Ōmuta Shi"
+            },
+            {
+                "id": 61520,
+                "name": "Onga-gun"
+            },
+            {
+                "id": 61521,
+                "name": "Ōnojō"
+            },
+            {
+                "id": 61522,
+                "name": "Ōnojō Shi"
+            },
+            {
+                "id": 61523,
+                "name": "Sasaguri"
+            },
+            {
+                "id": 61524,
+                "name": "Setakamachi-takayanagi"
+            },
+            {
+                "id": 61525,
+                "name": "Shiida"
+            },
+            {
+                "id": 61526,
+                "name": "Shingū"
+            },
+            {
+                "id": 61527,
+                "name": "Tagawa"
+            },
+            {
+                "id": 61528,
+                "name": "Tagawa Shi"
+            },
+            {
+                "id": 61529,
+                "name": "Tanushimarumachi-toyoki"
+            },
+            {
+                "id": 61530,
+                "name": "Tsuiki"
+            },
+            {
+                "id": 61531,
+                "name": "Ukiha Shi"
+            },
+            {
+                "id": 61532,
+                "name": "Umi"
+            },
+            {
+                "id": 61533,
+                "name": "Yame Shi"
+            },
+            {
+                "id": 61534,
+                "name": "Yanagawa"
+            },
+            {
+                "id": 61535,
+                "name": "Yanagawa Shi"
+            },
+            {
+                "id": 61536,
+                "name": "Yoshitomi"
+            },
+            {
+                "id": 61537,
+                "name": "Yukuhashi"
+            },
+            {
+                "id": 61538,
+                "name": "Yukuhashi Shi"
+            }
+        ]
+    },
+    {
+        "id": 1885,
+        "name": "Fukushima Prefecture",
+        "cities": [
+            {
+                "id": 61539,
+                "name": "Aizu-wakamatsu Shi"
+            },
+            {
+                "id": 61540,
+                "name": "Date-shi"
+            },
+            {
+                "id": 61541,
+                "name": "Fukushima"
+            },
+            {
+                "id": 61542,
+                "name": "Fukushima Shi"
+            },
+            {
+                "id": 61543,
+                "name": "Funehikimachi-funehiki"
+            },
+            {
+                "id": 61544,
+                "name": "Hobaramachi"
+            },
+            {
+                "id": 61545,
+                "name": "Inawashiro"
+            },
+            {
+                "id": 61546,
+                "name": "Ishikawa"
+            },
+            {
+                "id": 61547,
+                "name": "Iwaki"
+            },
+            {
+                "id": 61548,
+                "name": "Iwaki-shi"
+            },
+            {
+                "id": 61549,
+                "name": "Kitakata"
+            },
+            {
+                "id": 61550,
+                "name": "Kitakata-shi"
+            },
+            {
+                "id": 61551,
+                "name": "Kōriyama"
+            },
+            {
+                "id": 61552,
+                "name": "Kōriyama Shi"
+            },
+            {
+                "id": 61553,
+                "name": "Miharu"
+            },
+            {
+                "id": 61554,
+                "name": "Minami-Sōma"
+            },
+            {
+                "id": 61555,
+                "name": "Minamisōma Shi"
+            },
+            {
+                "id": 61556,
+                "name": "Motomiya"
+            },
+            {
+                "id": 61557,
+                "name": "Motomiya-shi"
+            },
+            {
+                "id": 61558,
+                "name": "Namie"
+            },
+            {
+                "id": 61559,
+                "name": "Nihommatsu"
+            },
+            {
+                "id": 61560,
+                "name": "Nihonmatsu Shi"
+            },
+            {
+                "id": 61561,
+                "name": "Shirakawa Shi"
+            },
+            {
+                "id": 61562,
+                "name": "Sōma"
+            },
+            {
+                "id": 61563,
+                "name": "Sōma Shi"
+            },
+            {
+                "id": 61564,
+                "name": "Sukagawa"
+            },
+            {
+                "id": 61565,
+                "name": "Sukagawa Shi"
+            },
+            {
+                "id": 61566,
+                "name": "Tamura"
+            },
+            {
+                "id": 61567,
+                "name": "Tamura-shi"
+            },
+            {
+                "id": 61568,
+                "name": "Yanagawamachi-saiwaichō"
+            }
+        ]
+    },
+    {
+        "id": 1886,
+        "name": "Gifu Prefecture",
+        "cities": [
+            {
+                "id": 61569,
+                "name": "Ena-shi"
+            },
+            {
+                "id": 61570,
+                "name": "Gero"
+            },
+            {
+                "id": 61571,
+                "name": "Gero-shi"
+            },
+            {
+                "id": 61572,
+                "name": "Gifu-shi"
+            },
+            {
+                "id": 61573,
+                "name": "Gōdo"
+            },
+            {
+                "id": 61574,
+                "name": "Gujō"
+            },
+            {
+                "id": 61575,
+                "name": "Gujō-shi"
+            },
+            {
+                "id": 61576,
+                "name": "Hashima"
+            },
+            {
+                "id": 61577,
+                "name": "Hashima-shi"
+            },
+            {
+                "id": 61578,
+                "name": "Hida"
+            },
+            {
+                "id": 61579,
+                "name": "Hida Shi"
+            },
+            {
+                "id": 61580,
+                "name": "Kaizu-shi"
+            },
+            {
+                "id": 61581,
+                "name": "Kakamigahara-shi"
+            },
+            {
+                "id": 61582,
+                "name": "Kani-shi"
+            },
+            {
+                "id": 61583,
+                "name": "Kasamatsuchō"
+            },
+            {
+                "id": 61584,
+                "name": "Mino"
+            },
+            {
+                "id": 61585,
+                "name": "Mino-shi"
+            },
+            {
+                "id": 61586,
+                "name": "Minokamo"
+            },
+            {
+                "id": 61587,
+                "name": "Minokamo-shi"
+            },
+            {
+                "id": 61588,
+                "name": "Mitake"
+            },
+            {
+                "id": 61589,
+                "name": "Mizuho-shi"
+            },
+            {
+                "id": 61590,
+                "name": "Mizunami"
+            },
+            {
+                "id": 61591,
+                "name": "Mizunami-shi"
+            },
+            {
+                "id": 61592,
+                "name": "Motosu-shi"
+            },
+            {
+                "id": 61593,
+                "name": "Nakatsugawa"
+            },
+            {
+                "id": 61594,
+                "name": "Nakatsugawa-shi"
+            },
+            {
+                "id": 61595,
+                "name": "Ōgaki-shi"
+            },
+            {
+                "id": 61596,
+                "name": "Seki-shi"
+            },
+            {
+                "id": 61597,
+                "name": "Tajimi"
+            },
+            {
+                "id": 61598,
+                "name": "Tajimi-shi"
+            },
+            {
+                "id": 61599,
+                "name": "Takayama Shi"
+            },
+            {
+                "id": 61600,
+                "name": "Tarui"
+            },
+            {
+                "id": 61601,
+                "name": "Toki"
+            },
+            {
+                "id": 61602,
+                "name": "Toki-shi"
+            },
+            {
+                "id": 61603,
+                "name": "Yamagata-shi"
+            }
+        ]
+    },
+    {
+        "id": 1887,
+        "name": "Gunma Prefecture",
+        "cities": [
+            {
+                "id": 61604,
+                "name": "Agatsuma-gun"
+            },
+            {
+                "id": 61605,
+                "name": "Annaka"
+            },
+            {
+                "id": 61606,
+                "name": "Annaka Shi"
+            },
+            {
+                "id": 61607,
+                "name": "Fujioka"
+            },
+            {
+                "id": 61608,
+                "name": "Fujioka Shi"
+            },
+            {
+                "id": 61609,
+                "name": "Isesaki"
+            },
+            {
+                "id": 61610,
+                "name": "Isesaki Shi"
+            },
+            {
+                "id": 61611,
+                "name": "Kanekomachi"
+            },
+            {
+                "id": 61612,
+                "name": "Kiryū"
+            },
+            {
+                "id": 61613,
+                "name": "Kiryū Shi"
+            },
+            {
+                "id": 61614,
+                "name": "Maebashi"
+            },
+            {
+                "id": 61615,
+                "name": "Maebashi Shi"
+            },
+            {
+                "id": 61616,
+                "name": "Midori"
+            },
+            {
+                "id": 61617,
+                "name": "Midori Shi"
+            },
+            {
+                "id": 61618,
+                "name": "Nakanojōmachi"
+            },
+            {
+                "id": 61619,
+                "name": "Numata"
+            },
+            {
+                "id": 61620,
+                "name": "Numata Shi"
+            },
+            {
+                "id": 61621,
+                "name": "Ōmamachō-ōmama"
+            },
+            {
+                "id": 61622,
+                "name": "Ōta"
+            },
+            {
+                "id": 61623,
+                "name": "Ōta-shi"
+            },
+            {
+                "id": 61624,
+                "name": "Sakai-nakajima"
+            },
+            {
+                "id": 61625,
+                "name": "Shibukawa"
+            },
+            {
+                "id": 61626,
+                "name": "Shibukawa-shi"
+            },
+            {
+                "id": 61627,
+                "name": "Takasaki"
+            },
+            {
+                "id": 61628,
+                "name": "Takasaki Shi"
+            },
+            {
+                "id": 61629,
+                "name": "Tamamura"
+            },
+            {
+                "id": 61630,
+                "name": "Tatebayashi"
+            },
+            {
+                "id": 61631,
+                "name": "Tatebayashi-shi"
+            },
+            {
+                "id": 61632,
+                "name": "Tomioka"
+            },
+            {
+                "id": 61633,
+                "name": "Tomioka-shi"
+            },
+            {
+                "id": 61634,
+                "name": "Yoshii"
+            }
+        ]
+    },
+    {
+        "id": 1888,
+        "name": "Hiroshima Prefecture",
+        "cities": [
+            {
+                "id": 61635,
+                "name": "Aki-takata Shi"
+            },
+            {
+                "id": 61636,
+                "name": "Etajima-shi"
+            },
+            {
+                "id": 61637,
+                "name": "Fuchū-shi"
+            },
+            {
+                "id": 61638,
+                "name": "Fuchūchō"
+            },
+            {
+                "id": 61639,
+                "name": "Fukuyama"
+            },
+            {
+                "id": 61640,
+                "name": "Fukuyama Shi"
+            },
+            {
+                "id": 61641,
+                "name": "Hatsukaichi"
+            },
+            {
+                "id": 61642,
+                "name": "Hatsukaichi-shi"
+            },
+            {
+                "id": 61643,
+                "name": "Higashihiroshima Shi"
+            },
+            {
+                "id": 61644,
+                "name": "Hiroshima"
+            },
+            {
+                "id": 61645,
+                "name": "Hiroshima-shi"
+            },
+            {
+                "id": 61646,
+                "name": "Innoshima"
+            },
+            {
+                "id": 61647,
+                "name": "Kannabechō-yahiro"
+            },
+            {
+                "id": 61648,
+                "name": "Kure"
+            },
+            {
+                "id": 61649,
+                "name": "Kure-shi"
+            },
+            {
+                "id": 61650,
+                "name": "Mihara"
+            },
+            {
+                "id": 61651,
+                "name": "Mihara Shi"
+            },
+            {
+                "id": 61652,
+                "name": "Miyajima"
+            },
+            {
+                "id": 61653,
+                "name": "Miyoshi"
+            },
+            {
+                "id": 61654,
+                "name": "Miyoshi Shi"
+            },
+            {
+                "id": 61655,
+                "name": "Ōno-hara"
+            },
+            {
+                "id": 61656,
+                "name": "Onomichi"
+            },
+            {
+                "id": 61657,
+                "name": "Onomichi-shi"
+            },
+            {
+                "id": 61658,
+                "name": "Ōtake"
+            },
+            {
+                "id": 61659,
+                "name": "Ōtake-shi"
+            },
+            {
+                "id": 61660,
+                "name": "Shin’ichi"
+            },
+            {
+                "id": 61661,
+                "name": "Shōbara"
+            },
+            {
+                "id": 61662,
+                "name": "Shōbara-shi"
+            },
+            {
+                "id": 61663,
+                "name": "Takehara"
+            },
+            {
+                "id": 61664,
+                "name": "Takehara-shi"
+            }
+        ]
+    },
+    {
+        "id": 1889,
+        "name": "Hokkaidō Prefecture",
+        "cities": [
+            {
+                "id": 61665,
+                "name": "Abashiri"
+            },
+            {
+                "id": 61666,
+                "name": "Abashiri Shi"
+            },
+            {
+                "id": 61667,
+                "name": "Akabira"
+            },
+            {
+                "id": 61668,
+                "name": "Akabira-shi"
+            },
+            {
+                "id": 61669,
+                "name": "Asahikawa"
+            },
+            {
+                "id": 61670,
+                "name": "Ashibetsu"
+            },
+            {
+                "id": 61671,
+                "name": "Ashibetsu-shi"
+            },
+            {
+                "id": 61672,
+                "name": "Bibai"
+            },
+            {
+                "id": 61673,
+                "name": "Chitose"
+            },
+            {
+                "id": 61674,
+                "name": "Chitose Shi"
+            },
+            {
+                "id": 61675,
+                "name": "Date"
+            },
+            {
+                "id": 61676,
+                "name": "Date-shi"
+            },
+            {
+                "id": 61677,
+                "name": "Ebetsu"
+            },
+            {
+                "id": 61678,
+                "name": "Eniwa-shi"
+            },
+            {
+                "id": 61679,
+                "name": "Fukagawa"
+            },
+            {
+                "id": 61680,
+                "name": "Fukagawa-shi"
+            },
+            {
+                "id": 61681,
+                "name": "Furano-shi"
+            },
+            {
+                "id": 61682,
+                "name": "Hakodate"
+            },
+            {
+                "id": 61683,
+                "name": "Hakodate Shi"
+            },
+            {
+                "id": 61684,
+                "name": "Hokuto"
+            },
+            {
+                "id": 61685,
+                "name": "Hokuto-shi"
+            },
+            {
+                "id": 61686,
+                "name": "Honchō"
+            },
+            {
+                "id": 61687,
+                "name": "Ishikari"
+            },
+            {
+                "id": 61688,
+                "name": "Ishikari-shi"
+            },
+            {
+                "id": 61689,
+                "name": "Iwamizawa"
+            },
+            {
+                "id": 61690,
+                "name": "Iwamizawa-shi"
+            },
+            {
+                "id": 61691,
+                "name": "Iwanai"
+            },
+            {
+                "id": 61692,
+                "name": "Kamiiso"
+            },
+            {
+                "id": 61693,
+                "name": "Kamikawa"
+            },
+            {
+                "id": 61694,
+                "name": "Kitahiroshima"
+            },
+            {
+                "id": 61695,
+                "name": "Kitahiroshima-shi"
+            },
+            {
+                "id": 61696,
+                "name": "Kitami"
+            },
+            {
+                "id": 61697,
+                "name": "Ktiami Shi"
+            },
+            {
+                "id": 61698,
+                "name": "Kushiro"
+            },
+            {
+                "id": 61699,
+                "name": "Kushiro Shi"
+            },
+            {
+                "id": 61700,
+                "name": "Makubetsu"
+            },
+            {
+                "id": 61701,
+                "name": "Mikasa"
+            },
+            {
+                "id": 61702,
+                "name": "Mikasa-shi"
+            },
+            {
+                "id": 61703,
+                "name": "Mombetsu"
+            },
+            {
+                "id": 61704,
+                "name": "Monbetsu Shi"
+            },
+            {
+                "id": 61705,
+                "name": "Motomachi"
+            },
+            {
+                "id": 61706,
+                "name": "Muroran"
+            },
+            {
+                "id": 61707,
+                "name": "Muroran-shi"
+            },
+            {
+                "id": 61708,
+                "name": "Nayoro"
+            },
+            {
+                "id": 61709,
+                "name": "Nayoro Shi"
+            },
+            {
+                "id": 61710,
+                "name": "Nemuro"
+            },
+            {
+                "id": 61711,
+                "name": "Nemuro-shi"
+            },
+            {
+                "id": 61712,
+                "name": "Niseko Town"
+            },
+            {
+                "id": 61713,
+                "name": "Noboribetsu"
+            },
+            {
+                "id": 61714,
+                "name": "Noboribetsu-shi"
+            },
+            {
+                "id": 61715,
+                "name": "Obihiro"
+            },
+            {
+                "id": 61716,
+                "name": "Obihiro Shi"
+            },
+            {
+                "id": 61717,
+                "name": "Otaru"
+            },
+            {
+                "id": 61718,
+                "name": "Otaru-shi"
+            },
+            {
+                "id": 61719,
+                "name": "Otofuke"
+            },
+            {
+                "id": 61720,
+                "name": "Rebun Gun"
+            },
+            {
+                "id": 61721,
+                "name": "Rishiri Gun"
+            },
+            {
+                "id": 61722,
+                "name": "Rishiri Town"
+            },
+            {
+                "id": 61723,
+                "name": "Rumoi"
+            },
+            {
+                "id": 61724,
+                "name": "Rumoi-shi"
+            },
+            {
+                "id": 61725,
+                "name": "Sapporo"
+            },
+            {
+                "id": 61726,
+                "name": "Sapporo-shi"
+            },
+            {
+                "id": 61727,
+                "name": "Shibetsu"
+            },
+            {
+                "id": 61728,
+                "name": "Shibetsu Shi"
+            },
+            {
+                "id": 61729,
+                "name": "Shimo-furano"
+            },
+            {
+                "id": 61730,
+                "name": "Shiraoi"
+            },
+            {
+                "id": 61731,
+                "name": "Shizunai-furukawachō"
+            },
+            {
+                "id": 61732,
+                "name": "Sunagawa"
+            },
+            {
+                "id": 61733,
+                "name": "Sunagawa-shi"
+            },
+            {
+                "id": 61734,
+                "name": "Takikawa"
+            },
+            {
+                "id": 61735,
+                "name": "Takikawa-shi"
+            },
+            {
+                "id": 61736,
+                "name": "Tōbetsu"
+            },
+            {
+                "id": 61737,
+                "name": "Tomakomai"
+            },
+            {
+                "id": 61738,
+                "name": "Tomakomai Shi"
+            },
+            {
+                "id": 61739,
+                "name": "Utashinai"
+            },
+            {
+                "id": 61740,
+                "name": "Utashinai-shi"
+            },
+            {
+                "id": 61741,
+                "name": "Wakkanai"
+            },
+            {
+                "id": 61742,
+                "name": "Wakkanai Shi"
+            },
+            {
+                "id": 61743,
+                "name": "Yoichi"
+            },
+            {
+                "id": 61744,
+                "name": "Yūbari"
+            },
+            {
+                "id": 61745,
+                "name": "Yūbari-shi"
+            }
+        ]
+    },
+    {
+        "id": 1890,
+        "name": "Hyōgo Prefecture",
+        "cities": [
+            {
+                "id": 61746,
+                "name": "Aioi"
+            },
+            {
+                "id": 61747,
+                "name": "Aioi Shi"
+            },
+            {
+                "id": 61748,
+                "name": "Akashi"
+            },
+            {
+                "id": 61749,
+                "name": "Akashi Shi"
+            },
+            {
+                "id": 61750,
+                "name": "Amagasaki Shi"
+            },
+            {
+                "id": 61751,
+                "name": "Asago-shi"
+            },
+            {
+                "id": 61752,
+                "name": "Ashiya"
+            },
+            {
+                "id": 61753,
+                "name": "Ashiya Shi"
+            },
+            {
+                "id": 61754,
+                "name": "Awaji Shi"
+            },
+            {
+                "id": 61755,
+                "name": "Fukura"
+            },
+            {
+                "id": 61756,
+                "name": "Himeji"
+            },
+            {
+                "id": 61757,
+                "name": "Himeji Shi"
+            },
+            {
+                "id": 61758,
+                "name": "Itami"
+            },
+            {
+                "id": 61759,
+                "name": "Itami Shi"
+            },
+            {
+                "id": 61760,
+                "name": "Kakogawa Shi"
+            },
+            {
+                "id": 61761,
+                "name": "Kakogawachō-honmachi"
+            },
+            {
+                "id": 61762,
+                "name": "Kariya"
+            },
+            {
+                "id": 61763,
+                "name": "Kasai Shi"
+            },
+            {
+                "id": 61764,
+                "name": "Katō Shi"
+            },
+            {
+                "id": 61765,
+                "name": "Kawanishi"
+            },
+            {
+                "id": 61766,
+                "name": "Kawanishi Shi"
+            },
+            {
+                "id": 61767,
+                "name": "Kobe"
+            },
+            {
+                "id": 61768,
+                "name": "Miki"
+            },
+            {
+                "id": 61769,
+                "name": "Miki Shi"
+            },
+            {
+                "id": 61770,
+                "name": "Minamiawaji Shi"
+            },
+            {
+                "id": 61771,
+                "name": "Nishinomiya Shi"
+            },
+            {
+                "id": 61772,
+                "name": "Nishinomiya-hama"
+            },
+            {
+                "id": 61773,
+                "name": "Nishiwaki"
+            },
+            {
+                "id": 61774,
+                "name": "Nishiwaki-shi"
+            },
+            {
+                "id": 61775,
+                "name": "Ono"
+            },
+            {
+                "id": 61776,
+                "name": "Ono Shi"
+            },
+            {
+                "id": 61777,
+                "name": "Sanda Shi"
+            },
+            {
+                "id": 61778,
+                "name": "Sandachō"
+            },
+            {
+                "id": 61779,
+                "name": "Sasayama"
+            },
+            {
+                "id": 61780,
+                "name": "Sasayama-shi"
+            },
+            {
+                "id": 61781,
+                "name": "Shirahamachō-usazakiminami"
+            },
+            {
+                "id": 61782,
+                "name": "Shisō-shi"
+            },
+            {
+                "id": 61783,
+                "name": "Sumoto"
+            },
+            {
+                "id": 61784,
+                "name": "Sumoto Shi"
+            },
+            {
+                "id": 61785,
+                "name": "Taka-gun"
+            },
+            {
+                "id": 61786,
+                "name": "Takarazuka"
+            },
+            {
+                "id": 61787,
+                "name": "Takarazuka Shi"
+            },
+            {
+                "id": 61788,
+                "name": "Takasago Shi"
+            },
+            {
+                "id": 61789,
+                "name": "Tanba-shi"
+            },
+            {
+                "id": 61790,
+                "name": "Tatsuno-shi"
+            },
+            {
+                "id": 61791,
+                "name": "Tatsunochō-tominaga"
+            },
+            {
+                "id": 61792,
+                "name": "Toyooka"
+            },
+            {
+                "id": 61793,
+                "name": "Toyooka-shi"
+            },
+            {
+                "id": 61794,
+                "name": "Yabu"
+            },
+            {
+                "id": 61795,
+                "name": "Yabu-shi"
+            },
+            {
+                "id": 61796,
+                "name": "Yamazakichō-nakabirose"
+            },
+            {
+                "id": 61797,
+                "name": "Yashiro"
+            },
+            {
+                "id": 61798,
+                "name": "Yonedacho Sendo"
+            }
+        ]
+    },
+    {
+        "id": 1891,
+        "name": "Ibaraki Prefecture",
+        "cities": [
+            {
+                "id": 61799,
+                "name": "Ami"
+            },
+            {
+                "id": 61800,
+                "name": "Bandō"
+            },
+            {
+                "id": 61801,
+                "name": "Bandō-shi"
+            },
+            {
+                "id": 61802,
+                "name": "Chikusei"
+            },
+            {
+                "id": 61803,
+                "name": "Chikusei-shi"
+            },
+            {
+                "id": 61804,
+                "name": "Daigo"
+            },
+            {
+                "id": 61805,
+                "name": "Edosaki"
+            },
+            {
+                "id": 61806,
+                "name": "Fujishiro"
+            },
+            {
+                "id": 61807,
+                "name": "Funaishikawa"
+            },
+            {
+                "id": 61808,
+                "name": "Hitachi"
+            },
+            {
+                "id": 61809,
+                "name": "Hitachi-Naka"
+            },
+            {
+                "id": 61810,
+                "name": "Hitachi-ota"
+            },
+            {
+                "id": 61811,
+                "name": "Hitachi-shi"
+            },
+            {
+                "id": 61812,
+                "name": "Hitachinaka-shi"
+            },
+            {
+                "id": 61813,
+                "name": "Hitachiōmiya-shi"
+            },
+            {
+                "id": 61814,
+                "name": "Hitachiōta-shi"
+            },
+            {
+                "id": 61815,
+                "name": "Hokota-shi"
+            },
+            {
+                "id": 61816,
+                "name": "Inashiki"
+            },
+            {
+                "id": 61817,
+                "name": "Inashiki-shi"
+            },
+            {
+                "id": 61818,
+                "name": "Ishige"
+            },
+            {
+                "id": 61819,
+                "name": "Ishioka"
+            },
+            {
+                "id": 61820,
+                "name": "Ishioka-shi"
+            },
+            {
+                "id": 61821,
+                "name": "Itako"
+            },
+            {
+                "id": 61822,
+                "name": "Itako-shi"
+            },
+            {
+                "id": 61823,
+                "name": "Iwai"
+            },
+            {
+                "id": 61824,
+                "name": "Iwase"
+            },
+            {
+                "id": 61825,
+                "name": "Jōsō-shi"
+            },
+            {
+                "id": 61826,
+                "name": "Kamisu-shi"
+            },
+            {
+                "id": 61827,
+                "name": "Kasama"
+            },
+            {
+                "id": 61828,
+                "name": "Kasama-shi"
+            },
+            {
+                "id": 61829,
+                "name": "Kashima-shi"
+            },
+            {
+                "id": 61830,
+                "name": "Kasumigaura"
+            },
+            {
+                "id": 61831,
+                "name": "Kasumigaura-shi"
+            },
+            {
+                "id": 61832,
+                "name": "Katsuta"
+            },
+            {
+                "id": 61833,
+                "name": "Kitaibaraki"
+            },
+            {
+                "id": 61834,
+                "name": "Kitaibaraki-shi"
+            },
+            {
+                "id": 61835,
+                "name": "Koga"
+            },
+            {
+                "id": 61836,
+                "name": "Koga-shi"
+            },
+            {
+                "id": 61837,
+                "name": "Makabe"
+            },
+            {
+                "id": 61838,
+                "name": "Mito"
+            },
+            {
+                "id": 61839,
+                "name": "Mito-shi"
+            },
+            {
+                "id": 61840,
+                "name": "Mitsukaidō"
+            },
+            {
+                "id": 61841,
+                "name": "Moriya"
+            },
+            {
+                "id": 61842,
+                "name": "Moriya-shi"
+            },
+            {
+                "id": 61843,
+                "name": "Naka"
+            },
+            {
+                "id": 61844,
+                "name": "Naka-gun"
+            },
+            {
+                "id": 61845,
+                "name": "Namegata"
+            },
+            {
+                "id": 61846,
+                "name": "Namegata-shi"
+            },
+            {
+                "id": 61847,
+                "name": "Ōarai"
+            },
+            {
+                "id": 61848,
+                "name": "Okunoya"
+            },
+            {
+                "id": 61849,
+                "name": "Omitama-shi"
+            },
+            {
+                "id": 61850,
+                "name": "Ōmiya"
+            },
+            {
+                "id": 61851,
+                "name": "Ryūgasaki"
+            },
+            {
+                "id": 61852,
+                "name": "Ryūgasaki-shi"
+            },
+            {
+                "id": 61853,
+                "name": "Sakai"
+            },
+            {
+                "id": 61854,
+                "name": "Sakuragawa"
+            },
+            {
+                "id": 61855,
+                "name": "Sakuragawa-shi"
+            },
+            {
+                "id": 61856,
+                "name": "Shimodate"
+            },
+            {
+                "id": 61857,
+                "name": "Shimotsuma-shi"
+            },
+            {
+                "id": 61858,
+                "name": "Takahagi"
+            },
+            {
+                "id": 61859,
+                "name": "Tomobe"
+            },
+            {
+                "id": 61860,
+                "name": "Toride"
+            },
+            {
+                "id": 61861,
+                "name": "Toride-shi"
+            },
+            {
+                "id": 61862,
+                "name": "Tsuchiura-shi"
+            },
+            {
+                "id": 61863,
+                "name": "Tsukuba"
+            },
+            {
+                "id": 61864,
+                "name": "Tsukuba-shi"
+            },
+            {
+                "id": 61865,
+                "name": "Tsukubamirai"
+            },
+            {
+                "id": 61866,
+                "name": "Tsukubamirai-shi"
+            },
+            {
+                "id": 61867,
+                "name": "Ushiku"
+            },
+            {
+                "id": 61868,
+                "name": "Ushiku-shi"
+            },
+            {
+                "id": 61869,
+                "name": "Yūki"
+            },
+            {
+                "id": 61870,
+                "name": "Yūki-shi"
+            }
+        ]
+    },
+    {
+        "id": 1892,
+        "name": "Ishikawa Prefecture",
+        "cities": [
+            {
+                "id": 61871,
+                "name": "Hakui"
+            },
+            {
+                "id": 61872,
+                "name": "Hakui Shi"
+            },
+            {
+                "id": 61873,
+                "name": "Hakusan Shi"
+            },
+            {
+                "id": 61874,
+                "name": "Kaga Shi"
+            },
+            {
+                "id": 61875,
+                "name": "Kahoku Shi"
+            },
+            {
+                "id": 61876,
+                "name": "Kanazawa"
+            },
+            {
+                "id": 61877,
+                "name": "Kanazawa-shi"
+            },
+            {
+                "id": 61878,
+                "name": "Komatsu"
+            },
+            {
+                "id": 61879,
+                "name": "Matsutō"
+            },
+            {
+                "id": 61880,
+                "name": "Nanao Shi"
+            },
+            {
+                "id": 61881,
+                "name": "Nomi Shi"
+            },
+            {
+                "id": 61882,
+                "name": "Nonoichi"
+            },
+            {
+                "id": 61883,
+                "name": "Nonoichi-shi"
+            },
+            {
+                "id": 61884,
+                "name": "Suzu"
+            },
+            {
+                "id": 61885,
+                "name": "Suzu Shi"
+            },
+            {
+                "id": 61886,
+                "name": "Tsubata"
+            },
+            {
+                "id": 61887,
+                "name": "Tsurugi-asahimachi"
+            },
+            {
+                "id": 61888,
+                "name": "Wajima Shi"
+            }
+        ]
+    },
+    {
+        "id": 1893,
+        "name": "Iwate Prefecture",
+        "cities": [
+            {
+                "id": 61889,
+                "name": "Hachimantai"
+            },
+            {
+                "id": 61890,
+                "name": "Hachimantai Shi"
+            },
+            {
+                "id": 61891,
+                "name": "Hanamaki"
+            },
+            {
+                "id": 61892,
+                "name": "Hanamaki Shi"
+            },
+            {
+                "id": 61893,
+                "name": "Ichinohe"
+            },
+            {
+                "id": 61894,
+                "name": "Ichinoseki"
+            },
+            {
+                "id": 61895,
+                "name": "Ichinoseki-shi"
+            },
+            {
+                "id": 61896,
+                "name": "Iwate-gun"
+            },
+            {
+                "id": 61897,
+                "name": "Kamaishi"
+            },
+            {
+                "id": 61898,
+                "name": "Kamaishi-shi"
+            },
+            {
+                "id": 61899,
+                "name": "Kitakami"
+            },
+            {
+                "id": 61900,
+                "name": "Kitakami-shi"
+            },
+            {
+                "id": 61901,
+                "name": "Kuji"
+            },
+            {
+                "id": 61902,
+                "name": "Kuji-shi"
+            },
+            {
+                "id": 61903,
+                "name": "Miyako"
+            },
+            {
+                "id": 61904,
+                "name": "Miyako-shi"
+            },
+            {
+                "id": 61905,
+                "name": "Mizusawa"
+            },
+            {
+                "id": 61906,
+                "name": "Morioka"
+            },
+            {
+                "id": 61907,
+                "name": "Morioka-shi"
+            },
+            {
+                "id": 61908,
+                "name": "Ninohe"
+            },
+            {
+                "id": 61909,
+                "name": "Ninohe Shi"
+            },
+            {
+                "id": 61910,
+                "name": "Ōfunato"
+            },
+            {
+                "id": 61911,
+                "name": "Ōfunato-shi"
+            },
+            {
+                "id": 61912,
+                "name": "Ōshū"
+            },
+            {
+                "id": 61913,
+                "name": "Ōshū-shi"
+            },
+            {
+                "id": 61914,
+                "name": "Ōtsuchi"
+            },
+            {
+                "id": 61915,
+                "name": "Rikuzentakata-shi"
+            },
+            {
+                "id": 61916,
+                "name": "Shizukuishi"
+            },
+            {
+                "id": 61917,
+                "name": "Takizawa-shi"
+            },
+            {
+                "id": 61918,
+                "name": "Tōno"
+            },
+            {
+                "id": 61919,
+                "name": "Tōno-shi"
+            },
+            {
+                "id": 61920,
+                "name": "Yamada"
+            }
+        ]
+    },
+    {
+        "id": 1894,
+        "name": "Kagawa Prefecture",
+        "cities": [
+            {
+                "id": 61921,
+                "name": "Higashikagawa Shi"
+            },
+            {
+                "id": 61922,
+                "name": "Kan’onji Shi"
+            },
+            {
+                "id": 61923,
+                "name": "Kan’onjichō"
+            },
+            {
+                "id": 61924,
+                "name": "Marugame"
+            },
+            {
+                "id": 61925,
+                "name": "Marugame Shi"
+            },
+            {
+                "id": 61926,
+                "name": "Mitoyo Shi"
+            },
+            {
+                "id": 61927,
+                "name": "Sakaide Shi"
+            },
+            {
+                "id": 61928,
+                "name": "Sakaidechō"
+            },
+            {
+                "id": 61929,
+                "name": "Sanuki-shi"
+            },
+            {
+                "id": 61930,
+                "name": "Shido"
+            },
+            {
+                "id": 61931,
+                "name": "Tadotsu"
+            },
+            {
+                "id": 61932,
+                "name": "Takamatsu"
+            },
+            {
+                "id": 61933,
+                "name": "Takamatsu Shi"
+            },
+            {
+                "id": 61934,
+                "name": "Tonoshō"
+            },
+            {
+                "id": 61935,
+                "name": "Zentsūji Shi"
+            }
+        ]
+    },
+    {
+        "id": 1895,
+        "name": "Kagoshima Prefecture",
+        "cities": [
+            {
+                "id": 61936,
+                "name": "Aira Shi"
+            },
+            {
+                "id": 61937,
+                "name": "Akune"
+            },
+            {
+                "id": 61938,
+                "name": "Akune Shi"
+            },
+            {
+                "id": 61939,
+                "name": "Amami"
+            },
+            {
+                "id": 61940,
+                "name": "Amami Shi"
+            },
+            {
+                "id": 61941,
+                "name": "Hamanoichi"
+            },
+            {
+                "id": 61942,
+                "name": "Hioki"
+            },
+            {
+                "id": 61943,
+                "name": "Hioki Shi"
+            },
+            {
+                "id": 61944,
+                "name": "Ibusuki"
+            },
+            {
+                "id": 61945,
+                "name": "Ibusuki Shi"
+            },
+            {
+                "id": 61946,
+                "name": "Ichikikushikino Shi"
+            },
+            {
+                "id": 61947,
+                "name": "Ijūin"
+            },
+            {
+                "id": 61948,
+                "name": "Isa Shi"
+            },
+            {
+                "id": 61949,
+                "name": "Izumi"
+            },
+            {
+                "id": 61950,
+                "name": "Izumi Shi"
+            },
+            {
+                "id": 61951,
+                "name": "Kagoshima"
+            },
+            {
+                "id": 61952,
+                "name": "Kagoshima Shi"
+            },
+            {
+                "id": 61953,
+                "name": "Kajiki"
+            },
+            {
+                "id": 61954,
+                "name": "Kanoya"
+            },
+            {
+                "id": 61955,
+                "name": "Kanoya Shi"
+            },
+            {
+                "id": 61956,
+                "name": "Kaseda-shirakame"
+            },
+            {
+                "id": 61957,
+                "name": "Kirishima Shi"
+            },
+            {
+                "id": 61958,
+                "name": "Kokubu-matsuki"
+            },
+            {
+                "id": 61959,
+                "name": "Koseda"
+            },
+            {
+                "id": 61960,
+                "name": "Koshima"
+            },
+            {
+                "id": 61961,
+                "name": "Kurio"
+            },
+            {
+                "id": 61962,
+                "name": "Kushikino"
+            },
+            {
+                "id": 61963,
+                "name": "Makurazaki"
+            },
+            {
+                "id": 61964,
+                "name": "Makurazaki Shi"
+            },
+            {
+                "id": 61965,
+                "name": "Minamikyushu Shi"
+            },
+            {
+                "id": 61966,
+                "name": "Minamisatsuma Shi"
+            },
+            {
+                "id": 61967,
+                "name": "Miyanoura"
+            },
+            {
+                "id": 61968,
+                "name": "Nagata"
+            },
+            {
+                "id": 61969,
+                "name": "Naze"
+            },
+            {
+                "id": 61970,
+                "name": "Nishinoomote"
+            },
+            {
+                "id": 61971,
+                "name": "Nishinoomote Shi"
+            },
+            {
+                "id": 61972,
+                "name": "Ōkuchi-shinohara"
+            },
+            {
+                "id": 61973,
+                "name": "Satsumasendai"
+            },
+            {
+                "id": 61974,
+                "name": "Satsumasendai Shi"
+            },
+            {
+                "id": 61975,
+                "name": "Shibushi"
+            },
+            {
+                "id": 61976,
+                "name": "Shibushi-shi"
+            },
+            {
+                "id": 61977,
+                "name": "Soo Shi"
+            },
+            {
+                "id": 61978,
+                "name": "Sueyoshichō-ninokata"
+            },
+            {
+                "id": 61979,
+                "name": "Tarumizu"
+            },
+            {
+                "id": 61980,
+                "name": "Tarumizu Shi"
+            },
+            {
+                "id": 61981,
+                "name": "Yudomari"
+            }
+        ]
+    },
+    {
+        "id": 1896,
+        "name": "Kanagawa Prefecture",
+        "cities": [
+            {
+                "id": 61982,
+                "name": "Atsugi"
+            },
+            {
+                "id": 61983,
+                "name": "Atsugi Shi"
+            },
+            {
+                "id": 61984,
+                "name": "Ayase Shi"
+            },
+            {
+                "id": 61985,
+                "name": "Chigasaki"
+            },
+            {
+                "id": 61986,
+                "name": "Chigasaki Shi"
+            },
+            {
+                "id": 61987,
+                "name": "Ebina Shi"
+            },
+            {
+                "id": 61988,
+                "name": "Fujisawa"
+            },
+            {
+                "id": 61989,
+                "name": "Fujisawa Shi"
+            },
+            {
+                "id": 61990,
+                "name": "Hadano"
+            },
+            {
+                "id": 61991,
+                "name": "Hadano-shi"
+            },
+            {
+                "id": 61992,
+                "name": "Hakone"
+            },
+            {
+                "id": 61993,
+                "name": "Hayama"
+            },
+            {
+                "id": 61994,
+                "name": "Hiratsuka"
+            },
+            {
+                "id": 61995,
+                "name": "Hiratsuka Shi"
+            },
+            {
+                "id": 61996,
+                "name": "Isehara"
+            },
+            {
+                "id": 61997,
+                "name": "Isehara Shi"
+            },
+            {
+                "id": 61998,
+                "name": "Kamakura"
+            },
+            {
+                "id": 61999,
+                "name": "Kamakura Shi"
+            },
+            {
+                "id": 62000,
+                "name": "Kawasaki"
+            },
+            {
+                "id": 62001,
+                "name": "Kawasaki-shi"
+            },
+            {
+                "id": 62002,
+                "name": "Minamiashigara"
+            },
+            {
+                "id": 62003,
+                "name": "Minamiashigara Shi"
+            },
+            {
+                "id": 62004,
+                "name": "Minamirinkan"
+            },
+            {
+                "id": 62005,
+                "name": "Miura"
+            },
+            {
+                "id": 62006,
+                "name": "Miura Shi"
+            },
+            {
+                "id": 62007,
+                "name": "Ninomiya"
+            },
+            {
+                "id": 62008,
+                "name": "Odawara"
+            },
+            {
+                "id": 62009,
+                "name": "Odawara-shi"
+            },
+            {
+                "id": 62010,
+                "name": "Ōiso"
+            },
+            {
+                "id": 62011,
+                "name": "Sagamihara-shi"
+            },
+            {
+                "id": 62012,
+                "name": "Yamakita"
+            },
+            {
+                "id": 62013,
+                "name": "Yamato-shi"
+            },
+            {
+                "id": 62014,
+                "name": "Yokohama"
+            },
+            {
+                "id": 62015,
+                "name": "Yokohama Shi"
+            },
+            {
+                "id": 62016,
+                "name": "Yokosuka"
+            },
+            {
+                "id": 62017,
+                "name": "Yokosuka Shi"
+            },
+            {
+                "id": 62018,
+                "name": "Yugawara"
+            },
+            {
+                "id": 62019,
+                "name": "Zama"
+            },
+            {
+                "id": 62020,
+                "name": "Zama Shi"
+            },
+            {
+                "id": 62021,
+                "name": "Zushi Shi"
+            }
+        ]
+    },
+    {
+        "id": 1897,
+        "name": "Kumamoto Prefecture",
+        "cities": [
+            {
+                "id": 62022,
+                "name": "Amakusa Gun"
+            },
+            {
+                "id": 62023,
+                "name": "Amakusa Shi"
+            },
+            {
+                "id": 62024,
+                "name": "Arao Shi"
+            },
+            {
+                "id": 62025,
+                "name": "Aso-shi"
+            },
+            {
+                "id": 62026,
+                "name": "Hitoyoshi"
+            },
+            {
+                "id": 62027,
+                "name": "Hitoyoshi Shi"
+            },
+            {
+                "id": 62028,
+                "name": "Hondomachi-hondo"
+            },
+            {
+                "id": 62029,
+                "name": "Honmachi"
+            },
+            {
+                "id": 62030,
+                "name": "Kamiamakusa Shi"
+            },
+            {
+                "id": 62031,
+                "name": "Kikuchi"
+            },
+            {
+                "id": 62032,
+                "name": "Kikuchi Shi"
+            },
+            {
+                "id": 62033,
+                "name": "Kōshi Shi"
+            },
+            {
+                "id": 62034,
+                "name": "Kumamoto"
+            },
+            {
+                "id": 62035,
+                "name": "Kumamoto Shi"
+            },
+            {
+                "id": 62036,
+                "name": "Matsubase"
+            },
+            {
+                "id": 62037,
+                "name": "Minamata"
+            },
+            {
+                "id": 62038,
+                "name": "Minamata Shi"
+            },
+            {
+                "id": 62039,
+                "name": "Ōzu"
+            },
+            {
+                "id": 62040,
+                "name": "Tamana"
+            },
+            {
+                "id": 62041,
+                "name": "Tamana Shi"
+            },
+            {
+                "id": 62042,
+                "name": "Uekimachi-mōno"
+            },
+            {
+                "id": 62043,
+                "name": "Uki Shi"
+            },
+            {
+                "id": 62044,
+                "name": "Ushibukamachi"
+            },
+            {
+                "id": 62045,
+                "name": "Uto"
+            },
+            {
+                "id": 62046,
+                "name": "Uto Shi"
+            },
+            {
+                "id": 62047,
+                "name": "Yamaga Shi"
+            },
+            {
+                "id": 62048,
+                "name": "Yatsushiro Shi"
+            }
+        ]
+    },
+    {
+        "id": 1898,
+        "name": "Kyōto Prefecture",
+        "cities": [
+            {
+                "id": 62049,
+                "name": "Arashiyama"
+            },
+            {
+                "id": 62050,
+                "name": "Ayabe"
+            },
+            {
+                "id": 62051,
+                "name": "Ayabe-shi"
+            },
+            {
+                "id": 62052,
+                "name": "Fukuchiyama-shi"
+            },
+            {
+                "id": 62053,
+                "name": "Jōyō Shi"
+            },
+            {
+                "id": 62054,
+                "name": "Kameoka"
+            },
+            {
+                "id": 62055,
+                "name": "Kameoka-shi"
+            },
+            {
+                "id": 62056,
+                "name": "Kamigyō-ku"
+            },
+            {
+                "id": 62057,
+                "name": "Kizugawa-shi"
+            },
+            {
+                "id": 62058,
+                "name": "Kyōtanabe Shi"
+            },
+            {
+                "id": 62059,
+                "name": "Kyōtango-shi"
+            },
+            {
+                "id": 62060,
+                "name": "Kyoto"
+            },
+            {
+                "id": 62061,
+                "name": "Maizuru"
+            },
+            {
+                "id": 62062,
+                "name": "Maizuru-shi"
+            },
+            {
+                "id": 62063,
+                "name": "Miyazu"
+            },
+            {
+                "id": 62064,
+                "name": "Miyazu-shi"
+            },
+            {
+                "id": 62065,
+                "name": "Mukō Shi"
+            },
+            {
+                "id": 62066,
+                "name": "Nagaokakyō Shi"
+            },
+            {
+                "id": 62067,
+                "name": "Nantan-shi"
+            },
+            {
+                "id": 62068,
+                "name": "Tanabe"
+            },
+            {
+                "id": 62069,
+                "name": "Uji"
+            },
+            {
+                "id": 62070,
+                "name": "Uji Shi"
+            },
+            {
+                "id": 62071,
+                "name": "Yawata"
+            },
+            {
+                "id": 62072,
+                "name": "Yawata Shi"
+            }
+        ]
+    },
+    {
+        "id": 1899,
+        "name": "Mie Prefecture",
+        "cities": [
+            {
+                "id": 62073,
+                "name": "Hisai-motomachi"
+            },
+            {
+                "id": 62074,
+                "name": "Iga-shi"
+            },
+            {
+                "id": 62075,
+                "name": "Inabe"
+            },
+            {
+                "id": 62076,
+                "name": "Inabe-shi"
+            },
+            {
+                "id": 62077,
+                "name": "Ise"
+            },
+            {
+                "id": 62078,
+                "name": "Ise-shi"
+            },
+            {
+                "id": 62079,
+                "name": "Kameyama"
+            },
+            {
+                "id": 62080,
+                "name": "Kameyama Shi"
+            },
+            {
+                "id": 62081,
+                "name": "Kawage"
+            },
+            {
+                "id": 62082,
+                "name": "Komono"
+            },
+            {
+                "id": 62083,
+                "name": "Kumano"
+            },
+            {
+                "id": 62084,
+                "name": "Kumano-shi"
+            },
+            {
+                "id": 62085,
+                "name": "Kuwana"
+            },
+            {
+                "id": 62086,
+                "name": "Kuwana-shi"
+            },
+            {
+                "id": 62087,
+                "name": "Matsuzaka-shi"
+            },
+            {
+                "id": 62088,
+                "name": "Nabari"
+            },
+            {
+                "id": 62089,
+                "name": "Nabari-shi"
+            },
+            {
+                "id": 62090,
+                "name": "Owase"
+            },
+            {
+                "id": 62091,
+                "name": "Shima"
+            },
+            {
+                "id": 62092,
+                "name": "Shima-shi"
+            },
+            {
+                "id": 62093,
+                "name": "Suzuka"
+            },
+            {
+                "id": 62094,
+                "name": "Suzuka-shi"
+            },
+            {
+                "id": 62095,
+                "name": "Toba"
+            },
+            {
+                "id": 62096,
+                "name": "Toba-shi"
+            },
+            {
+                "id": 62097,
+                "name": "Tsu"
+            },
+            {
+                "id": 62098,
+                "name": "Tsu-shi"
+            },
+            {
+                "id": 62099,
+                "name": "Ueno-ebisumachi"
+            },
+            {
+                "id": 62100,
+                "name": "Yokkaichi-shi"
+            }
+        ]
+    },
+    {
+        "id": 1900,
+        "name": "Miyagi Prefecture",
+        "cities": [
+            {
+                "id": 62101,
+                "name": "Furukawa"
+            },
+            {
+                "id": 62102,
+                "name": "Higashimatshushima Shi"
+            },
+            {
+                "id": 62103,
+                "name": "Higashimatsushima"
+            },
+            {
+                "id": 62104,
+                "name": "Ishinomaki"
+            },
+            {
+                "id": 62105,
+                "name": "Ishinomaki Shi"
+            },
+            {
+                "id": 62106,
+                "name": "Iwanuma"
+            },
+            {
+                "id": 62107,
+                "name": "Iwanuma-shi"
+            },
+            {
+                "id": 62108,
+                "name": "Kakuda"
+            },
+            {
+                "id": 62109,
+                "name": "Kakuda Shi"
+            },
+            {
+                "id": 62110,
+                "name": "Kesennuma"
+            },
+            {
+                "id": 62111,
+                "name": "Kesennuma Shi"
+            },
+            {
+                "id": 62112,
+                "name": "Kogota"
+            },
+            {
+                "id": 62113,
+                "name": "Kurihara"
+            },
+            {
+                "id": 62114,
+                "name": "Kurihara Shi"
+            },
+            {
+                "id": 62115,
+                "name": "Marumori"
+            },
+            {
+                "id": 62116,
+                "name": "Matsushima"
+            },
+            {
+                "id": 62117,
+                "name": "Natori Shi"
+            },
+            {
+                "id": 62118,
+                "name": "Ōkawara"
+            },
+            {
+                "id": 62119,
+                "name": "Onagawa Chō"
+            },
+            {
+                "id": 62120,
+                "name": "Ōsaki"
+            },
+            {
+                "id": 62121,
+                "name": "Ōsaki Shi"
+            },
+            {
+                "id": 62122,
+                "name": "Rifu"
+            },
+            {
+                "id": 62123,
+                "name": "Sendai"
+            },
+            {
+                "id": 62124,
+                "name": "Shiogama"
+            },
+            {
+                "id": 62125,
+                "name": "Shiroishi"
+            },
+            {
+                "id": 62126,
+                "name": "Shiroishi Shi"
+            },
+            {
+                "id": 62127,
+                "name": "Tagajō Shi"
+            },
+            {
+                "id": 62128,
+                "name": "Tome Shi"
+            },
+            {
+                "id": 62129,
+                "name": "Tomiya"
+            },
+            {
+                "id": 62130,
+                "name": "Wakuya"
+            },
+            {
+                "id": 62131,
+                "name": "Watari"
+            },
+            {
+                "id": 62132,
+                "name": "Watari-gun"
+            },
+            {
+                "id": 62133,
+                "name": "Yamoto"
+            }
+        ]
+    },
+    {
+        "id": 1901,
+        "name": "Miyazaki Prefecture",
+        "cities": [
+            {
+                "id": 62134,
+                "name": "Ebino-shi"
+            },
+            {
+                "id": 62135,
+                "name": "Hyūga-shi"
+            },
+            {
+                "id": 62136,
+                "name": "Kobayashi"
+            },
+            {
+                "id": 62137,
+                "name": "Kobayashi Shi"
+            },
+            {
+                "id": 62138,
+                "name": "Kushima"
+            },
+            {
+                "id": 62139,
+                "name": "Kushima Shi"
+            },
+            {
+                "id": 62140,
+                "name": "Miyakonojō"
+            },
+            {
+                "id": 62141,
+                "name": "Miyakonojō Shi"
+            },
+            {
+                "id": 62142,
+                "name": "Miyazaki"
+            },
+            {
+                "id": 62143,
+                "name": "Miyazaki-shi"
+            },
+            {
+                "id": 62144,
+                "name": "Nichinan"
+            },
+            {
+                "id": 62145,
+                "name": "Nichinan Shi"
+            },
+            {
+                "id": 62146,
+                "name": "Nobeoka"
+            },
+            {
+                "id": 62147,
+                "name": "Nobeoka-shi"
+            },
+            {
+                "id": 62148,
+                "name": "Saito-shi"
+            },
+            {
+                "id": 62149,
+                "name": "Takanabe"
+            },
+            {
+                "id": 62150,
+                "name": "Tsuma"
+            }
+        ]
+    },
+    {
+        "id": 1902,
+        "name": "Nagano Prefecture",
+        "cities": [
+            {
+                "id": 62151,
+                "name": "Azumino-Shi"
+            },
+            {
+                "id": 62152,
+                "name": "Chikuma Shi"
+            },
+            {
+                "id": 62153,
+                "name": "Chino"
+            },
+            {
+                "id": 62154,
+                "name": "Chino Shi"
+            },
+            {
+                "id": 62155,
+                "name": "Hakuba"
+            },
+            {
+                "id": 62156,
+                "name": "Hotaka"
+            },
+            {
+                "id": 62157,
+                "name": "Iida"
+            },
+            {
+                "id": 62158,
+                "name": "Iida-shi"
+            },
+            {
+                "id": 62159,
+                "name": "Iiyama"
+            },
+            {
+                "id": 62160,
+                "name": "Iiyama Shi"
+            },
+            {
+                "id": 62161,
+                "name": "Ina"
+            },
+            {
+                "id": 62162,
+                "name": "Ina-shi"
+            },
+            {
+                "id": 62163,
+                "name": "Kamimaruko"
+            },
+            {
+                "id": 62164,
+                "name": "Komagane"
+            },
+            {
+                "id": 62165,
+                "name": "Komagane-shi"
+            },
+            {
+                "id": 62166,
+                "name": "Komoro"
+            },
+            {
+                "id": 62167,
+                "name": "Komoro Shi"
+            },
+            {
+                "id": 62168,
+                "name": "Matsumoto"
+            },
+            {
+                "id": 62169,
+                "name": "Matsumoto Shi"
+            },
+            {
+                "id": 62170,
+                "name": "Nagano"
+            },
+            {
+                "id": 62171,
+                "name": "Nagano Shi"
+            },
+            {
+                "id": 62172,
+                "name": "Nakano Shi"
+            },
+            {
+                "id": 62173,
+                "name": "Okaya"
+            },
+            {
+                "id": 62174,
+                "name": "Okaya Shi"
+            },
+            {
+                "id": 62175,
+                "name": "Ōmachi"
+            },
+            {
+                "id": 62176,
+                "name": "Ōmachi-shi"
+            },
+            {
+                "id": 62177,
+                "name": "Saku"
+            },
+            {
+                "id": 62178,
+                "name": "Saku Shi"
+            },
+            {
+                "id": 62179,
+                "name": "Shiojiri"
+            },
+            {
+                "id": 62180,
+                "name": "Shiojiri-shi"
+            },
+            {
+                "id": 62181,
+                "name": "Suwa"
+            },
+            {
+                "id": 62182,
+                "name": "Suwa Shi"
+            },
+            {
+                "id": 62183,
+                "name": "Suzaka"
+            },
+            {
+                "id": 62184,
+                "name": "Suzaka-shi"
+            },
+            {
+                "id": 62185,
+                "name": "Tatsuno"
+            },
+            {
+                "id": 62186,
+                "name": "Tōmi"
+            },
+            {
+                "id": 62187,
+                "name": "Tōmi Shi"
+            },
+            {
+                "id": 62188,
+                "name": "Toyoshina"
+            },
+            {
+                "id": 62189,
+                "name": "Ueda"
+            },
+            {
+                "id": 62190,
+                "name": "Ueda Shi"
+            }
+        ]
+    },
+    {
+        "id": 1903,
+        "name": "Nagasaki Prefecture",
+        "cities": [
+            {
+                "id": 62191,
+                "name": "Fukuechō"
+            },
+            {
+                "id": 62192,
+                "name": "Gotō Shi"
+            },
+            {
+                "id": 62193,
+                "name": "Hirado"
+            },
+            {
+                "id": 62194,
+                "name": "Hirado Shi"
+            },
+            {
+                "id": 62195,
+                "name": "Iki Shi"
+            },
+            {
+                "id": 62196,
+                "name": "Isahaya"
+            },
+            {
+                "id": 62197,
+                "name": "Isahaya-shi"
+            },
+            {
+                "id": 62198,
+                "name": "Matsuura"
+            },
+            {
+                "id": 62199,
+                "name": "Matsuura Shi"
+            },
+            {
+                "id": 62200,
+                "name": "Minamishimabara-shi"
+            },
+            {
+                "id": 62201,
+                "name": "Nagasaki"
+            },
+            {
+                "id": 62202,
+                "name": "Nagasaki-shi"
+            },
+            {
+                "id": 62203,
+                "name": "Obita"
+            },
+            {
+                "id": 62204,
+                "name": "Ōmura"
+            },
+            {
+                "id": 62205,
+                "name": "Ōmura-shi"
+            },
+            {
+                "id": 62206,
+                "name": "Saikai-shi"
+            },
+            {
+                "id": 62207,
+                "name": "Sasebo Shi"
+            },
+            {
+                "id": 62208,
+                "name": "Shimabara"
+            },
+            {
+                "id": 62209,
+                "name": "Shimabara-shi"
+            },
+            {
+                "id": 62210,
+                "name": "Togitsu"
+            },
+            {
+                "id": 62211,
+                "name": "Tsushima Shi"
+            },
+            {
+                "id": 62212,
+                "name": "Unzen-shi"
+            }
+        ]
+    },
+    {
+        "id": 1904,
+        "name": "Nara Prefecture",
+        "cities": [
+            {
+                "id": 62213,
+                "name": "Gojō"
+            },
+            {
+                "id": 62214,
+                "name": "Gojō-shi"
+            },
+            {
+                "id": 62215,
+                "name": "Gose"
+            },
+            {
+                "id": 62216,
+                "name": "Haibara-akanedai"
+            },
+            {
+                "id": 62217,
+                "name": "Hōryūji"
+            },
+            {
+                "id": 62218,
+                "name": "Ikoma"
+            },
+            {
+                "id": 62219,
+                "name": "Ikoma-shi"
+            },
+            {
+                "id": 62220,
+                "name": "Kashiba-shi"
+            },
+            {
+                "id": 62221,
+                "name": "Kashihara-shi"
+            },
+            {
+                "id": 62222,
+                "name": "Katsuragi"
+            },
+            {
+                "id": 62223,
+                "name": "Katsuragi Shi"
+            },
+            {
+                "id": 62224,
+                "name": "Nara-shi"
+            },
+            {
+                "id": 62225,
+                "name": "Sakurai"
+            },
+            {
+                "id": 62226,
+                "name": "Sakurai-shi"
+            },
+            {
+                "id": 62227,
+                "name": "Tawaramoto"
+            },
+            {
+                "id": 62228,
+                "name": "Tenri"
+            },
+            {
+                "id": 62229,
+                "name": "Tenri-shi"
+            },
+            {
+                "id": 62230,
+                "name": "Uda Shi"
+            },
+            {
+                "id": 62231,
+                "name": "Yamatokōriyama-shi"
+            },
+            {
+                "id": 62232,
+                "name": "Yamatotakada-shi"
+            },
+            {
+                "id": 62233,
+                "name": "Yoshino-chō"
+            }
+        ]
+    },
+    {
+        "id": 1905,
+        "name": "Niigata Prefecture",
+        "cities": [
+            {
+                "id": 62234,
+                "name": "Agano Shi"
+            },
+            {
+                "id": 62235,
+                "name": "Arai"
+            },
+            {
+                "id": 62236,
+                "name": "Gosen"
+            },
+            {
+                "id": 62237,
+                "name": "Gosen Shi"
+            },
+            {
+                "id": 62238,
+                "name": "Itoigawa"
+            },
+            {
+                "id": 62239,
+                "name": "Itoigawa Shi"
+            },
+            {
+                "id": 62240,
+                "name": "Jōetsu"
+            },
+            {
+                "id": 62241,
+                "name": "Jōetsu Shi"
+            },
+            {
+                "id": 62242,
+                "name": "Kameda-honchō"
+            },
+            {
+                "id": 62243,
+                "name": "Kamo"
+            },
+            {
+                "id": 62244,
+                "name": "Kamo Shi"
+            },
+            {
+                "id": 62245,
+                "name": "Kashiwazaki"
+            },
+            {
+                "id": 62246,
+                "name": "Kashiwazaki Shi"
+            },
+            {
+                "id": 62247,
+                "name": "Maki"
+            },
+            {
+                "id": 62248,
+                "name": "Minamiuonuma Shi"
+            },
+            {
+                "id": 62249,
+                "name": "Mitsuke"
+            },
+            {
+                "id": 62250,
+                "name": "Mitsuke Shi"
+            },
+            {
+                "id": 62251,
+                "name": "Muikamachi"
+            },
+            {
+                "id": 62252,
+                "name": "Murakami Shi"
+            },
+            {
+                "id": 62253,
+                "name": "Muramatsu"
+            },
+            {
+                "id": 62254,
+                "name": "Myoko-shi"
+            },
+            {
+                "id": 62255,
+                "name": "Nagaoka"
+            },
+            {
+                "id": 62256,
+                "name": "Nagaoka Shi"
+            },
+            {
+                "id": 62257,
+                "name": "Niigata"
+            },
+            {
+                "id": 62258,
+                "name": "Niigata Shi"
+            },
+            {
+                "id": 62259,
+                "name": "Niitsu-honchō"
+            },
+            {
+                "id": 62260,
+                "name": "Ojiya"
+            },
+            {
+                "id": 62261,
+                "name": "Ojiya-shi"
+            },
+            {
+                "id": 62262,
+                "name": "Ryōtsu-minato"
+            },
+            {
+                "id": 62263,
+                "name": "Sado Shi"
+            },
+            {
+                "id": 62264,
+                "name": "Sanjō Shi"
+            },
+            {
+                "id": 62265,
+                "name": "Shibata"
+            },
+            {
+                "id": 62266,
+                "name": "Shibata Shi"
+            },
+            {
+                "id": 62267,
+                "name": "Shiozawa"
+            },
+            {
+                "id": 62268,
+                "name": "Shirone"
+            },
+            {
+                "id": 62269,
+                "name": "Suibara"
+            },
+            {
+                "id": 62270,
+                "name": "Tainai"
+            },
+            {
+                "id": 62271,
+                "name": "Tainai Shi"
+            },
+            {
+                "id": 62272,
+                "name": "Tochio-honchō"
+            },
+            {
+                "id": 62273,
+                "name": "Tōkamachi"
+            },
+            {
+                "id": 62274,
+                "name": "Tōkamachi-shi"
+            },
+            {
+                "id": 62275,
+                "name": "Tsubame"
+            },
+            {
+                "id": 62276,
+                "name": "Tsubame Shi"
+            },
+            {
+                "id": 62277,
+                "name": "Uonuma"
+            },
+            {
+                "id": 62278,
+                "name": "Uonuma Shi"
+            },
+            {
+                "id": 62279,
+                "name": "Yoshida-kasugachō"
+            }
+        ]
+    },
+    {
+        "id": 1906,
+        "name": "Ōita Prefecture",
+        "cities": [
+            {
+                "id": 62280,
+                "name": "Beppu"
+            },
+            {
+                "id": 62281,
+                "name": "Beppu Shi"
+            },
+            {
+                "id": 62282,
+                "name": "Bungo-ōno Shi"
+            },
+            {
+                "id": 62283,
+                "name": "Bungo-Takada-shi"
+            },
+            {
+                "id": 62284,
+                "name": "Hiji"
+            },
+            {
+                "id": 62285,
+                "name": "Hita"
+            },
+            {
+                "id": 62286,
+                "name": "Hita Shi"
+            },
+            {
+                "id": 62287,
+                "name": "Kitsuki"
+            },
+            {
+                "id": 62288,
+                "name": "Kitsuki Shi"
+            },
+            {
+                "id": 62289,
+                "name": "Kunisaki-shi"
+            },
+            {
+                "id": 62290,
+                "name": "Nakatsu"
+            },
+            {
+                "id": 62291,
+                "name": "Nakatsu Shi"
+            },
+            {
+                "id": 62292,
+                "name": "Ōita"
+            },
+            {
+                "id": 62293,
+                "name": "Ōita-shi"
+            },
+            {
+                "id": 62294,
+                "name": "Saiki"
+            },
+            {
+                "id": 62295,
+                "name": "Saiki-shi"
+            },
+            {
+                "id": 62296,
+                "name": "Takedamachi"
+            },
+            {
+                "id": 62297,
+                "name": "Taketa-shi"
+            },
+            {
+                "id": 62298,
+                "name": "Tsukawaki"
+            },
+            {
+                "id": 62299,
+                "name": "Tsukumi-shi"
+            },
+            {
+                "id": 62300,
+                "name": "Tsukumiura"
+            },
+            {
+                "id": 62301,
+                "name": "Tsurusaki"
+            },
+            {
+                "id": 62302,
+                "name": "Usa Shi"
+            },
+            {
+                "id": 62303,
+                "name": "Usuki"
+            },
+            {
+                "id": 62304,
+                "name": "Usuki Shi"
+            },
+            {
+                "id": 62305,
+                "name": "Yufu-shi"
+            }
+        ]
+    },
+    {
+        "id": 1907,
+        "name": "Okayama Prefecture",
+        "cities": [
+            {
+                "id": 62306,
+                "name": "Akaiwa Shi"
+            },
+            {
+                "id": 62307,
+                "name": "Asakuchi Shi"
+            },
+            {
+                "id": 62308,
+                "name": "Bizen Shi"
+            },
+            {
+                "id": 62309,
+                "name": "Ibara"
+            },
+            {
+                "id": 62310,
+                "name": "Ibara Shi"
+            },
+            {
+                "id": 62311,
+                "name": "Kamogatachō-kamogata"
+            },
+            {
+                "id": 62312,
+                "name": "Kasaoka"
+            },
+            {
+                "id": 62313,
+                "name": "Kasaoka Shi"
+            },
+            {
+                "id": 62314,
+                "name": "Kurashiki"
+            },
+            {
+                "id": 62315,
+                "name": "Kurashiki Shi"
+            },
+            {
+                "id": 62316,
+                "name": "Maniwa-shi"
+            },
+            {
+                "id": 62317,
+                "name": "Mimasaka-shi"
+            },
+            {
+                "id": 62318,
+                "name": "Niimi"
+            },
+            {
+                "id": 62319,
+                "name": "Niimi Shi"
+            },
+            {
+                "id": 62320,
+                "name": "Okayama"
+            },
+            {
+                "id": 62321,
+                "name": "Okayama Shi"
+            },
+            {
+                "id": 62322,
+                "name": "Setouchi Shi"
+            },
+            {
+                "id": 62323,
+                "name": "Sōja"
+            },
+            {
+                "id": 62324,
+                "name": "Sōja Shi"
+            },
+            {
+                "id": 62325,
+                "name": "Takahashi"
+            },
+            {
+                "id": 62326,
+                "name": "Takahashi Shi"
+            },
+            {
+                "id": 62327,
+                "name": "Tamano"
+            },
+            {
+                "id": 62328,
+                "name": "Tamano Shi"
+            },
+            {
+                "id": 62329,
+                "name": "Tsuyama"
+            },
+            {
+                "id": 62330,
+                "name": "Tsuyama-shi"
+            }
+        ]
+    },
+    {
+        "id": 1908,
+        "name": "Okinawa Prefecture",
+        "cities": [
+            {
+                "id": 62331,
+                "name": "Chatan"
+            },
+            {
+                "id": 62332,
+                "name": "Ginowan Shi"
+            },
+            {
+                "id": 62333,
+                "name": "Gushikawa"
+            },
+            {
+                "id": 62334,
+                "name": "Hirara"
+            },
+            {
+                "id": 62335,
+                "name": "Ishigaki"
+            },
+            {
+                "id": 62336,
+                "name": "Ishigaki-shi"
+            },
+            {
+                "id": 62337,
+                "name": "Ishikawa"
+            },
+            {
+                "id": 62338,
+                "name": "Itoman"
+            },
+            {
+                "id": 62339,
+                "name": "Itoman Shi"
+            },
+            {
+                "id": 62340,
+                "name": "Katsuren-haebaru"
+            },
+            {
+                "id": 62341,
+                "name": "Miyakojima Shi"
+            },
+            {
+                "id": 62342,
+                "name": "Nago"
+            },
+            {
+                "id": 62343,
+                "name": "Nago Shi"
+            },
+            {
+                "id": 62344,
+                "name": "Naha"
+            },
+            {
+                "id": 62345,
+                "name": "Naha Shi"
+            },
+            {
+                "id": 62346,
+                "name": "Nakagami-gun"
+            },
+            {
+                "id": 62347,
+                "name": "Nanjō"
+            },
+            {
+                "id": 62348,
+                "name": "Nanjō Shi"
+            },
+            {
+                "id": 62349,
+                "name": "Okinawa"
+            },
+            {
+                "id": 62350,
+                "name": "Okinawa Shi"
+            },
+            {
+                "id": 62351,
+                "name": "Tomigusuku"
+            },
+            {
+                "id": 62352,
+                "name": "Tomigusuku-shi"
+            },
+            {
+                "id": 62353,
+                "name": "Urasoe Shi"
+            },
+            {
+                "id": 62354,
+                "name": "Uruma Shi"
+            },
+            {
+                "id": 62355,
+                "name": "Yonakuni"
+            }
+        ]
+    },
+    {
+        "id": 1909,
+        "name": "Ōsaka Prefecture",
+        "cities": [
+            {
+                "id": 62356,
+                "name": "Daitō Shi"
+            },
+            {
+                "id": 62357,
+                "name": "Daitōchō"
+            },
+            {
+                "id": 62358,
+                "name": "Fujiidera-shi"
+            },
+            {
+                "id": 62359,
+                "name": "Habikino-shi"
+            },
+            {
+                "id": 62360,
+                "name": "Hannan"
+            },
+            {
+                "id": 62361,
+                "name": "Hannan Shi"
+            },
+            {
+                "id": 62362,
+                "name": "Higashiōsaka Shi"
+            },
+            {
+                "id": 62363,
+                "name": "Hirakata"
+            },
+            {
+                "id": 62364,
+                "name": "Hirakata Shi"
+            },
+            {
+                "id": 62365,
+                "name": "Ibaraki"
+            },
+            {
+                "id": 62366,
+                "name": "Ibaraki Shi"
+            },
+            {
+                "id": 62367,
+                "name": "Ikeda"
+            },
+            {
+                "id": 62368,
+                "name": "Ikeda Shi"
+            },
+            {
+                "id": 62369,
+                "name": "Izumi"
+            },
+            {
+                "id": 62370,
+                "name": "Izumi Shi"
+            },
+            {
+                "id": 62371,
+                "name": "Izumiōtsu"
+            },
+            {
+                "id": 62372,
+                "name": "Izumiōtsu Shi"
+            },
+            {
+                "id": 62373,
+                "name": "Izumisano"
+            },
+            {
+                "id": 62374,
+                "name": "Izumisano Shi"
+            },
+            {
+                "id": 62375,
+                "name": "Kadoma"
+            },
+            {
+                "id": 62376,
+                "name": "Kadoma Shi"
+            },
+            {
+                "id": 62377,
+                "name": "Kaizuka"
+            },
+            {
+                "id": 62378,
+                "name": "Kaizuka Shi"
+            },
+            {
+                "id": 62379,
+                "name": "Kashihara"
+            },
+            {
+                "id": 62380,
+                "name": "Kashiwara-shi"
+            },
+            {
+                "id": 62381,
+                "name": "Katano Shi"
+            },
+            {
+                "id": 62382,
+                "name": "Kawachi-nagano Shi"
+            },
+            {
+                "id": 62383,
+                "name": "Kishiwada"
+            },
+            {
+                "id": 62384,
+                "name": "Kishiwada Shi"
+            },
+            {
+                "id": 62385,
+                "name": "Matsubara"
+            },
+            {
+                "id": 62386,
+                "name": "Matsubara-shi"
+            },
+            {
+                "id": 62387,
+                "name": "Mino"
+            },
+            {
+                "id": 62388,
+                "name": "Minoo Shi"
+            },
+            {
+                "id": 62389,
+                "name": "Mishima-gun"
+            },
+            {
+                "id": 62390,
+                "name": "Moriguchi"
+            },
+            {
+                "id": 62391,
+                "name": "Neyagawa"
+            },
+            {
+                "id": 62392,
+                "name": "Neyagawa Shi"
+            },
+            {
+                "id": 62393,
+                "name": "Osaka"
+            },
+            {
+                "id": 62394,
+                "name": "Ōsaka-sayama Shi"
+            },
+            {
+                "id": 62395,
+                "name": "Sakai"
+            },
+            {
+                "id": 62396,
+                "name": "Sakai Shi"
+            },
+            {
+                "id": 62397,
+                "name": "Sennan Shi"
+            },
+            {
+                "id": 62398,
+                "name": "Settsu Shi"
+            },
+            {
+                "id": 62399,
+                "name": "Shijonawate Shi"
+            },
+            {
+                "id": 62400,
+                "name": "Suita"
+            },
+            {
+                "id": 62401,
+                "name": "Suita Shi"
+            },
+            {
+                "id": 62402,
+                "name": "Tajiri"
+            },
+            {
+                "id": 62403,
+                "name": "Takaishi"
+            },
+            {
+                "id": 62404,
+                "name": "Takaishi Shi"
+            },
+            {
+                "id": 62405,
+                "name": "Takatsuki"
+            },
+            {
+                "id": 62406,
+                "name": "Takatsuki Shi"
+            },
+            {
+                "id": 62407,
+                "name": "Tondabayashi Shi"
+            },
+            {
+                "id": 62408,
+                "name": "Tondabayashichō"
+            },
+            {
+                "id": 62409,
+                "name": "Toyonaka"
+            },
+            {
+                "id": 62410,
+                "name": "Toyonaka Shi"
+            },
+            {
+                "id": 62411,
+                "name": "Yao"
+            },
+            {
+                "id": 62412,
+                "name": "Yao-shi"
+            }
+        ]
+    },
+    {
+        "id": 1910,
+        "name": "Saga Prefecture",
+        "cities": [
+            {
+                "id": 62413,
+                "name": "Imari Shi"
+            },
+            {
+                "id": 62414,
+                "name": "Imarichō-kō"
+            },
+            {
+                "id": 62415,
+                "name": "Kanzaki Shi"
+            },
+            {
+                "id": 62416,
+                "name": "Karatsu"
+            },
+            {
+                "id": 62417,
+                "name": "Karatsu Shi"
+            },
+            {
+                "id": 62418,
+                "name": "Kashima"
+            },
+            {
+                "id": 62419,
+                "name": "Kashima Shi"
+            },
+            {
+                "id": 62420,
+                "name": "Miyaki-gun"
+            },
+            {
+                "id": 62421,
+                "name": "Ogi-shi"
+            },
+            {
+                "id": 62422,
+                "name": "Saga"
+            },
+            {
+                "id": 62423,
+                "name": "Saga Shi"
+            },
+            {
+                "id": 62424,
+                "name": "Takeo Shi"
+            },
+            {
+                "id": 62425,
+                "name": "Takeochō-takeo"
+            },
+            {
+                "id": 62426,
+                "name": "Taku Shi"
+            },
+            {
+                "id": 62427,
+                "name": "Tosu Shi"
+            },
+            {
+                "id": 62428,
+                "name": "Ureshino Shi"
+            }
+        ]
+    },
+    {
+        "id": 1911,
+        "name": "Saitama Prefecture",
+        "cities": [
+            {
+                "id": 62429,
+                "name": "Ageo Shi"
+            },
+            {
+                "id": 62430,
+                "name": "Ageoshimo"
+            },
+            {
+                "id": 62431,
+                "name": "Asaka"
+            },
+            {
+                "id": 62432,
+                "name": "Asaka-shi"
+            },
+            {
+                "id": 62433,
+                "name": "Chichibu"
+            },
+            {
+                "id": 62434,
+                "name": "Chichibu-shi"
+            },
+            {
+                "id": 62435,
+                "name": "Fujimi-shi"
+            },
+            {
+                "id": 62436,
+                "name": "Fujimino Shi"
+            },
+            {
+                "id": 62437,
+                "name": "Fukaya-shi"
+            },
+            {
+                "id": 62438,
+                "name": "Fukayachō"
+            },
+            {
+                "id": 62439,
+                "name": "Fukiage-fujimi"
+            },
+            {
+                "id": 62440,
+                "name": "Gyōda"
+            },
+            {
+                "id": 62441,
+                "name": "Hannō"
+            },
+            {
+                "id": 62442,
+                "name": "Hannō-shi"
+            },
+            {
+                "id": 62443,
+                "name": "Hanyū"
+            },
+            {
+                "id": 62444,
+                "name": "Hanyū-shi"
+            },
+            {
+                "id": 62445,
+                "name": "Hasuda"
+            },
+            {
+                "id": 62446,
+                "name": "Hasuda-shi"
+            },
+            {
+                "id": 62447,
+                "name": "Hatogaya-honchō"
+            },
+            {
+                "id": 62448,
+                "name": "Hidaka-shi"
+            },
+            {
+                "id": 62449,
+                "name": "Higashimatsuyama Shi"
+            },
+            {
+                "id": 62450,
+                "name": "Hiki-gun"
+            },
+            {
+                "id": 62451,
+                "name": "Honjō"
+            },
+            {
+                "id": 62452,
+                "name": "Honjō Shi"
+            },
+            {
+                "id": 62453,
+                "name": "Iruma-shi"
+            },
+            {
+                "id": 62454,
+                "name": "Iwatsuki"
+            },
+            {
+                "id": 62455,
+                "name": "Kamifukuoka"
+            },
+            {
+                "id": 62456,
+                "name": "Kasukabe"
+            },
+            {
+                "id": 62457,
+                "name": "Kasukabe Shi"
+            },
+            {
+                "id": 62458,
+                "name": "Kawagoe"
+            },
+            {
+                "id": 62459,
+                "name": "Kawagoe-shi"
+            },
+            {
+                "id": 62460,
+                "name": "Kawaguchi"
+            },
+            {
+                "id": 62461,
+                "name": "Kawaguchi-shi"
+            },
+            {
+                "id": 62462,
+                "name": "Kazo"
+            },
+            {
+                "id": 62463,
+                "name": "Kazo-shi"
+            },
+            {
+                "id": 62464,
+                "name": "Kisai"
+            },
+            {
+                "id": 62465,
+                "name": "Kitamoto Shi"
+            },
+            {
+                "id": 62466,
+                "name": "Kodamachō-kodamaminami"
+            },
+            {
+                "id": 62467,
+                "name": "Kōnosu"
+            },
+            {
+                "id": 62468,
+                "name": "Konosu-Shi"
+            },
+            {
+                "id": 62469,
+                "name": "Koshigaya Shi"
+            },
+            {
+                "id": 62470,
+                "name": "Kuki-shi"
+            },
+            {
+                "id": 62471,
+                "name": "Kukichūō"
+            },
+            {
+                "id": 62472,
+                "name": "Kumagaya Shi"
+            },
+            {
+                "id": 62473,
+                "name": "Kurihashi"
+            },
+            {
+                "id": 62474,
+                "name": "Menuma"
+            },
+            {
+                "id": 62475,
+                "name": "Misato Shi"
+            },
+            {
+                "id": 62476,
+                "name": "Morohongō"
+            },
+            {
+                "id": 62477,
+                "name": "Niiza-shi"
+            },
+            {
+                "id": 62478,
+                "name": "Ogawa"
+            },
+            {
+                "id": 62479,
+                "name": "Ōi"
+            },
+            {
+                "id": 62480,
+                "name": "Okegawa"
+            },
+            {
+                "id": 62481,
+                "name": "Okegawa-shi"
+            },
+            {
+                "id": 62482,
+                "name": "Ōsato-gun"
+            },
+            {
+                "id": 62483,
+                "name": "Saitama"
+            },
+            {
+                "id": 62484,
+                "name": "Saitama-shi"
+            },
+            {
+                "id": 62485,
+                "name": "Sakado"
+            },
+            {
+                "id": 62486,
+                "name": "Sakado-shi"
+            },
+            {
+                "id": 62487,
+                "name": "Satte"
+            },
+            {
+                "id": 62488,
+                "name": "Satte Shi"
+            },
+            {
+                "id": 62489,
+                "name": "Sayama"
+            },
+            {
+                "id": 62490,
+                "name": "Shiki"
+            },
+            {
+                "id": 62491,
+                "name": "Shiki Shi"
+            },
+            {
+                "id": 62492,
+                "name": "Shimotoda"
+            },
+            {
+                "id": 62493,
+                "name": "Shiraoka"
+            },
+            {
+                "id": 62494,
+                "name": "Shiraoka-shi"
+            },
+            {
+                "id": 62495,
+                "name": "Shōbu"
+            },
+            {
+                "id": 62496,
+                "name": "Sōka"
+            },
+            {
+                "id": 62497,
+                "name": "Sōka Shi"
+            },
+            {
+                "id": 62498,
+                "name": "Sugito"
+            },
+            {
+                "id": 62499,
+                "name": "Toda-shi"
+            },
+            {
+                "id": 62500,
+                "name": "Tokorozawa"
+            },
+            {
+                "id": 62501,
+                "name": "Tokorozawa-shi"
+            },
+            {
+                "id": 62502,
+                "name": "Tsurugashima-shi"
+            },
+            {
+                "id": 62503,
+                "name": "Wako"
+            },
+            {
+                "id": 62504,
+                "name": "Wakō-shi"
+            },
+            {
+                "id": 62505,
+                "name": "Warabi-shi"
+            },
+            {
+                "id": 62506,
+                "name": "Yashio"
+            },
+            {
+                "id": 62507,
+                "name": "Yashio-shi"
+            },
+            {
+                "id": 62508,
+                "name": "Yono"
+            },
+            {
+                "id": 62509,
+                "name": "Yorii"
+            },
+            {
+                "id": 62510,
+                "name": "Yoshikawa"
+            },
+            {
+                "id": 62511,
+                "name": "Yoshikawa Shi"
+            }
+        ]
+    },
+    {
+        "id": 1912,
+        "name": "Shiga Prefecture",
+        "cities": [
+            {
+                "id": 62512,
+                "name": "Higashiōmi-shi"
+            },
+            {
+                "id": 62513,
+                "name": "Hikone"
+            },
+            {
+                "id": 62514,
+                "name": "Hikone-shi"
+            },
+            {
+                "id": 62515,
+                "name": "Hino"
+            },
+            {
+                "id": 62516,
+                "name": "Kitahama"
+            },
+            {
+                "id": 62517,
+                "name": "Kōka-shi"
+            },
+            {
+                "id": 62518,
+                "name": "Konan-shi"
+            },
+            {
+                "id": 62519,
+                "name": "Kusatsu"
+            },
+            {
+                "id": 62520,
+                "name": "Kusatsu-shi"
+            },
+            {
+                "id": 62521,
+                "name": "Maibara"
+            },
+            {
+                "id": 62522,
+                "name": "Maibara-shi"
+            },
+            {
+                "id": 62523,
+                "name": "Minakuchichō-matoba"
+            },
+            {
+                "id": 62524,
+                "name": "Moriyama"
+            },
+            {
+                "id": 62525,
+                "name": "Moriyama-shi"
+            },
+            {
+                "id": 62526,
+                "name": "Nagahama"
+            },
+            {
+                "id": 62527,
+                "name": "Nagahama-shi"
+            },
+            {
+                "id": 62528,
+                "name": "Ōmihachiman"
+            },
+            {
+                "id": 62529,
+                "name": "Ōmihachiman-shi"
+            },
+            {
+                "id": 62530,
+                "name": "Ōtsu-shi"
+            },
+            {
+                "id": 62531,
+                "name": "Rittō-shi"
+            },
+            {
+                "id": 62532,
+                "name": "Takashima"
+            },
+            {
+                "id": 62533,
+                "name": "Takashima-shi"
+            },
+            {
+                "id": 62534,
+                "name": "Yasu-shi"
+            },
+            {
+                "id": 62535,
+                "name": "Youkaichi"
+            }
+        ]
+    },
+    {
+        "id": 1913,
+        "name": "Shimane Prefecture",
+        "cities": [
+            {
+                "id": 62536,
+                "name": "Gōtsu Shi"
+            },
+            {
+                "id": 62537,
+                "name": "Gōtsuchō"
+            },
+            {
+                "id": 62538,
+                "name": "Hamada"
+            },
+            {
+                "id": 62539,
+                "name": "Hamada Shi"
+            },
+            {
+                "id": 62540,
+                "name": "Hiratachō"
+            },
+            {
+                "id": 62541,
+                "name": "Izumo"
+            },
+            {
+                "id": 62542,
+                "name": "Izumo Shi"
+            },
+            {
+                "id": 62543,
+                "name": "Masuda"
+            },
+            {
+                "id": 62544,
+                "name": "Masuda Shi"
+            },
+            {
+                "id": 62545,
+                "name": "Matsue"
+            },
+            {
+                "id": 62546,
+                "name": "Matsue Shi"
+            },
+            {
+                "id": 62547,
+                "name": "Ōda Shi"
+            },
+            {
+                "id": 62548,
+                "name": "Ōdachō-ōda"
+            },
+            {
+                "id": 62549,
+                "name": "Unnan Shi"
+            },
+            {
+                "id": 62550,
+                "name": "Yasugi Shi"
+            },
+            {
+                "id": 62551,
+                "name": "Yasugichō"
+            }
+        ]
+    },
+    {
+        "id": 1914,
+        "name": "Shizuoka Prefecture",
+        "cities": [
+            {
+                "id": 62552,
+                "name": "Atami"
+            },
+            {
+                "id": 62553,
+                "name": "Atami-shi"
+            },
+            {
+                "id": 62554,
+                "name": "Fuji Shi"
+            },
+            {
+                "id": 62555,
+                "name": "Fujieda Shi"
+            },
+            {
+                "id": 62556,
+                "name": "Fujinomiya"
+            },
+            {
+                "id": 62557,
+                "name": "Fujinomiya Shi"
+            },
+            {
+                "id": 62558,
+                "name": "Fukuroi"
+            },
+            {
+                "id": 62559,
+                "name": "Fukuroi-shi"
+            },
+            {
+                "id": 62560,
+                "name": "Gotenba Shi"
+            },
+            {
+                "id": 62561,
+                "name": "Hamakita"
+            },
+            {
+                "id": 62562,
+                "name": "Hamamatsu"
+            },
+            {
+                "id": 62563,
+                "name": "Hamamatsu-shi"
+            },
+            {
+                "id": 62564,
+                "name": "Heda"
+            },
+            {
+                "id": 62565,
+                "name": "Itō"
+            },
+            {
+                "id": 62566,
+                "name": "Itō Shi"
+            },
+            {
+                "id": 62567,
+                "name": "Iwata"
+            },
+            {
+                "id": 62568,
+                "name": "Iwata-shi"
+            },
+            {
+                "id": 62569,
+                "name": "Izu"
+            },
+            {
+                "id": 62570,
+                "name": "Izu-shi"
+            },
+            {
+                "id": 62571,
+                "name": "Izunokuni-shi"
+            },
+            {
+                "id": 62572,
+                "name": "Kakegawa"
+            },
+            {
+                "id": 62573,
+                "name": "Kakegawa Shi"
+            },
+            {
+                "id": 62574,
+                "name": "Kanaya"
+            },
+            {
+                "id": 62575,
+                "name": "Kikugawa-shi"
+            },
+            {
+                "id": 62576,
+                "name": "Kosai"
+            },
+            {
+                "id": 62577,
+                "name": "Kosai-shi"
+            },
+            {
+                "id": 62578,
+                "name": "Makinohara Shi"
+            },
+            {
+                "id": 62579,
+                "name": "Mishima"
+            },
+            {
+                "id": 62580,
+                "name": "Mishima Shi"
+            },
+            {
+                "id": 62581,
+                "name": "Mori"
+            },
+            {
+                "id": 62582,
+                "name": "Numazu-shi"
+            },
+            {
+                "id": 62583,
+                "name": "Omaezaki-shi"
+            },
+            {
+                "id": 62584,
+                "name": "Ōyama"
+            },
+            {
+                "id": 62585,
+                "name": "Sagara"
+            },
+            {
+                "id": 62586,
+                "name": "Shimada"
+            },
+            {
+                "id": 62587,
+                "name": "Shimada-shi"
+            },
+            {
+                "id": 62588,
+                "name": "Shimoda"
+            },
+            {
+                "id": 62589,
+                "name": "Shimoda-shi"
+            },
+            {
+                "id": 62590,
+                "name": "Shizuoka"
+            },
+            {
+                "id": 62591,
+                "name": "Shizuoka-shi"
+            },
+            {
+                "id": 62592,
+                "name": "Susono"
+            },
+            {
+                "id": 62593,
+                "name": "Susono Shi"
+            },
+            {
+                "id": 62594,
+                "name": "Yaizu"
+            },
+            {
+                "id": 62595,
+                "name": "Yaizu Shi"
+            }
+        ]
+    },
+    {
+        "id": 1915,
+        "name": "Tochigi Prefecture",
+        "cities": [
+            {
+                "id": 62596,
+                "name": "Ashikaga"
+            },
+            {
+                "id": 62597,
+                "name": "Fujioka"
+            },
+            {
+                "id": 62598,
+                "name": "Imaichi"
+            },
+            {
+                "id": 62599,
+                "name": "Kaminokawa"
+            },
+            {
+                "id": 62600,
+                "name": "Kanuma"
+            },
+            {
+                "id": 62601,
+                "name": "Kanuma-shi"
+            },
+            {
+                "id": 62602,
+                "name": "Karasuyama"
+            },
+            {
+                "id": 62603,
+                "name": "Kuroiso"
+            },
+            {
+                "id": 62604,
+                "name": "Mashiko"
+            },
+            {
+                "id": 62605,
+                "name": "Mibu"
+            },
+            {
+                "id": 62606,
+                "name": "Mooka"
+            },
+            {
+                "id": 62607,
+                "name": "Mooka-shi"
+            },
+            {
+                "id": 62608,
+                "name": "Motegi"
+            },
+            {
+                "id": 62609,
+                "name": "Nasukarasuyama"
+            },
+            {
+                "id": 62610,
+                "name": "Nasukarasuyama-shi"
+            },
+            {
+                "id": 62611,
+                "name": "Nasushiobara-shi"
+            },
+            {
+                "id": 62612,
+                "name": "Nikkō"
+            },
+            {
+                "id": 62613,
+                "name": "Nikko-shi"
+            },
+            {
+                "id": 62614,
+                "name": "Ōtawara"
+            },
+            {
+                "id": 62615,
+                "name": "Ōtawara-shi"
+            },
+            {
+                "id": 62616,
+                "name": "Oyama"
+            },
+            {
+                "id": 62617,
+                "name": "Oyama-shi"
+            },
+            {
+                "id": 62618,
+                "name": "Sakura-shi"
+            },
+            {
+                "id": 62619,
+                "name": "Sano"
+            },
+            {
+                "id": 62620,
+                "name": "Sano-shi"
+            },
+            {
+                "id": 62621,
+                "name": "Shimotsuke-shi"
+            },
+            {
+                "id": 62622,
+                "name": "Tanuma"
+            },
+            {
+                "id": 62623,
+                "name": "Tochigi-shi"
+            },
+            {
+                "id": 62624,
+                "name": "Ujiie"
+            },
+            {
+                "id": 62625,
+                "name": "Utsunomiya"
+            },
+            {
+                "id": 62626,
+                "name": "Utsunomiya-shi"
+            },
+            {
+                "id": 62627,
+                "name": "Yaita"
+            },
+            {
+                "id": 62628,
+                "name": "Yaita-shi"
+            }
+        ]
+    },
+    {
+        "id": 1916,
+        "name": "Tokushima Prefecture",
+        "cities": [
+            {
+                "id": 62629,
+                "name": "Anan Shi"
+            },
+            {
+                "id": 62630,
+                "name": "Awa-shi"
+            },
+            {
+                "id": 62631,
+                "name": "Ikedachō"
+            },
+            {
+                "id": 62632,
+                "name": "Ishii"
+            },
+            {
+                "id": 62633,
+                "name": "Kamojimachō-jōgejima"
+            },
+            {
+                "id": 62634,
+                "name": "Katsuura Gun"
+            },
+            {
+                "id": 62635,
+                "name": "Komatsushima Shi"
+            },
+            {
+                "id": 62636,
+                "name": "Komatsushimachō"
+            },
+            {
+                "id": 62637,
+                "name": "Mima Shi"
+            },
+            {
+                "id": 62638,
+                "name": "Miyoshi Shi"
+            },
+            {
+                "id": 62639,
+                "name": "Miyoshi-gun"
+            },
+            {
+                "id": 62640,
+                "name": "Naruto-shi"
+            },
+            {
+                "id": 62641,
+                "name": "Narutochō-mitsuishi"
+            },
+            {
+                "id": 62642,
+                "name": "Tokushima"
+            },
+            {
+                "id": 62643,
+                "name": "Tokushima Shi"
+            },
+            {
+                "id": 62644,
+                "name": "Wakimachi"
+            },
+            {
+                "id": 62645,
+                "name": "Yoshinogawa Shi"
+            }
+        ]
+    },
+    {
+        "id": 1917,
+        "name": "Tokyo",
+        "cities": [
+            {
+                "id": 62646,
+                "name": "Adachi Ku"
+            },
+            {
+                "id": 62647,
+                "name": "Akiruno-shi"
+            },
+            {
+                "id": 62648,
+                "name": "Akishima-shi"
+            },
+            {
+                "id": 62649,
+                "name": "Arakawa Ku"
+            },
+            {
+                "id": 62650,
+                "name": "Bunkyō-ku"
+            },
+            {
+                "id": 62651,
+                "name": "Chiyoda-ku"
+            },
+            {
+                "id": 62652,
+                "name": "Chōfu"
+            },
+            {
+                "id": 62653,
+                "name": "Chōfu-shi"
+            },
+            {
+                "id": 62654,
+                "name": "Chūō Ku"
+            },
+            {
+                "id": 62655,
+                "name": "Edogawa Ku"
+            },
+            {
+                "id": 62656,
+                "name": "Fuchū-shi"
+            },
+            {
+                "id": 62657,
+                "name": "Fussa"
+            },
+            {
+                "id": 62658,
+                "name": "Hachiōji"
+            },
+            {
+                "id": 62659,
+                "name": "Hamura-shi"
+            },
+            {
+                "id": 62660,
+                "name": "Higashi-murayama-shi"
+            },
+            {
+                "id": 62661,
+                "name": "Higashikurume-shi"
+            },
+            {
+                "id": 62662,
+                "name": "Higashimurayama"
+            },
+            {
+                "id": 62663,
+                "name": "Higashiyamato"
+            },
+            {
+                "id": 62664,
+                "name": "Higashiyamato-shi"
+            },
+            {
+                "id": 62665,
+                "name": "Hino"
+            },
+            {
+                "id": 62666,
+                "name": "Hino-shi"
+            },
+            {
+                "id": 62667,
+                "name": "Inagi-shi"
+            },
+            {
+                "id": 62668,
+                "name": "Itabashi-ku"
+            },
+            {
+                "id": 62669,
+                "name": "Itsukaichi"
+            },
+            {
+                "id": 62670,
+                "name": "Kamirenjaku"
+            },
+            {
+                "id": 62671,
+                "name": "Katsushika Ku"
+            },
+            {
+                "id": 62672,
+                "name": "Kita-ku"
+            },
+            {
+                "id": 62673,
+                "name": "Kiyose-shi"
+            },
+            {
+                "id": 62674,
+                "name": "Kodaira-shi"
+            },
+            {
+                "id": 62675,
+                "name": "Koganei-shi"
+            },
+            {
+                "id": 62676,
+                "name": "Kokubunji"
+            },
+            {
+                "id": 62677,
+                "name": "Kokubunji-shi"
+            },
+            {
+                "id": 62678,
+                "name": "Komae-shi"
+            },
+            {
+                "id": 62679,
+                "name": "Kōtō-ku"
+            },
+            {
+                "id": 62680,
+                "name": "Kunitachi-shi"
+            },
+            {
+                "id": 62681,
+                "name": "Machida"
+            },
+            {
+                "id": 62682,
+                "name": "Machida-shi"
+            },
+            {
+                "id": 62683,
+                "name": "Meguro-ku"
+            },
+            {
+                "id": 62684,
+                "name": "Minato-ku"
+            },
+            {
+                "id": 62685,
+                "name": "Mitaka-shi"
+            },
+            {
+                "id": 62686,
+                "name": "Musashimurayama-shi"
+            },
+            {
+                "id": 62687,
+                "name": "Musashino"
+            },
+            {
+                "id": 62688,
+                "name": "Musashino-shi"
+            },
+            {
+                "id": 62689,
+                "name": "Nakano-ku"
+            },
+            {
+                "id": 62690,
+                "name": "Nerima-ku"
+            },
+            {
+                "id": 62691,
+                "name": "Nishi-Tokyo-shi"
+            },
+            {
+                "id": 62692,
+                "name": "Nishitōkyō-shi"
+            },
+            {
+                "id": 62693,
+                "name": "Ōme"
+            },
+            {
+                "id": 62694,
+                "name": "Ōme-shi"
+            },
+            {
+                "id": 62695,
+                "name": "Ōta-ku"
+            },
+            {
+                "id": 62696,
+                "name": "Setagaya-ku"
+            },
+            {
+                "id": 62697,
+                "name": "Shibuya-ku"
+            },
+            {
+                "id": 62698,
+                "name": "Shinagawa-ku"
+            },
+            {
+                "id": 62699,
+                "name": "Shinjuku-ku"
+            },
+            {
+                "id": 62700,
+                "name": "Suginami-ku"
+            },
+            {
+                "id": 62701,
+                "name": "Sumida-ku"
+            },
+            {
+                "id": 62702,
+                "name": "Tachikawa-shi"
+            },
+            {
+                "id": 62703,
+                "name": "Taitō-ku"
+            },
+            {
+                "id": 62704,
+                "name": "Tama-shi"
+            },
+            {
+                "id": 62705,
+                "name": "Tanashichō"
+            },
+            {
+                "id": 62706,
+                "name": "Tokyo"
+            },
+            {
+                "id": 62707,
+                "name": "Toshima-ku"
+            },
+            {
+                "id": 62708,
+                "name": "Urayasu"
+            }
+        ]
+    },
+    {
+        "id": 1918,
+        "name": "Tottori Prefecture",
+        "cities": [
+            {
+                "id": 62709,
+                "name": "Kurayoshi-shi"
+            },
+            {
+                "id": 62710,
+                "name": "Sakaiminato"
+            },
+            {
+                "id": 62711,
+                "name": "Sakaiminato Shi"
+            },
+            {
+                "id": 62712,
+                "name": "Tottori-shi"
+            },
+            {
+                "id": 62713,
+                "name": "Yonago Shi"
+            }
+        ]
+    },
+    {
+        "id": 1919,
+        "name": "Toyama Prefecture",
+        "cities": [
+            {
+                "id": 62714,
+                "name": "Fukumitsu"
+            },
+            {
+                "id": 62715,
+                "name": "Himi Shi"
+            },
+            {
+                "id": 62716,
+                "name": "Himimachi"
+            },
+            {
+                "id": 62717,
+                "name": "Imizu Shi"
+            },
+            {
+                "id": 62718,
+                "name": "Kamiichi"
+            },
+            {
+                "id": 62719,
+                "name": "Kurobe-shi"
+            },
+            {
+                "id": 62720,
+                "name": "Namerikawa"
+            },
+            {
+                "id": 62721,
+                "name": "Namerikawa-shi"
+            },
+            {
+                "id": 62722,
+                "name": "Nanto Shi"
+            },
+            {
+                "id": 62723,
+                "name": "Nanto-shi"
+            },
+            {
+                "id": 62724,
+                "name": "Nishishinminato"
+            },
+            {
+                "id": 62725,
+                "name": "Nyūzen"
+            },
+            {
+                "id": 62726,
+                "name": "Oyabe"
+            },
+            {
+                "id": 62727,
+                "name": "Oyabe Shi"
+            },
+            {
+                "id": 62728,
+                "name": "Takaoka"
+            },
+            {
+                "id": 62729,
+                "name": "Takaoka Shi"
+            },
+            {
+                "id": 62730,
+                "name": "Tonami Shi"
+            },
+            {
+                "id": 62731,
+                "name": "Toyama Shi"
+            },
+            {
+                "id": 62732,
+                "name": "Uozu"
+            },
+            {
+                "id": 62733,
+                "name": "Uozu Shi"
+            },
+            {
+                "id": 62734,
+                "name": "Yatsuomachi-higashikumisaka"
+            }
+        ]
+    },
+    {
+        "id": 1920,
+        "name": "Wakayama Prefecture",
+        "cities": [
+            {
+                "id": 62735,
+                "name": "Arida Shi"
+            },
+            {
+                "id": 62736,
+                "name": "Gobō"
+            },
+            {
+                "id": 62737,
+                "name": "Hashimoto"
+            },
+            {
+                "id": 62738,
+                "name": "Hashimoto Shi"
+            },
+            {
+                "id": 62739,
+                "name": "Iwade"
+            },
+            {
+                "id": 62740,
+                "name": "Iwade Shi"
+            },
+            {
+                "id": 62741,
+                "name": "Kainan"
+            },
+            {
+                "id": 62742,
+                "name": "Kainan Shi"
+            },
+            {
+                "id": 62743,
+                "name": "Kinokawa Shi"
+            },
+            {
+                "id": 62744,
+                "name": "Kōya"
+            },
+            {
+                "id": 62745,
+                "name": "Minato"
+            },
+            {
+                "id": 62746,
+                "name": "Shingū"
+            },
+            {
+                "id": 62747,
+                "name": "Shingū-shi"
+            },
+            {
+                "id": 62748,
+                "name": "Tanabe-shi"
+            },
+            {
+                "id": 62749,
+                "name": "Wakayama"
+            },
+            {
+                "id": 62750,
+                "name": "Wakayama Shi"
+            }
+        ]
+    },
+    {
+        "id": 1921,
+        "name": "Yamagata Prefecture",
+        "cities": [
+            {
+                "id": 62751,
+                "name": "Higashine"
+            },
+            {
+                "id": 62752,
+                "name": "Higashine Shi"
+            },
+            {
+                "id": 62753,
+                "name": "Kaminoyama"
+            },
+            {
+                "id": 62754,
+                "name": "Kaminoyama-shi"
+            },
+            {
+                "id": 62755,
+                "name": "Murayama"
+            },
+            {
+                "id": 62756,
+                "name": "Murayama Shi"
+            },
+            {
+                "id": 62757,
+                "name": "Nagai"
+            },
+            {
+                "id": 62758,
+                "name": "Nagai-shi"
+            },
+            {
+                "id": 62759,
+                "name": "Nanyō Shi"
+            },
+            {
+                "id": 62760,
+                "name": "Obanazawa"
+            },
+            {
+                "id": 62761,
+                "name": "Obanazawa Shi"
+            },
+            {
+                "id": 62762,
+                "name": "Sagae"
+            },
+            {
+                "id": 62763,
+                "name": "Sagae-shi"
+            },
+            {
+                "id": 62764,
+                "name": "Sakata"
+            },
+            {
+                "id": 62765,
+                "name": "Sakata Shi"
+            },
+            {
+                "id": 62766,
+                "name": "Shinjō"
+            },
+            {
+                "id": 62767,
+                "name": "Shinjō Shi"
+            },
+            {
+                "id": 62768,
+                "name": "Takahata"
+            },
+            {
+                "id": 62769,
+                "name": "Tendō"
+            },
+            {
+                "id": 62770,
+                "name": "Tendō Shi"
+            },
+            {
+                "id": 62771,
+                "name": "Tsuruoka"
+            },
+            {
+                "id": 62772,
+                "name": "Tsuruoka Shi"
+            },
+            {
+                "id": 62773,
+                "name": "Yamagata"
+            },
+            {
+                "id": 62774,
+                "name": "Yamagata Shi"
+            },
+            {
+                "id": 62775,
+                "name": "Yonezawa"
+            },
+            {
+                "id": 62776,
+                "name": "Yonezawa Shi"
+            },
+            {
+                "id": 62777,
+                "name": "Yuza"
+            }
+        ]
+    },
+    {
+        "id": 1922,
+        "name": "Yamaguchi Prefecture",
+        "cities": [
+            {
+                "id": 62778,
+                "name": "Hagi"
+            },
+            {
+                "id": 62779,
+                "name": "Hagi Shi"
+            },
+            {
+                "id": 62780,
+                "name": "Hikari"
+            },
+            {
+                "id": 62781,
+                "name": "Hikari Shi"
+            },
+            {
+                "id": 62782,
+                "name": "Hōfu"
+            },
+            {
+                "id": 62783,
+                "name": "Hofu Shi"
+            },
+            {
+                "id": 62784,
+                "name": "Iwakuni Shi"
+            },
+            {
+                "id": 62785,
+                "name": "Kudamatsu"
+            },
+            {
+                "id": 62786,
+                "name": "Kudamatsu Shi"
+            },
+            {
+                "id": 62787,
+                "name": "Mine Shi"
+            },
+            {
+                "id": 62788,
+                "name": "Nagato"
+            },
+            {
+                "id": 62789,
+                "name": "Nagato Shi"
+            },
+            {
+                "id": 62790,
+                "name": "Ogōri-shimogō"
+            },
+            {
+                "id": 62791,
+                "name": "Onoda"
+            },
+            {
+                "id": 62792,
+                "name": "Sanyōonoda Shi"
+            },
+            {
+                "id": 62793,
+                "name": "Shimonoseki Shi"
+            },
+            {
+                "id": 62794,
+                "name": "Shūnan Shi"
+            },
+            {
+                "id": 62795,
+                "name": "Tokuyama"
+            },
+            {
+                "id": 62796,
+                "name": "Ube"
+            },
+            {
+                "id": 62797,
+                "name": "Yamaguchi Shi"
+            },
+            {
+                "id": 62798,
+                "name": "Yanai Shi"
+            }
+        ]
+    },
+    {
+        "id": 1923,
+        "name": "Yamanashi Prefecture",
+        "cities": [
+            {
+                "id": 62799,
+                "name": "Chūō-shi"
+            },
+            {
+                "id": 62800,
+                "name": "Enzan"
+            },
+            {
+                "id": 62801,
+                "name": "Fuefuki-shi"
+            },
+            {
+                "id": 62802,
+                "name": "Fuji-yoshida Shi"
+            },
+            {
+                "id": 62803,
+                "name": "Fujikawaguchiko"
+            },
+            {
+                "id": 62804,
+                "name": "Fujiyoshida"
+            },
+            {
+                "id": 62805,
+                "name": "Hokuto"
+            },
+            {
+                "id": 62806,
+                "name": "Hokuto-shi"
+            },
+            {
+                "id": 62807,
+                "name": "Isawa"
+            },
+            {
+                "id": 62808,
+                "name": "Kai-shi"
+            },
+            {
+                "id": 62809,
+                "name": "Kōfu"
+            },
+            {
+                "id": 62810,
+                "name": "Kōfu-shi"
+            },
+            {
+                "id": 62811,
+                "name": "Kōshū-shi"
+            },
+            {
+                "id": 62812,
+                "name": "Minami Alps-shi"
+            },
+            {
+                "id": 62813,
+                "name": "Nirasaki"
+            },
+            {
+                "id": 62814,
+                "name": "Nirasaki-shi"
+            },
+            {
+                "id": 62815,
+                "name": "Ōtsuki"
+            },
+            {
+                "id": 62816,
+                "name": "Ōtsuki-shi"
+            },
+            {
+                "id": 62817,
+                "name": "Ryūō"
+            },
+            {
+                "id": 62818,
+                "name": "Tsuru-shi"
+            },
+            {
+                "id": 62819,
+                "name": "Uenohara"
+            },
+            {
+                "id": 62820,
+                "name": "Uenohara-shi"
+            },
+            {
+                "id": 62821,
+                "name": "Yamanashi-shi"
+            }
+        ]
+    }
+]

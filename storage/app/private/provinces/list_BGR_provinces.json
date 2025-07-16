@@ -1,0 +1,2176 @@
+[
+    {
+        "id": 545,
+        "name": "Blagoevgrad Province",
+        "cities": [
+            {
+                "id": 15836,
+                "name": "Bansko"
+            },
+            {
+                "id": 15837,
+                "name": "Belitsa"
+            },
+            {
+                "id": 15838,
+                "name": "Blagoevgrad"
+            },
+            {
+                "id": 15839,
+                "name": "Garmen"
+            },
+            {
+                "id": 15840,
+                "name": "Gotse Delchev"
+            },
+            {
+                "id": 15841,
+                "name": "Hadzhidimovo"
+            },
+            {
+                "id": 15842,
+                "name": "Kolarovo"
+            },
+            {
+                "id": 15843,
+                "name": "Kresna"
+            },
+            {
+                "id": 15844,
+                "name": "Obshtina Bansko"
+            },
+            {
+                "id": 15845,
+                "name": "Obshtina Belitsa"
+            },
+            {
+                "id": 15846,
+                "name": "Obshtina Blagoevgrad"
+            },
+            {
+                "id": 15847,
+                "name": "Obshtina Garmen"
+            },
+            {
+                "id": 15848,
+                "name": "Obshtina Gotse Delchev"
+            },
+            {
+                "id": 15849,
+                "name": "Obshtina Kresna"
+            },
+            {
+                "id": 15850,
+                "name": "Obshtina Petrich"
+            },
+            {
+                "id": 15851,
+                "name": "Obshtina Razlog"
+            },
+            {
+                "id": 15852,
+                "name": "Obshtina Sandanski"
+            },
+            {
+                "id": 15853,
+                "name": "Obshtina Satovcha"
+            },
+            {
+                "id": 15854,
+                "name": "Obshtina Simitli"
+            },
+            {
+                "id": 15855,
+                "name": "Obshtina Strumyani"
+            },
+            {
+                "id": 15856,
+                "name": "Obshtina Yakoruda"
+            },
+            {
+                "id": 15857,
+                "name": "Petrich"
+            },
+            {
+                "id": 15858,
+                "name": "Razlog"
+            },
+            {
+                "id": 15859,
+                "name": "Sandanski"
+            },
+            {
+                "id": 15860,
+                "name": "Satovcha"
+            },
+            {
+                "id": 15861,
+                "name": "Simitli"
+            },
+            {
+                "id": 15862,
+                "name": "Stara Kresna"
+            },
+            {
+                "id": 15863,
+                "name": "Strumyani"
+            },
+            {
+                "id": 15864,
+                "name": "Yakoruda"
+            }
+        ]
+    },
+    {
+        "id": 546,
+        "name": "Burgas Province",
+        "cities": [
+            {
+                "id": 15865,
+                "name": "Aheloy"
+            },
+            {
+                "id": 15866,
+                "name": "Ahtopol"
+            },
+            {
+                "id": 15867,
+                "name": "Aytos"
+            },
+            {
+                "id": 15868,
+                "name": "Bata"
+            },
+            {
+                "id": 15869,
+                "name": "Burgas"
+            },
+            {
+                "id": 15870,
+                "name": "Chernomorets"
+            },
+            {
+                "id": 15871,
+                "name": "Kameno"
+            },
+            {
+                "id": 15872,
+                "name": "Karnobat"
+            },
+            {
+                "id": 15873,
+                "name": "Kiten"
+            },
+            {
+                "id": 15874,
+                "name": "Malko Tarnovo"
+            },
+            {
+                "id": 15875,
+                "name": "Nesebar"
+            },
+            {
+                "id": 15876,
+                "name": "Obshtina Aytos"
+            },
+            {
+                "id": 15877,
+                "name": "Obshtina Burgas"
+            },
+            {
+                "id": 15878,
+                "name": "Obshtina Kameno"
+            },
+            {
+                "id": 15879,
+                "name": "Obshtina Karnobat"
+            },
+            {
+                "id": 15880,
+                "name": "Obshtina Malko Tarnovo"
+            },
+            {
+                "id": 15881,
+                "name": "Obshtina Nesebar"
+            },
+            {
+                "id": 15882,
+                "name": "Obshtina Pomorie"
+            },
+            {
+                "id": 15883,
+                "name": "Obshtina Primorsko"
+            },
+            {
+                "id": 15884,
+                "name": "Obshtina Sozopol"
+            },
+            {
+                "id": 15885,
+                "name": "Obshtina Sungurlare"
+            },
+            {
+                "id": 15886,
+                "name": "Obzor"
+            },
+            {
+                "id": 15887,
+                "name": "Pomorie"
+            },
+            {
+                "id": 15888,
+                "name": "Primorsko"
+            },
+            {
+                "id": 15889,
+                "name": "Ravda"
+            },
+            {
+                "id": 15890,
+                "name": "Ruen"
+            },
+            {
+                "id": 15891,
+                "name": "Sarafovo"
+            },
+            {
+                "id": 15892,
+                "name": "Sozopol"
+            },
+            {
+                "id": 15893,
+                "name": "Sredets"
+            },
+            {
+                "id": 15894,
+                "name": "Sungurlare"
+            },
+            {
+                "id": 15895,
+                "name": "Sveti Vlas"
+            },
+            {
+                "id": 15896,
+                "name": "Tsarevo"
+            }
+        ]
+    },
+    {
+        "id": 547,
+        "name": "Dobrich Province",
+        "cities": [
+            {
+                "id": 15897,
+                "name": "Balchik"
+            },
+            {
+                "id": 15898,
+                "name": "Dobrich"
+            },
+            {
+                "id": 15899,
+                "name": "General Toshevo"
+            },
+            {
+                "id": 15900,
+                "name": "Kavarna"
+            },
+            {
+                "id": 15901,
+                "name": "Krushari"
+            },
+            {
+                "id": 15902,
+                "name": "Obshtina Balchik"
+            },
+            {
+                "id": 15903,
+                "name": "Obshtina Dobrich"
+            },
+            {
+                "id": 15904,
+                "name": "Obshtina Dobrich-Selska"
+            },
+            {
+                "id": 15905,
+                "name": "Obshtina General Toshevo"
+            },
+            {
+                "id": 15906,
+                "name": "Obshtina Kavarna"
+            },
+            {
+                "id": 15907,
+                "name": "Obshtina Krushari"
+            },
+            {
+                "id": 15908,
+                "name": "Obshtina Shabla"
+            },
+            {
+                "id": 15909,
+                "name": "Obshtina Tervel"
+            },
+            {
+                "id": 15910,
+                "name": "Shabla"
+            },
+            {
+                "id": 15911,
+                "name": "Tervel"
+            }
+        ]
+    },
+    {
+        "id": 548,
+        "name": "Gabrovo Province",
+        "cities": [
+            {
+                "id": 15912,
+                "name": "Dryanovo"
+            },
+            {
+                "id": 15913,
+                "name": "Gabrovo"
+            },
+            {
+                "id": 15914,
+                "name": "Obshtina Dryanovo"
+            },
+            {
+                "id": 15915,
+                "name": "Obshtina Gabrovo"
+            },
+            {
+                "id": 15916,
+                "name": "Obshtina Sevlievo"
+            },
+            {
+                "id": 15917,
+                "name": "Obshtina Tryavna"
+            },
+            {
+                "id": 15918,
+                "name": "Sevlievo"
+            },
+            {
+                "id": 15919,
+                "name": "Tryavna"
+            }
+        ]
+    },
+    {
+        "id": 549,
+        "name": "Haskovo Province",
+        "cities": [
+            {
+                "id": 15920,
+                "name": "Dimitrovgrad"
+            },
+            {
+                "id": 15921,
+                "name": "Harmanli"
+            },
+            {
+                "id": 15922,
+                "name": "Haskovo"
+            },
+            {
+                "id": 15923,
+                "name": "Ivaylovgrad"
+            },
+            {
+                "id": 15924,
+                "name": "Lyubimets"
+            },
+            {
+                "id": 15925,
+                "name": "Madzharovo"
+            },
+            {
+                "id": 15926,
+                "name": "Mineralni Bani"
+            },
+            {
+                "id": 15927,
+                "name": "Obshtina Dimitrovgrad"
+            },
+            {
+                "id": 15928,
+                "name": "Obshtina Harmanli"
+            },
+            {
+                "id": 15929,
+                "name": "Obshtina Haskovo"
+            },
+            {
+                "id": 15930,
+                "name": "Obshtina Ivaylovgrad"
+            },
+            {
+                "id": 15931,
+                "name": "Obshtina Madzharovo"
+            },
+            {
+                "id": 15932,
+                "name": "Obshtina Mineralni Bani"
+            },
+            {
+                "id": 15933,
+                "name": "Obshtina Stambolovo"
+            },
+            {
+                "id": 15934,
+                "name": "Obshtina Svilengrad"
+            },
+            {
+                "id": 15935,
+                "name": "Obshtina Topolovgrad"
+            },
+            {
+                "id": 15936,
+                "name": "Simeonovgrad"
+            },
+            {
+                "id": 15937,
+                "name": "Svilengrad"
+            },
+            {
+                "id": 15938,
+                "name": "Topolovgrad"
+            }
+        ]
+    },
+    {
+        "id": 550,
+        "name": "Kardzhali Province",
+        "cities": [
+            {
+                "id": 15939,
+                "name": "Ardino"
+            },
+            {
+                "id": 15940,
+                "name": "Dzhebel"
+            },
+            {
+                "id": 15941,
+                "name": "Kardzhali"
+            },
+            {
+                "id": 15942,
+                "name": "Kirkovo"
+            },
+            {
+                "id": 15943,
+                "name": "Krumovgrad"
+            },
+            {
+                "id": 15944,
+                "name": "Obshtina Ardino"
+            },
+            {
+                "id": 15945,
+                "name": "Obshtina Chernoochene"
+            },
+            {
+                "id": 15946,
+                "name": "Obshtina Dzhebel"
+            },
+            {
+                "id": 15947,
+                "name": "Obshtina Kardzhali"
+            },
+            {
+                "id": 15948,
+                "name": "Obshtina Kirkovo"
+            },
+            {
+                "id": 15949,
+                "name": "Obshtina Momchilgrad"
+            }
+        ]
+    },
+    {
+        "id": 551,
+        "name": "Kyustendil Province",
+        "cities": [
+            {
+                "id": 15950,
+                "name": "Boboshevo"
+            },
+            {
+                "id": 15951,
+                "name": "Bobov Dol"
+            },
+            {
+                "id": 15952,
+                "name": "Dupnitsa"
+            },
+            {
+                "id": 15953,
+                "name": "Kocherinovo"
+            },
+            {
+                "id": 15954,
+                "name": "Kyustendil"
+            },
+            {
+                "id": 15955,
+                "name": "Nevestino"
+            },
+            {
+                "id": 15956,
+                "name": "Obshtina Boboshevo"
+            },
+            {
+                "id": 15957,
+                "name": "Obshtina Bobov Dol"
+            },
+            {
+                "id": 15958,
+                "name": "Obshtina Dupnitsa"
+            },
+            {
+                "id": 15959,
+                "name": "Obshtina Kocherinovo"
+            },
+            {
+                "id": 15960,
+                "name": "Obshtina Kyustendil"
+            },
+            {
+                "id": 15961,
+                "name": "Obshtina Nevestino"
+            },
+            {
+                "id": 15962,
+                "name": "Obshtina Rila"
+            },
+            {
+                "id": 15963,
+                "name": "Obshtina Sapareva Banya"
+            },
+            {
+                "id": 15964,
+                "name": "Obshtina Treklyano"
+            },
+            {
+                "id": 15965,
+                "name": "Rila"
+            },
+            {
+                "id": 15966,
+                "name": "Sapareva Banya"
+            }
+        ]
+    },
+    {
+        "id": 552,
+        "name": "Lovech Province",
+        "cities": [
+            {
+                "id": 15967,
+                "name": "Apriltsi"
+            },
+            {
+                "id": 15968,
+                "name": "Letnitsa"
+            },
+            {
+                "id": 15969,
+                "name": "Lovech"
+            },
+            {
+                "id": 15970,
+                "name": "Lukovit"
+            },
+            {
+                "id": 15971,
+                "name": "Obshtina Lovech"
+            },
+            {
+                "id": 15972,
+                "name": "Obshtina Teteven"
+            },
+            {
+                "id": 15973,
+                "name": "Obshtina Ugarchin"
+            },
+            {
+                "id": 15974,
+                "name": "Teteven"
+            },
+            {
+                "id": 15975,
+                "name": "Troyan"
+            },
+            {
+                "id": 15976,
+                "name": "Ugarchin"
+            },
+            {
+                "id": 15977,
+                "name": "Yablanitsa"
+            }
+        ]
+    },
+    {
+        "id": 553,
+        "name": "Montana Province",
+        "cities": [
+            {
+                "id": 15978,
+                "name": "Berkovitsa"
+            },
+            {
+                "id": 15979,
+                "name": "Boychinovtsi"
+            },
+            {
+                "id": 15980,
+                "name": "Brusartsi"
+            },
+            {
+                "id": 15981,
+                "name": "Chiprovtsi"
+            },
+            {
+                "id": 15982,
+                "name": "Lom"
+            },
+            {
+                "id": 15983,
+                "name": "Medkovets"
+            },
+            {
+                "id": 15984,
+                "name": "Montana"
+            },
+            {
+                "id": 15985,
+                "name": "Obshtina Boychinovtsi"
+            },
+            {
+                "id": 15986,
+                "name": "Obshtina Chiprovtsi"
+            },
+            {
+                "id": 15987,
+                "name": "Obshtina Georgi Damyanovo"
+            },
+            {
+                "id": 15988,
+                "name": "Obshtina Lom"
+            },
+            {
+                "id": 15989,
+                "name": "Obshtina Montana"
+            },
+            {
+                "id": 15990,
+                "name": "Obshtina Valchedram"
+            },
+            {
+                "id": 15991,
+                "name": "Obshtina Varshets"
+            },
+            {
+                "id": 15992,
+                "name": "Obshtina Yakimovo"
+            },
+            {
+                "id": 15993,
+                "name": "Valchedram"
+            },
+            {
+                "id": 15994,
+                "name": "Varshets"
+            },
+            {
+                "id": 15995,
+                "name": "Yakimovo"
+            }
+        ]
+    },
+    {
+        "id": 554,
+        "name": "Pazardzhik Province",
+        "cities": [
+            {
+                "id": 15996,
+                "name": "Batak"
+            },
+            {
+                "id": 15997,
+                "name": "Belovo"
+            },
+            {
+                "id": 15998,
+                "name": "Bratsigovo"
+            },
+            {
+                "id": 15999,
+                "name": "Lesichovo"
+            },
+            {
+                "id": 16000,
+                "name": "Obshtina Batak"
+            },
+            {
+                "id": 16001,
+                "name": "Obshtina Belovo"
+            },
+            {
+                "id": 16002,
+                "name": "Obshtina Bratsigovo"
+            },
+            {
+                "id": 16003,
+                "name": "Obshtina Lesichovo"
+            },
+            {
+                "id": 16004,
+                "name": "Obshtina Panagyurishte"
+            },
+            {
+                "id": 16005,
+                "name": "Obshtina Pazardzhik"
+            },
+            {
+                "id": 16006,
+                "name": "Obshtina Peshtera"
+            },
+            {
+                "id": 16007,
+                "name": "Obshtina Rakitovo"
+            },
+            {
+                "id": 16008,
+                "name": "Obshtina Septemvri"
+            },
+            {
+                "id": 16009,
+                "name": "Obshtina Strelcha"
+            },
+            {
+                "id": 16010,
+                "name": "Obshtina Velingrad"
+            },
+            {
+                "id": 16011,
+                "name": "Panagyurishte"
+            },
+            {
+                "id": 16012,
+                "name": "Pazardzhik"
+            },
+            {
+                "id": 16013,
+                "name": "Peshtera"
+            },
+            {
+                "id": 16014,
+                "name": "Rakitovo"
+            },
+            {
+                "id": 16015,
+                "name": "Sarnitsa"
+            },
+            {
+                "id": 16016,
+                "name": "Sarnitsa Obshtina"
+            },
+            {
+                "id": 16017,
+                "name": "Septemvri"
+            },
+            {
+                "id": 16018,
+                "name": "Strelcha"
+            },
+            {
+                "id": 16019,
+                "name": "Velingrad"
+            }
+        ]
+    },
+    {
+        "id": 555,
+        "name": "Pernik Province",
+        "cities": [
+            {
+                "id": 16020,
+                "name": "Batanovtsi"
+            },
+            {
+                "id": 16021,
+                "name": "Breznik"
+            },
+            {
+                "id": 16022,
+                "name": "Obshtina Kovachevtsi"
+            },
+            {
+                "id": 16023,
+                "name": "Obshtina Pernik"
+            },
+            {
+                "id": 16024,
+                "name": "Obshtina Radomir"
+            },
+            {
+                "id": 16025,
+                "name": "Obshtina Zemen"
+            },
+            {
+                "id": 16026,
+                "name": "Pernik"
+            },
+            {
+                "id": 16027,
+                "name": "Radomir"
+            },
+            {
+                "id": 16028,
+                "name": "Tran"
+            },
+            {
+                "id": 16029,
+                "name": "Zemen"
+            }
+        ]
+    },
+    {
+        "id": 556,
+        "name": "Pleven Province",
+        "cities": [
+            {
+                "id": 16030,
+                "name": "Belene"
+            },
+            {
+                "id": 16031,
+                "name": "Cherven Bryag"
+            },
+            {
+                "id": 16032,
+                "name": "Dolna Mitropolia"
+            },
+            {
+                "id": 16033,
+                "name": "Dolni Dabnik"
+            },
+            {
+                "id": 16034,
+                "name": "Gulyantsi"
+            },
+            {
+                "id": 16035,
+                "name": "Iskar"
+            },
+            {
+                "id": 16036,
+                "name": "Knezha"
+            },
+            {
+                "id": 16037,
+                "name": "Koynare"
+            },
+            {
+                "id": 16038,
+                "name": "Levski"
+            },
+            {
+                "id": 16039,
+                "name": "Nikopol"
+            },
+            {
+                "id": 16040,
+                "name": "Obshtina Belene"
+            },
+            {
+                "id": 16041,
+                "name": "Obshtina Cherven Bryag"
+            },
+            {
+                "id": 16042,
+                "name": "Obshtina Dolna Mitropolia"
+            },
+            {
+                "id": 16043,
+                "name": "Obshtina Dolni Dabnik"
+            },
+            {
+                "id": 16044,
+                "name": "Obshtina Gulyantsi"
+            },
+            {
+                "id": 16045,
+                "name": "Obshtina Iskar"
+            },
+            {
+                "id": 16046,
+                "name": "Obshtina Knezha"
+            },
+            {
+                "id": 16047,
+                "name": "Obshtina Levski"
+            },
+            {
+                "id": 16048,
+                "name": "Obshtina Nikopol"
+            },
+            {
+                "id": 16049,
+                "name": "Obshtina Pleven"
+            },
+            {
+                "id": 16050,
+                "name": "Obshtina Pordim"
+            },
+            {
+                "id": 16051,
+                "name": "Pleven"
+            },
+            {
+                "id": 16052,
+                "name": "Pordim"
+            },
+            {
+                "id": 16053,
+                "name": "Slavyanovo"
+            }
+        ]
+    },
+    {
+        "id": 557,
+        "name": "Plovdiv Province",
+        "cities": [
+            {
+                "id": 16054,
+                "name": "Asenovgrad"
+            },
+            {
+                "id": 16055,
+                "name": "Brezovo"
+            },
+            {
+                "id": 16056,
+                "name": "Hisarya"
+            },
+            {
+                "id": 16057,
+                "name": "Kalofer"
+            },
+            {
+                "id": 16058,
+                "name": "Kaloyanovo"
+            },
+            {
+                "id": 16059,
+                "name": "Karlovo"
+            },
+            {
+                "id": 16060,
+                "name": "Klisura"
+            },
+            {
+                "id": 16061,
+                "name": "Krichim"
+            },
+            {
+                "id": 16062,
+                "name": "Laki"
+            },
+            {
+                "id": 16063,
+                "name": "Obshtina Asenovgrad"
+            },
+            {
+                "id": 16064,
+                "name": "Obshtina Hisarya"
+            },
+            {
+                "id": 16065,
+                "name": "Obshtina Kaloyanovo"
+            },
+            {
+                "id": 16066,
+                "name": "Obshtina Karlovo"
+            },
+            {
+                "id": 16067,
+                "name": "Obshtina Krichim"
+            },
+            {
+                "id": 16068,
+                "name": "Obshtina Kuklen"
+            },
+            {
+                "id": 16069,
+                "name": "Obshtina Laki"
+            },
+            {
+                "id": 16070,
+                "name": "Obshtina Maritsa"
+            },
+            {
+                "id": 16071,
+                "name": "Obshtina Parvomay"
+            },
+            {
+                "id": 16072,
+                "name": "Obshtina Perushtitsa"
+            },
+            {
+                "id": 16073,
+                "name": "Obshtina Plovdiv"
+            },
+            {
+                "id": 16074,
+                "name": "Obshtina Rakovski"
+            },
+            {
+                "id": 16075,
+                "name": "Obshtina Rodopi"
+            },
+            {
+                "id": 16076,
+                "name": "Obshtina Sadovo"
+            },
+            {
+                "id": 16077,
+                "name": "Obshtina Saedinenie"
+            },
+            {
+                "id": 16078,
+                "name": "Obshtina Sopot"
+            },
+            {
+                "id": 16079,
+                "name": "Obshtina Stamboliyski"
+            },
+            {
+                "id": 16080,
+                "name": "Parvomay"
+            },
+            {
+                "id": 16081,
+                "name": "Perushtitsa"
+            },
+            {
+                "id": 16082,
+                "name": "Plovdiv"
+            },
+            {
+                "id": 16083,
+                "name": "Rakovski"
+            },
+            {
+                "id": 16084,
+                "name": "Sadovo"
+            },
+            {
+                "id": 16085,
+                "name": "Saedinenie"
+            },
+            {
+                "id": 16086,
+                "name": "Stamboliyski"
+            },
+            {
+                "id": 16087,
+                "name": "Topolovo"
+            }
+        ]
+    },
+    {
+        "id": 558,
+        "name": "Razgrad Province",
+        "cities": [
+            {
+                "id": 16088,
+                "name": "Isperih"
+            },
+            {
+                "id": 16089,
+                "name": "Kubrat"
+            },
+            {
+                "id": 16090,
+                "name": "Loznitsa"
+            },
+            {
+                "id": 16091,
+                "name": "Medovene"
+            },
+            {
+                "id": 16092,
+                "name": "Obshtina Isperih"
+            },
+            {
+                "id": 16093,
+                "name": "Obshtina Kubrat"
+            },
+            {
+                "id": 16094,
+                "name": "Obshtina Loznitsa"
+            },
+            {
+                "id": 16095,
+                "name": "Obshtina Razgrad"
+            },
+            {
+                "id": 16096,
+                "name": "Obshtina Samuil"
+            },
+            {
+                "id": 16097,
+                "name": "Obshtina Tsar Kaloyan"
+            },
+            {
+                "id": 16098,
+                "name": "Obshtina Zavet"
+            },
+            {
+                "id": 16099,
+                "name": "Razgrad"
+            },
+            {
+                "id": 16100,
+                "name": "Samuil"
+            },
+            {
+                "id": 16101,
+                "name": "Tsar Kaloyan"
+            },
+            {
+                "id": 16102,
+                "name": "Zavet"
+            }
+        ]
+    },
+    {
+        "id": 559,
+        "name": "Ruse Province",
+        "cities": [
+            {
+                "id": 16103,
+                "name": "Borovo"
+            },
+            {
+                "id": 16104,
+                "name": "Dve Mogili"
+            },
+            {
+                "id": 16105,
+                "name": "Ivanovo"
+            },
+            {
+                "id": 16106,
+                "name": "Obshtina Borovo"
+            },
+            {
+                "id": 16107,
+                "name": "Obshtina Byala"
+            },
+            {
+                "id": 16108,
+                "name": "Obshtina Dve Mogili"
+            },
+            {
+                "id": 16109,
+                "name": "Obshtina Ivanovo"
+            },
+            {
+                "id": 16110,
+                "name": "Obshtina Ruse"
+            },
+            {
+                "id": 16111,
+                "name": "Obshtina Slivo Pole"
+            },
+            {
+                "id": 16112,
+                "name": "Obshtina Tsenovo"
+            },
+            {
+                "id": 16113,
+                "name": "Obshtina Vetovo"
+            },
+            {
+                "id": 16114,
+                "name": "Ruse"
+            },
+            {
+                "id": 16115,
+                "name": "Senovo"
+            },
+            {
+                "id": 16116,
+                "name": "Slivo Pole"
+            },
+            {
+                "id": 16117,
+                "name": "Tsenovo"
+            },
+            {
+                "id": 16118,
+                "name": "Vetovo"
+            }
+        ]
+    },
+    {
+        "id": 560,
+        "name": "Silistra Province",
+        "cities": [
+            {
+                "id": 16119,
+                "name": "Alfatar"
+            },
+            {
+                "id": 16120,
+                "name": "Dulovo"
+            },
+            {
+                "id": 16121,
+                "name": "Glavinitsa"
+            },
+            {
+                "id": 16122,
+                "name": "Kaynardzha"
+            },
+            {
+                "id": 16123,
+                "name": "Obshtina Alfatar"
+            },
+            {
+                "id": 16124,
+                "name": "Obshtina Dulovo"
+            },
+            {
+                "id": 16125,
+                "name": "Obshtina Glavinitsa"
+            },
+            {
+                "id": 16126,
+                "name": "Obshtina Kaynardzha"
+            },
+            {
+                "id": 16127,
+                "name": "Obshtina Silistra"
+            },
+            {
+                "id": 16128,
+                "name": "Obshtina Sitovo"
+            },
+            {
+                "id": 16129,
+                "name": "Obshtina Tutrakan"
+            },
+            {
+                "id": 16130,
+                "name": "Silistra"
+            },
+            {
+                "id": 16131,
+                "name": "Sitovo"
+            },
+            {
+                "id": 16132,
+                "name": "Tutrakan"
+            }
+        ]
+    },
+    {
+        "id": 561,
+        "name": "Sliven Province",
+        "cities": [
+            {
+                "id": 16133,
+                "name": "Kermen"
+            },
+            {
+                "id": 16134,
+                "name": "Kotel"
+            },
+            {
+                "id": 16135,
+                "name": "Nova Zagora"
+            },
+            {
+                "id": 16136,
+                "name": "Obshtina Kotel"
+            },
+            {
+                "id": 16137,
+                "name": "Obshtina Nova Zagora"
+            },
+            {
+                "id": 16138,
+                "name": "Obshtina Sliven"
+            },
+            {
+                "id": 16139,
+                "name": "Obshtina Tvarditsa"
+            },
+            {
+                "id": 16140,
+                "name": "Sliven"
+            },
+            {
+                "id": 16141,
+                "name": "Tvarditsa"
+            }
+        ]
+    },
+    {
+        "id": 562,
+        "name": "Smolyan Province",
+        "cities": [
+            {
+                "id": 16142,
+                "name": "Banite"
+            },
+            {
+                "id": 16143,
+                "name": "Borino"
+            },
+            {
+                "id": 16144,
+                "name": "Chepelare"
+            },
+            {
+                "id": 16145,
+                "name": "Devin"
+            },
+            {
+                "id": 16146,
+                "name": "Dospat"
+            },
+            {
+                "id": 16147,
+                "name": "Gyovren"
+            },
+            {
+                "id": 16148,
+                "name": "Madan"
+            },
+            {
+                "id": 16149,
+                "name": "Nedelino"
+            },
+            {
+                "id": 16150,
+                "name": "Obshtina Banite"
+            },
+            {
+                "id": 16151,
+                "name": "Obshtina Borino"
+            },
+            {
+                "id": 16152,
+                "name": "Obshtina Chepelare"
+            },
+            {
+                "id": 16153,
+                "name": "Obshtina Devin"
+            },
+            {
+                "id": 16154,
+                "name": "Obshtina Dospat"
+            },
+            {
+                "id": 16155,
+                "name": "Obshtina Madan"
+            },
+            {
+                "id": 16156,
+                "name": "Obshtina Nedelino"
+            },
+            {
+                "id": 16157,
+                "name": "Obshtina Rudozem"
+            },
+            {
+                "id": 16158,
+                "name": "Obshtina Smolyan"
+            },
+            {
+                "id": 16159,
+                "name": "Obshtina Zlatograd"
+            },
+            {
+                "id": 16160,
+                "name": "Rudozem"
+            },
+            {
+                "id": 16161,
+                "name": "Smolyan"
+            },
+            {
+                "id": 16162,
+                "name": "Zlatograd"
+            }
+        ]
+    },
+    {
+        "id": 563,
+        "name": "Sofia City Province",
+        "cities": [
+            {
+                "id": 16163,
+                "name": "Buhovo"
+            },
+            {
+                "id": 16164,
+                "name": "Sofia"
+            },
+            {
+                "id": 16165,
+                "name": "Stolichna Obshtina"
+            }
+        ]
+    },
+    {
+        "id": 564,
+        "name": "Sofia Province",
+        "cities": [
+            {
+                "id": 16166,
+                "name": "Anton"
+            },
+            {
+                "id": 16167,
+                "name": "Botevgrad"
+            },
+            {
+                "id": 16168,
+                "name": "Bozhurishte"
+            },
+            {
+                "id": 16169,
+                "name": "Chavdar"
+            },
+            {
+                "id": 16170,
+                "name": "Chelopech"
+            },
+            {
+                "id": 16171,
+                "name": "Dolna Banya"
+            },
+            {
+                "id": 16172,
+                "name": "Dragoman"
+            },
+            {
+                "id": 16173,
+                "name": "Elin Pelin"
+            },
+            {
+                "id": 16174,
+                "name": "Etropole"
+            },
+            {
+                "id": 16175,
+                "name": "Godech"
+            },
+            {
+                "id": 16176,
+                "name": "Gorna Malina"
+            },
+            {
+                "id": 16177,
+                "name": "Ihtiman"
+            },
+            {
+                "id": 16178,
+                "name": "Koprivshtitsa"
+            },
+            {
+                "id": 16179,
+                "name": "Kostinbrod"
+            },
+            {
+                "id": 16180,
+                "name": "Lakatnik"
+            },
+            {
+                "id": 16181,
+                "name": "Mirkovo"
+            },
+            {
+                "id": 16182,
+                "name": "Obshtina Anton"
+            },
+            {
+                "id": 16183,
+                "name": "Obshtina Botevgrad"
+            },
+            {
+                "id": 16184,
+                "name": "Obshtina Bozhurishte"
+            },
+            {
+                "id": 16185,
+                "name": "Obshtina Chavdar"
+            },
+            {
+                "id": 16186,
+                "name": "Obshtina Chelopech"
+            },
+            {
+                "id": 16187,
+                "name": "Obshtina Dolna Banya"
+            },
+            {
+                "id": 16188,
+                "name": "Obshtina Dragoman"
+            },
+            {
+                "id": 16189,
+                "name": "Obshtina Elin Pelin"
+            },
+            {
+                "id": 16190,
+                "name": "Obshtina Etropole"
+            },
+            {
+                "id": 16191,
+                "name": "Obshtina Gorna Malina"
+            },
+            {
+                "id": 16192,
+                "name": "Obshtina Koprivshtitsa"
+            },
+            {
+                "id": 16193,
+                "name": "Obshtina Kostenets"
+            },
+            {
+                "id": 16194,
+                "name": "Obshtina Kostinbrod"
+            },
+            {
+                "id": 16195,
+                "name": "Obshtina Mirkovo"
+            },
+            {
+                "id": 16196,
+                "name": "Obshtina Pirdop"
+            },
+            {
+                "id": 16197,
+                "name": "Obshtina Pravets"
+            },
+            {
+                "id": 16198,
+                "name": "Obshtina Samokov"
+            },
+            {
+                "id": 16199,
+                "name": "Obshtina Slivnitsa"
+            },
+            {
+                "id": 16200,
+                "name": "Obshtina Svoge"
+            },
+            {
+                "id": 16201,
+                "name": "Obshtina Zlatitsa"
+            },
+            {
+                "id": 16202,
+                "name": "Pirdop"
+            },
+            {
+                "id": 16203,
+                "name": "Pravets"
+            },
+            {
+                "id": 16204,
+                "name": "Samokov"
+            },
+            {
+                "id": 16205,
+                "name": "Slivnitsa"
+            },
+            {
+                "id": 16206,
+                "name": "Svoge"
+            },
+            {
+                "id": 16207,
+                "name": "Zlatitsa"
+            }
+        ]
+    },
+    {
+        "id": 565,
+        "name": "Stara Zagora Province",
+        "cities": [
+            {
+                "id": 16208,
+                "name": "Asen"
+            },
+            {
+                "id": 16209,
+                "name": "Chirpan"
+            },
+            {
+                "id": 16210,
+                "name": "Gŭlŭbovo"
+            },
+            {
+                "id": 16211,
+                "name": "Gurkovo"
+            },
+            {
+                "id": 16212,
+                "name": "Kazanlak"
+            },
+            {
+                "id": 16213,
+                "name": "Maglizh"
+            },
+            {
+                "id": 16214,
+                "name": "Nikolaevo"
+            },
+            {
+                "id": 16215,
+                "name": "Obshtina Bratya Daskalovi"
+            },
+            {
+                "id": 16216,
+                "name": "Obshtina Chirpan"
+            },
+            {
+                "id": 16217,
+                "name": "Obshtina Galabovo"
+            },
+            {
+                "id": 16218,
+                "name": "Obshtina Gurkovo"
+            },
+            {
+                "id": 16219,
+                "name": "Obshtina Kazanlŭk"
+            },
+            {
+                "id": 16220,
+                "name": "Obshtina Maglizh"
+            },
+            {
+                "id": 16221,
+                "name": "Obshtina Nikolaevo"
+            },
+            {
+                "id": 16222,
+                "name": "Obshtina Opan"
+            },
+            {
+                "id": 16223,
+                "name": "Obshtina Pavel Banya"
+            },
+            {
+                "id": 16224,
+                "name": "Obshtina Radnevo"
+            },
+            {
+                "id": 16225,
+                "name": "Obshtina Stara Zagora"
+            },
+            {
+                "id": 16226,
+                "name": "Pavel Banya"
+            },
+            {
+                "id": 16227,
+                "name": "Radnevo"
+            },
+            {
+                "id": 16228,
+                "name": "Shipka"
+            },
+            {
+                "id": 16229,
+                "name": "Stara Zagora"
+            }
+        ]
+    },
+    {
+        "id": 566,
+        "name": "Targovishte Province",
+        "cities": [
+            {
+                "id": 16230,
+                "name": "Antonovo"
+            },
+            {
+                "id": 16231,
+                "name": "Obshtina Antonovo"
+            },
+            {
+                "id": 16232,
+                "name": "Obshtina Omurtag"
+            },
+            {
+                "id": 16233,
+                "name": "Obshtina Opaka"
+            },
+            {
+                "id": 16234,
+                "name": "Obshtina Popovo"
+            },
+            {
+                "id": 16235,
+                "name": "Obshtina Targovishte"
+            },
+            {
+                "id": 16236,
+                "name": "Omurtag"
+            },
+            {
+                "id": 16237,
+                "name": "Opaka"
+            },
+            {
+                "id": 16238,
+                "name": "Popovo"
+            },
+            {
+                "id": 16239,
+                "name": "Targovishte"
+            }
+        ]
+    },
+    {
+        "id": 567,
+        "name": "Varna Province",
+        "cities": [
+            {
+                "id": 16240,
+                "name": "Aksakovo"
+            },
+            {
+                "id": 16241,
+                "name": "Asparuhovo"
+            },
+            {
+                "id": 16242,
+                "name": "Balgarevo"
+            },
+            {
+                "id": 16243,
+                "name": "Beloslav"
+            },
+            {
+                "id": 16244,
+                "name": "Byala"
+            },
+            {
+                "id": 16245,
+                "name": "Dalgopol"
+            },
+            {
+                "id": 16246,
+                "name": "Devnya"
+            },
+            {
+                "id": 16247,
+                "name": "Dolni Chiflik"
+            },
+            {
+                "id": 16248,
+                "name": "Kiten"
+            },
+            {
+                "id": 16249,
+                "name": "Obshtina Aksakovo"
+            },
+            {
+                "id": 16250,
+                "name": "Obshtina Avren"
+            },
+            {
+                "id": 16251,
+                "name": "Obshtina Beloslav"
+            },
+            {
+                "id": 16252,
+                "name": "Obshtina Byala"
+            },
+            {
+                "id": 16253,
+                "name": "Obshtina Dalgopol"
+            },
+            {
+                "id": 16254,
+                "name": "Obshtina Devnya"
+            },
+            {
+                "id": 16255,
+                "name": "Obshtina Dolni Chiflik"
+            },
+            {
+                "id": 16256,
+                "name": "Obshtina Provadia"
+            },
+            {
+                "id": 16257,
+                "name": "Obshtina Suvorovo"
+            },
+            {
+                "id": 16258,
+                "name": "Obshtina Valchidol"
+            },
+            {
+                "id": 16259,
+                "name": "Obshtina Varna"
+            },
+            {
+                "id": 16260,
+                "name": "Obshtina Vetrino"
+            },
+            {
+                "id": 16261,
+                "name": "Provadia"
+            },
+            {
+                "id": 16262,
+                "name": "Suvorovo"
+            },
+            {
+                "id": 16263,
+                "name": "Valchidol"
+            },
+            {
+                "id": 16264,
+                "name": "Varna"
+            },
+            {
+                "id": 16265,
+                "name": "Vetrino"
+            },
+            {
+                "id": 16266,
+                "name": "Zlatni Pyasatsi"
+            }
+        ]
+    },
+    {
+        "id": 568,
+        "name": "Veliko Tarnovo Province",
+        "cities": [
+            {
+                "id": 16267,
+                "name": "Byala Cherkva"
+            },
+            {
+                "id": 16268,
+                "name": "Debelets"
+            },
+            {
+                "id": 16269,
+                "name": "Elena"
+            },
+            {
+                "id": 16270,
+                "name": "Gorna Oryahovitsa"
+            },
+            {
+                "id": 16271,
+                "name": "Kilifarevo"
+            },
+            {
+                "id": 16272,
+                "name": "Lyaskovets"
+            },
+            {
+                "id": 16273,
+                "name": "Obshtina Elena"
+            },
+            {
+                "id": 16274,
+                "name": "Obshtina Gorna Oryahovitsa"
+            },
+            {
+                "id": 16275,
+                "name": "Obshtina Lyaskovets"
+            },
+            {
+                "id": 16276,
+                "name": "Obshtina Pavlikeni"
+            },
+            {
+                "id": 16277,
+                "name": "Obshtina Polski Trambesh"
+            },
+            {
+                "id": 16278,
+                "name": "Obshtina Strazhitsa"
+            },
+            {
+                "id": 16279,
+                "name": "Obshtina Suhindol"
+            },
+            {
+                "id": 16280,
+                "name": "Obshtina Svishtov"
+            },
+            {
+                "id": 16281,
+                "name": "Obshtina Veliko Tŭrnovo"
+            },
+            {
+                "id": 16282,
+                "name": "Obshtina Zlataritsa"
+            },
+            {
+                "id": 16283,
+                "name": "Parvomaytsi"
+            },
+            {
+                "id": 16284,
+                "name": "Pavlikeni"
+            },
+            {
+                "id": 16285,
+                "name": "Polski Trambesh"
+            },
+            {
+                "id": 16286,
+                "name": "Strazhitsa"
+            },
+            {
+                "id": 16287,
+                "name": "Suhindol"
+            },
+            {
+                "id": 16288,
+                "name": "Svishtov"
+            },
+            {
+                "id": 16289,
+                "name": "Veliko Tŭrnovo"
+            },
+            {
+                "id": 16290,
+                "name": "Zlataritsa"
+            }
+        ]
+    },
+    {
+        "id": 569,
+        "name": "Vidin Province",
+        "cities": [
+            {
+                "id": 16291,
+                "name": "Belogradchik"
+            },
+            {
+                "id": 16292,
+                "name": "Boynitsa"
+            },
+            {
+                "id": 16293,
+                "name": "Bregovo"
+            },
+            {
+                "id": 16294,
+                "name": "Chuprene"
+            },
+            {
+                "id": 16295,
+                "name": "Dimovo"
+            },
+            {
+                "id": 16296,
+                "name": "Drenovets"
+            },
+            {
+                "id": 16297,
+                "name": "Dunavtsi"
+            },
+            {
+                "id": 16298,
+                "name": "Gramada"
+            },
+            {
+                "id": 16299,
+                "name": "Kula"
+            },
+            {
+                "id": 16300,
+                "name": "Makresh"
+            },
+            {
+                "id": 16301,
+                "name": "Novo Selo"
+            },
+            {
+                "id": 16302,
+                "name": "Obshtina Belogradchik"
+            },
+            {
+                "id": 16303,
+                "name": "Obshtina Boynitsa"
+            },
+            {
+                "id": 16304,
+                "name": "Obshtina Dimovo"
+            },
+            {
+                "id": 16305,
+                "name": "Obshtina Gramada"
+            },
+            {
+                "id": 16306,
+                "name": "Obshtina Kula"
+            },
+            {
+                "id": 16307,
+                "name": "Obshtina Ruzhintsi"
+            },
+            {
+                "id": 16308,
+                "name": "Obshtina Vidin"
+            },
+            {
+                "id": 16309,
+                "name": "Ruzhintsi"
+            },
+            {
+                "id": 16310,
+                "name": "Vidin"
+            }
+        ]
+    },
+    {
+        "id": 570,
+        "name": "Vratsa Province",
+        "cities": [
+            {
+                "id": 16311,
+                "name": "Borovan"
+            },
+            {
+                "id": 16312,
+                "name": "Byala Slatina"
+            },
+            {
+                "id": 16313,
+                "name": "Hayredin"
+            },
+            {
+                "id": 16314,
+                "name": "Kozloduy"
+            },
+            {
+                "id": 16315,
+                "name": "Krivodol"
+            },
+            {
+                "id": 16316,
+                "name": "Mezdra"
+            },
+            {
+                "id": 16317,
+                "name": "Mizia"
+            },
+            {
+                "id": 16318,
+                "name": "Obshtina Borovan"
+            },
+            {
+                "id": 16319,
+                "name": "Obshtina Hayredin"
+            },
+            {
+                "id": 16320,
+                "name": "Obshtina Kozloduy"
+            },
+            {
+                "id": 16321,
+                "name": "Obshtina Krivodol"
+            },
+            {
+                "id": 16322,
+                "name": "Obshtina Mezdra"
+            },
+            {
+                "id": 16323,
+                "name": "Obshtina Mizia"
+            },
+            {
+                "id": 16324,
+                "name": "Obshtina Oryahovo"
+            },
+            {
+                "id": 16325,
+                "name": "Obshtina Roman"
+            },
+            {
+                "id": 16326,
+                "name": "Obshtina Vratsa"
+            },
+            {
+                "id": 16327,
+                "name": "Oryahovo"
+            },
+            {
+                "id": 16328,
+                "name": "Roman"
+            },
+            {
+                "id": 16329,
+                "name": "Vratsa"
+            }
+        ]
+    },
+    {
+        "id": 571,
+        "name": "Yambol Province",
+        "cities": [
+            {
+                "id": 16330,
+                "name": "Bolyarovo"
+            },
+            {
+                "id": 16331,
+                "name": "Elhovo"
+            },
+            {
+                "id": 16332,
+                "name": "Obshtina Bolyarovo"
+            },
+            {
+                "id": 16333,
+                "name": "Obshtina Elhovo"
+            },
+            {
+                "id": 16334,
+                "name": "Obshtina Straldzha"
+            },
+            {
+                "id": 16335,
+                "name": "Obshtina Tundzha"
+            },
+            {
+                "id": 16336,
+                "name": "Obshtina Yambol"
+            },
+            {
+                "id": 16337,
+                "name": "Straldzha"
+            },
+            {
+                "id": 16338,
+                "name": "Yambol"
+            }
+        ]
+    }
+]

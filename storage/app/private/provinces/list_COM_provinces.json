@@ -1,0 +1,372 @@
+[
+    {
+        "id": 838,
+        "name": "Anjouan",
+        "cities": [
+            {
+                "id": 20480,
+                "name": "Adda-Douéni"
+            },
+            {
+                "id": 20481,
+                "name": "Antsahé"
+            },
+            {
+                "id": 20482,
+                "name": "Assimpao"
+            },
+            {
+                "id": 20483,
+                "name": "Bambao"
+            },
+            {
+                "id": 20484,
+                "name": "Bandajou"
+            },
+            {
+                "id": 20485,
+                "name": "Barakani"
+            },
+            {
+                "id": 20486,
+                "name": "Bimbini"
+            },
+            {
+                "id": 20487,
+                "name": "Boungouéni"
+            },
+            {
+                "id": 20488,
+                "name": "Chandra"
+            },
+            {
+                "id": 20489,
+                "name": "Chironkamba"
+            },
+            {
+                "id": 20490,
+                "name": "Chitrouni"
+            },
+            {
+                "id": 20491,
+                "name": "Daji"
+            },
+            {
+                "id": 20492,
+                "name": "Domoni"
+            },
+            {
+                "id": 20493,
+                "name": "Dziani"
+            },
+            {
+                "id": 20494,
+                "name": "Hajoho"
+            },
+            {
+                "id": 20495,
+                "name": "Harembo"
+            },
+            {
+                "id": 20496,
+                "name": "Kangani"
+            },
+            {
+                "id": 20497,
+                "name": "Kavani"
+            },
+            {
+                "id": 20498,
+                "name": "Koki"
+            },
+            {
+                "id": 20499,
+                "name": "Koni-Djodjo"
+            },
+            {
+                "id": 20500,
+                "name": "Koni-Ngani"
+            },
+            {
+                "id": 20501,
+                "name": "Kyo"
+            },
+            {
+                "id": 20502,
+                "name": "Limbi"
+            },
+            {
+                "id": 20503,
+                "name": "Lingoni"
+            },
+            {
+                "id": 20504,
+                "name": "Magnassini-Nindri"
+            },
+            {
+                "id": 20505,
+                "name": "Maraharé"
+            },
+            {
+                "id": 20506,
+                "name": "Mirontsi"
+            },
+            {
+                "id": 20507,
+                "name": "Mjamaoué"
+            },
+            {
+                "id": 20508,
+                "name": "Mjimandra"
+            },
+            {
+                "id": 20509,
+                "name": "Moutsamoudou"
+            },
+            {
+                "id": 20510,
+                "name": "Moya"
+            },
+            {
+                "id": 20511,
+                "name": "Mramani"
+            },
+            {
+                "id": 20512,
+                "name": "Mrémani"
+            },
+            {
+                "id": 20513,
+                "name": "Ongoni"
+            },
+            {
+                "id": 20514,
+                "name": "Ouani"
+            },
+            {
+                "id": 20515,
+                "name": "Ouzini"
+            },
+            {
+                "id": 20516,
+                "name": "Pajé"
+            },
+            {
+                "id": 20517,
+                "name": "Patsi"
+            },
+            {
+                "id": 20518,
+                "name": "Sima"
+            },
+            {
+                "id": 20519,
+                "name": "Tsimbeo"
+            },
+            {
+                "id": 20520,
+                "name": "Vouani"
+            }
+        ]
+    },
+    {
+        "id": 839,
+        "name": "Grande Comore",
+        "cities": [
+            {
+                "id": 20521,
+                "name": "Bahani"
+            },
+            {
+                "id": 20522,
+                "name": "Bambadjani"
+            },
+            {
+                "id": 20523,
+                "name": "Bouni"
+            },
+            {
+                "id": 20524,
+                "name": "Chezani"
+            },
+            {
+                "id": 20525,
+                "name": "Chindini"
+            },
+            {
+                "id": 20526,
+                "name": "Chouani"
+            },
+            {
+                "id": 20527,
+                "name": "Dembéni"
+            },
+            {
+                "id": 20528,
+                "name": "Douniani"
+            },
+            {
+                "id": 20529,
+                "name": "Dzahadjou"
+            },
+            {
+                "id": 20530,
+                "name": "Foumbouni"
+            },
+            {
+                "id": 20531,
+                "name": "Hantsindzi"
+            },
+            {
+                "id": 20532,
+                "name": "Héroumbili"
+            },
+            {
+                "id": 20533,
+                "name": "Itsandra"
+            },
+            {
+                "id": 20534,
+                "name": "Itsandzéni"
+            },
+            {
+                "id": 20535,
+                "name": "Ivouani"
+            },
+            {
+                "id": 20536,
+                "name": "Koua"
+            },
+            {
+                "id": 20537,
+                "name": "Madjeouéni"
+            },
+            {
+                "id": 20538,
+                "name": "Mandza"
+            },
+            {
+                "id": 20539,
+                "name": "Mavingouni"
+            },
+            {
+                "id": 20540,
+                "name": "Mbéni"
+            },
+            {
+                "id": 20541,
+                "name": "Mitsamiouli"
+            },
+            {
+                "id": 20542,
+                "name": "Mitsoudjé"
+            },
+            {
+                "id": 20543,
+                "name": "Mnoungou"
+            },
+            {
+                "id": 20544,
+                "name": "Mohoro"
+            },
+            {
+                "id": 20545,
+                "name": "Moroni"
+            },
+            {
+                "id": 20546,
+                "name": "Mtsamdou"
+            },
+            {
+                "id": 20547,
+                "name": "Mvouni"
+            },
+            {
+                "id": 20548,
+                "name": "Nioumamilima"
+            },
+            {
+                "id": 20549,
+                "name": "Ntsaouéni"
+            },
+            {
+                "id": 20550,
+                "name": "Ntsoudjini"
+            },
+            {
+                "id": 20551,
+                "name": "Ouellah"
+            },
+            {
+                "id": 20552,
+                "name": "Ouhozi"
+            },
+            {
+                "id": 20553,
+                "name": "Ourovéni"
+            },
+            {
+                "id": 20554,
+                "name": "Oussivo"
+            },
+            {
+                "id": 20555,
+                "name": "Salimani"
+            },
+            {
+                "id": 20556,
+                "name": "Séléa"
+            },
+            {
+                "id": 20557,
+                "name": "Singani"
+            },
+            {
+                "id": 20558,
+                "name": "Tsidjé"
+            },
+            {
+                "id": 20559,
+                "name": "Vanadjou"
+            },
+            {
+                "id": 20560,
+                "name": "Vanambouani"
+            }
+        ]
+    },
+    {
+        "id": 840,
+        "name": "Mohéli",
+        "cities": [
+            {
+                "id": 20561,
+                "name": "Djoyézi"
+            },
+            {
+                "id": 20562,
+                "name": "Fomboni"
+            },
+            {
+                "id": 20563,
+                "name": "Hoani"
+            },
+            {
+                "id": 20564,
+                "name": "Mtakoudja"
+            },
+            {
+                "id": 20565,
+                "name": "Nioumachoua"
+            },
+            {
+                "id": 20566,
+                "name": "Ouanani"
+            },
+            {
+                "id": 20567,
+                "name": "Ziroudani"
+            }
+        ]
+    }
+]

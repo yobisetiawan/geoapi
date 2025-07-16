@@ -1,0 +1,162 @@
+[
+    {
+        "id": 3475,
+        "name": "Anse Boileau",
+        "cities": [
+            {
+                "id": 102273,
+                "name": "Anse Boileau"
+            }
+        ]
+    },
+    {
+        "id": 3476,
+        "name": "Anse Royale",
+        "cities": [
+            {
+                "id": 102274,
+                "name": "Anse Royale"
+            }
+        ]
+    },
+    {
+        "id": 3477,
+        "name": "Anse-aux-Pins",
+        "cities": []
+    },
+    {
+        "id": 3478,
+        "name": "Au Cap",
+        "cities": []
+    },
+    {
+        "id": 3479,
+        "name": "Baie Lazare",
+        "cities": []
+    },
+    {
+        "id": 3480,
+        "name": "Baie Sainte Anne",
+        "cities": []
+    },
+    {
+        "id": 3481,
+        "name": "Beau Vallon",
+        "cities": [
+            {
+                "id": 102275,
+                "name": "Beau Vallon"
+            }
+        ]
+    },
+    {
+        "id": 3482,
+        "name": "Bel Air",
+        "cities": []
+    },
+    {
+        "id": 3483,
+        "name": "Bel Ombre",
+        "cities": [
+            {
+                "id": 102276,
+                "name": "Bel Ombre"
+            }
+        ]
+    },
+    {
+        "id": 3484,
+        "name": "Cascade",
+        "cities": [
+            {
+                "id": 102277,
+                "name": "Cascade"
+            }
+        ]
+    },
+    {
+        "id": 3485,
+        "name": "Glacis",
+        "cities": []
+    },
+    {
+        "id": 3486,
+        "name": "Grand'Anse Mahé",
+        "cities": []
+    },
+    {
+        "id": 3487,
+        "name": "Grand'Anse Praslin",
+        "cities": []
+    },
+    {
+        "id": 3488,
+        "name": "La Digue",
+        "cities": []
+    },
+    {
+        "id": 3489,
+        "name": "La Rivière Anglaise",
+        "cities": [
+            {
+                "id": 102278,
+                "name": "Victoria"
+            }
+        ]
+    },
+    {
+        "id": 3490,
+        "name": "Les Mamelles",
+        "cities": []
+    },
+    {
+        "id": 3491,
+        "name": "Mont Buxton",
+        "cities": []
+    },
+    {
+        "id": 3492,
+        "name": "Mont Fleuri",
+        "cities": []
+    },
+    {
+        "id": 3493,
+        "name": "Plaisance",
+        "cities": []
+    },
+    {
+        "id": 3494,
+        "name": "Pointe La Rue",
+        "cities": []
+    },
+    {
+        "id": 3495,
+        "name": "Port Glaud",
+        "cities": [
+            {
+                "id": 102279,
+                "name": "Port Glaud"
+            }
+        ]
+    },
+    {
+        "id": 3496,
+        "name": "Roche Caiman",
+        "cities": []
+    },
+    {
+        "id": 3497,
+        "name": "Saint Louis",
+        "cities": []
+    },
+    {
+        "id": 3498,
+        "name": "Takamaka",
+        "cities": [
+            {
+                "id": 102280,
+                "name": "Takamaka"
+            }
+        ]
+    }
+]

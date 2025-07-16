@@ -1,0 +1,665 @@
+[
+    {
+        "id": 2331,
+        "name": "Canton of Capellen",
+        "cities": [
+            {
+                "id": 64246,
+                "name": "Bascharage"
+            },
+            {
+                "id": 64247,
+                "name": "Bridel"
+            },
+            {
+                "id": 64248,
+                "name": "Capellen"
+            },
+            {
+                "id": 64249,
+                "name": "Clemency"
+            },
+            {
+                "id": 64250,
+                "name": "Dippach"
+            },
+            {
+                "id": 64251,
+                "name": "Eischen"
+            },
+            {
+                "id": 64252,
+                "name": "Garnich"
+            },
+            {
+                "id": 64253,
+                "name": "Hautcharage"
+            },
+            {
+                "id": 64254,
+                "name": "Hobscheid"
+            },
+            {
+                "id": 64255,
+                "name": "Käerjeng"
+            },
+            {
+                "id": 64256,
+                "name": "Kehlen"
+            },
+            {
+                "id": 64257,
+                "name": "Koerich"
+            },
+            {
+                "id": 64258,
+                "name": "Kopstal"
+            },
+            {
+                "id": 64259,
+                "name": "Mamer"
+            },
+            {
+                "id": 64260,
+                "name": "Schouweiler"
+            },
+            {
+                "id": 64261,
+                "name": "Septfontaines"
+            },
+            {
+                "id": 64262,
+                "name": "Steinfort"
+            }
+        ]
+    },
+    {
+        "id": 2332,
+        "name": "Canton of Clervaux",
+        "cities": [
+            {
+                "id": 64263,
+                "name": "Clervaux"
+            },
+            {
+                "id": 64264,
+                "name": "Hosingen"
+            },
+            {
+                "id": 64265,
+                "name": "Parc Hosingen"
+            },
+            {
+                "id": 64266,
+                "name": "Troisvierges"
+            },
+            {
+                "id": 64267,
+                "name": "Weiswampach"
+            },
+            {
+                "id": 64268,
+                "name": "Wincrange"
+            }
+        ]
+    },
+    {
+        "id": 2333,
+        "name": "Canton of Diekirch",
+        "cities": [
+            {
+                "id": 64269,
+                "name": "Bettendorf"
+            },
+            {
+                "id": 64270,
+                "name": "Bourscheid"
+            },
+            {
+                "id": 64271,
+                "name": "Commune de la Vallée de l’Ernz"
+            },
+            {
+                "id": 64272,
+                "name": "Diekirch"
+            },
+            {
+                "id": 64273,
+                "name": "Erpeldange"
+            },
+            {
+                "id": 64274,
+                "name": "Ettelbruck"
+            },
+            {
+                "id": 64275,
+                "name": "Feulen"
+            },
+            {
+                "id": 64276,
+                "name": "Medernach"
+            },
+            {
+                "id": 64277,
+                "name": "Mertzig"
+            },
+            {
+                "id": 64278,
+                "name": "Niederfeulen"
+            },
+            {
+                "id": 64279,
+                "name": "Reisdorf"
+            },
+            {
+                "id": 64280,
+                "name": "Schieren"
+            },
+            {
+                "id": 64281,
+                "name": "Warken"
+            }
+        ]
+    },
+    {
+        "id": 2334,
+        "name": "Canton of Echternach",
+        "cities": [
+            {
+                "id": 64282,
+                "name": "Beaufort"
+            },
+            {
+                "id": 64283,
+                "name": "Bech"
+            },
+            {
+                "id": 64284,
+                "name": "Berdorf"
+            },
+            {
+                "id": 64285,
+                "name": "Consdorf"
+            },
+            {
+                "id": 64286,
+                "name": "Echternach"
+            },
+            {
+                "id": 64287,
+                "name": "Mompach"
+            },
+            {
+                "id": 64288,
+                "name": "Rosport"
+            },
+            {
+                "id": 64289,
+                "name": "Waldbillig"
+            }
+        ]
+    },
+    {
+        "id": 2335,
+        "name": "Canton of Esch-sur-Alzette",
+        "cities": [
+            {
+                "id": 64290,
+                "name": "Aspelt"
+            },
+            {
+                "id": 64291,
+                "name": "Belvaux"
+            },
+            {
+                "id": 64292,
+                "name": "Bergem"
+            },
+            {
+                "id": 64293,
+                "name": "Bettembourg"
+            },
+            {
+                "id": 64294,
+                "name": "Crauthem"
+            },
+            {
+                "id": 64295,
+                "name": "Differdange"
+            },
+            {
+                "id": 64296,
+                "name": "Dudelange"
+            },
+            {
+                "id": 64297,
+                "name": "Esch-sur-Alzette"
+            },
+            {
+                "id": 64298,
+                "name": "Frisange"
+            },
+            {
+                "id": 64299,
+                "name": "Kayl"
+            },
+            {
+                "id": 64300,
+                "name": "Lamadelaine"
+            },
+            {
+                "id": 64301,
+                "name": "Leudelange"
+            },
+            {
+                "id": 64302,
+                "name": "Mondercange"
+            },
+            {
+                "id": 64303,
+                "name": "Niedercorn"
+            },
+            {
+                "id": 64304,
+                "name": "Obercorn"
+            },
+            {
+                "id": 64305,
+                "name": "Pétange"
+            },
+            {
+                "id": 64306,
+                "name": "Pontpierre"
+            },
+            {
+                "id": 64307,
+                "name": "Reckange-sur-Mess"
+            },
+            {
+                "id": 64308,
+                "name": "Rodange"
+            },
+            {
+                "id": 64309,
+                "name": "Roeser"
+            },
+            {
+                "id": 64310,
+                "name": "Rumelange"
+            },
+            {
+                "id": 64311,
+                "name": "Sanem"
+            },
+            {
+                "id": 64312,
+                "name": "Schifflange"
+            },
+            {
+                "id": 64313,
+                "name": "Soleuvre"
+            },
+            {
+                "id": 64314,
+                "name": "Tétange"
+            }
+        ]
+    },
+    {
+        "id": 2336,
+        "name": "Canton of Grevenmacher",
+        "cities": [
+            {
+                "id": 64315,
+                "name": "Betzdorf"
+            },
+            {
+                "id": 64316,
+                "name": "Biwer"
+            },
+            {
+                "id": 64317,
+                "name": "Flaxweiler"
+            },
+            {
+                "id": 64318,
+                "name": "Gonderange"
+            },
+            {
+                "id": 64319,
+                "name": "Grevenmacher"
+            },
+            {
+                "id": 64320,
+                "name": "Junglinster"
+            },
+            {
+                "id": 64321,
+                "name": "Manternach"
+            },
+            {
+                "id": 64322,
+                "name": "Mertert"
+            },
+            {
+                "id": 64323,
+                "name": "Wasserbillig"
+            },
+            {
+                "id": 64324,
+                "name": "Wormeldange"
+            }
+        ]
+    },
+    {
+        "id": 2337,
+        "name": "Canton of Luxembourg",
+        "cities": [
+            {
+                "id": 64325,
+                "name": "Alzingen"
+            },
+            {
+                "id": 64326,
+                "name": "Béreldange"
+            },
+            {
+                "id": 64327,
+                "name": "Bertrange"
+            },
+            {
+                "id": 64328,
+                "name": "Contern"
+            },
+            {
+                "id": 64329,
+                "name": "Fentange"
+            },
+            {
+                "id": 64330,
+                "name": "Heisdorf"
+            },
+            {
+                "id": 64331,
+                "name": "Helmsange"
+            },
+            {
+                "id": 64332,
+                "name": "Hesperange"
+            },
+            {
+                "id": 64333,
+                "name": "Itzig"
+            },
+            {
+                "id": 64334,
+                "name": "Kirchberg"
+            },
+            {
+                "id": 64335,
+                "name": "Luxembourg"
+            },
+            {
+                "id": 64336,
+                "name": "Moutfort"
+            },
+            {
+                "id": 64337,
+                "name": "Müllendorf"
+            },
+            {
+                "id": 64338,
+                "name": "Niederanven"
+            },
+            {
+                "id": 64339,
+                "name": "Olm"
+            },
+            {
+                "id": 64340,
+                "name": "Sandweiler"
+            },
+            {
+                "id": 64341,
+                "name": "Schrassig"
+            },
+            {
+                "id": 64342,
+                "name": "Schuttrange"
+            },
+            {
+                "id": 64343,
+                "name": "Steinsel"
+            },
+            {
+                "id": 64344,
+                "name": "Strassen"
+            },
+            {
+                "id": 64345,
+                "name": "Walferdange"
+            },
+            {
+                "id": 64346,
+                "name": "Weiler-la-Tour"
+            }
+        ]
+    },
+    {
+        "id": 2338,
+        "name": "Canton of Mersch",
+        "cities": [
+            {
+                "id": 64347,
+                "name": "Bissen"
+            },
+            {
+                "id": 64348,
+                "name": "Boevange-sur-Attert"
+            },
+            {
+                "id": 64349,
+                "name": "Colmar"
+            },
+            {
+                "id": 64350,
+                "name": "Fischbach"
+            },
+            {
+                "id": 64351,
+                "name": "Heffingen"
+            },
+            {
+                "id": 64352,
+                "name": "Larochette"
+            },
+            {
+                "id": 64353,
+                "name": "Lintgen"
+            },
+            {
+                "id": 64354,
+                "name": "Lorentzweiler"
+            },
+            {
+                "id": 64355,
+                "name": "Mersch"
+            },
+            {
+                "id": 64356,
+                "name": "Nommern"
+            },
+            {
+                "id": 64357,
+                "name": "Rollingen"
+            },
+            {
+                "id": 64358,
+                "name": "Tuntange"
+            }
+        ]
+    },
+    {
+        "id": 2339,
+        "name": "Canton of Redange",
+        "cities": [
+            {
+                "id": 64359,
+                "name": "Beckerich"
+            },
+            {
+                "id": 64360,
+                "name": "Bettborn"
+            },
+            {
+                "id": 64361,
+                "name": "Commune de Préizerdaul"
+            },
+            {
+                "id": 64362,
+                "name": "Ell"
+            },
+            {
+                "id": 64363,
+                "name": "Grosbous"
+            },
+            {
+                "id": 64364,
+                "name": "Rambrouch"
+            },
+            {
+                "id": 64365,
+                "name": "Redange-sur-Attert"
+            },
+            {
+                "id": 64366,
+                "name": "Saeul"
+            },
+            {
+                "id": 64367,
+                "name": "Useldange"
+            },
+            {
+                "id": 64368,
+                "name": "Vichten"
+            },
+            {
+                "id": 64369,
+                "name": "Wahl"
+            }
+        ]
+    },
+    {
+        "id": 2340,
+        "name": "Canton of Remich",
+        "cities": [
+            {
+                "id": 64370,
+                "name": "Bous"
+            },
+            {
+                "id": 64371,
+                "name": "Dalheim"
+            },
+            {
+                "id": 64372,
+                "name": "Lenningen"
+            },
+            {
+                "id": 64373,
+                "name": "Mondorf-les-Bains"
+            },
+            {
+                "id": 64374,
+                "name": "Remich"
+            },
+            {
+                "id": 64375,
+                "name": "Schengen"
+            },
+            {
+                "id": 64376,
+                "name": "Stadtbredimus"
+            },
+            {
+                "id": 64377,
+                "name": "Waldbredimus"
+            }
+        ]
+    },
+    {
+        "id": 2341,
+        "name": "Canton of Vianden",
+        "cities": [
+            {
+                "id": 64378,
+                "name": "Putscheid"
+            },
+            {
+                "id": 64379,
+                "name": "Tandel"
+            },
+            {
+                "id": 64380,
+                "name": "Vianden"
+            }
+        ]
+    },
+    {
+        "id": 2342,
+        "name": "Canton of Wiltz",
+        "cities": [
+            {
+                "id": 64381,
+                "name": "Bavigne"
+            },
+            {
+                "id": 64382,
+                "name": "Boulaide"
+            },
+            {
+                "id": 64383,
+                "name": "Esch-sur-Sûre"
+            },
+            {
+                "id": 64384,
+                "name": "Goesdorf"
+            },
+            {
+                "id": 64385,
+                "name": "Kiischpelt"
+            },
+            {
+                "id": 64386,
+                "name": "Lac de la Haute-Sûre"
+            },
+            {
+                "id": 64387,
+                "name": "Wiltz"
+            },
+            {
+                "id": 64388,
+                "name": "Wilwerwiltz"
+            },
+            {
+                "id": 64389,
+                "name": "Winseler"
+            }
+        ]
+    },
+    {
+        "id": 2343,
+        "name": "Diekirch District",
+        "cities": []
+    },
+    {
+        "id": 2344,
+        "name": "Grevenmacher District",
+        "cities": []
+    },
+    {
+        "id": 2345,
+        "name": "Luxembourg District",
+        "cities": []
+    }
+]

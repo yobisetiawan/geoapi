@@ -1,0 +1,509 @@
+[
+    {
+        "id": 888,
+        "name": "Abidjan",
+        "cities": [
+            {
+                "id": 20744,
+                "name": "Abidjan"
+            },
+            {
+                "id": 20745,
+                "name": "Abobo"
+            },
+            {
+                "id": 20746,
+                "name": "Anyama"
+            },
+            {
+                "id": 20747,
+                "name": "Bingerville"
+            }
+        ]
+    },
+    {
+        "id": 889,
+        "name": "Agnéby",
+        "cities": []
+    },
+    {
+        "id": 890,
+        "name": "Bafing Region",
+        "cities": []
+    },
+    {
+        "id": 891,
+        "name": "Bas-Sassandra District",
+        "cities": [
+            {
+                "id": 20748,
+                "name": "Gbôklé"
+            },
+            {
+                "id": 20749,
+                "name": "Nawa"
+            },
+            {
+                "id": 20750,
+                "name": "San-Pédro"
+            },
+            {
+                "id": 20751,
+                "name": "Sassandra"
+            },
+            {
+                "id": 20752,
+                "name": "Tabou"
+            }
+        ]
+    },
+    {
+        "id": 892,
+        "name": "Bas-Sassandra Region",
+        "cities": []
+    },
+    {
+        "id": 893,
+        "name": "Comoé District",
+        "cities": [
+            {
+                "id": 20753,
+                "name": "Abengourou"
+            },
+            {
+                "id": 20754,
+                "name": "Aboisso"
+            },
+            {
+                "id": 20755,
+                "name": "Adiaké"
+            },
+            {
+                "id": 20756,
+                "name": "Agnibilékrou"
+            },
+            {
+                "id": 20757,
+                "name": "Ayamé"
+            },
+            {
+                "id": 20758,
+                "name": "Bonoua"
+            },
+            {
+                "id": 20759,
+                "name": "Grand-Bassam"
+            },
+            {
+                "id": 20760,
+                "name": "Indénié-Djuablin"
+            },
+            {
+                "id": 20761,
+                "name": "Sud-Comoé"
+            }
+        ]
+    },
+    {
+        "id": 894,
+        "name": "Denguélé District",
+        "cities": [
+            {
+                "id": 20762,
+                "name": "Folon"
+            },
+            {
+                "id": 20763,
+                "name": "Kabadougou"
+            },
+            {
+                "id": 20764,
+                "name": "Odienné"
+            }
+        ]
+    },
+    {
+        "id": 895,
+        "name": "Denguélé Region",
+        "cities": []
+    },
+    {
+        "id": 896,
+        "name": "Dix-Huit Montagnes",
+        "cities": [
+            {
+                "id": 20765,
+                "name": "Bangolo"
+            },
+            {
+                "id": 20766,
+                "name": "Biankouma"
+            },
+            {
+                "id": 20767,
+                "name": "Cavally"
+            },
+            {
+                "id": 20768,
+                "name": "Danané"
+            },
+            {
+                "id": 20769,
+                "name": "Duekoué"
+            },
+            {
+                "id": 20770,
+                "name": "Guémon"
+            },
+            {
+                "id": 20771,
+                "name": "Guiglo"
+            },
+            {
+                "id": 20772,
+                "name": "Man"
+            },
+            {
+                "id": 20773,
+                "name": "Tonkpi"
+            },
+            {
+                "id": 20774,
+                "name": "Toulépleu Gueré"
+            }
+        ]
+    },
+    {
+        "id": 897,
+        "name": "Fromager",
+        "cities": []
+    },
+    {
+        "id": 898,
+        "name": "Gôh-Djiboua District",
+        "cities": [
+            {
+                "id": 20775,
+                "name": "Divo"
+            },
+            {
+                "id": 20776,
+                "name": "Gagnoa"
+            },
+            {
+                "id": 20777,
+                "name": "Gôh"
+            },
+            {
+                "id": 20778,
+                "name": "Guibéroua"
+            },
+            {
+                "id": 20779,
+                "name": "Lakota"
+            },
+            {
+                "id": 20780,
+                "name": "Lôh-Djiboua"
+            },
+            {
+                "id": 20781,
+                "name": "Oumé"
+            }
+        ]
+    },
+    {
+        "id": 899,
+        "name": "Haut-Sassandra",
+        "cities": []
+    },
+    {
+        "id": 900,
+        "name": "Lacs District",
+        "cities": []
+    },
+    {
+        "id": 901,
+        "name": "Lacs Region",
+        "cities": [
+            {
+                "id": 20782,
+                "name": "Arrah"
+            },
+            {
+                "id": 20783,
+                "name": "Bélier"
+            },
+            {
+                "id": 20784,
+                "name": "Bocanda"
+            },
+            {
+                "id": 20785,
+                "name": "Bongouanou"
+            },
+            {
+                "id": 20786,
+                "name": "Daoukro"
+            },
+            {
+                "id": 20787,
+                "name": "Dimbokro"
+            },
+            {
+                "id": 20788,
+                "name": "Iffou"
+            },
+            {
+                "id": 20789,
+                "name": "Moronou"
+            },
+            {
+                "id": 20790,
+                "name": "N'Zi"
+            },
+            {
+                "id": 20791,
+                "name": "Toumodi"
+            },
+            {
+                "id": 20792,
+                "name": "Yamoussoukro"
+            }
+        ]
+    },
+    {
+        "id": 902,
+        "name": "Lagunes District",
+        "cities": []
+    },
+    {
+        "id": 903,
+        "name": "Lagunes region",
+        "cities": [
+            {
+                "id": 20793,
+                "name": "Adzopé"
+            },
+            {
+                "id": 20794,
+                "name": "Affery"
+            },
+            {
+                "id": 20795,
+                "name": "Agboville"
+            },
+            {
+                "id": 20796,
+                "name": "Agnéby-Tiassa"
+            },
+            {
+                "id": 20797,
+                "name": "Akoupé"
+            },
+            {
+                "id": 20798,
+                "name": "Dabou"
+            },
+            {
+                "id": 20799,
+                "name": "Grand-Lahou"
+            },
+            {
+                "id": 20800,
+                "name": "Grands-Ponts"
+            },
+            {
+                "id": 20801,
+                "name": "Tiassalé"
+            }
+        ]
+    },
+    {
+        "id": 904,
+        "name": "Marahoué Region",
+        "cities": []
+    },
+    {
+        "id": 905,
+        "name": "Montagnes District",
+        "cities": []
+    },
+    {
+        "id": 906,
+        "name": "Moyen-Cavally",
+        "cities": []
+    },
+    {
+        "id": 907,
+        "name": "Moyen-Comoé",
+        "cities": []
+    },
+    {
+        "id": 908,
+        "name": "N'zi-Comoé",
+        "cities": []
+    },
+    {
+        "id": 909,
+        "name": "Sassandra-Marahoué District",
+        "cities": [
+            {
+                "id": 20802,
+                "name": "Bouaflé"
+            },
+            {
+                "id": 20803,
+                "name": "Daloa"
+            },
+            {
+                "id": 20804,
+                "name": "Haut-Sassandra"
+            },
+            {
+                "id": 20805,
+                "name": "Issia"
+            },
+            {
+                "id": 20806,
+                "name": "Marahoué"
+            },
+            {
+                "id": 20807,
+                "name": "Vavoua"
+            },
+            {
+                "id": 20808,
+                "name": "Zuénoula"
+            }
+        ]
+    },
+    {
+        "id": 910,
+        "name": "Savanes Region",
+        "cities": []
+    },
+    {
+        "id": 911,
+        "name": "Sud-Bandama",
+        "cities": []
+    },
+    {
+        "id": 912,
+        "name": "Sud-Comoé",
+        "cities": []
+    },
+    {
+        "id": 913,
+        "name": "Vallée du Bandama District",
+        "cities": []
+    },
+    {
+        "id": 914,
+        "name": "Vallée du Bandama Region",
+        "cities": [
+            {
+                "id": 20809,
+                "name": "Béoumi"
+            },
+            {
+                "id": 20810,
+                "name": "Botro"
+            },
+            {
+                "id": 20811,
+                "name": "Bouaké"
+            },
+            {
+                "id": 20812,
+                "name": "Dabakala"
+            },
+            {
+                "id": 20813,
+                "name": "Gbêkê"
+            },
+            {
+                "id": 20814,
+                "name": "Hambol"
+            },
+            {
+                "id": 20815,
+                "name": "Katiola"
+            },
+            {
+                "id": 20816,
+                "name": "Sakassou"
+            }
+        ]
+    },
+    {
+        "id": 915,
+        "name": "Woroba District",
+        "cities": [
+            {
+                "id": 20817,
+                "name": "Bafing"
+            },
+            {
+                "id": 20818,
+                "name": "Béré"
+            },
+            {
+                "id": 20819,
+                "name": "Mankono"
+            },
+            {
+                "id": 20820,
+                "name": "Séguéla"
+            },
+            {
+                "id": 20821,
+                "name": "Touba"
+            },
+            {
+                "id": 20822,
+                "name": "Worodougou"
+            }
+        ]
+    },
+    {
+        "id": 916,
+        "name": "Worodougou",
+        "cities": []
+    },
+    {
+        "id": 917,
+        "name": "Yamoussoukro",
+        "cities": []
+    },
+    {
+        "id": 918,
+        "name": "Zanzan Region",
+        "cities": [
+            {
+                "id": 20823,
+                "name": "Bondoukou"
+            },
+            {
+                "id": 20824,
+                "name": "Bouna"
+            },
+            {
+                "id": 20825,
+                "name": "Bounkani"
+            },
+            {
+                "id": 20826,
+                "name": "Gontougo"
+            },
+            {
+                "id": 20827,
+                "name": "Sinfra"
+            },
+            {
+                "id": 20828,
+                "name": "Tanda"
+            }
+        ]
+    }
+]

@@ -1,0 +1,664 @@
+[
+    {
+        "id": 3054,
+        "name": "Alto Paraguay Department",
+        "cities": [
+            {
+                "id": 78935,
+                "name": "Capitán Pablo Lagerenza"
+            },
+            {
+                "id": 78936,
+                "name": "Fuerte Olimpo"
+            }
+        ]
+    },
+    {
+        "id": 3055,
+        "name": "Alto Paraná Department",
+        "cities": [
+            {
+                "id": 78937,
+                "name": "Cedrales"
+            },
+            {
+                "id": 78938,
+                "name": "Ciudad del Este"
+            },
+            {
+                "id": 78939,
+                "name": "Colonia Minga Porá"
+            },
+            {
+                "id": 78940,
+                "name": "Doctor Juan León Mallorquín"
+            },
+            {
+                "id": 78941,
+                "name": "Itakyry"
+            },
+            {
+                "id": 78942,
+                "name": "Naranjal"
+            },
+            {
+                "id": 78943,
+                "name": "Presidente Franco"
+            },
+            {
+                "id": 78944,
+                "name": "San Alberto"
+            },
+            {
+                "id": 78945,
+                "name": "Santa Rita"
+            },
+            {
+                "id": 78946,
+                "name": "Yguazú"
+            }
+        ]
+    },
+    {
+        "id": 3056,
+        "name": "Amambay Department",
+        "cities": [
+            {
+                "id": 78947,
+                "name": "Bella Vista"
+            },
+            {
+                "id": 78948,
+                "name": "Capitán Bado"
+            },
+            {
+                "id": 78949,
+                "name": "Pedro Juan Caballero"
+            }
+        ]
+    },
+    {
+        "id": 3057,
+        "name": "Boquerón Department",
+        "cities": [
+            {
+                "id": 78950,
+                "name": "Colonia Menno"
+            },
+            {
+                "id": 78951,
+                "name": "Colonia Neuland"
+            },
+            {
+                "id": 78952,
+                "name": "Filadelfia"
+            }
+        ]
+    },
+    {
+        "id": 3058,
+        "name": "Caaguazú",
+        "cities": [
+            {
+                "id": 78953,
+                "name": "Caaguazú"
+            },
+            {
+                "id": 78954,
+                "name": "Carayaó"
+            },
+            {
+                "id": 78955,
+                "name": "Cecilio Baez"
+            },
+            {
+                "id": 78956,
+                "name": "Colonia General Alfredo Stroessner"
+            },
+            {
+                "id": 78957,
+                "name": "Coronel Oviedo"
+            },
+            {
+                "id": 78958,
+                "name": "Doctor Juan Manuel Frutos"
+            },
+            {
+                "id": 78959,
+                "name": "Mbutuý"
+            },
+            {
+                "id": 78960,
+                "name": "Repatriación"
+            },
+            {
+                "id": 78961,
+                "name": "San Joaquín"
+            },
+            {
+                "id": 78962,
+                "name": "San José"
+            },
+            {
+                "id": 78963,
+                "name": "Yhú"
+            }
+        ]
+    },
+    {
+        "id": 3059,
+        "name": "Caazapá",
+        "cities": [
+            {
+                "id": 78964,
+                "name": "Abaí"
+            },
+            {
+                "id": 78965,
+                "name": "Buena Vista"
+            },
+            {
+                "id": 78966,
+                "name": "Caazapá"
+            },
+            {
+                "id": 78967,
+                "name": "General Higinio Morínigo"
+            },
+            {
+                "id": 78968,
+                "name": "San Juan Nepomuceno"
+            },
+            {
+                "id": 78969,
+                "name": "Yegros"
+            },
+            {
+                "id": 78970,
+                "name": "Yuty"
+            }
+        ]
+    },
+    {
+        "id": 3060,
+        "name": "Canindeyú",
+        "cities": [
+            {
+                "id": 78971,
+                "name": "Colonia Catuete"
+            },
+            {
+                "id": 78972,
+                "name": "Corpus Christi"
+            },
+            {
+                "id": 78973,
+                "name": "La Paloma"
+            },
+            {
+                "id": 78974,
+                "name": "Nueva Esperanza"
+            },
+            {
+                "id": 78975,
+                "name": "Salto del Guairá"
+            },
+            {
+                "id": 78976,
+                "name": "San Isidro de Curuguaty"
+            },
+            {
+                "id": 78977,
+                "name": "Ygatimi"
+            }
+        ]
+    },
+    {
+        "id": 3061,
+        "name": "Central Department",
+        "cities": [
+            {
+                "id": 78978,
+                "name": "Areguá"
+            },
+            {
+                "id": 78979,
+                "name": "Capiatá"
+            },
+            {
+                "id": 78980,
+                "name": "Fernando de la Mora"
+            },
+            {
+                "id": 78981,
+                "name": "Guarambaré"
+            },
+            {
+                "id": 78982,
+                "name": "Itá"
+            },
+            {
+                "id": 78983,
+                "name": "Itauguá"
+            },
+            {
+                "id": 78984,
+                "name": "Lambaré"
+            },
+            {
+                "id": 78985,
+                "name": "Limpio"
+            },
+            {
+                "id": 78986,
+                "name": "Mariano Roque Alonso"
+            },
+            {
+                "id": 78987,
+                "name": "Nemby"
+            },
+            {
+                "id": 78988,
+                "name": "Nueva Italia"
+            },
+            {
+                "id": 78989,
+                "name": "San Antonio"
+            },
+            {
+                "id": 78990,
+                "name": "San Lorenzo"
+            },
+            {
+                "id": 78991,
+                "name": "Villa Elisa"
+            },
+            {
+                "id": 78992,
+                "name": "Ypacarai"
+            }
+        ]
+    },
+    {
+        "id": 3062,
+        "name": "Concepción Department",
+        "cities": [
+            {
+                "id": 78993,
+                "name": "Belén"
+            },
+            {
+                "id": 78994,
+                "name": "Concepción"
+            },
+            {
+                "id": 78995,
+                "name": "Horqueta"
+            }
+        ]
+    },
+    {
+        "id": 3063,
+        "name": "Cordillera Department",
+        "cities": [
+            {
+                "id": 78996,
+                "name": "Altos"
+            },
+            {
+                "id": 78997,
+                "name": "Arroyos y Esteros"
+            },
+            {
+                "id": 78998,
+                "name": "Atyrá"
+            },
+            {
+                "id": 78999,
+                "name": "Caacupé"
+            },
+            {
+                "id": 79000,
+                "name": "Caraguatay"
+            },
+            {
+                "id": 79001,
+                "name": "Emboscada"
+            },
+            {
+                "id": 79002,
+                "name": "Eusebio Ayala"
+            },
+            {
+                "id": 79003,
+                "name": "Isla Pucú"
+            },
+            {
+                "id": 79004,
+                "name": "Itacurubí de la Cordillera"
+            },
+            {
+                "id": 79005,
+                "name": "Piribebuy"
+            },
+            {
+                "id": 79006,
+                "name": "San Bernardino"
+            },
+            {
+                "id": 79007,
+                "name": "Santa Elena"
+            },
+            {
+                "id": 79008,
+                "name": "Tobatí"
+            }
+        ]
+    },
+    {
+        "id": 3064,
+        "name": "Guairá Department",
+        "cities": [
+            {
+                "id": 79009,
+                "name": "Colonia Mauricio José Troche"
+            },
+            {
+                "id": 79010,
+                "name": "Coronel Martínez"
+            },
+            {
+                "id": 79011,
+                "name": "Independencia"
+            },
+            {
+                "id": 79012,
+                "name": "Itapé"
+            },
+            {
+                "id": 79013,
+                "name": "Iturbe"
+            },
+            {
+                "id": 79014,
+                "name": "Mbocayaty"
+            },
+            {
+                "id": 79015,
+                "name": "Natalicio Talavera"
+            },
+            {
+                "id": 79016,
+                "name": "Villarrica"
+            }
+        ]
+    },
+    {
+        "id": 3065,
+        "name": "Itapúa",
+        "cities": [
+            {
+                "id": 79017,
+                "name": "Arquitecto Tomás Romero Pereira"
+            },
+            {
+                "id": 79018,
+                "name": "Bella Vista"
+            },
+            {
+                "id": 79019,
+                "name": "Capitán Miranda"
+            },
+            {
+                "id": 79020,
+                "name": "Carmen del Paraná"
+            },
+            {
+                "id": 79021,
+                "name": "Colonia Carlos Antonio López"
+            },
+            {
+                "id": 79022,
+                "name": "Colonia San Lorenzo"
+            },
+            {
+                "id": 79023,
+                "name": "Edelira"
+            },
+            {
+                "id": 79024,
+                "name": "Encarnación"
+            },
+            {
+                "id": 79025,
+                "name": "Fram"
+            },
+            {
+                "id": 79026,
+                "name": "General Artigas"
+            },
+            {
+                "id": 79027,
+                "name": "General Delgado"
+            },
+            {
+                "id": 79028,
+                "name": "Hohenau"
+            },
+            {
+                "id": 79029,
+                "name": "Jesús"
+            },
+            {
+                "id": 79030,
+                "name": "Natalio"
+            },
+            {
+                "id": 79031,
+                "name": "Obligado"
+            },
+            {
+                "id": 79032,
+                "name": "Pirapó"
+            },
+            {
+                "id": 79033,
+                "name": "Puerto Mayor Otaño"
+            },
+            {
+                "id": 79034,
+                "name": "San Cosme y Damián"
+            },
+            {
+                "id": 79035,
+                "name": "San Juan del Paraná"
+            },
+            {
+                "id": 79036,
+                "name": "San Pedro del Paraná"
+            },
+            {
+                "id": 79037,
+                "name": "Trinidad"
+            }
+        ]
+    },
+    {
+        "id": 3066,
+        "name": "Misiones Department",
+        "cities": [
+            {
+                "id": 79038,
+                "name": "Juan de Ayolas"
+            },
+            {
+                "id": 79039,
+                "name": "San Juan Bautista"
+            },
+            {
+                "id": 79040,
+                "name": "San Miguel"
+            },
+            {
+                "id": 79041,
+                "name": "San Patricio"
+            },
+            {
+                "id": 79042,
+                "name": "Santa María"
+            },
+            {
+                "id": 79043,
+                "name": "Santa Rosa Misiones"
+            },
+            {
+                "id": 79044,
+                "name": "Santiago"
+            },
+            {
+                "id": 79045,
+                "name": "Villa Florida"
+            }
+        ]
+    },
+    {
+        "id": 3067,
+        "name": "Ñeembucú Department",
+        "cities": [
+            {
+                "id": 79046,
+                "name": "Cerrito"
+            },
+            {
+                "id": 79047,
+                "name": "General José Eduvigis Díaz"
+            },
+            {
+                "id": 79048,
+                "name": "Pilar"
+            }
+        ]
+    },
+    {
+        "id": 3068,
+        "name": "Paraguarí Department",
+        "cities": [
+            {
+                "id": 79049,
+                "name": "Acahay"
+            },
+            {
+                "id": 79050,
+                "name": "Caapucú"
+            },
+            {
+                "id": 79051,
+                "name": "Carapeguá"
+            },
+            {
+                "id": 79052,
+                "name": "La Colmena"
+            },
+            {
+                "id": 79053,
+                "name": "Mbuyapey"
+            },
+            {
+                "id": 79054,
+                "name": "Paraguarí"
+            },
+            {
+                "id": 79055,
+                "name": "Pirayú"
+            },
+            {
+                "id": 79056,
+                "name": "Quiindy"
+            },
+            {
+                "id": 79057,
+                "name": "Sapucaí"
+            },
+            {
+                "id": 79058,
+                "name": "Yaguarón"
+            },
+            {
+                "id": 79059,
+                "name": "Ybycuí"
+            }
+        ]
+    },
+    {
+        "id": 3069,
+        "name": "Presidente Hayes Department",
+        "cities": [
+            {
+                "id": 79060,
+                "name": "Benjamín Aceval"
+            },
+            {
+                "id": 79061,
+                "name": "Nanawua"
+            },
+            {
+                "id": 79062,
+                "name": "Villa Hayes"
+            }
+        ]
+    },
+    {
+        "id": 3070,
+        "name": "San Pedro Department",
+        "cities": [
+            {
+                "id": 79063,
+                "name": "Antequera"
+            },
+            {
+                "id": 79064,
+                "name": "Capiíbary"
+            },
+            {
+                "id": 79065,
+                "name": "Colonia Nueva Germania"
+            },
+            {
+                "id": 79066,
+                "name": "General Elizardo Aquino"
+            },
+            {
+                "id": 79067,
+                "name": "Guayaybi"
+            },
+            {
+                "id": 79068,
+                "name": "Itacurubí del Rosario"
+            },
+            {
+                "id": 79069,
+                "name": "Lima"
+            },
+            {
+                "id": 79070,
+                "name": "Puerto Rosario"
+            },
+            {
+                "id": 79071,
+                "name": "San Pedro de Ycuamandiyú"
+            },
+            {
+                "id": 79072,
+                "name": "Tacuatí"
+            },
+            {
+                "id": 79073,
+                "name": "Unión"
+            },
+            {
+                "id": 79074,
+                "name": "Yataity del Norte"
+            }
+        ]
+    }
+]

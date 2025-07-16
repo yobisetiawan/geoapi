@@ -1,0 +1,756 @@
+[
+    {
+        "id": 1953,
+        "name": "Baringo County",
+        "cities": [
+            {
+                "id": 63164,
+                "name": "Baringo"
+            },
+            {
+                "id": 63165,
+                "name": "Eldama Ravine"
+            },
+            {
+                "id": 63166,
+                "name": "Kabarnet"
+            }
+        ]
+    },
+    {
+        "id": 1954,
+        "name": "Bomet County",
+        "cities": [
+            {
+                "id": 63167,
+                "name": "Sotik"
+            },
+            {
+                "id": 63168,
+                "name": "Sotik Post"
+            }
+        ]
+    },
+    {
+        "id": 1955,
+        "name": "Bungoma County",
+        "cities": [
+            {
+                "id": 63169,
+                "name": "Bungoma"
+            },
+            {
+                "id": 63170,
+                "name": "Malikisi"
+            },
+            {
+                "id": 63171,
+                "name": "Webuye"
+            }
+        ]
+    },
+    {
+        "id": 1956,
+        "name": "Busia County",
+        "cities": [
+            {
+                "id": 63172,
+                "name": "Busia"
+            },
+            {
+                "id": 63173,
+                "name": "Luanda"
+            },
+            {
+                "id": 63174,
+                "name": "Lugulu"
+            },
+            {
+                "id": 63175,
+                "name": "Malaba"
+            },
+            {
+                "id": 63176,
+                "name": "Nambare"
+            },
+            {
+                "id": 63177,
+                "name": "Port Victoria"
+            }
+        ]
+    },
+    {
+        "id": 1957,
+        "name": "Central Province",
+        "cities": []
+    },
+    {
+        "id": 1958,
+        "name": "Coast Province",
+        "cities": []
+    },
+    {
+        "id": 1959,
+        "name": "Eastern Province",
+        "cities": []
+    },
+    {
+        "id": 1960,
+        "name": "Elgeyo-Marakwet County",
+        "cities": []
+    },
+    {
+        "id": 1961,
+        "name": "Embu County",
+        "cities": [
+            {
+                "id": 63178,
+                "name": "Embu"
+            }
+        ]
+    },
+    {
+        "id": 1962,
+        "name": "Garissa County",
+        "cities": [
+            {
+                "id": 63179,
+                "name": "Garissa"
+            }
+        ]
+    },
+    {
+        "id": 1963,
+        "name": "Homa Bay County",
+        "cities": [
+            {
+                "id": 63180,
+                "name": "Homa Bay"
+            },
+            {
+                "id": 63181,
+                "name": "Oyugis"
+            },
+            {
+                "id": 63182,
+                "name": "Rachuonyo District"
+            }
+        ]
+    },
+    {
+        "id": 1964,
+        "name": "Isiolo County",
+        "cities": [
+            {
+                "id": 63183,
+                "name": "Isiolo"
+            }
+        ]
+    },
+    {
+        "id": 1965,
+        "name": "Kajiado County",
+        "cities": [
+            {
+                "id": 63184,
+                "name": "Kajiado"
+            },
+            {
+                "id": 63185,
+                "name": "Magadi"
+            },
+            {
+                "id": 63186,
+                "name": "Ngong"
+            }
+        ]
+    },
+    {
+        "id": 1966,
+        "name": "Kakamega County",
+        "cities": [
+            {
+                "id": 63187,
+                "name": "Butere"
+            },
+            {
+                "id": 63188,
+                "name": "Kakamega"
+            },
+            {
+                "id": 63189,
+                "name": "Mumias"
+            }
+        ]
+    },
+    {
+        "id": 1967,
+        "name": "Kericho County",
+        "cities": [
+            {
+                "id": 63190,
+                "name": "Kericho"
+            },
+            {
+                "id": 63191,
+                "name": "Kipkelion"
+            },
+            {
+                "id": 63192,
+                "name": "Litein"
+            },
+            {
+                "id": 63193,
+                "name": "Londiani"
+            }
+        ]
+    },
+    {
+        "id": 1968,
+        "name": "Kiambu County",
+        "cities": [
+            {
+                "id": 63194,
+                "name": "Kiambu"
+            },
+            {
+                "id": 63195,
+                "name": "Kikuyu"
+            },
+            {
+                "id": 63196,
+                "name": "Limuru"
+            }
+        ]
+    },
+    {
+        "id": 1969,
+        "name": "Kilifi County",
+        "cities": [
+            {
+                "id": 63197,
+                "name": "Iten"
+            },
+            {
+                "id": 63198,
+                "name": "Kapsowar"
+            },
+            {
+                "id": 63199,
+                "name": "Kilifi"
+            },
+            {
+                "id": 63200,
+                "name": "Malindi"
+            },
+            {
+                "id": 63201,
+                "name": "Mariakani"
+            },
+            {
+                "id": 63202,
+                "name": "Takaungu"
+            }
+        ]
+    },
+    {
+        "id": 1970,
+        "name": "Kirinyaga County",
+        "cities": [
+            {
+                "id": 63203,
+                "name": "Kerugoya"
+            },
+            {
+                "id": 63204,
+                "name": "Sagana"
+            }
+        ]
+    },
+    {
+        "id": 1971,
+        "name": "Kisii County",
+        "cities": [
+            {
+                "id": 63205,
+                "name": "Kisii"
+            },
+            {
+                "id": 63206,
+                "name": "Ogembo"
+            }
+        ]
+    },
+    {
+        "id": 1972,
+        "name": "Kisumu County",
+        "cities": [
+            {
+                "id": 63207,
+                "name": "Ahero"
+            },
+            {
+                "id": 63208,
+                "name": "Kisumu"
+            },
+            {
+                "id": 63209,
+                "name": "Muhoroni"
+            }
+        ]
+    },
+    {
+        "id": 1973,
+        "name": "Kitui County",
+        "cities": [
+            {
+                "id": 63210,
+                "name": "Kitui"
+            },
+            {
+                "id": 63211,
+                "name": "Mwingi"
+            }
+        ]
+    },
+    {
+        "id": 1974,
+        "name": "Kwale County",
+        "cities": [
+            {
+                "id": 63212,
+                "name": "Gazi"
+            },
+            {
+                "id": 63213,
+                "name": "Kinango"
+            },
+            {
+                "id": 63214,
+                "name": "Kwale"
+            },
+            {
+                "id": 63215,
+                "name": "Sawa Sawa"
+            },
+            {
+                "id": 63216,
+                "name": "Shimoni"
+            }
+        ]
+    },
+    {
+        "id": 1975,
+        "name": "Laikipia County",
+        "cities": [
+            {
+                "id": 63217,
+                "name": "Nanyuki"
+            },
+            {
+                "id": 63218,
+                "name": "Nyahururu"
+            },
+            {
+                "id": 63219,
+                "name": "Rumuruti"
+            }
+        ]
+    },
+    {
+        "id": 1976,
+        "name": "Lamu County",
+        "cities": [
+            {
+                "id": 63220,
+                "name": "Lamu"
+            },
+            {
+                "id": 63221,
+                "name": "Witu"
+            }
+        ]
+    },
+    {
+        "id": 1977,
+        "name": "Machakos County",
+        "cities": [
+            {
+                "id": 63222,
+                "name": "Athi River"
+            },
+            {
+                "id": 63223,
+                "name": "Kangundo"
+            },
+            {
+                "id": 63224,
+                "name": "Konza"
+            },
+            {
+                "id": 63225,
+                "name": "Machakos"
+            }
+        ]
+    },
+    {
+        "id": 1978,
+        "name": "Makueni County",
+        "cities": [
+            {
+                "id": 63226,
+                "name": "Makueni Boma"
+            },
+            {
+                "id": 63227,
+                "name": "Mtito Andei"
+            },
+            {
+                "id": 63228,
+                "name": "Wote"
+            }
+        ]
+    },
+    {
+        "id": 1979,
+        "name": "Mandera County",
+        "cities": [
+            {
+                "id": 63229,
+                "name": "Mandera"
+            }
+        ]
+    },
+    {
+        "id": 1980,
+        "name": "Marsabit County",
+        "cities": [
+            {
+                "id": 63230,
+                "name": "Marsabit"
+            },
+            {
+                "id": 63231,
+                "name": "Moyale"
+            }
+        ]
+    },
+    {
+        "id": 1981,
+        "name": "Meru County",
+        "cities": [
+            {
+                "id": 63232,
+                "name": "Maua"
+            },
+            {
+                "id": 63233,
+                "name": "Meru"
+            }
+        ]
+    },
+    {
+        "id": 1982,
+        "name": "Migori County",
+        "cities": [
+            {
+                "id": 63234,
+                "name": "Kihancha"
+            },
+            {
+                "id": 63235,
+                "name": "Migori"
+            }
+        ]
+    },
+    {
+        "id": 1983,
+        "name": "Mombasa County",
+        "cities": [
+            {
+                "id": 63236,
+                "name": "Mombasa"
+            }
+        ]
+    },
+    {
+        "id": 1984,
+        "name": "Muranga County",
+        "cities": [
+            {
+                "id": 63237,
+                "name": "Kangema"
+            },
+            {
+                "id": 63238,
+                "name": "Karuri"
+            },
+            {
+                "id": 63239,
+                "name": "Maragua"
+            },
+            {
+                "id": 63240,
+                "name": "Murang’a"
+            }
+        ]
+    },
+    {
+        "id": 1985,
+        "name": "Nairobi",
+        "cities": [
+            {
+                "id": 63241,
+                "name": "Nairobi"
+            },
+            {
+                "id": 63242,
+                "name": "Pumwani"
+            },
+            {
+                "id": 63243,
+                "name": "Thika"
+            }
+        ]
+    },
+    {
+        "id": 1986,
+        "name": "Nakuru District",
+        "cities": [
+            {
+                "id": 63244,
+                "name": "Kijabe"
+            },
+            {
+                "id": 63245,
+                "name": "Molo"
+            },
+            {
+                "id": 63246,
+                "name": "Naivasha"
+            },
+            {
+                "id": 63247,
+                "name": "Nakuru"
+            },
+            {
+                "id": 63248,
+                "name": "Rongai"
+            }
+        ]
+    },
+    {
+        "id": 1987,
+        "name": "Nandi District",
+        "cities": [
+            {
+                "id": 63249,
+                "name": "Kapsabet"
+            },
+            {
+                "id": 63250,
+                "name": "Nandi Hills"
+            }
+        ]
+    },
+    {
+        "id": 1988,
+        "name": "Narok County",
+        "cities": [
+            {
+                "id": 63251,
+                "name": "Narok"
+            }
+        ]
+    },
+    {
+        "id": 1989,
+        "name": "North Eastern Province",
+        "cities": []
+    },
+    {
+        "id": 1990,
+        "name": "Nyamira District",
+        "cities": [
+            {
+                "id": 63252,
+                "name": "Keroka"
+            },
+            {
+                "id": 63253,
+                "name": "Nyamira"
+            }
+        ]
+    },
+    {
+        "id": 1991,
+        "name": "Nyandarua County",
+        "cities": [
+            {
+                "id": 63254,
+                "name": "Ol Kalou"
+            }
+        ]
+    },
+    {
+        "id": 1992,
+        "name": "Nyanza Province",
+        "cities": []
+    },
+    {
+        "id": 1993,
+        "name": "Nyeri County",
+        "cities": [
+            {
+                "id": 63255,
+                "name": "Naro Moru"
+            },
+            {
+                "id": 63256,
+                "name": "Nyeri"
+            },
+            {
+                "id": 63257,
+                "name": "Othaya"
+            }
+        ]
+    },
+    {
+        "id": 1994,
+        "name": "Rift Valley Province",
+        "cities": []
+    },
+    {
+        "id": 1995,
+        "name": "Samburu County",
+        "cities": [
+            {
+                "id": 63258,
+                "name": "Maralal"
+            }
+        ]
+    },
+    {
+        "id": 1996,
+        "name": "Siaya County",
+        "cities": [
+            {
+                "id": 63259,
+                "name": "Bondo"
+            },
+            {
+                "id": 63260,
+                "name": "Siaya"
+            },
+            {
+                "id": 63261,
+                "name": "Yala"
+            }
+        ]
+    },
+    {
+        "id": 1997,
+        "name": "Taita–Taveta County",
+        "cities": []
+    },
+    {
+        "id": 1998,
+        "name": "Tana River County",
+        "cities": [
+            {
+                "id": 63262,
+                "name": "Hola"
+            },
+            {
+                "id": 63263,
+                "name": "Kipini"
+            }
+        ]
+    },
+    {
+        "id": 1999,
+        "name": "Tharaka Nithi County",
+        "cities": [
+            {
+                "id": 63264,
+                "name": "Chuka"
+            }
+        ]
+    },
+    {
+        "id": 2000,
+        "name": "Trans-Nzoia District",
+        "cities": [
+            {
+                "id": 63265,
+                "name": "Kitale"
+            }
+        ]
+    },
+    {
+        "id": 2001,
+        "name": "Turkana County",
+        "cities": [
+            {
+                "id": 63266,
+                "name": "Lodwar"
+            }
+        ]
+    },
+    {
+        "id": 2002,
+        "name": "Uasin Gishu District",
+        "cities": [
+            {
+                "id": 63267,
+                "name": "Eldoret"
+            }
+        ]
+    },
+    {
+        "id": 2003,
+        "name": "Vihiga District",
+        "cities": []
+    },
+    {
+        "id": 2004,
+        "name": "Wajir County",
+        "cities": [
+            {
+                "id": 63268,
+                "name": "Wajir"
+            }
+        ]
+    },
+    {
+        "id": 2005,
+        "name": "West Pokot County",
+        "cities": [
+            {
+                "id": 63269,
+                "name": "Chepareria"
+            },
+            {
+                "id": 63270,
+                "name": "Kapenguria"
+            },
+            {
+                "id": 63271,
+                "name": "Taveta"
+            },
+            {
+                "id": 63272,
+                "name": "Voi"
+            },
+            {
+                "id": 63273,
+                "name": "Wundanyi"
+            }
+        ]
+    },
+    {
+        "id": 2006,
+        "name": "Western Province",
+        "cities": []
+    }
+]

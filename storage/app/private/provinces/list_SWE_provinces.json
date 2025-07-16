@@ -1,0 +1,4410 @@
+[
+    {
+        "id": 3901,
+        "name": "Blekinge",
+        "cities": [
+            {
+                "id": 110194,
+                "name": "Bräkne-Hoby"
+            },
+            {
+                "id": 110195,
+                "name": "Hällevik"
+            },
+            {
+                "id": 110196,
+                "name": "Hasslö"
+            },
+            {
+                "id": 110197,
+                "name": "Jämjö"
+            },
+            {
+                "id": 110198,
+                "name": "Jämshög"
+            },
+            {
+                "id": 110199,
+                "name": "Kallinge"
+            },
+            {
+                "id": 110200,
+                "name": "Karlshamn"
+            },
+            {
+                "id": 110201,
+                "name": "Karlshamns kommun"
+            },
+            {
+                "id": 110202,
+                "name": "Karlskrona"
+            },
+            {
+                "id": 110203,
+                "name": "Karlskrona Kommun"
+            },
+            {
+                "id": 110204,
+                "name": "Mjällby"
+            },
+            {
+                "id": 110205,
+                "name": "Mörrum"
+            },
+            {
+                "id": 110206,
+                "name": "Nättraby"
+            },
+            {
+                "id": 110207,
+                "name": "Olofström"
+            },
+            {
+                "id": 110208,
+                "name": "Olofströms Kommun"
+            },
+            {
+                "id": 110209,
+                "name": "Rödeby"
+            },
+            {
+                "id": 110210,
+                "name": "Ronneby"
+            },
+            {
+                "id": 110211,
+                "name": "Ronneby Kommun"
+            },
+            {
+                "id": 110212,
+                "name": "Sölvesborg"
+            },
+            {
+                "id": 110213,
+                "name": "Sölvesborgs kommun"
+            },
+            {
+                "id": 110214,
+                "name": "Sturkö"
+            },
+            {
+                "id": 110215,
+                "name": "Svängsta"
+            }
+        ]
+    },
+    {
+        "id": 3902,
+        "name": "Dalarna County",
+        "cities": [
+            {
+                "id": 110216,
+                "name": "Abborrberget"
+            },
+            {
+                "id": 110217,
+                "name": "Älvdalen"
+            },
+            {
+                "id": 110218,
+                "name": "Älvdalens kommun"
+            },
+            {
+                "id": 110219,
+                "name": "Avesta"
+            },
+            {
+                "id": 110220,
+                "name": "Avesta Kommun"
+            },
+            {
+                "id": 110221,
+                "name": "Bjursås"
+            },
+            {
+                "id": 110222,
+                "name": "Borlänge"
+            },
+            {
+                "id": 110223,
+                "name": "Borlänge Kommun"
+            },
+            {
+                "id": 110224,
+                "name": "Brunna"
+            },
+            {
+                "id": 110225,
+                "name": "Djurås"
+            },
+            {
+                "id": 110226,
+                "name": "Enbacka"
+            },
+            {
+                "id": 110227,
+                "name": "Falu kommun"
+            },
+            {
+                "id": 110228,
+                "name": "Falun"
+            },
+            {
+                "id": 110229,
+                "name": "Gagnef"
+            },
+            {
+                "id": 110230,
+                "name": "Gagnefs Kommun"
+            },
+            {
+                "id": 110231,
+                "name": "Grängesberg"
+            },
+            {
+                "id": 110232,
+                "name": "Grycksbo"
+            },
+            {
+                "id": 110233,
+                "name": "Hedemora"
+            },
+            {
+                "id": 110234,
+                "name": "Hedemora Kommun"
+            },
+            {
+                "id": 110235,
+                "name": "Horndal"
+            },
+            {
+                "id": 110236,
+                "name": "Insjön"
+            },
+            {
+                "id": 110237,
+                "name": "Järna"
+            },
+            {
+                "id": 110238,
+                "name": "Krylbo"
+            },
+            {
+                "id": 110239,
+                "name": "Långshyttan"
+            },
+            {
+                "id": 110240,
+                "name": "Leksand"
+            },
+            {
+                "id": 110241,
+                "name": "Leksands kommun"
+            },
+            {
+                "id": 110242,
+                "name": "Ludvika"
+            },
+            {
+                "id": 110243,
+                "name": "Ludvika Kommun"
+            },
+            {
+                "id": 110244,
+                "name": "Malung"
+            },
+            {
+                "id": 110245,
+                "name": "Malung-Sälens kommun"
+            },
+            {
+                "id": 110246,
+                "name": "Mockfjärd"
+            },
+            {
+                "id": 110247,
+                "name": "Mora"
+            },
+            {
+                "id": 110248,
+                "name": "Mora Kommun"
+            },
+            {
+                "id": 110249,
+                "name": "Nyhammar"
+            },
+            {
+                "id": 110250,
+                "name": "Ornäs"
+            },
+            {
+                "id": 110251,
+                "name": "Orsa"
+            },
+            {
+                "id": 110252,
+                "name": "Orsa Kommun"
+            },
+            {
+                "id": 110253,
+                "name": "Rättvik"
+            },
+            {
+                "id": 110254,
+                "name": "Rättviks Kommun"
+            },
+            {
+                "id": 110255,
+                "name": "Romme"
+            },
+            {
+                "id": 110256,
+                "name": "Säter"
+            },
+            {
+                "id": 110257,
+                "name": "Säters Kommun"
+            },
+            {
+                "id": 110258,
+                "name": "Siljansnäs"
+            },
+            {
+                "id": 110259,
+                "name": "Smedby"
+            },
+            {
+                "id": 110260,
+                "name": "Smedjebacken"
+            },
+            {
+                "id": 110261,
+                "name": "Smedjebackens Kommun"
+            },
+            {
+                "id": 110262,
+                "name": "Svärdsjö"
+            },
+            {
+                "id": 110263,
+                "name": "Vansbro"
+            },
+            {
+                "id": 110264,
+                "name": "Vansbro Kommun"
+            },
+            {
+                "id": 110265,
+                "name": "Vikarbyn"
+            }
+        ]
+    },
+    {
+        "id": 3903,
+        "name": "Gävleborg County",
+        "cities": [
+            {
+                "id": 110266,
+                "name": "Alfta"
+            },
+            {
+                "id": 110267,
+                "name": "Arbrå"
+            },
+            {
+                "id": 110268,
+                "name": "Årsunda"
+            },
+            {
+                "id": 110269,
+                "name": "Bergby"
+            },
+            {
+                "id": 110270,
+                "name": "Bergsjö"
+            },
+            {
+                "id": 110271,
+                "name": "Bollnäs"
+            },
+            {
+                "id": 110272,
+                "name": "Bollnäs Kommun"
+            },
+            {
+                "id": 110273,
+                "name": "Delsbo"
+            },
+            {
+                "id": 110274,
+                "name": "Edsbyn"
+            },
+            {
+                "id": 110275,
+                "name": "Färila"
+            },
+            {
+                "id": 110276,
+                "name": "Forsbacka"
+            },
+            {
+                "id": 110277,
+                "name": "Gävle"
+            },
+            {
+                "id": 110278,
+                "name": "Gävle Kommun"
+            },
+            {
+                "id": 110279,
+                "name": "Gnarp"
+            },
+            {
+                "id": 110280,
+                "name": "Hedesunda"
+            },
+            {
+                "id": 110281,
+                "name": "Hofors"
+            },
+            {
+                "id": 110282,
+                "name": "Hofors Kommun"
+            },
+            {
+                "id": 110283,
+                "name": "Hudiksvall"
+            },
+            {
+                "id": 110284,
+                "name": "Hudiksvalls Kommun"
+            },
+            {
+                "id": 110285,
+                "name": "Iggesund"
+            },
+            {
+                "id": 110286,
+                "name": "Järbo"
+            },
+            {
+                "id": 110287,
+                "name": "Järvsö"
+            },
+            {
+                "id": 110288,
+                "name": "Kilafors"
+            },
+            {
+                "id": 110289,
+                "name": "Ljusdal"
+            },
+            {
+                "id": 110290,
+                "name": "Ljusdals Kommun"
+            },
+            {
+                "id": 110291,
+                "name": "Ljusne"
+            },
+            {
+                "id": 110292,
+                "name": "Nordanstigs kommun"
+            },
+            {
+                "id": 110293,
+                "name": "Ockelbo"
+            },
+            {
+                "id": 110294,
+                "name": "Ockelbo Kommun"
+            },
+            {
+                "id": 110295,
+                "name": "Ovanåkers Kommun"
+            },
+            {
+                "id": 110296,
+                "name": "Sandarne"
+            },
+            {
+                "id": 110297,
+                "name": "Sandviken"
+            },
+            {
+                "id": 110298,
+                "name": "Sandvikens Kommun"
+            },
+            {
+                "id": 110299,
+                "name": "Söderhamn"
+            },
+            {
+                "id": 110300,
+                "name": "Söderhamns Kommun"
+            },
+            {
+                "id": 110301,
+                "name": "Sörforsa"
+            },
+            {
+                "id": 110302,
+                "name": "Storvik"
+            },
+            {
+                "id": 110303,
+                "name": "Valbo"
+            }
+        ]
+    },
+    {
+        "id": 3904,
+        "name": "Gotland County",
+        "cities": [
+            {
+                "id": 110304,
+                "name": "Gotland"
+            },
+            {
+                "id": 110305,
+                "name": "Hemse"
+            },
+            {
+                "id": 110306,
+                "name": "Klintehamn"
+            },
+            {
+                "id": 110307,
+                "name": "Vibble"
+            },
+            {
+                "id": 110308,
+                "name": "Visby"
+            }
+        ]
+    },
+    {
+        "id": 3905,
+        "name": "Halland County",
+        "cities": [
+            {
+                "id": 110309,
+                "name": "Åled"
+            },
+            {
+                "id": 110310,
+                "name": "Åsa"
+            },
+            {
+                "id": 110311,
+                "name": "Bua"
+            },
+            {
+                "id": 110312,
+                "name": "Falkenberg"
+            },
+            {
+                "id": 110313,
+                "name": "Falkenbergs Kommun"
+            },
+            {
+                "id": 110314,
+                "name": "Fjärås kyrkby"
+            },
+            {
+                "id": 110315,
+                "name": "Frillesås"
+            },
+            {
+                "id": 110316,
+                "name": "Frösakull"
+            },
+            {
+                "id": 110317,
+                "name": "Fyllinge"
+            },
+            {
+                "id": 110318,
+                "name": "Getinge"
+            },
+            {
+                "id": 110319,
+                "name": "Glommen"
+            },
+            {
+                "id": 110320,
+                "name": "Gullbrandstorp"
+            },
+            {
+                "id": 110321,
+                "name": "Halmstad"
+            },
+            {
+                "id": 110322,
+                "name": "Halmstads Kommun"
+            },
+            {
+                "id": 110323,
+                "name": "Harplinge"
+            },
+            {
+                "id": 110324,
+                "name": "Haverdal"
+            },
+            {
+                "id": 110325,
+                "name": "Hylte Kommun"
+            },
+            {
+                "id": 110326,
+                "name": "Hyltebruk"
+            },
+            {
+                "id": 110327,
+                "name": "Knäred"
+            },
+            {
+                "id": 110328,
+                "name": "Kungsbacka"
+            },
+            {
+                "id": 110329,
+                "name": "Kungsbacka Kommun"
+            },
+            {
+                "id": 110330,
+                "name": "Laholm"
+            },
+            {
+                "id": 110331,
+                "name": "Laholms Kommun"
+            },
+            {
+                "id": 110332,
+                "name": "Mellbystrand"
+            },
+            {
+                "id": 110333,
+                "name": "Mjällby"
+            },
+            {
+                "id": 110334,
+                "name": "Onsala"
+            },
+            {
+                "id": 110335,
+                "name": "Oskarström"
+            },
+            {
+                "id": 110336,
+                "name": "Särö"
+            },
+            {
+                "id": 110337,
+                "name": "Skrea"
+            },
+            {
+                "id": 110338,
+                "name": "Steninge"
+            },
+            {
+                "id": 110339,
+                "name": "Torup"
+            },
+            {
+                "id": 110340,
+                "name": "Träslövsläge"
+            },
+            {
+                "id": 110341,
+                "name": "Trönninge"
+            },
+            {
+                "id": 110342,
+                "name": "Tvååker"
+            },
+            {
+                "id": 110343,
+                "name": "Vallda"
+            },
+            {
+                "id": 110344,
+                "name": "Varberg"
+            },
+            {
+                "id": 110345,
+                "name": "Varbergs Kommun"
+            },
+            {
+                "id": 110346,
+                "name": "Västra Hagen"
+            },
+            {
+                "id": 110347,
+                "name": "Veddige"
+            },
+            {
+                "id": 110348,
+                "name": "Veinge"
+            }
+        ]
+    },
+    {
+        "id": 3906,
+        "name": "Jönköping County",
+        "cities": [
+            {
+                "id": 110349,
+                "name": "Anderstorp"
+            },
+            {
+                "id": 110350,
+                "name": "Aneby"
+            },
+            {
+                "id": 110351,
+                "name": "Aneby Kommun"
+            },
+            {
+                "id": 110352,
+                "name": "Bankeryd"
+            },
+            {
+                "id": 110353,
+                "name": "Bodafors"
+            },
+            {
+                "id": 110354,
+                "name": "Bor"
+            },
+            {
+                "id": 110355,
+                "name": "Bredaryd"
+            },
+            {
+                "id": 110356,
+                "name": "Ekenässjön"
+            },
+            {
+                "id": 110357,
+                "name": "Eksjö"
+            },
+            {
+                "id": 110358,
+                "name": "Eksjö Kommun"
+            },
+            {
+                "id": 110359,
+                "name": "Forserum"
+            },
+            {
+                "id": 110360,
+                "name": "Forsheda"
+            },
+            {
+                "id": 110361,
+                "name": "Gislaved"
+            },
+            {
+                "id": 110362,
+                "name": "Gislaveds Kommun"
+            },
+            {
+                "id": 110363,
+                "name": "Gnosjö"
+            },
+            {
+                "id": 110364,
+                "name": "Gnosjö Kommun"
+            },
+            {
+                "id": 110365,
+                "name": "Gränna"
+            },
+            {
+                "id": 110366,
+                "name": "Habo"
+            },
+            {
+                "id": 110367,
+                "name": "Habo Kommun"
+            },
+            {
+                "id": 110368,
+                "name": "Hestra"
+            },
+            {
+                "id": 110369,
+                "name": "Hillerstorp"
+            },
+            {
+                "id": 110370,
+                "name": "Huskvarna"
+            },
+            {
+                "id": 110371,
+                "name": "Jönköping"
+            },
+            {
+                "id": 110372,
+                "name": "Jönköpings Kommun"
+            },
+            {
+                "id": 110373,
+                "name": "Kaxholmen"
+            },
+            {
+                "id": 110374,
+                "name": "Landsbro"
+            },
+            {
+                "id": 110375,
+                "name": "Malmbäck"
+            },
+            {
+                "id": 110376,
+                "name": "Mariannelund"
+            },
+            {
+                "id": 110377,
+                "name": "Marieholm"
+            },
+            {
+                "id": 110378,
+                "name": "Mullsjö"
+            },
+            {
+                "id": 110379,
+                "name": "Mullsjö kommun"
+            },
+            {
+                "id": 110380,
+                "name": "Nässjö"
+            },
+            {
+                "id": 110381,
+                "name": "Nässjö Kommun"
+            },
+            {
+                "id": 110382,
+                "name": "Odensjö"
+            },
+            {
+                "id": 110383,
+                "name": "Reftele"
+            },
+            {
+                "id": 110384,
+                "name": "Rydaholm"
+            },
+            {
+                "id": 110385,
+                "name": "Sävsjö"
+            },
+            {
+                "id": 110386,
+                "name": "Sävsjö Kommun"
+            },
+            {
+                "id": 110387,
+                "name": "Skillingaryd"
+            },
+            {
+                "id": 110388,
+                "name": "Smålandsstenar"
+            },
+            {
+                "id": 110389,
+                "name": "Stockaryd"
+            },
+            {
+                "id": 110390,
+                "name": "Taberg"
+            },
+            {
+                "id": 110391,
+                "name": "Tenhult"
+            },
+            {
+                "id": 110392,
+                "name": "Tranås"
+            },
+            {
+                "id": 110393,
+                "name": "Tranås Kommun"
+            },
+            {
+                "id": 110394,
+                "name": "Vaggeryd"
+            },
+            {
+                "id": 110395,
+                "name": "Vaggeryds Kommun"
+            },
+            {
+                "id": 110396,
+                "name": "Värnamo"
+            },
+            {
+                "id": 110397,
+                "name": "Värnamo Kommun"
+            },
+            {
+                "id": 110398,
+                "name": "Vetlanda"
+            },
+            {
+                "id": 110399,
+                "name": "Vetlanda kommun"
+            },
+            {
+                "id": 110400,
+                "name": "Vrigstad"
+            }
+        ]
+    },
+    {
+        "id": 3907,
+        "name": "Kalmar County",
+        "cities": [
+            {
+                "id": 110401,
+                "name": "Ankarsrum"
+            },
+            {
+                "id": 110402,
+                "name": "Bergkvara"
+            },
+            {
+                "id": 110403,
+                "name": "Blomstermåla"
+            },
+            {
+                "id": 110404,
+                "name": "Borgholm"
+            },
+            {
+                "id": 110405,
+                "name": "Borgholms Kommun"
+            },
+            {
+                "id": 110406,
+                "name": "Emmaboda"
+            },
+            {
+                "id": 110407,
+                "name": "Emmaboda Kommun"
+            },
+            {
+                "id": 110408,
+                "name": "Färjestaden"
+            },
+            {
+                "id": 110409,
+                "name": "Gamleby"
+            },
+            {
+                "id": 110410,
+                "name": "Gunnebo"
+            },
+            {
+                "id": 110411,
+                "name": "Högsby"
+            },
+            {
+                "id": 110412,
+                "name": "Högsby Kommun"
+            },
+            {
+                "id": 110413,
+                "name": "Hultsfred"
+            },
+            {
+                "id": 110414,
+                "name": "Hultsfreds Kommun"
+            },
+            {
+                "id": 110415,
+                "name": "Kalmar"
+            },
+            {
+                "id": 110416,
+                "name": "Kalmar Kommun"
+            },
+            {
+                "id": 110417,
+                "name": "Kristdala"
+            },
+            {
+                "id": 110418,
+                "name": "Lindsdal"
+            },
+            {
+                "id": 110419,
+                "name": "Ljungbyholm"
+            },
+            {
+                "id": 110420,
+                "name": "Målilla"
+            },
+            {
+                "id": 110421,
+                "name": "Mönsterås"
+            },
+            {
+                "id": 110422,
+                "name": "Mönsterås Kommun"
+            },
+            {
+                "id": 110423,
+                "name": "Mörbylånga"
+            },
+            {
+                "id": 110424,
+                "name": "Mörbylånga Kommun"
+            },
+            {
+                "id": 110425,
+                "name": "Nybro"
+            },
+            {
+                "id": 110426,
+                "name": "Nybro Kommun"
+            },
+            {
+                "id": 110427,
+                "name": "Oskarshamn"
+            },
+            {
+                "id": 110428,
+                "name": "Oskarshamns Kommun"
+            },
+            {
+                "id": 110429,
+                "name": "Överum"
+            },
+            {
+                "id": 110430,
+                "name": "Påskallavik"
+            },
+            {
+                "id": 110431,
+                "name": "Rinkabyholm"
+            },
+            {
+                "id": 110432,
+                "name": "Smedby"
+            },
+            {
+                "id": 110433,
+                "name": "Södra Sandby"
+            },
+            {
+                "id": 110434,
+                "name": "Södra Vi"
+            },
+            {
+                "id": 110435,
+                "name": "Storebro"
+            },
+            {
+                "id": 110436,
+                "name": "Timmernabben"
+            },
+            {
+                "id": 110437,
+                "name": "Torsås"
+            },
+            {
+                "id": 110438,
+                "name": "Torsås Kommun"
+            },
+            {
+                "id": 110439,
+                "name": "Trekanten"
+            },
+            {
+                "id": 110440,
+                "name": "Västervik"
+            },
+            {
+                "id": 110441,
+                "name": "Västerviks Kommun"
+            },
+            {
+                "id": 110442,
+                "name": "Vimmerby"
+            },
+            {
+                "id": 110443,
+                "name": "Vimmerby Kommun"
+            },
+            {
+                "id": 110444,
+                "name": "Virserum"
+            }
+        ]
+    },
+    {
+        "id": 3908,
+        "name": "Kronoberg County",
+        "cities": [
+            {
+                "id": 110445,
+                "name": "Älmhult"
+            },
+            {
+                "id": 110446,
+                "name": "Älmhults Kommun"
+            },
+            {
+                "id": 110447,
+                "name": "Alvesta"
+            },
+            {
+                "id": 110448,
+                "name": "Alvesta Kommun"
+            },
+            {
+                "id": 110449,
+                "name": "Åseda"
+            },
+            {
+                "id": 110450,
+                "name": "Braås"
+            },
+            {
+                "id": 110451,
+                "name": "Gemla"
+            },
+            {
+                "id": 110452,
+                "name": "Hovmantorp"
+            },
+            {
+                "id": 110453,
+                "name": "Ingelstad"
+            },
+            {
+                "id": 110454,
+                "name": "Lagan"
+            },
+            {
+                "id": 110455,
+                "name": "Lammhult"
+            },
+            {
+                "id": 110456,
+                "name": "Lenhovda"
+            },
+            {
+                "id": 110457,
+                "name": "Lessebo"
+            },
+            {
+                "id": 110458,
+                "name": "Lessebo Kommun"
+            },
+            {
+                "id": 110459,
+                "name": "Ljungby"
+            },
+            {
+                "id": 110460,
+                "name": "Ljungby Kommun"
+            },
+            {
+                "id": 110461,
+                "name": "Markaryd"
+            },
+            {
+                "id": 110462,
+                "name": "Markaryds Kommun"
+            },
+            {
+                "id": 110463,
+                "name": "Moheda"
+            },
+            {
+                "id": 110464,
+                "name": "Rottne"
+            },
+            {
+                "id": 110465,
+                "name": "Ryd"
+            },
+            {
+                "id": 110466,
+                "name": "Strömsnäsbruk"
+            },
+            {
+                "id": 110467,
+                "name": "Tingsryd"
+            },
+            {
+                "id": 110468,
+                "name": "Tingsryds Kommun"
+            },
+            {
+                "id": 110469,
+                "name": "Uppvidinge Kommun"
+            },
+            {
+                "id": 110470,
+                "name": "Växjö"
+            },
+            {
+                "id": 110471,
+                "name": "Växjö Kommun"
+            },
+            {
+                "id": 110472,
+                "name": "Vislanda"
+            }
+        ]
+    },
+    {
+        "id": 3909,
+        "name": "Norrbotten County",
+        "cities": [
+            {
+                "id": 110473,
+                "name": "Älvsbyn"
+            },
+            {
+                "id": 110474,
+                "name": "Älvsbyns Kommun"
+            },
+            {
+                "id": 110475,
+                "name": "Arjeplog"
+            },
+            {
+                "id": 110476,
+                "name": "Arjeplogs Kommun"
+            },
+            {
+                "id": 110477,
+                "name": "Arvidsjaur"
+            },
+            {
+                "id": 110478,
+                "name": "Arvidsjaurs Kommun"
+            },
+            {
+                "id": 110479,
+                "name": "Bergnäset"
+            },
+            {
+                "id": 110480,
+                "name": "Bergsviken"
+            },
+            {
+                "id": 110481,
+                "name": "Björkskatan"
+            },
+            {
+                "id": 110482,
+                "name": "Boden"
+            },
+            {
+                "id": 110483,
+                "name": "Bodens Kommun"
+            },
+            {
+                "id": 110484,
+                "name": "Gällivare"
+            },
+            {
+                "id": 110485,
+                "name": "Gällivare kommun"
+            },
+            {
+                "id": 110486,
+                "name": "Gammelstad"
+            },
+            {
+                "id": 110487,
+                "name": "Haparanda"
+            },
+            {
+                "id": 110488,
+                "name": "Haparanda Kommun"
+            },
+            {
+                "id": 110489,
+                "name": "Hortlax"
+            },
+            {
+                "id": 110490,
+                "name": "Jokkmokk"
+            },
+            {
+                "id": 110491,
+                "name": "Jokkmokks Kommun"
+            },
+            {
+                "id": 110492,
+                "name": "Kalix"
+            },
+            {
+                "id": 110493,
+                "name": "Kalix Kommun"
+            },
+            {
+                "id": 110494,
+                "name": "Kiruna"
+            },
+            {
+                "id": 110495,
+                "name": "Kiruna Kommun"
+            },
+            {
+                "id": 110496,
+                "name": "Luleå"
+            },
+            {
+                "id": 110497,
+                "name": "Luleå kommun"
+            },
+            {
+                "id": 110498,
+                "name": "Malmberget"
+            },
+            {
+                "id": 110499,
+                "name": "Marielund"
+            },
+            {
+                "id": 110500,
+                "name": "Norrfjärden"
+            },
+            {
+                "id": 110501,
+                "name": "Överkalix"
+            },
+            {
+                "id": 110502,
+                "name": "Överkalix Kommun"
+            },
+            {
+                "id": 110503,
+                "name": "Övertorneå"
+            },
+            {
+                "id": 110504,
+                "name": "Övertorneå Kommun"
+            },
+            {
+                "id": 110505,
+                "name": "Pajala"
+            },
+            {
+                "id": 110506,
+                "name": "Pajala Kommun"
+            },
+            {
+                "id": 110507,
+                "name": "Piteå"
+            },
+            {
+                "id": 110508,
+                "name": "Piteå Kommun"
+            },
+            {
+                "id": 110509,
+                "name": "Råneå"
+            },
+            {
+                "id": 110510,
+                "name": "Roknäs"
+            },
+            {
+                "id": 110511,
+                "name": "Rolfs"
+            },
+            {
+                "id": 110512,
+                "name": "Rosvik"
+            },
+            {
+                "id": 110513,
+                "name": "Sävast"
+            },
+            {
+                "id": 110514,
+                "name": "Södra Sunderbyn"
+            },
+            {
+                "id": 110515,
+                "name": "Töre"
+            }
+        ]
+    },
+    {
+        "id": 3910,
+        "name": "Örebro County",
+        "cities": [
+            {
+                "id": 110516,
+                "name": "Åsbro"
+            },
+            {
+                "id": 110517,
+                "name": "Askersund"
+            },
+            {
+                "id": 110518,
+                "name": "Askersunds Kommun"
+            },
+            {
+                "id": 110519,
+                "name": "Degerfors"
+            },
+            {
+                "id": 110520,
+                "name": "Degerfors Kommun"
+            },
+            {
+                "id": 110521,
+                "name": "Ekeby-Almby"
+            },
+            {
+                "id": 110522,
+                "name": "Fellingsbro"
+            },
+            {
+                "id": 110523,
+                "name": "Fjugesta"
+            },
+            {
+                "id": 110524,
+                "name": "Frövi"
+            },
+            {
+                "id": 110525,
+                "name": "Garphyttan"
+            },
+            {
+                "id": 110526,
+                "name": "Hällabrottet"
+            },
+            {
+                "id": 110527,
+                "name": "Hällefors"
+            },
+            {
+                "id": 110528,
+                "name": "Hällefors Kommun"
+            },
+            {
+                "id": 110529,
+                "name": "Hallsberg"
+            },
+            {
+                "id": 110530,
+                "name": "Hallsbergs Kommun"
+            },
+            {
+                "id": 110531,
+                "name": "Hovsta"
+            },
+            {
+                "id": 110532,
+                "name": "Karlskoga"
+            },
+            {
+                "id": 110533,
+                "name": "Karlskoga Kommun"
+            },
+            {
+                "id": 110534,
+                "name": "Kopparberg"
+            },
+            {
+                "id": 110535,
+                "name": "Kumla"
+            },
+            {
+                "id": 110536,
+                "name": "Kumla Kommun"
+            },
+            {
+                "id": 110537,
+                "name": "Laxå"
+            },
+            {
+                "id": 110538,
+                "name": "Laxå Kommun"
+            },
+            {
+                "id": 110539,
+                "name": "Lekebergs Kommun"
+            },
+            {
+                "id": 110540,
+                "name": "Lindesberg"
+            },
+            {
+                "id": 110541,
+                "name": "Lindesbergs Kommun"
+            },
+            {
+                "id": 110542,
+                "name": "Ljusnarsbergs Kommun"
+            },
+            {
+                "id": 110543,
+                "name": "Nora"
+            },
+            {
+                "id": 110544,
+                "name": "Nora Kommun"
+            },
+            {
+                "id": 110545,
+                "name": "Odensbacken"
+            },
+            {
+                "id": 110546,
+                "name": "Örebro"
+            },
+            {
+                "id": 110547,
+                "name": "Örebro Kommun"
+            },
+            {
+                "id": 110548,
+                "name": "Pålsboda"
+            },
+            {
+                "id": 110549,
+                "name": "Sköllersta"
+            },
+            {
+                "id": 110550,
+                "name": "Storå"
+            },
+            {
+                "id": 110551,
+                "name": "Vintrosa"
+            }
+        ]
+    },
+    {
+        "id": 3911,
+        "name": "Östergötland County",
+        "cities": [
+            {
+                "id": 110552,
+                "name": "Åby"
+            },
+            {
+                "id": 110553,
+                "name": "Åtvidaberg"
+            },
+            {
+                "id": 110554,
+                "name": "Åtvidabergs Kommun"
+            },
+            {
+                "id": 110555,
+                "name": "Berg"
+            },
+            {
+                "id": 110556,
+                "name": "Borensberg"
+            },
+            {
+                "id": 110557,
+                "name": "Boxholm"
+            },
+            {
+                "id": 110558,
+                "name": "Boxholms Kommun"
+            },
+            {
+                "id": 110559,
+                "name": "Ekängen"
+            },
+            {
+                "id": 110560,
+                "name": "Finspång"
+            },
+            {
+                "id": 110561,
+                "name": "Finspångs Kommun"
+            },
+            {
+                "id": 110562,
+                "name": "Grebo"
+            },
+            {
+                "id": 110563,
+                "name": "Gusum"
+            },
+            {
+                "id": 110564,
+                "name": "Herrestad"
+            },
+            {
+                "id": 110565,
+                "name": "Jursla"
+            },
+            {
+                "id": 110566,
+                "name": "Kimstad"
+            },
+            {
+                "id": 110567,
+                "name": "Kinda Kommun"
+            },
+            {
+                "id": 110568,
+                "name": "Kisa"
+            },
+            {
+                "id": 110569,
+                "name": "Krokek"
+            },
+            {
+                "id": 110570,
+                "name": "Lindö"
+            },
+            {
+                "id": 110571,
+                "name": "Linghem"
+            },
+            {
+                "id": 110572,
+                "name": "Linköping"
+            },
+            {
+                "id": 110573,
+                "name": "Linköpings Kommun"
+            },
+            {
+                "id": 110574,
+                "name": "Ljungsbro"
+            },
+            {
+                "id": 110575,
+                "name": "Malmslätt"
+            },
+            {
+                "id": 110576,
+                "name": "Mantorp"
+            },
+            {
+                "id": 110577,
+                "name": "Mjölby"
+            },
+            {
+                "id": 110578,
+                "name": "Mjölby Kommun"
+            },
+            {
+                "id": 110579,
+                "name": "Motala"
+            },
+            {
+                "id": 110580,
+                "name": "Motala Kommun"
+            },
+            {
+                "id": 110581,
+                "name": "Norrköping"
+            },
+            {
+                "id": 110582,
+                "name": "Norrköpings Kommun"
+            },
+            {
+                "id": 110583,
+                "name": "Ödeshög"
+            },
+            {
+                "id": 110584,
+                "name": "Ödeshögs Kommun"
+            },
+            {
+                "id": 110585,
+                "name": "Österbymo"
+            },
+            {
+                "id": 110586,
+                "name": "Rimforsa"
+            },
+            {
+                "id": 110587,
+                "name": "Ryd"
+            },
+            {
+                "id": 110588,
+                "name": "Skänninge"
+            },
+            {
+                "id": 110589,
+                "name": "Skärblacka"
+            },
+            {
+                "id": 110590,
+                "name": "Söderköping"
+            },
+            {
+                "id": 110591,
+                "name": "Söderköpings Kommun"
+            },
+            {
+                "id": 110592,
+                "name": "Stenstorp"
+            },
+            {
+                "id": 110593,
+                "name": "Sturefors"
+            },
+            {
+                "id": 110594,
+                "name": "Svärtinge"
+            },
+            {
+                "id": 110595,
+                "name": "Tallboda"
+            },
+            {
+                "id": 110596,
+                "name": "Vadstena"
+            },
+            {
+                "id": 110597,
+                "name": "Vadstena Kommun"
+            },
+            {
+                "id": 110598,
+                "name": "Valdemarsvik"
+            },
+            {
+                "id": 110599,
+                "name": "Valdemarsviks Kommun"
+            },
+            {
+                "id": 110600,
+                "name": "Vikingstad"
+            },
+            {
+                "id": 110601,
+                "name": "Ydre Kommun"
+            }
+        ]
+    },
+    {
+        "id": 3912,
+        "name": "Skåne County",
+        "cities": [
+            {
+                "id": 110602,
+                "name": "Åhus"
+            },
+            {
+                "id": 110603,
+                "name": "Åkarp"
+            },
+            {
+                "id": 110604,
+                "name": "Anderslöv"
+            },
+            {
+                "id": 110605,
+                "name": "Ängelholm"
+            },
+            {
+                "id": 110606,
+                "name": "Ängelholms Kommun"
+            },
+            {
+                "id": 110607,
+                "name": "Arlöv"
+            },
+            {
+                "id": 110608,
+                "name": "Asmundtorp"
+            },
+            {
+                "id": 110609,
+                "name": "Åstorp"
+            },
+            {
+                "id": 110610,
+                "name": "Åstorps Kommun"
+            },
+            {
+                "id": 110611,
+                "name": "Bara"
+            },
+            {
+                "id": 110612,
+                "name": "Bårslöv"
+            },
+            {
+                "id": 110613,
+                "name": "Båstad"
+            },
+            {
+                "id": 110614,
+                "name": "Båstads Kommun"
+            },
+            {
+                "id": 110615,
+                "name": "Billeberga"
+            },
+            {
+                "id": 110616,
+                "name": "Billesholm"
+            },
+            {
+                "id": 110617,
+                "name": "Bjärnum"
+            },
+            {
+                "id": 110618,
+                "name": "Bjärred"
+            },
+            {
+                "id": 110619,
+                "name": "Bjuv"
+            },
+            {
+                "id": 110620,
+                "name": "Bjuvs Kommun"
+            },
+            {
+                "id": 110621,
+                "name": "Blentarp"
+            },
+            {
+                "id": 110622,
+                "name": "Broby"
+            },
+            {
+                "id": 110623,
+                "name": "Bromölla"
+            },
+            {
+                "id": 110624,
+                "name": "Bromölla Kommun"
+            },
+            {
+                "id": 110625,
+                "name": "Bunkeflostrand"
+            },
+            {
+                "id": 110626,
+                "name": "Burlövs Kommun"
+            },
+            {
+                "id": 110627,
+                "name": "Dalby"
+            },
+            {
+                "id": 110628,
+                "name": "Degeberga"
+            },
+            {
+                "id": 110629,
+                "name": "Ekeby"
+            },
+            {
+                "id": 110630,
+                "name": "Eslöv"
+            },
+            {
+                "id": 110631,
+                "name": "Eslövs Kommun"
+            },
+            {
+                "id": 110632,
+                "name": "Färlöv"
+            },
+            {
+                "id": 110633,
+                "name": "Fjälkinge"
+            },
+            {
+                "id": 110634,
+                "name": "Förslöv"
+            },
+            {
+                "id": 110635,
+                "name": "Furulund"
+            },
+            {
+                "id": 110636,
+                "name": "Gantofta"
+            },
+            {
+                "id": 110637,
+                "name": "Gärsnäs"
+            },
+            {
+                "id": 110638,
+                "name": "Genarp"
+            },
+            {
+                "id": 110639,
+                "name": "Glimåkra"
+            },
+            {
+                "id": 110640,
+                "name": "Glumslöv"
+            },
+            {
+                "id": 110641,
+                "name": "Häljarp"
+            },
+            {
+                "id": 110642,
+                "name": "Hammar"
+            },
+            {
+                "id": 110643,
+                "name": "Hanaskog"
+            },
+            {
+                "id": 110644,
+                "name": "Hässleholm"
+            },
+            {
+                "id": 110645,
+                "name": "Hässleholms Kommun"
+            },
+            {
+                "id": 110646,
+                "name": "Hästveda"
+            },
+            {
+                "id": 110647,
+                "name": "Helsingborg"
+            },
+            {
+                "id": 110648,
+                "name": "Hittarp"
+            },
+            {
+                "id": 110649,
+                "name": "Hjärnarp"
+            },
+            {
+                "id": 110650,
+                "name": "Hjärup"
+            },
+            {
+                "id": 110651,
+                "name": "Hofterup"
+            },
+            {
+                "id": 110652,
+                "name": "Höganäs"
+            },
+            {
+                "id": 110653,
+                "name": "Höganäs Kommun"
+            },
+            {
+                "id": 110654,
+                "name": "Hököpinge"
+            },
+            {
+                "id": 110655,
+                "name": "Höllviken"
+            },
+            {
+                "id": 110656,
+                "name": "Höör"
+            },
+            {
+                "id": 110657,
+                "name": "Höörs Kommun"
+            },
+            {
+                "id": 110658,
+                "name": "Hörby"
+            },
+            {
+                "id": 110659,
+                "name": "Hörby Kommun"
+            },
+            {
+                "id": 110660,
+                "name": "Hyllinge"
+            },
+            {
+                "id": 110661,
+                "name": "Jonstorp"
+            },
+            {
+                "id": 110662,
+                "name": "Kågeröd"
+            },
+            {
+                "id": 110663,
+                "name": "Kävlinge"
+            },
+            {
+                "id": 110664,
+                "name": "Kävlinge Kommun"
+            },
+            {
+                "id": 110665,
+                "name": "Klågerup"
+            },
+            {
+                "id": 110666,
+                "name": "Klippan"
+            },
+            {
+                "id": 110667,
+                "name": "Klippans Kommun"
+            },
+            {
+                "id": 110668,
+                "name": "Knislinge"
+            },
+            {
+                "id": 110669,
+                "name": "Köpingebro"
+            },
+            {
+                "id": 110670,
+                "name": "Kristianstad"
+            },
+            {
+                "id": 110671,
+                "name": "Kristianstads kommun"
+            },
+            {
+                "id": 110672,
+                "name": "Kvidinge"
+            },
+            {
+                "id": 110673,
+                "name": "Landskrona"
+            },
+            {
+                "id": 110674,
+                "name": "Ljungbyhed"
+            },
+            {
+                "id": 110675,
+                "name": "Ljunghusen"
+            },
+            {
+                "id": 110676,
+                "name": "Löberöd"
+            },
+            {
+                "id": 110677,
+                "name": "Löddeköpinge"
+            },
+            {
+                "id": 110678,
+                "name": "Lomma"
+            },
+            {
+                "id": 110679,
+                "name": "Lomma Kommun"
+            },
+            {
+                "id": 110680,
+                "name": "Lönsboda"
+            },
+            {
+                "id": 110681,
+                "name": "Lund"
+            },
+            {
+                "id": 110682,
+                "name": "Lunds Kommun"
+            },
+            {
+                "id": 110683,
+                "name": "Malmö"
+            },
+            {
+                "id": 110684,
+                "name": "Marieholm"
+            },
+            {
+                "id": 110685,
+                "name": "Mörarp"
+            },
+            {
+                "id": 110686,
+                "name": "Munka-Ljungby"
+            },
+            {
+                "id": 110687,
+                "name": "Näsum"
+            },
+            {
+                "id": 110688,
+                "name": "Norra Åsum"
+            },
+            {
+                "id": 110689,
+                "name": "Ödåkra"
+            },
+            {
+                "id": 110690,
+                "name": "Önnestad"
+            },
+            {
+                "id": 110691,
+                "name": "Örkelljunga"
+            },
+            {
+                "id": 110692,
+                "name": "Örkelljunga Kommun"
+            },
+            {
+                "id": 110693,
+                "name": "Osby"
+            },
+            {
+                "id": 110694,
+                "name": "Osby kommun"
+            },
+            {
+                "id": 110695,
+                "name": "Östra Göinge Kommun"
+            },
+            {
+                "id": 110696,
+                "name": "Östra Ljungby"
+            },
+            {
+                "id": 110697,
+                "name": "Oxie"
+            },
+            {
+                "id": 110698,
+                "name": "Påarp"
+            },
+            {
+                "id": 110699,
+                "name": "Perstorp"
+            },
+            {
+                "id": 110700,
+                "name": "Perstorps Kommun"
+            },
+            {
+                "id": 110701,
+                "name": "Rydebäck"
+            },
+            {
+                "id": 110702,
+                "name": "Rydsgård"
+            },
+            {
+                "id": 110703,
+                "name": "Sätofta"
+            },
+            {
+                "id": 110704,
+                "name": "Saxtorpsskogen"
+            },
+            {
+                "id": 110705,
+                "name": "Sibbhult"
+            },
+            {
+                "id": 110706,
+                "name": "Simrishamn"
+            },
+            {
+                "id": 110707,
+                "name": "Simrishamns kommun"
+            },
+            {
+                "id": 110708,
+                "name": "Sjöbo"
+            },
+            {
+                "id": 110709,
+                "name": "Sjöbo Kommun"
+            },
+            {
+                "id": 110710,
+                "name": "Skanör med Falsterbo"
+            },
+            {
+                "id": 110711,
+                "name": "Skåre"
+            },
+            {
+                "id": 110712,
+                "name": "Skegrie"
+            },
+            {
+                "id": 110713,
+                "name": "Skivarp"
+            },
+            {
+                "id": 110714,
+                "name": "Skurup"
+            },
+            {
+                "id": 110715,
+                "name": "Skurups Kommun"
+            },
+            {
+                "id": 110716,
+                "name": "Smygehamn"
+            },
+            {
+                "id": 110717,
+                "name": "Södra Sandby"
+            },
+            {
+                "id": 110718,
+                "name": "Sösdala"
+            },
+            {
+                "id": 110719,
+                "name": "Staffanstorp"
+            },
+            {
+                "id": 110720,
+                "name": "Staffanstorps Kommun"
+            },
+            {
+                "id": 110721,
+                "name": "Stångby"
+            },
+            {
+                "id": 110722,
+                "name": "Stehag"
+            },
+            {
+                "id": 110723,
+                "name": "Strövelstorp"
+            },
+            {
+                "id": 110724,
+                "name": "Svalöv"
+            },
+            {
+                "id": 110725,
+                "name": "Svalövs Kommun"
+            },
+            {
+                "id": 110726,
+                "name": "Svedala"
+            },
+            {
+                "id": 110727,
+                "name": "Svedala Kommun"
+            },
+            {
+                "id": 110728,
+                "name": "Teckomatorp"
+            },
+            {
+                "id": 110729,
+                "name": "Tollarp"
+            },
+            {
+                "id": 110730,
+                "name": "Tollarp1"
+            },
+            {
+                "id": 110731,
+                "name": "Tomelilla"
+            },
+            {
+                "id": 110732,
+                "name": "Tomelilla Kommun"
+            },
+            {
+                "id": 110733,
+                "name": "Torekov"
+            },
+            {
+                "id": 110734,
+                "name": "Tormestorp"
+            },
+            {
+                "id": 110735,
+                "name": "Trelleborg"
+            },
+            {
+                "id": 110736,
+                "name": "Trelleborgs Kommun"
+            },
+            {
+                "id": 110737,
+                "name": "Tygelsjö"
+            },
+            {
+                "id": 110738,
+                "name": "Tyringe"
+            },
+            {
+                "id": 110739,
+                "name": "Valje"
+            },
+            {
+                "id": 110740,
+                "name": "Veberöd"
+            },
+            {
+                "id": 110741,
+                "name": "Vejbystrand"
+            },
+            {
+                "id": 110742,
+                "name": "Vellinge"
+            },
+            {
+                "id": 110743,
+                "name": "Vellinge Kommun"
+            },
+            {
+                "id": 110744,
+                "name": "Viken"
+            },
+            {
+                "id": 110745,
+                "name": "Vinslöv"
+            },
+            {
+                "id": 110746,
+                "name": "Vittsjö"
+            },
+            {
+                "id": 110747,
+                "name": "Ystad"
+            },
+            {
+                "id": 110748,
+                "name": "Ystads Kommun"
+            }
+        ]
+    },
+    {
+        "id": 3913,
+        "name": "Södermanland County",
+        "cities": [
+            {
+                "id": 110749,
+                "name": "Åkers Styckebruk"
+            },
+            {
+                "id": 110750,
+                "name": "Ärla"
+            },
+            {
+                "id": 110751,
+                "name": "Arnö"
+            },
+            {
+                "id": 110752,
+                "name": "Bara"
+            },
+            {
+                "id": 110753,
+                "name": "Eskilstuna"
+            },
+            {
+                "id": 110754,
+                "name": "Eskilstuna Kommun"
+            },
+            {
+                "id": 110755,
+                "name": "Flen"
+            },
+            {
+                "id": 110756,
+                "name": "Flens Kommun"
+            },
+            {
+                "id": 110757,
+                "name": "Gnesta"
+            },
+            {
+                "id": 110758,
+                "name": "Gnesta Kommun"
+            },
+            {
+                "id": 110759,
+                "name": "Hällbybrunn"
+            },
+            {
+                "id": 110760,
+                "name": "Hälleforsnäs"
+            },
+            {
+                "id": 110761,
+                "name": "Katrineholm"
+            },
+            {
+                "id": 110762,
+                "name": "Katrineholms Kommun"
+            },
+            {
+                "id": 110763,
+                "name": "Kvicksund"
+            },
+            {
+                "id": 110764,
+                "name": "Malmköping"
+            },
+            {
+                "id": 110765,
+                "name": "Mariefred"
+            },
+            {
+                "id": 110766,
+                "name": "Nyköping"
+            },
+            {
+                "id": 110767,
+                "name": "Nyköpings Kommun"
+            },
+            {
+                "id": 110768,
+                "name": "Olstorp"
+            },
+            {
+                "id": 110769,
+                "name": "Oxelösund"
+            },
+            {
+                "id": 110770,
+                "name": "Oxelösunds Kommun"
+            },
+            {
+                "id": 110771,
+                "name": "Skogstorp"
+            },
+            {
+                "id": 110772,
+                "name": "Stallarholmen"
+            },
+            {
+                "id": 110773,
+                "name": "Stigtomta"
+            },
+            {
+                "id": 110774,
+                "name": "Strängnäs"
+            },
+            {
+                "id": 110775,
+                "name": "Strängnäs Kommun"
+            },
+            {
+                "id": 110776,
+                "name": "Svalsta"
+            },
+            {
+                "id": 110777,
+                "name": "Torshälla"
+            },
+            {
+                "id": 110778,
+                "name": "Trosa"
+            },
+            {
+                "id": 110779,
+                "name": "Trosa Kommun"
+            },
+            {
+                "id": 110780,
+                "name": "Vagnhärad"
+            },
+            {
+                "id": 110781,
+                "name": "Valla"
+            },
+            {
+                "id": 110782,
+                "name": "Vingåker"
+            },
+            {
+                "id": 110783,
+                "name": "Vingåkers Kommun"
+            }
+        ]
+    },
+    {
+        "id": 3914,
+        "name": "Stockholm County",
+        "cities": [
+            {
+                "id": 110784,
+                "name": "Akalla"
+            },
+            {
+                "id": 110785,
+                "name": "Åkersberga"
+            },
+            {
+                "id": 110786,
+                "name": "Alby"
+            },
+            {
+                "id": 110787,
+                "name": "Älmsta"
+            },
+            {
+                "id": 110788,
+                "name": "Älta"
+            },
+            {
+                "id": 110789,
+                "name": "Arnö"
+            },
+            {
+                "id": 110790,
+                "name": "Årsta"
+            },
+            {
+                "id": 110791,
+                "name": "Bergshamra"
+            },
+            {
+                "id": 110792,
+                "name": "Bollmora"
+            },
+            {
+                "id": 110793,
+                "name": "Boo"
+            },
+            {
+                "id": 110794,
+                "name": "Botkyrka Kommun"
+            },
+            {
+                "id": 110795,
+                "name": "Brevik"
+            },
+            {
+                "id": 110796,
+                "name": "Bro"
+            },
+            {
+                "id": 110797,
+                "name": "Bromma"
+            },
+            {
+                "id": 110798,
+                "name": "Brunn"
+            },
+            {
+                "id": 110799,
+                "name": "Brunna"
+            },
+            {
+                "id": 110800,
+                "name": "Dalarö"
+            },
+            {
+                "id": 110801,
+                "name": "Danderyds Kommun"
+            },
+            {
+                "id": 110802,
+                "name": "Djurö"
+            },
+            {
+                "id": 110803,
+                "name": "Djursholm"
+            },
+            {
+                "id": 110804,
+                "name": "Ekerö"
+            },
+            {
+                "id": 110805,
+                "name": "Ekerö Kommun"
+            },
+            {
+                "id": 110806,
+                "name": "Enebyberg"
+            },
+            {
+                "id": 110807,
+                "name": "Eriksberg"
+            },
+            {
+                "id": 110808,
+                "name": "Fisksätra"
+            },
+            {
+                "id": 110809,
+                "name": "Fittja"
+            },
+            {
+                "id": 110810,
+                "name": "Gamla Stan"
+            },
+            {
+                "id": 110811,
+                "name": "Gustavsberg"
+            },
+            {
+                "id": 110812,
+                "name": "Hallstavik"
+            },
+            {
+                "id": 110813,
+                "name": "Handen"
+            },
+            {
+                "id": 110814,
+                "name": "Haninge"
+            },
+            {
+                "id": 110815,
+                "name": "Haninge Kommun"
+            },
+            {
+                "id": 110816,
+                "name": "Hemmesta"
+            },
+            {
+                "id": 110817,
+                "name": "Hölö"
+            },
+            {
+                "id": 110818,
+                "name": "Huddinge"
+            },
+            {
+                "id": 110819,
+                "name": "Huddinge Kommun"
+            },
+            {
+                "id": 110820,
+                "name": "Jakobsberg"
+            },
+            {
+                "id": 110821,
+                "name": "Järfälla kommun"
+            },
+            {
+                "id": 110822,
+                "name": "Järna"
+            },
+            {
+                "id": 110823,
+                "name": "Jordbro"
+            },
+            {
+                "id": 110824,
+                "name": "Kista"
+            },
+            {
+                "id": 110825,
+                "name": "Kopparmora"
+            },
+            {
+                "id": 110826,
+                "name": "Kummelnäs"
+            },
+            {
+                "id": 110827,
+                "name": "Kungsängen"
+            },
+            {
+                "id": 110828,
+                "name": "Kungsholmen"
+            },
+            {
+                "id": 110829,
+                "name": "Långvik"
+            },
+            {
+                "id": 110830,
+                "name": "Lidingö"
+            },
+            {
+                "id": 110831,
+                "name": "Lindholmen"
+            },
+            {
+                "id": 110832,
+                "name": "Märsta"
+            },
+            {
+                "id": 110833,
+                "name": "Mölnbo"
+            },
+            {
+                "id": 110834,
+                "name": "Mörtnäs"
+            },
+            {
+                "id": 110835,
+                "name": "Nacka"
+            },
+            {
+                "id": 110836,
+                "name": "Nacka Kommun"
+            },
+            {
+                "id": 110837,
+                "name": "Norrtälje"
+            },
+            {
+                "id": 110838,
+                "name": "Norrtälje Kommun"
+            },
+            {
+                "id": 110839,
+                "name": "Nykvarn"
+            },
+            {
+                "id": 110840,
+                "name": "Nykvarns Kommun"
+            },
+            {
+                "id": 110841,
+                "name": "Nynäshamn"
+            },
+            {
+                "id": 110842,
+                "name": "Nynäshamns kommun"
+            },
+            {
+                "id": 110843,
+                "name": "Ösmo"
+            },
+            {
+                "id": 110844,
+                "name": "Österåkers Kommun"
+            },
+            {
+                "id": 110845,
+                "name": "Östermalm"
+            },
+            {
+                "id": 110846,
+                "name": "Pershagen"
+            },
+            {
+                "id": 110847,
+                "name": "Råsunda"
+            },
+            {
+                "id": 110848,
+                "name": "Resarö"
+            },
+            {
+                "id": 110849,
+                "name": "Rimbo"
+            },
+            {
+                "id": 110850,
+                "name": "Rindö"
+            },
+            {
+                "id": 110851,
+                "name": "Rönninge"
+            },
+            {
+                "id": 110852,
+                "name": "Rosersberg"
+            },
+            {
+                "id": 110853,
+                "name": "Salems Kommun"
+            },
+            {
+                "id": 110854,
+                "name": "Saltsjöbaden"
+            },
+            {
+                "id": 110855,
+                "name": "Segeltorp"
+            },
+            {
+                "id": 110856,
+                "name": "Sigtuna"
+            },
+            {
+                "id": 110857,
+                "name": "Sigtuna Kommun"
+            },
+            {
+                "id": 110858,
+                "name": "Skänninge"
+            },
+            {
+                "id": 110859,
+                "name": "Södermalm"
+            },
+            {
+                "id": 110860,
+                "name": "Södertälje"
+            },
+            {
+                "id": 110861,
+                "name": "Södertälje Kommun"
+            },
+            {
+                "id": 110862,
+                "name": "Sollentuna"
+            },
+            {
+                "id": 110863,
+                "name": "Sollentuna Kommun"
+            },
+            {
+                "id": 110864,
+                "name": "Solna"
+            },
+            {
+                "id": 110865,
+                "name": "Solna Kommun"
+            },
+            {
+                "id": 110866,
+                "name": "Stavsnäs"
+            },
+            {
+                "id": 110867,
+                "name": "Stenhamra"
+            },
+            {
+                "id": 110868,
+                "name": "Stockholm"
+            },
+            {
+                "id": 110869,
+                "name": "Stockholms Kommun"
+            },
+            {
+                "id": 110870,
+                "name": "Strömma"
+            },
+            {
+                "id": 110871,
+                "name": "Sundbyberg"
+            },
+            {
+                "id": 110872,
+                "name": "Sundbybergs Kommun"
+            },
+            {
+                "id": 110873,
+                "name": "Täby Kommun"
+            },
+            {
+                "id": 110874,
+                "name": "Tensta"
+            },
+            {
+                "id": 110875,
+                "name": "Tullinge"
+            },
+            {
+                "id": 110876,
+                "name": "Tumba"
+            },
+            {
+                "id": 110877,
+                "name": "Tyresö Kommun"
+            },
+            {
+                "id": 110878,
+                "name": "Upplands Väsby"
+            },
+            {
+                "id": 110879,
+                "name": "Upplands Väsby kommun"
+            },
+            {
+                "id": 110880,
+                "name": "Upplands-Bro Kommun"
+            },
+            {
+                "id": 110881,
+                "name": "Vallentuna"
+            },
+            {
+                "id": 110882,
+                "name": "Vallentuna Kommun"
+            },
+            {
+                "id": 110883,
+                "name": "Vårby"
+            },
+            {
+                "id": 110884,
+                "name": "Värmdö Kommun"
+            },
+            {
+                "id": 110885,
+                "name": "Vårsta"
+            },
+            {
+                "id": 110886,
+                "name": "Vasastan"
+            },
+            {
+                "id": 110887,
+                "name": "Vaxholm"
+            },
+            {
+                "id": 110888,
+                "name": "Vaxholms Kommun"
+            }
+        ]
+    },
+    {
+        "id": 3915,
+        "name": "Uppsala County",
+        "cities": [
+            {
+                "id": 110889,
+                "name": "Alsike"
+            },
+            {
+                "id": 110890,
+                "name": "Alunda"
+            },
+            {
+                "id": 110891,
+                "name": "Älvkarleby"
+            },
+            {
+                "id": 110892,
+                "name": "Älvkarleby Kommun"
+            },
+            {
+                "id": 110893,
+                "name": "Anneberg"
+            },
+            {
+                "id": 110894,
+                "name": "Bälinge"
+            },
+            {
+                "id": 110895,
+                "name": "Bålsta"
+            },
+            {
+                "id": 110896,
+                "name": "Björklinge"
+            },
+            {
+                "id": 110897,
+                "name": "Enköping"
+            },
+            {
+                "id": 110898,
+                "name": "Enköpings Kommun"
+            },
+            {
+                "id": 110899,
+                "name": "Gamla Uppsala"
+            },
+            {
+                "id": 110900,
+                "name": "Gimo"
+            },
+            {
+                "id": 110901,
+                "name": "Grillby"
+            },
+            {
+                "id": 110902,
+                "name": "Håbo kommun"
+            },
+            {
+                "id": 110903,
+                "name": "Heby"
+            },
+            {
+                "id": 110904,
+                "name": "Heby kommun"
+            },
+            {
+                "id": 110905,
+                "name": "Irsta"
+            },
+            {
+                "id": 110906,
+                "name": "Karlholmsbruk"
+            },
+            {
+                "id": 110907,
+                "name": "Knivsta"
+            },
+            {
+                "id": 110908,
+                "name": "Knivsta Kommun"
+            },
+            {
+                "id": 110909,
+                "name": "Lövstalöt"
+            },
+            {
+                "id": 110910,
+                "name": "Marieberg"
+            },
+            {
+                "id": 110911,
+                "name": "Morgongåva"
+            },
+            {
+                "id": 110912,
+                "name": "Örbyhus"
+            },
+            {
+                "id": 110913,
+                "name": "Öregrund"
+            },
+            {
+                "id": 110914,
+                "name": "Örsundsbro"
+            },
+            {
+                "id": 110915,
+                "name": "Österbybruk"
+            },
+            {
+                "id": 110916,
+                "name": "Östervåla"
+            },
+            {
+                "id": 110917,
+                "name": "Östhammar"
+            },
+            {
+                "id": 110918,
+                "name": "Östhammars Kommun"
+            },
+            {
+                "id": 110919,
+                "name": "Sävja"
+            },
+            {
+                "id": 110920,
+                "name": "Skutskär"
+            },
+            {
+                "id": 110921,
+                "name": "Söderfors"
+            },
+            {
+                "id": 110922,
+                "name": "Storvreta"
+            },
+            {
+                "id": 110923,
+                "name": "Tärnsjö"
+            },
+            {
+                "id": 110924,
+                "name": "Tierp"
+            },
+            {
+                "id": 110925,
+                "name": "Tierps kommun"
+            },
+            {
+                "id": 110926,
+                "name": "Uppsala"
+            },
+            {
+                "id": 110927,
+                "name": "Uppsala Kommun"
+            },
+            {
+                "id": 110928,
+                "name": "Vattholma"
+            }
+        ]
+    },
+    {
+        "id": 3916,
+        "name": "Värmland County",
+        "cities": [
+            {
+                "id": 110929,
+                "name": "Åmotfors"
+            },
+            {
+                "id": 110930,
+                "name": "Årjäng"
+            },
+            {
+                "id": 110931,
+                "name": "Årjängs Kommun"
+            },
+            {
+                "id": 110932,
+                "name": "Arvika"
+            },
+            {
+                "id": 110933,
+                "name": "Arvika Kommun"
+            },
+            {
+                "id": 110934,
+                "name": "Björneborg"
+            },
+            {
+                "id": 110935,
+                "name": "Charlottenberg"
+            },
+            {
+                "id": 110936,
+                "name": "Deje"
+            },
+            {
+                "id": 110937,
+                "name": "Eda kommun"
+            },
+            {
+                "id": 110938,
+                "name": "Ekshärad"
+            },
+            {
+                "id": 110939,
+                "name": "Filipstad"
+            },
+            {
+                "id": 110940,
+                "name": "Filipstads Kommun"
+            },
+            {
+                "id": 110941,
+                "name": "Forshaga"
+            },
+            {
+                "id": 110942,
+                "name": "Forshaga Kommun"
+            },
+            {
+                "id": 110943,
+                "name": "Grums"
+            },
+            {
+                "id": 110944,
+                "name": "Grums Kommun"
+            },
+            {
+                "id": 110945,
+                "name": "Hagfors"
+            },
+            {
+                "id": 110946,
+                "name": "Hagfors Kommun"
+            },
+            {
+                "id": 110947,
+                "name": "Hammarö Kommun"
+            },
+            {
+                "id": 110948,
+                "name": "Karlstad"
+            },
+            {
+                "id": 110949,
+                "name": "Karlstads Kommun"
+            },
+            {
+                "id": 110950,
+                "name": "Kil"
+            },
+            {
+                "id": 110951,
+                "name": "Kils Kommun"
+            },
+            {
+                "id": 110952,
+                "name": "Kristinehamn"
+            },
+            {
+                "id": 110953,
+                "name": "Kristinehamns Kommun"
+            },
+            {
+                "id": 110954,
+                "name": "Molkom"
+            },
+            {
+                "id": 110955,
+                "name": "Munkfors"
+            },
+            {
+                "id": 110956,
+                "name": "Munkfors Kommun"
+            },
+            {
+                "id": 110957,
+                "name": "Råtorp"
+            },
+            {
+                "id": 110958,
+                "name": "Säffle"
+            },
+            {
+                "id": 110959,
+                "name": "Säffle Kommun"
+            },
+            {
+                "id": 110960,
+                "name": "Skåre"
+            },
+            {
+                "id": 110961,
+                "name": "Skattkärr"
+            },
+            {
+                "id": 110962,
+                "name": "Skoghall"
+            },
+            {
+                "id": 110963,
+                "name": "Slottsbron"
+            },
+            {
+                "id": 110964,
+                "name": "Storfors"
+            },
+            {
+                "id": 110965,
+                "name": "Storfors Kommun"
+            },
+            {
+                "id": 110966,
+                "name": "Sunne"
+            },
+            {
+                "id": 110967,
+                "name": "Sunne Kommun"
+            },
+            {
+                "id": 110968,
+                "name": "Töcksfors"
+            },
+            {
+                "id": 110969,
+                "name": "Torsby"
+            },
+            {
+                "id": 110970,
+                "name": "Torsby Kommun"
+            },
+            {
+                "id": 110971,
+                "name": "Vålberg"
+            }
+        ]
+    },
+    {
+        "id": 3917,
+        "name": "Västerbotten County",
+        "cities": [
+            {
+                "id": 110972,
+                "name": "Åsele"
+            },
+            {
+                "id": 110973,
+                "name": "Åsele Kommun"
+            },
+            {
+                "id": 110974,
+                "name": "Backa"
+            },
+            {
+                "id": 110975,
+                "name": "Bjurholm"
+            },
+            {
+                "id": 110976,
+                "name": "Bjurholms Kommun"
+            },
+            {
+                "id": 110977,
+                "name": "Boliden"
+            },
+            {
+                "id": 110978,
+                "name": "Bureå"
+            },
+            {
+                "id": 110979,
+                "name": "Burträsk"
+            },
+            {
+                "id": 110980,
+                "name": "Byske"
+            },
+            {
+                "id": 110981,
+                "name": "Dorotea"
+            },
+            {
+                "id": 110982,
+                "name": "Dorotea Kommun"
+            },
+            {
+                "id": 110983,
+                "name": "Ersmark"
+            },
+            {
+                "id": 110984,
+                "name": "Forsbacka"
+            },
+            {
+                "id": 110985,
+                "name": "Holmsund"
+            },
+            {
+                "id": 110986,
+                "name": "Hörnefors"
+            },
+            {
+                "id": 110987,
+                "name": "Insjön"
+            },
+            {
+                "id": 110988,
+                "name": "Kåge"
+            },
+            {
+                "id": 110989,
+                "name": "Långsele"
+            },
+            {
+                "id": 110990,
+                "name": "Lycksele"
+            },
+            {
+                "id": 110991,
+                "name": "Lycksele kommun"
+            },
+            {
+                "id": 110992,
+                "name": "Malå"
+            },
+            {
+                "id": 110993,
+                "name": "Malå Kommun"
+            },
+            {
+                "id": 110994,
+                "name": "Nordmaling"
+            },
+            {
+                "id": 110995,
+                "name": "Nordmalings Kommun"
+            },
+            {
+                "id": 110996,
+                "name": "Norsjö"
+            },
+            {
+                "id": 110997,
+                "name": "Norsjö Kommun"
+            },
+            {
+                "id": 110998,
+                "name": "Obbola"
+            },
+            {
+                "id": 110999,
+                "name": "Röbäck"
+            },
+            {
+                "id": 111000,
+                "name": "Robertsfors"
+            },
+            {
+                "id": 111001,
+                "name": "Robertsfors Kommun"
+            },
+            {
+                "id": 111002,
+                "name": "Sävar"
+            },
+            {
+                "id": 111003,
+                "name": "Skellefteå"
+            },
+            {
+                "id": 111004,
+                "name": "Skellefteå Kommun"
+            },
+            {
+                "id": 111005,
+                "name": "Skelleftehamn"
+            },
+            {
+                "id": 111006,
+                "name": "Söderfors"
+            },
+            {
+                "id": 111007,
+                "name": "Sorsele"
+            },
+            {
+                "id": 111008,
+                "name": "Sorsele Kommun"
+            },
+            {
+                "id": 111009,
+                "name": "Storuman"
+            },
+            {
+                "id": 111010,
+                "name": "Storumans Kommun"
+            },
+            {
+                "id": 111011,
+                "name": "Storvik"
+            },
+            {
+                "id": 111012,
+                "name": "Täfteå"
+            },
+            {
+                "id": 111013,
+                "name": "Umeå"
+            },
+            {
+                "id": 111014,
+                "name": "Umeå Kommun"
+            },
+            {
+                "id": 111015,
+                "name": "Ursviken"
+            },
+            {
+                "id": 111016,
+                "name": "Vännäs"
+            },
+            {
+                "id": 111017,
+                "name": "Vännäs Kommun"
+            },
+            {
+                "id": 111018,
+                "name": "Vännäsby"
+            },
+            {
+                "id": 111019,
+                "name": "Viken"
+            },
+            {
+                "id": 111020,
+                "name": "Vilhelmina"
+            },
+            {
+                "id": 111021,
+                "name": "Vilhelmina Kommun"
+            },
+            {
+                "id": 111022,
+                "name": "Vindeln"
+            },
+            {
+                "id": 111023,
+                "name": "Vindelns Kommun"
+            }
+        ]
+    },
+    {
+        "id": 3918,
+        "name": "Västernorrland County",
+        "cities": [
+            {
+                "id": 111024,
+                "name": "Ånge"
+            },
+            {
+                "id": 111025,
+                "name": "Ånge kommun"
+            },
+            {
+                "id": 111026,
+                "name": "Ås"
+            },
+            {
+                "id": 111027,
+                "name": "Bergeforsen"
+            },
+            {
+                "id": 111028,
+                "name": "Bjästa"
+            },
+            {
+                "id": 111029,
+                "name": "Bollstabruk"
+            },
+            {
+                "id": 111030,
+                "name": "Bredbyn"
+            },
+            {
+                "id": 111031,
+                "name": "Fränsta"
+            },
+            {
+                "id": 111032,
+                "name": "Härnösand"
+            },
+            {
+                "id": 111033,
+                "name": "Härnösands Kommun"
+            },
+            {
+                "id": 111034,
+                "name": "Husum"
+            },
+            {
+                "id": 111035,
+                "name": "Johannedal"
+            },
+            {
+                "id": 111036,
+                "name": "Köpmanholmen"
+            },
+            {
+                "id": 111037,
+                "name": "Kramfors"
+            },
+            {
+                "id": 111038,
+                "name": "Kramfors Kommun"
+            },
+            {
+                "id": 111039,
+                "name": "Kvissleby"
+            },
+            {
+                "id": 111040,
+                "name": "Långsele"
+            },
+            {
+                "id": 111041,
+                "name": "Matfors"
+            },
+            {
+                "id": 111042,
+                "name": "Njurundabommen"
+            },
+            {
+                "id": 111043,
+                "name": "Nolby"
+            },
+            {
+                "id": 111044,
+                "name": "Örnsköldsvik"
+            },
+            {
+                "id": 111045,
+                "name": "Örnsköldsviks Kommun"
+            },
+            {
+                "id": 111046,
+                "name": "Skottsund"
+            },
+            {
+                "id": 111047,
+                "name": "Sollefteå"
+            },
+            {
+                "id": 111048,
+                "name": "Sollefteå Kommun"
+            },
+            {
+                "id": 111049,
+                "name": "Söråker"
+            },
+            {
+                "id": 111050,
+                "name": "Stockvik"
+            },
+            {
+                "id": 111051,
+                "name": "Sundsbruk"
+            },
+            {
+                "id": 111052,
+                "name": "Sundsvall"
+            },
+            {
+                "id": 111053,
+                "name": "Sundsvalls Kommun"
+            },
+            {
+                "id": 111054,
+                "name": "Timrå"
+            },
+            {
+                "id": 111055,
+                "name": "Timrå Kommun"
+            },
+            {
+                "id": 111056,
+                "name": "Vi"
+            }
+        ]
+    },
+    {
+        "id": 3919,
+        "name": "Västmanland County",
+        "cities": [
+            {
+                "id": 111057,
+                "name": "Arboga"
+            },
+            {
+                "id": 111058,
+                "name": "Arboga Kommun"
+            },
+            {
+                "id": 111059,
+                "name": "Barkarö"
+            },
+            {
+                "id": 111060,
+                "name": "Dingtuna"
+            },
+            {
+                "id": 111061,
+                "name": "Enhagen-Ekbacken"
+            },
+            {
+                "id": 111062,
+                "name": "Fagersta"
+            },
+            {
+                "id": 111063,
+                "name": "Fagersta Kommun"
+            },
+            {
+                "id": 111064,
+                "name": "Hallstahammar"
+            },
+            {
+                "id": 111065,
+                "name": "Hallstahammars Kommun"
+            },
+            {
+                "id": 111066,
+                "name": "Hökåsen"
+            },
+            {
+                "id": 111067,
+                "name": "Irsta"
+            },
+            {
+                "id": 111068,
+                "name": "Kolbäck"
+            },
+            {
+                "id": 111069,
+                "name": "Kolsva"
+            },
+            {
+                "id": 111070,
+                "name": "Köping"
+            },
+            {
+                "id": 111071,
+                "name": "Köpings Kommun"
+            },
+            {
+                "id": 111072,
+                "name": "Kungsör"
+            },
+            {
+                "id": 111073,
+                "name": "Kungsörs kommun"
+            },
+            {
+                "id": 111074,
+                "name": "Norberg"
+            },
+            {
+                "id": 111075,
+                "name": "Norbergs Kommun"
+            },
+            {
+                "id": 111076,
+                "name": "Ramnäs"
+            },
+            {
+                "id": 111077,
+                "name": "Sala"
+            },
+            {
+                "id": 111078,
+                "name": "Sala kommun"
+            },
+            {
+                "id": 111079,
+                "name": "Skinnskatteberg"
+            },
+            {
+                "id": 111080,
+                "name": "Skinnskattebergs Kommun"
+            },
+            {
+                "id": 111081,
+                "name": "Skultuna"
+            },
+            {
+                "id": 111082,
+                "name": "Surahammar"
+            },
+            {
+                "id": 111083,
+                "name": "Surahammars Kommun"
+            },
+            {
+                "id": 111084,
+                "name": "Tillberga"
+            },
+            {
+                "id": 111085,
+                "name": "Västerås"
+            }
+        ]
+    },
+    {
+        "id": 3920,
+        "name": "Västra Götaland County",
+        "cities": [
+            {
+                "id": 111086,
+                "name": "Åkarp"
+            },
+            {
+                "id": 111087,
+                "name": "Alafors"
+            },
+            {
+                "id": 111088,
+                "name": "Ale Kommun"
+            },
+            {
+                "id": 111089,
+                "name": "Alingsås"
+            },
+            {
+                "id": 111090,
+                "name": "Alingsås Kommun"
+            },
+            {
+                "id": 111091,
+                "name": "Älvängen"
+            },
+            {
+                "id": 111092,
+                "name": "Åmål"
+            },
+            {
+                "id": 111093,
+                "name": "Åmåls Kommun"
+            },
+            {
+                "id": 111094,
+                "name": "Andalen"
+            },
+            {
+                "id": 111095,
+                "name": "Anderstorp"
+            },
+            {
+                "id": 111096,
+                "name": "Angered"
+            },
+            {
+                "id": 111097,
+                "name": "Annelund"
+            },
+            {
+                "id": 111098,
+                "name": "Axvall"
+            },
+            {
+                "id": 111099,
+                "name": "Bengtsfors"
+            },
+            {
+                "id": 111100,
+                "name": "Bengtsfors Kommun"
+            },
+            {
+                "id": 111101,
+                "name": "Billdal"
+            },
+            {
+                "id": 111102,
+                "name": "Billingsfors"
+            },
+            {
+                "id": 111103,
+                "name": "Björboholm"
+            },
+            {
+                "id": 111104,
+                "name": "Björkö"
+            },
+            {
+                "id": 111105,
+                "name": "Björlanda"
+            },
+            {
+                "id": 111106,
+                "name": "Bollebygd"
+            },
+            {
+                "id": 111107,
+                "name": "Bollebygds Kommun"
+            },
+            {
+                "id": 111108,
+                "name": "Borås"
+            },
+            {
+                "id": 111109,
+                "name": "Brålanda"
+            },
+            {
+                "id": 111110,
+                "name": "Brastad"
+            },
+            {
+                "id": 111111,
+                "name": "Dals Långed"
+            },
+            {
+                "id": 111112,
+                "name": "Dals-Ed Kommun"
+            },
+            {
+                "id": 111113,
+                "name": "Dalsjöfors"
+            },
+            {
+                "id": 111114,
+                "name": "Diseröd"
+            },
+            {
+                "id": 111115,
+                "name": "Donsö"
+            },
+            {
+                "id": 111116,
+                "name": "Ed"
+            },
+            {
+                "id": 111117,
+                "name": "Ellös"
+            },
+            {
+                "id": 111118,
+                "name": "Eriksbo"
+            },
+            {
+                "id": 111119,
+                "name": "Essunga Kommun"
+            },
+            {
+                "id": 111120,
+                "name": "Falköping"
+            },
+            {
+                "id": 111121,
+                "name": "Falköpings Kommun"
+            },
+            {
+                "id": 111122,
+                "name": "Färgelanda"
+            },
+            {
+                "id": 111123,
+                "name": "Färgelanda Kommun"
+            },
+            {
+                "id": 111124,
+                "name": "Floby"
+            },
+            {
+                "id": 111125,
+                "name": "Fristad"
+            },
+            {
+                "id": 111126,
+                "name": "Fritsla"
+            },
+            {
+                "id": 111127,
+                "name": "Furulund"
+            },
+            {
+                "id": 111128,
+                "name": "Gånghester"
+            },
+            {
+                "id": 111129,
+                "name": "Gårdsten"
+            },
+            {
+                "id": 111130,
+                "name": "Göta"
+            },
+            {
+                "id": 111131,
+                "name": "Göteborg"
+            },
+            {
+                "id": 111132,
+                "name": "Göteborgs stad"
+            },
+            {
+                "id": 111133,
+                "name": "Götene"
+            },
+            {
+                "id": 111134,
+                "name": "Götene Kommun"
+            },
+            {
+                "id": 111135,
+                "name": "Gråbo"
+            },
+            {
+                "id": 111136,
+                "name": "Grästorp"
+            },
+            {
+                "id": 111137,
+                "name": "Grästorps Kommun"
+            },
+            {
+                "id": 111138,
+                "name": "Grebbestad"
+            },
+            {
+                "id": 111139,
+                "name": "Gullspång"
+            },
+            {
+                "id": 111140,
+                "name": "Gullspångs Kommun"
+            },
+            {
+                "id": 111141,
+                "name": "Hammarkullen"
+            },
+            {
+                "id": 111142,
+                "name": "Härryda Kommun"
+            },
+            {
+                "id": 111143,
+                "name": "Henån"
+            },
+            {
+                "id": 111144,
+                "name": "Herrljunga"
+            },
+            {
+                "id": 111145,
+                "name": "Herrljunga Kommun"
+            },
+            {
+                "id": 111146,
+                "name": "Hindås"
+            },
+            {
+                "id": 111147,
+                "name": "Hjo"
+            },
+            {
+                "id": 111148,
+                "name": "Hjo Kommun"
+            },
+            {
+                "id": 111149,
+                "name": "Hjuvik"
+            },
+            {
+                "id": 111150,
+                "name": "Hönö"
+            },
+            {
+                "id": 111151,
+                "name": "Horred"
+            },
+            {
+                "id": 111152,
+                "name": "Hova"
+            },
+            {
+                "id": 111153,
+                "name": "Höviksnäs"
+            },
+            {
+                "id": 111154,
+                "name": "Hunnebostrand"
+            },
+            {
+                "id": 111155,
+                "name": "Ingared"
+            },
+            {
+                "id": 111156,
+                "name": "Jonstorp"
+            },
+            {
+                "id": 111157,
+                "name": "Jörlanda"
+            },
+            {
+                "id": 111158,
+                "name": "Källby"
+            },
+            {
+                "id": 111159,
+                "name": "Kållered"
+            },
+            {
+                "id": 111160,
+                "name": "Karlsborg"
+            },
+            {
+                "id": 111161,
+                "name": "Karlsborgs Kommun"
+            },
+            {
+                "id": 111162,
+                "name": "Kinna"
+            },
+            {
+                "id": 111163,
+                "name": "Kode"
+            },
+            {
+                "id": 111164,
+                "name": "Kungälv"
+            },
+            {
+                "id": 111165,
+                "name": "Kungälvs Kommun"
+            },
+            {
+                "id": 111166,
+                "name": "Kungshamn"
+            },
+            {
+                "id": 111167,
+                "name": "Kvänum"
+            },
+            {
+                "id": 111168,
+                "name": "Landvetter"
+            },
+            {
+                "id": 111169,
+                "name": "Länghem"
+            },
+            {
+                "id": 111170,
+                "name": "Lerum"
+            },
+            {
+                "id": 111171,
+                "name": "Lerums Kommun"
+            },
+            {
+                "id": 111172,
+                "name": "Lidköping"
+            },
+            {
+                "id": 111173,
+                "name": "Lidköpings Kommun"
+            },
+            {
+                "id": 111174,
+                "name": "Lilla Edet"
+            },
+            {
+                "id": 111175,
+                "name": "Lilla Edets Kommun"
+            },
+            {
+                "id": 111176,
+                "name": "Limmared"
+            },
+            {
+                "id": 111177,
+                "name": "Lindome"
+            },
+            {
+                "id": 111178,
+                "name": "Ljungskile"
+            },
+            {
+                "id": 111179,
+                "name": "Lödöse"
+            },
+            {
+                "id": 111180,
+                "name": "Lövgärdet"
+            },
+            {
+                "id": 111181,
+                "name": "Lysekil"
+            },
+            {
+                "id": 111182,
+                "name": "Lysekils Kommun"
+            },
+            {
+                "id": 111183,
+                "name": "Majorna"
+            },
+            {
+                "id": 111184,
+                "name": "Mariestad"
+            },
+            {
+                "id": 111185,
+                "name": "Mariestads Kommun"
+            },
+            {
+                "id": 111186,
+                "name": "Marks Kommun"
+            },
+            {
+                "id": 111187,
+                "name": "Mellerud"
+            },
+            {
+                "id": 111188,
+                "name": "Melleruds Kommun"
+            },
+            {
+                "id": 111189,
+                "name": "Mölltorp"
+            },
+            {
+                "id": 111190,
+                "name": "Mölndal"
+            },
+            {
+                "id": 111191,
+                "name": "Mölndals kommun"
+            },
+            {
+                "id": 111192,
+                "name": "Mölnlycke"
+            },
+            {
+                "id": 111193,
+                "name": "Munkedal"
+            },
+            {
+                "id": 111194,
+                "name": "Munkedals Kommun"
+            },
+            {
+                "id": 111195,
+                "name": "Myggenäs"
+            },
+            {
+                "id": 111196,
+                "name": "Nolvik"
+            },
+            {
+                "id": 111197,
+                "name": "Nossebro"
+            },
+            {
+                "id": 111198,
+                "name": "Öckerö"
+            },
+            {
+                "id": 111199,
+                "name": "Öckerö Kommun"
+            },
+            {
+                "id": 111200,
+                "name": "Ödsmål"
+            },
+            {
+                "id": 111201,
+                "name": "Öjersjö"
+            },
+            {
+                "id": 111202,
+                "name": "Olofstorp"
+            },
+            {
+                "id": 111203,
+                "name": "Olstorp"
+            },
+            {
+                "id": 111204,
+                "name": "Orust"
+            },
+            {
+                "id": 111205,
+                "name": "Partille"
+            },
+            {
+                "id": 111206,
+                "name": "Partille Kommun"
+            },
+            {
+                "id": 111207,
+                "name": "Rannebergen"
+            },
+            {
+                "id": 111208,
+                "name": "Rävlanda"
+            },
+            {
+                "id": 111209,
+                "name": "Rönnäng"
+            },
+            {
+                "id": 111210,
+                "name": "Sålanda"
+            },
+            {
+                "id": 111211,
+                "name": "Sandared"
+            },
+            {
+                "id": 111212,
+                "name": "Sätila"
+            },
+            {
+                "id": 111213,
+                "name": "Sjömarken"
+            },
+            {
+                "id": 111214,
+                "name": "Sjuntorp"
+            },
+            {
+                "id": 111215,
+                "name": "Skara"
+            },
+            {
+                "id": 111216,
+                "name": "Skara Kommun"
+            },
+            {
+                "id": 111217,
+                "name": "Skärhamn"
+            },
+            {
+                "id": 111218,
+                "name": "Skepplanda"
+            },
+            {
+                "id": 111219,
+                "name": "Skövde"
+            },
+            {
+                "id": 111220,
+                "name": "Skövde Kommun"
+            },
+            {
+                "id": 111221,
+                "name": "Skultorp"
+            },
+            {
+                "id": 111222,
+                "name": "Smögen"
+            },
+            {
+                "id": 111223,
+                "name": "Sollebrunn"
+            },
+            {
+                "id": 111224,
+                "name": "Sotenäs Kommun"
+            },
+            {
+                "id": 111225,
+                "name": "Stenkullen"
+            },
+            {
+                "id": 111226,
+                "name": "Stenstorp"
+            },
+            {
+                "id": 111227,
+                "name": "Stenungsund"
+            },
+            {
+                "id": 111228,
+                "name": "Stenungsunds Kommun"
+            },
+            {
+                "id": 111229,
+                "name": "Stöpen"
+            },
+            {
+                "id": 111230,
+                "name": "Stora Höga"
+            },
+            {
+                "id": 111231,
+                "name": "Strömstad"
+            },
+            {
+                "id": 111232,
+                "name": "Strömstads Kommun"
+            },
+            {
+                "id": 111233,
+                "name": "Styrsö"
+            },
+            {
+                "id": 111234,
+                "name": "Surte"
+            },
+            {
+                "id": 111235,
+                "name": "Svanesund"
+            },
+            {
+                "id": 111236,
+                "name": "Svenljunga"
+            },
+            {
+                "id": 111237,
+                "name": "Svenljunga Kommun"
+            },
+            {
+                "id": 111238,
+                "name": "Tanums Kommun"
+            },
+            {
+                "id": 111239,
+                "name": "Tanumshede"
+            },
+            {
+                "id": 111240,
+                "name": "Tibro"
+            },
+            {
+                "id": 111241,
+                "name": "Tibro Kommun"
+            },
+            {
+                "id": 111242,
+                "name": "Tidaholm"
+            },
+            {
+                "id": 111243,
+                "name": "Tidaholms kommun"
+            },
+            {
+                "id": 111244,
+                "name": "Tjörns Kommun"
+            },
+            {
+                "id": 111245,
+                "name": "Tjuvkil"
+            },
+            {
+                "id": 111246,
+                "name": "Töreboda"
+            },
+            {
+                "id": 111247,
+                "name": "Töreboda Kommun"
+            },
+            {
+                "id": 111248,
+                "name": "Torslanda"
+            },
+            {
+                "id": 111249,
+                "name": "Tranemo"
+            },
+            {
+                "id": 111250,
+                "name": "Tranemo Kommun"
+            },
+            {
+                "id": 111251,
+                "name": "Trollhättan"
+            },
+            {
+                "id": 111252,
+                "name": "Uddevalla"
+            },
+            {
+                "id": 111253,
+                "name": "Uddevalla Kommun"
+            },
+            {
+                "id": 111254,
+                "name": "Ulricehamn"
+            },
+            {
+                "id": 111255,
+                "name": "Ulricehamns Kommun"
+            },
+            {
+                "id": 111256,
+                "name": "Vänersborg"
+            },
+            {
+                "id": 111257,
+                "name": "Vänersborgs Kommun"
+            },
+            {
+                "id": 111258,
+                "name": "Vara"
+            },
+            {
+                "id": 111259,
+                "name": "Vara Kommun"
+            },
+            {
+                "id": 111260,
+                "name": "Vårgårda"
+            },
+            {
+                "id": 111261,
+                "name": "Vårgårda Kommun"
+            },
+            {
+                "id": 111262,
+                "name": "Vargön"
+            },
+            {
+                "id": 111263,
+                "name": "Västra Frölunda"
+            },
+            {
+                "id": 111264,
+                "name": "Vinninga"
+            },
+            {
+                "id": 111265,
+                "name": "Viskafors"
+            }
+        ]
+    }
+]

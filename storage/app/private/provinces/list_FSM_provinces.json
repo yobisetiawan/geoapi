@@ -1,0 +1,350 @@
+[
+    {
+        "id": 2652,
+        "name": "Chuuk State",
+        "cities": [
+            {
+                "id": 73908,
+                "name": "Eot Municipality"
+            },
+            {
+                "id": 73909,
+                "name": "Ettal Municipality"
+            },
+            {
+                "id": 73910,
+                "name": "Fananu Municipality"
+            },
+            {
+                "id": 73911,
+                "name": "Fanapanges Municipality"
+            },
+            {
+                "id": 73912,
+                "name": "Fefen Municipality"
+            },
+            {
+                "id": 73913,
+                "name": "Fonoton Municipality"
+            },
+            {
+                "id": 73914,
+                "name": "Houk Municipality"
+            },
+            {
+                "id": 73915,
+                "name": "Kuttu Municipality"
+            },
+            {
+                "id": 73916,
+                "name": "Lekinioch Municipality"
+            },
+            {
+                "id": 73917,
+                "name": "Losap Municipality"
+            },
+            {
+                "id": 73918,
+                "name": "Makur Municipality"
+            },
+            {
+                "id": 73919,
+                "name": "Moch Municipality"
+            },
+            {
+                "id": 73920,
+                "name": "Murilo"
+            },
+            {
+                "id": 73921,
+                "name": "Murilo Municipality"
+            },
+            {
+                "id": 73922,
+                "name": "Namoluk Municipality"
+            },
+            {
+                "id": 73923,
+                "name": "Nema"
+            },
+            {
+                "id": 73924,
+                "name": "Nema Municipality"
+            },
+            {
+                "id": 73925,
+                "name": "Nomwin Municipality"
+            },
+            {
+                "id": 73926,
+                "name": "Oneop Municipality"
+            },
+            {
+                "id": 73927,
+                "name": "Onou Municipality"
+            },
+            {
+                "id": 73928,
+                "name": "Onoun Municipality"
+            },
+            {
+                "id": 73929,
+                "name": "Paata-Tupunion Municipality"
+            },
+            {
+                "id": 73930,
+                "name": "Parem Municipality"
+            },
+            {
+                "id": 73931,
+                "name": "Piherarh Municipality"
+            },
+            {
+                "id": 73932,
+                "name": "Piis-Emwar Municipality"
+            },
+            {
+                "id": 73933,
+                "name": "Piis-Panewu Municipality"
+            },
+            {
+                "id": 73934,
+                "name": "Pollap Municipality"
+            },
+            {
+                "id": 73935,
+                "name": "Polowat Municipality"
+            },
+            {
+                "id": 73936,
+                "name": "Pwene Municipality"
+            },
+            {
+                "id": 73937,
+                "name": "Ramanum Municipality"
+            },
+            {
+                "id": 73938,
+                "name": "Ruo Municipality"
+            },
+            {
+                "id": 73939,
+                "name": "Satowan Municipality"
+            },
+            {
+                "id": 73940,
+                "name": "Siis Municipality"
+            },
+            {
+                "id": 73941,
+                "name": "Ta Municipality"
+            },
+            {
+                "id": 73942,
+                "name": "Tamatam Municipality"
+            },
+            {
+                "id": 73943,
+                "name": "Tolensom Municipality"
+            },
+            {
+                "id": 73944,
+                "name": "Tonoas Municipality"
+            },
+            {
+                "id": 73945,
+                "name": "Udot-Fonuweisom Municipality"
+            },
+            {
+                "id": 73946,
+                "name": "Uman-Fonuweisom Municipality"
+            },
+            {
+                "id": 73947,
+                "name": "Unanu Municipality"
+            },
+            {
+                "id": 73948,
+                "name": "Weno"
+            },
+            {
+                "id": 73949,
+                "name": "Weno Municipality"
+            },
+            {
+                "id": 73950,
+                "name": "Wonei Municipality"
+            }
+        ]
+    },
+    {
+        "id": 2653,
+        "name": "Kosrae State",
+        "cities": [
+            {
+                "id": 73951,
+                "name": "Lelu Municipality"
+            },
+            {
+                "id": 73952,
+                "name": "Malem Municipality"
+            },
+            {
+                "id": 73953,
+                "name": "Tafunsak Municipality"
+            },
+            {
+                "id": 73954,
+                "name": "Tofol"
+            },
+            {
+                "id": 73955,
+                "name": "Utwe Municipality"
+            }
+        ]
+    },
+    {
+        "id": 2654,
+        "name": "Pohnpei State",
+        "cities": [
+            {
+                "id": 73956,
+                "name": "Kitti Municipality"
+            },
+            {
+                "id": 73957,
+                "name": "Kolonia"
+            },
+            {
+                "id": 73958,
+                "name": "Kolonia Municipality"
+            },
+            {
+                "id": 73959,
+                "name": "Kolonia Town"
+            },
+            {
+                "id": 73960,
+                "name": "Madolenihm Municipality"
+            },
+            {
+                "id": 73961,
+                "name": "Mokil Municipality"
+            },
+            {
+                "id": 73962,
+                "name": "Nett Municipality"
+            },
+            {
+                "id": 73963,
+                "name": "Ngatik"
+            },
+            {
+                "id": 73964,
+                "name": "Nukuoro Municipality"
+            },
+            {
+                "id": 73965,
+                "name": "Palikir - National Government Center"
+            },
+            {
+                "id": 73966,
+                "name": "Pingelap Municipality"
+            },
+            {
+                "id": 73967,
+                "name": "Sapwuahfik Municipality"
+            },
+            {
+                "id": 73968,
+                "name": "Sokehs Municipality"
+            },
+            {
+                "id": 73969,
+                "name": "U Municipality"
+            }
+        ]
+    },
+    {
+        "id": 2655,
+        "name": "Yap State",
+        "cities": [
+            {
+                "id": 73970,
+                "name": "Colonia"
+            },
+            {
+                "id": 73971,
+                "name": "Dalipebinaw Municipality"
+            },
+            {
+                "id": 73972,
+                "name": "Fais"
+            },
+            {
+                "id": 73973,
+                "name": "Fais Municipality"
+            },
+            {
+                "id": 73974,
+                "name": "Fanif Municipality"
+            },
+            {
+                "id": 73975,
+                "name": "Faraulep Municipality"
+            },
+            {
+                "id": 73976,
+                "name": "Gagil Municipality"
+            },
+            {
+                "id": 73977,
+                "name": "Gilman Municipality"
+            },
+            {
+                "id": 73978,
+                "name": "Kanifay Municipality"
+            },
+            {
+                "id": 73979,
+                "name": "Lamotrek Municipality"
+            },
+            {
+                "id": 73980,
+                "name": "Maap Municipality"
+            },
+            {
+                "id": 73981,
+                "name": "Ngulu Municipality"
+            },
+            {
+                "id": 73982,
+                "name": "Rull Municipality"
+            },
+            {
+                "id": 73983,
+                "name": "Rumung Municipality"
+            },
+            {
+                "id": 73984,
+                "name": "Satawal Municipality"
+            },
+            {
+                "id": 73985,
+                "name": "Tomil Municipality"
+            },
+            {
+                "id": 73986,
+                "name": "Ulithi Municipality"
+            },
+            {
+                "id": 73987,
+                "name": "Weloy Municipality"
+            },
+            {
+                "id": 73988,
+                "name": "Woleai Municipality"
+            }
+        ]
+    }
+]

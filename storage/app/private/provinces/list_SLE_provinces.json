@@ -1,0 +1,386 @@
+[
+    {
+        "id": 3499,
+        "name": "Eastern Province",
+        "cities": [
+            {
+                "id": 102281,
+                "name": "Barma"
+            },
+            {
+                "id": 102282,
+                "name": "Blama"
+            },
+            {
+                "id": 102283,
+                "name": "Boajibu"
+            },
+            {
+                "id": 102284,
+                "name": "Buedu"
+            },
+            {
+                "id": 102285,
+                "name": "Bunumbu"
+            },
+            {
+                "id": 102286,
+                "name": "Daru"
+            },
+            {
+                "id": 102287,
+                "name": "Giehun"
+            },
+            {
+                "id": 102288,
+                "name": "Gorahun"
+            },
+            {
+                "id": 102289,
+                "name": "Hangha"
+            },
+            {
+                "id": 102290,
+                "name": "Jojoima"
+            },
+            {
+                "id": 102291,
+                "name": "Kailahun"
+            },
+            {
+                "id": 102292,
+                "name": "Kailahun District"
+            },
+            {
+                "id": 102293,
+                "name": "Kayima"
+            },
+            {
+                "id": 102294,
+                "name": "Kenema"
+            },
+            {
+                "id": 102295,
+                "name": "Kenema District"
+            },
+            {
+                "id": 102296,
+                "name": "Koidu"
+            },
+            {
+                "id": 102297,
+                "name": "Kono District"
+            },
+            {
+                "id": 102298,
+                "name": "Koyima"
+            },
+            {
+                "id": 102299,
+                "name": "Manowa"
+            },
+            {
+                "id": 102300,
+                "name": "Mobai"
+            },
+            {
+                "id": 102301,
+                "name": "Motema"
+            },
+            {
+                "id": 102302,
+                "name": "Panguma"
+            },
+            {
+                "id": 102303,
+                "name": "Pendembu"
+            },
+            {
+                "id": 102304,
+                "name": "Segbwema"
+            },
+            {
+                "id": 102305,
+                "name": "Simbakoro"
+            },
+            {
+                "id": 102306,
+                "name": "Tefeya"
+            },
+            {
+                "id": 102307,
+                "name": "Tombodu"
+            },
+            {
+                "id": 102308,
+                "name": "Tombu"
+            },
+            {
+                "id": 102309,
+                "name": "Wima"
+            },
+            {
+                "id": 102310,
+                "name": "Yengema"
+            }
+        ]
+    },
+    {
+        "id": 3500,
+        "name": "Northern Province",
+        "cities": [
+            {
+                "id": 102311,
+                "name": "Alikalia"
+            },
+            {
+                "id": 102312,
+                "name": "Bindi"
+            },
+            {
+                "id": 102313,
+                "name": "Binkolo"
+            },
+            {
+                "id": 102314,
+                "name": "Bombali District"
+            },
+            {
+                "id": 102315,
+                "name": "Bumbuna"
+            },
+            {
+                "id": 102316,
+                "name": "Gberia Fotombu"
+            },
+            {
+                "id": 102317,
+                "name": "Kabala"
+            },
+            {
+                "id": 102318,
+                "name": "Kamakwie"
+            },
+            {
+                "id": 102319,
+                "name": "Kambia"
+            },
+            {
+                "id": 102320,
+                "name": "Kassiri"
+            },
+            {
+                "id": 102321,
+                "name": "Koinadugu District"
+            },
+            {
+                "id": 102322,
+                "name": "Konakridee"
+            },
+            {
+                "id": 102323,
+                "name": "Kukuna"
+            },
+            {
+                "id": 102324,
+                "name": "Loma"
+            },
+            {
+                "id": 102325,
+                "name": "Lunsar"
+            },
+            {
+                "id": 102326,
+                "name": "Magburaka"
+            },
+            {
+                "id": 102327,
+                "name": "Makali"
+            },
+            {
+                "id": 102328,
+                "name": "Makeni"
+            },
+            {
+                "id": 102329,
+                "name": "Mambolo"
+            },
+            {
+                "id": 102330,
+                "name": "Mange"
+            },
+            {
+                "id": 102331,
+                "name": "Masaka"
+            },
+            {
+                "id": 102332,
+                "name": "Masingbi"
+            },
+            {
+                "id": 102333,
+                "name": "Masoyila"
+            },
+            {
+                "id": 102334,
+                "name": "Pepel"
+            },
+            {
+                "id": 102335,
+                "name": "Rokupr"
+            },
+            {
+                "id": 102336,
+                "name": "Sawkta"
+            },
+            {
+                "id": 102337,
+                "name": "Seidu"
+            },
+            {
+                "id": 102338,
+                "name": "Tintafor"
+            },
+            {
+                "id": 102339,
+                "name": "Tonkolili District"
+            },
+            {
+                "id": 102340,
+                "name": "Yonibana"
+            }
+        ]
+    },
+    {
+        "id": 3501,
+        "name": "Southern Province",
+        "cities": [
+            {
+                "id": 102341,
+                "name": "Baiima"
+            },
+            {
+                "id": 102342,
+                "name": "Baoma"
+            },
+            {
+                "id": 102343,
+                "name": "Bo"
+            },
+            {
+                "id": 102344,
+                "name": "Bo District"
+            },
+            {
+                "id": 102345,
+                "name": "Bomi"
+            },
+            {
+                "id": 102346,
+                "name": "Bonthe"
+            },
+            {
+                "id": 102347,
+                "name": "Bonthe District"
+            },
+            {
+                "id": 102348,
+                "name": "Bumpe"
+            },
+            {
+                "id": 102349,
+                "name": "Foindu"
+            },
+            {
+                "id": 102350,
+                "name": "Gandorhun"
+            },
+            {
+                "id": 102351,
+                "name": "Gbewebu"
+            },
+            {
+                "id": 102352,
+                "name": "Koribundu"
+            },
+            {
+                "id": 102353,
+                "name": "Largo"
+            },
+            {
+                "id": 102354,
+                "name": "Mamboma"
+            },
+            {
+                "id": 102355,
+                "name": "Mogbwemo"
+            },
+            {
+                "id": 102356,
+                "name": "Moyamba"
+            },
+            {
+                "id": 102357,
+                "name": "Moyamba District"
+            },
+            {
+                "id": 102358,
+                "name": "Palima"
+            },
+            {
+                "id": 102359,
+                "name": "Potoru"
+            },
+            {
+                "id": 102360,
+                "name": "Pujehun"
+            },
+            {
+                "id": 102361,
+                "name": "Pujehun District"
+            },
+            {
+                "id": 102362,
+                "name": "Rotifunk"
+            },
+            {
+                "id": 102363,
+                "name": "Serabu"
+            },
+            {
+                "id": 102364,
+                "name": "Sumbuya"
+            },
+            {
+                "id": 102365,
+                "name": "Tongole"
+            },
+            {
+                "id": 102366,
+                "name": "Zimmi"
+            }
+        ]
+    },
+    {
+        "id": 3502,
+        "name": "Western Area",
+        "cities": [
+            {
+                "id": 102367,
+                "name": "Freetown"
+            },
+            {
+                "id": 102368,
+                "name": "Hastings"
+            },
+            {
+                "id": 102369,
+                "name": "Kent"
+            },
+            {
+                "id": 102370,
+                "name": "Waterloo"
+            }
+        ]
+    }
+]

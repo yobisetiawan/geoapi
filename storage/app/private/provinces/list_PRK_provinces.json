@@ -1,0 +1,388 @@
+[
+    {
+        "id": 2010,
+        "name": "Chagang Province",
+        "cities": [
+            {
+                "id": 63312,
+                "name": "Changgang-gun"
+            },
+            {
+                "id": 63313,
+                "name": "Chasŏng"
+            },
+            {
+                "id": 63314,
+                "name": "Kanggye"
+            },
+            {
+                "id": 63315,
+                "name": "Manp’o"
+            }
+        ]
+    },
+    {
+        "id": 2011,
+        "name": "Kangwon Province",
+        "cities": [
+            {
+                "id": 63316,
+                "name": "Anbyŏn-ŭp"
+            },
+            {
+                "id": 63317,
+                "name": "Hoeyang"
+            },
+            {
+                "id": 63318,
+                "name": "Kosan"
+            },
+            {
+                "id": 63319,
+                "name": "T’ongch’ŏn-ŭp"
+            },
+            {
+                "id": 63320,
+                "name": "Wŏnsan"
+            }
+        ]
+    },
+    {
+        "id": 2012,
+        "name": "North Hamgyong Province",
+        "cities": [
+            {
+                "id": 63321,
+                "name": "Aoji"
+            },
+            {
+                "id": 63322,
+                "name": "Chongjin"
+            },
+            {
+                "id": 63323,
+                "name": "Hau-ri"
+            },
+            {
+                "id": 63324,
+                "name": "Hoemul-li"
+            },
+            {
+                "id": 63325,
+                "name": "Hoeryŏng"
+            },
+            {
+                "id": 63326,
+                "name": "Kilju"
+            },
+            {
+                "id": 63327,
+                "name": "Kimch’aek-si"
+            },
+            {
+                "id": 63328,
+                "name": "Komusan Il-tong"
+            },
+            {
+                "id": 63329,
+                "name": "Kyŏngsŏng"
+            },
+            {
+                "id": 63330,
+                "name": "Kyŏngwŏn"
+            },
+            {
+                "id": 63331,
+                "name": "Musan-ŭp"
+            },
+            {
+                "id": 63332,
+                "name": "Namyang-dong"
+            },
+            {
+                "id": 63333,
+                "name": "Nanam"
+            },
+            {
+                "id": 63334,
+                "name": "Onsŏng"
+            },
+            {
+                "id": 63335,
+                "name": "Puryŏng"
+            },
+            {
+                "id": 63336,
+                "name": "Sŭngam-nodongjagu"
+            }
+        ]
+    },
+    {
+        "id": 2013,
+        "name": "North Hwanghae Province",
+        "cities": [
+            {
+                "id": 63337,
+                "name": "Anak"
+            },
+            {
+                "id": 63338,
+                "name": "Hŭkkyo-ri"
+            },
+            {
+                "id": 63339,
+                "name": "Hwangju-ŭp"
+            },
+            {
+                "id": 63340,
+                "name": "Koksan"
+            },
+            {
+                "id": 63341,
+                "name": "Sariwŏn"
+            },
+            {
+                "id": 63342,
+                "name": "Sinmak"
+            },
+            {
+                "id": 63343,
+                "name": "Songnim"
+            }
+        ]
+    },
+    {
+        "id": 2014,
+        "name": "North Pyongan Province",
+        "cities": [
+            {
+                "id": 63344,
+                "name": "Chŏngju"
+            },
+            {
+                "id": 63345,
+                "name": "Chŏngju-gun"
+            },
+            {
+                "id": 63346,
+                "name": "Kujang-ŭp"
+            },
+            {
+                "id": 63347,
+                "name": "Kusŏng"
+            },
+            {
+                "id": 63348,
+                "name": "Kwaksan"
+            },
+            {
+                "id": 63349,
+                "name": "Panghyŏn-dong"
+            },
+            {
+                "id": 63350,
+                "name": "Pukchil-lodongjagu"
+            },
+            {
+                "id": 63351,
+                "name": "Sakchu-ŭp"
+            },
+            {
+                "id": 63352,
+                "name": "Sinŭiju"
+            },
+            {
+                "id": 63353,
+                "name": "Ŭiju"
+            },
+            {
+                "id": 63354,
+                "name": "Yŏmju-ŭp"
+            },
+            {
+                "id": 63355,
+                "name": "Yŏngbyŏn"
+            }
+        ]
+    },
+    {
+        "id": 2015,
+        "name": "Pyongyang",
+        "cities": [
+            {
+                "id": 63356,
+                "name": "Chunghwa"
+            },
+            {
+                "id": 63357,
+                "name": "Kangdong-ŭp"
+            },
+            {
+                "id": 63358,
+                "name": "Pyongyang"
+            },
+            {
+                "id": 63359,
+                "name": "Sunan"
+            },
+            {
+                "id": 63360,
+                "name": "Sŭngho 1-tong"
+            }
+        ]
+    },
+    {
+        "id": 2016,
+        "name": "Rason",
+        "cities": [
+            {
+                "id": 63361,
+                "name": "Sŏnbong"
+            },
+            {
+                "id": 63362,
+                "name": "Ungsang-nodongjagu"
+            }
+        ]
+    },
+    {
+        "id": 2017,
+        "name": "Ryanggang Province",
+        "cities": [
+            {
+                "id": 63363,
+                "name": "Hyesan"
+            },
+            {
+                "id": 63364,
+                "name": "Hyesan-dong"
+            },
+            {
+                "id": 63365,
+                "name": "Kapsan-ŭp"
+            },
+            {
+                "id": 63366,
+                "name": "Sŭngjibaegam"
+            }
+        ]
+    },
+    {
+        "id": 2018,
+        "name": "South Hamgyong Province",
+        "cities": [
+            {
+                "id": 63367,
+                "name": "Hamhŭng"
+            },
+            {
+                "id": 63368,
+                "name": "Hongwŏn"
+            },
+            {
+                "id": 63369,
+                "name": "Hŭngnam"
+            },
+            {
+                "id": 63370,
+                "name": "Iwŏn-ŭp"
+            },
+            {
+                "id": 63371,
+                "name": "Kowŏn-ŭp"
+            },
+            {
+                "id": 63372,
+                "name": "Samho-rodongjagu"
+            },
+            {
+                "id": 63373,
+                "name": "Sinsang-ni"
+            },
+            {
+                "id": 63374,
+                "name": "Yŏnggwang-ŭp"
+            },
+            {
+                "id": 63375,
+                "name": "Yuktae-dong"
+            }
+        ]
+    },
+    {
+        "id": 2019,
+        "name": "South Hwanghae Province",
+        "cities": [
+            {
+                "id": 63376,
+                "name": "Ayang-ni"
+            },
+            {
+                "id": 63377,
+                "name": "Chaeryŏng-ŭp"
+            },
+            {
+                "id": 63378,
+                "name": "Changyŏn"
+            },
+            {
+                "id": 63379,
+                "name": "Haeju"
+            },
+            {
+                "id": 63380,
+                "name": "Kaesŏng"
+            },
+            {
+                "id": 63381,
+                "name": "Ongjin"
+            },
+            {
+                "id": 63382,
+                "name": "Pyŏksŏng-ŭp"
+            },
+            {
+                "id": 63383,
+                "name": "Yŏnan-ŭp"
+            }
+        ]
+    },
+    {
+        "id": 2020,
+        "name": "South Pyongan Province",
+        "cities": [
+            {
+                "id": 63384,
+                "name": "Anju"
+            },
+            {
+                "id": 63385,
+                "name": "Namp’o"
+            },
+            {
+                "id": 63386,
+                "name": "P’yŏngsŏng"
+            },
+            {
+                "id": 63387,
+                "name": "Sangsŏng-ni"
+            },
+            {
+                "id": 63388,
+                "name": "Sil-li"
+            },
+            {
+                "id": 63389,
+                "name": "Sinanju"
+            },
+            {
+                "id": 63390,
+                "name": "Sunch’ŏn"
+            },
+            {
+                "id": 63391,
+                "name": "Yonggang-ŭp"
+            }
+        ]
+    }
+]

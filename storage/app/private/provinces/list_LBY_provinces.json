@@ -1,0 +1,332 @@
+[
+    {
+        "id": 2230,
+        "name": "Al Wahat District",
+        "cities": [
+            {
+                "id": 64036,
+                "name": "Ajdabiya"
+            },
+            {
+                "id": 64037,
+                "name": "Al Burayqah"
+            },
+            {
+                "id": 64038,
+                "name": "Awjilah"
+            },
+            {
+                "id": 64039,
+                "name": "Az Zuwaytīnah"
+            },
+            {
+                "id": 64040,
+                "name": "Gialo"
+            },
+            {
+                "id": 64041,
+                "name": "Marādah"
+            }
+        ]
+    },
+    {
+        "id": 2231,
+        "name": "Benghazi",
+        "cities": [
+            {
+                "id": 64042,
+                "name": "Benghazi"
+            },
+            {
+                "id": 64043,
+                "name": "Qaryat Sulūq"
+            }
+        ]
+    },
+    {
+        "id": 2232,
+        "name": "Derna District",
+        "cities": [
+            {
+                "id": 64044,
+                "name": "Al Qubbah"
+            },
+            {
+                "id": 64045,
+                "name": "Darnah"
+            }
+        ]
+    },
+    {
+        "id": 2233,
+        "name": "Ghat District",
+        "cities": [
+            {
+                "id": 64046,
+                "name": "Ghat"
+            }
+        ]
+    },
+    {
+        "id": 2234,
+        "name": "Jabal al Akhdar",
+        "cities": [
+            {
+                "id": 64047,
+                "name": "Al Bayḑā’"
+            }
+        ]
+    },
+    {
+        "id": 2235,
+        "name": "Jabal al Gharbi District",
+        "cities": [
+            {
+                "id": 64048,
+                "name": "Gharyan"
+            },
+            {
+                "id": 64049,
+                "name": "Giado"
+            },
+            {
+                "id": 64050,
+                "name": "Mizdah"
+            },
+            {
+                "id": 64051,
+                "name": "Yafran"
+            },
+            {
+                "id": 64052,
+                "name": "Zintan"
+            }
+        ]
+    },
+    {
+        "id": 2236,
+        "name": "Jafara",
+        "cities": [
+            {
+                "id": 64053,
+                "name": "Al ‘Azīzīyah"
+            }
+        ]
+    },
+    {
+        "id": 2237,
+        "name": "Jufra",
+        "cities": [
+            {
+                "id": 64054,
+                "name": "Hūn"
+            },
+            {
+                "id": 64055,
+                "name": "Waddān"
+            }
+        ]
+    },
+    {
+        "id": 2238,
+        "name": "Kufra District",
+        "cities": [
+            {
+                "id": 64056,
+                "name": "Al Jawf"
+            },
+            {
+                "id": 64057,
+                "name": "At Tāj"
+            }
+        ]
+    },
+    {
+        "id": 2239,
+        "name": "Marj District",
+        "cities": [
+            {
+                "id": 64058,
+                "name": "Al Abyār"
+            },
+            {
+                "id": 64059,
+                "name": "Al Marj"
+            },
+            {
+                "id": 64060,
+                "name": "Tūkrah"
+            }
+        ]
+    },
+    {
+        "id": 2240,
+        "name": "Misrata District",
+        "cities": [
+            {
+                "id": 64061,
+                "name": "Bani Walid"
+            },
+            {
+                "id": 64062,
+                "name": "Mişrātah"
+            },
+            {
+                "id": 64063,
+                "name": "Zliten"
+            }
+        ]
+    },
+    {
+        "id": 2241,
+        "name": "Murqub",
+        "cities": [
+            {
+                "id": 64064,
+                "name": "Al Khums"
+            },
+            {
+                "id": 64065,
+                "name": "Masallātah"
+            },
+            {
+                "id": 64066,
+                "name": "Tarhuna"
+            }
+        ]
+    },
+    {
+        "id": 2242,
+        "name": "Murzuq District",
+        "cities": [
+            {
+                "id": 64067,
+                "name": "Al Qaţrūn"
+            },
+            {
+                "id": 64068,
+                "name": "Murzuq"
+            }
+        ]
+    },
+    {
+        "id": 2243,
+        "name": "Nalut District",
+        "cities": [
+            {
+                "id": 64069,
+                "name": "Ghadāmis"
+            },
+            {
+                "id": 64070,
+                "name": "Nālūt"
+            }
+        ]
+    },
+    {
+        "id": 2244,
+        "name": "Nuqat al Khams",
+        "cities": [
+            {
+                "id": 64071,
+                "name": "Al Ajaylat"
+            },
+            {
+                "id": 64072,
+                "name": "Zalţan"
+            },
+            {
+                "id": 64073,
+                "name": "Zuwārah"
+            }
+        ]
+    },
+    {
+        "id": 2245,
+        "name": "Sabha District",
+        "cities": [
+            {
+                "id": 64074,
+                "name": "Al Jadīd"
+            },
+            {
+                "id": 64075,
+                "name": "Sabhā"
+            }
+        ]
+    },
+    {
+        "id": 2246,
+        "name": "Sirte District",
+        "cities": [
+            {
+                "id": 64076,
+                "name": "Qasr Abu Hadi"
+            },
+            {
+                "id": 64077,
+                "name": "Sirte"
+            }
+        ]
+    },
+    {
+        "id": 2247,
+        "name": "Tripoli District",
+        "cities": [
+            {
+                "id": 64078,
+                "name": "Tagiura"
+            },
+            {
+                "id": 64079,
+                "name": "Tripoli"
+            }
+        ]
+    },
+    {
+        "id": 2248,
+        "name": "Wadi al Hayaa District",
+        "cities": [
+            {
+                "id": 64080,
+                "name": "Ubari"
+            }
+        ]
+    },
+    {
+        "id": 2249,
+        "name": "Wadi al Shatii District",
+        "cities": [
+            {
+                "id": 64081,
+                "name": "Brak"
+            },
+            {
+                "id": 64082,
+                "name": "Idrī"
+            }
+        ]
+    },
+    {
+        "id": 2250,
+        "name": "Zawiya District",
+        "cities": [
+            {
+                "id": 64083,
+                "name": "Az Zāwīyah"
+            },
+            {
+                "id": 64084,
+                "name": "Şabrātah"
+            },
+            {
+                "id": 64085,
+                "name": "Şurmān"
+            },
+            {
+                "id": 64086,
+                "name": "Zawiya"
+            }
+        ]
+    }
+]

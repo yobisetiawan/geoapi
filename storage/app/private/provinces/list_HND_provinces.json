@@ -1,0 +1,2290 @@
+[
+    {
+        "id": 1510,
+        "name": "Atlántida Department",
+        "cities": [
+            {
+                "id": 42895,
+                "name": "Arizona"
+            },
+            {
+                "id": 42896,
+                "name": "Atenas de San Cristóbal"
+            },
+            {
+                "id": 42897,
+                "name": "Corozal"
+            },
+            {
+                "id": 42898,
+                "name": "El Pino"
+            },
+            {
+                "id": 42899,
+                "name": "El Porvenir"
+            },
+            {
+                "id": 42900,
+                "name": "El Triunfo de la Cruz"
+            },
+            {
+                "id": 42901,
+                "name": "Esparta"
+            },
+            {
+                "id": 42902,
+                "name": "Jutiapa"
+            },
+            {
+                "id": 42903,
+                "name": "La Ceiba"
+            },
+            {
+                "id": 42904,
+                "name": "La Masica"
+            },
+            {
+                "id": 42905,
+                "name": "La Unión"
+            },
+            {
+                "id": 42906,
+                "name": "Mezapa"
+            },
+            {
+                "id": 42907,
+                "name": "Nueva Armenia"
+            },
+            {
+                "id": 42908,
+                "name": "Sambo Creek"
+            },
+            {
+                "id": 42909,
+                "name": "San Antonio"
+            },
+            {
+                "id": 42910,
+                "name": "San Francisco"
+            },
+            {
+                "id": 42911,
+                "name": "San Juan Pueblo"
+            },
+            {
+                "id": 42912,
+                "name": "Santa Ana"
+            },
+            {
+                "id": 42913,
+                "name": "Tela"
+            },
+            {
+                "id": 42914,
+                "name": "Tornabé"
+            }
+        ]
+    },
+    {
+        "id": 1511,
+        "name": "Bay Islands Department",
+        "cities": [
+            {
+                "id": 42915,
+                "name": "Coxen Hole"
+            },
+            {
+                "id": 42916,
+                "name": "French Harbor"
+            },
+            {
+                "id": 42917,
+                "name": "Guanaja"
+            },
+            {
+                "id": 42918,
+                "name": "José Santos Guardiola"
+            },
+            {
+                "id": 42919,
+                "name": "Roatán"
+            },
+            {
+                "id": 42920,
+                "name": "Sandy Bay"
+            },
+            {
+                "id": 42921,
+                "name": "Savannah Bight"
+            },
+            {
+                "id": 42922,
+                "name": "Utila"
+            }
+        ]
+    },
+    {
+        "id": 1512,
+        "name": "Choluteca Department",
+        "cities": [
+            {
+                "id": 42923,
+                "name": "Apacilagua"
+            },
+            {
+                "id": 42924,
+                "name": "Choluteca"
+            },
+            {
+                "id": 42925,
+                "name": "Ciudad Choluteca"
+            },
+            {
+                "id": 42926,
+                "name": "Concepción de María"
+            },
+            {
+                "id": 42927,
+                "name": "Corpus"
+            },
+            {
+                "id": 42928,
+                "name": "Duyure"
+            },
+            {
+                "id": 42929,
+                "name": "El Corpus"
+            },
+            {
+                "id": 42930,
+                "name": "El Obraje"
+            },
+            {
+                "id": 42931,
+                "name": "El Puente"
+            },
+            {
+                "id": 42932,
+                "name": "El Triunfo"
+            },
+            {
+                "id": 42933,
+                "name": "Los Llanitos"
+            },
+            {
+                "id": 42934,
+                "name": "Marcovia"
+            },
+            {
+                "id": 42935,
+                "name": "Monjarás"
+            },
+            {
+                "id": 42936,
+                "name": "Morolica"
+            },
+            {
+                "id": 42937,
+                "name": "Namasigüe"
+            },
+            {
+                "id": 42938,
+                "name": "Orocuina"
+            },
+            {
+                "id": 42939,
+                "name": "Pespire"
+            },
+            {
+                "id": 42940,
+                "name": "San Antonio de Flores"
+            },
+            {
+                "id": 42941,
+                "name": "San Isidro"
+            },
+            {
+                "id": 42942,
+                "name": "San Jerónimo"
+            },
+            {
+                "id": 42943,
+                "name": "San José"
+            },
+            {
+                "id": 42944,
+                "name": "San José de Las Conchas"
+            },
+            {
+                "id": 42945,
+                "name": "San Marcos de Colón"
+            },
+            {
+                "id": 42946,
+                "name": "Santa Ana de Yusguare"
+            },
+            {
+                "id": 42947,
+                "name": "Santa Cruz"
+            }
+        ]
+    },
+    {
+        "id": 1513,
+        "name": "Colón Department",
+        "cities": [
+            {
+                "id": 42948,
+                "name": "Balfate"
+            },
+            {
+                "id": 42949,
+                "name": "Bonito Oriental"
+            },
+            {
+                "id": 42950,
+                "name": "Corocito"
+            },
+            {
+                "id": 42951,
+                "name": "Cusuna"
+            },
+            {
+                "id": 42952,
+                "name": "Elíxir"
+            },
+            {
+                "id": 42953,
+                "name": "Francia"
+            },
+            {
+                "id": 42954,
+                "name": "Iriona"
+            },
+            {
+                "id": 42955,
+                "name": "Jericó"
+            },
+            {
+                "id": 42956,
+                "name": "La Brea"
+            },
+            {
+                "id": 42957,
+                "name": "La Esperanza"
+            },
+            {
+                "id": 42958,
+                "name": "Limón"
+            },
+            {
+                "id": 42959,
+                "name": "Municipio de Sabá"
+            },
+            {
+                "id": 42960,
+                "name": "Prieta"
+            },
+            {
+                "id": 42961,
+                "name": "Puerto Castilla"
+            },
+            {
+                "id": 42962,
+                "name": "Punta Piedra"
+            },
+            {
+                "id": 42963,
+                "name": "Quebrada de Arena"
+            },
+            {
+                "id": 42964,
+                "name": "Río Esteban"
+            },
+            {
+                "id": 42965,
+                "name": "Sabá"
+            },
+            {
+                "id": 42966,
+                "name": "Salamá"
+            },
+            {
+                "id": 42967,
+                "name": "Santa Fe"
+            },
+            {
+                "id": 42968,
+                "name": "Santa Rosa de Aguán"
+            },
+            {
+                "id": 42969,
+                "name": "Sonaguera"
+            },
+            {
+                "id": 42970,
+                "name": "Taujica"
+            },
+            {
+                "id": 42971,
+                "name": "Tocoa"
+            },
+            {
+                "id": 42972,
+                "name": "Trujillo"
+            },
+            {
+                "id": 42973,
+                "name": "Zamora"
+            }
+        ]
+    },
+    {
+        "id": 1514,
+        "name": "Comayagua Department",
+        "cities": [
+            {
+                "id": 42974,
+                "name": "Aguas del Padre"
+            },
+            {
+                "id": 42975,
+                "name": "Ajuterique"
+            },
+            {
+                "id": 42976,
+                "name": "Cerro Blanco"
+            },
+            {
+                "id": 42977,
+                "name": "Comayagua"
+            },
+            {
+                "id": 42978,
+                "name": "Concepción de Guasistagua"
+            },
+            {
+                "id": 42979,
+                "name": "El Agua Dulcita"
+            },
+            {
+                "id": 42980,
+                "name": "El Porvenir"
+            },
+            {
+                "id": 42981,
+                "name": "El Rancho"
+            },
+            {
+                "id": 42982,
+                "name": "El Rincón"
+            },
+            {
+                "id": 42983,
+                "name": "El Rosario"
+            },
+            {
+                "id": 42984,
+                "name": "El Sauce"
+            },
+            {
+                "id": 42985,
+                "name": "El Socorro"
+            },
+            {
+                "id": 42986,
+                "name": "Esquías"
+            },
+            {
+                "id": 42987,
+                "name": "Flores"
+            },
+            {
+                "id": 42988,
+                "name": "Humuya"
+            },
+            {
+                "id": 42989,
+                "name": "Jamalteca"
+            },
+            {
+                "id": 42990,
+                "name": "La Libertad"
+            },
+            {
+                "id": 42991,
+                "name": "La Trinidad"
+            },
+            {
+                "id": 42992,
+                "name": "Lamaní"
+            },
+            {
+                "id": 42993,
+                "name": "Las Lajas"
+            },
+            {
+                "id": 42994,
+                "name": "Lejamaní"
+            },
+            {
+                "id": 42995,
+                "name": "Meámbar"
+            },
+            {
+                "id": 42996,
+                "name": "Minas de Oro"
+            },
+            {
+                "id": 42997,
+                "name": "Ojos de Agua"
+            },
+            {
+                "id": 42998,
+                "name": "Potrerillos"
+            },
+            {
+                "id": 42999,
+                "name": "Río Bonito"
+            },
+            {
+                "id": 43000,
+                "name": "San Antonio de la Cuesta"
+            },
+            {
+                "id": 43001,
+                "name": "San Jerónimo"
+            },
+            {
+                "id": 43002,
+                "name": "San José de Comayagua"
+            },
+            {
+                "id": 43003,
+                "name": "San José del Potrero"
+            },
+            {
+                "id": 43004,
+                "name": "San Luis"
+            },
+            {
+                "id": 43005,
+                "name": "San Sebastián"
+            },
+            {
+                "id": 43006,
+                "name": "Siguatepeque"
+            },
+            {
+                "id": 43007,
+                "name": "Taulabé"
+            },
+            {
+                "id": 43008,
+                "name": "Valle de Ángeles"
+            },
+            {
+                "id": 43009,
+                "name": "Villa de San Antonio"
+            }
+        ]
+    },
+    {
+        "id": 1515,
+        "name": "Copán Department",
+        "cities": [
+            {
+                "id": 43010,
+                "name": "Agua Caliente"
+            },
+            {
+                "id": 43011,
+                "name": "Buenos Aires"
+            },
+            {
+                "id": 43012,
+                "name": "Cabañas"
+            },
+            {
+                "id": 43013,
+                "name": "Chalmeca"
+            },
+            {
+                "id": 43014,
+                "name": "Concepción"
+            },
+            {
+                "id": 43015,
+                "name": "Concepción de la Barranca"
+            },
+            {
+                "id": 43016,
+                "name": "Copán"
+            },
+            {
+                "id": 43017,
+                "name": "Copán Ruinas"
+            },
+            {
+                "id": 43018,
+                "name": "Corquín"
+            },
+            {
+                "id": 43019,
+                "name": "Cucuyagua"
+            },
+            {
+                "id": 43020,
+                "name": "Dolores"
+            },
+            {
+                "id": 43021,
+                "name": "Dulce Nombre"
+            },
+            {
+                "id": 43022,
+                "name": "El Corpus"
+            },
+            {
+                "id": 43023,
+                "name": "El Ocotón"
+            },
+            {
+                "id": 43024,
+                "name": "El Paraíso"
+            },
+            {
+                "id": 43025,
+                "name": "Florida"
+            },
+            {
+                "id": 43026,
+                "name": "La Entrada"
+            },
+            {
+                "id": 43027,
+                "name": "La Jigua"
+            },
+            {
+                "id": 43028,
+                "name": "La Playona"
+            },
+            {
+                "id": 43029,
+                "name": "La Unión"
+            },
+            {
+                "id": 43030,
+                "name": "La Zumbadora"
+            },
+            {
+                "id": 43031,
+                "name": "Los Tangos"
+            },
+            {
+                "id": 43032,
+                "name": "Nueva Arcadia"
+            },
+            {
+                "id": 43033,
+                "name": "Ojos de Agua"
+            },
+            {
+                "id": 43034,
+                "name": "Pueblo Nuevo"
+            },
+            {
+                "id": 43035,
+                "name": "Quezailica"
+            },
+            {
+                "id": 43036,
+                "name": "San Agustín"
+            },
+            {
+                "id": 43037,
+                "name": "San Antonio"
+            },
+            {
+                "id": 43038,
+                "name": "San Jerónimo"
+            },
+            {
+                "id": 43039,
+                "name": "San Joaquín"
+            },
+            {
+                "id": 43040,
+                "name": "San José"
+            },
+            {
+                "id": 43041,
+                "name": "San José de Copán"
+            },
+            {
+                "id": 43042,
+                "name": "San Juan de Opoa"
+            },
+            {
+                "id": 43043,
+                "name": "San Juan de Planes"
+            },
+            {
+                "id": 43044,
+                "name": "San Nicolás"
+            },
+            {
+                "id": 43045,
+                "name": "San Pedro de Copán"
+            },
+            {
+                "id": 43046,
+                "name": "Santa Rita"
+            },
+            {
+                "id": 43047,
+                "name": "Santa Rita, Copan"
+            },
+            {
+                "id": 43048,
+                "name": "Santa Rosa de Copán"
+            },
+            {
+                "id": 43049,
+                "name": "Trinidad de Copán"
+            },
+            {
+                "id": 43050,
+                "name": "Veracruz"
+            }
+        ]
+    },
+    {
+        "id": 1516,
+        "name": "Cortés Department",
+        "cities": [
+            {
+                "id": 43051,
+                "name": "Agua Azul"
+            },
+            {
+                "id": 43052,
+                "name": "Agua Azul Rancho"
+            },
+            {
+                "id": 43053,
+                "name": "Armenta"
+            },
+            {
+                "id": 43054,
+                "name": "Baja Mar"
+            },
+            {
+                "id": 43055,
+                "name": "Baracoa"
+            },
+            {
+                "id": 43056,
+                "name": "Bejuco"
+            },
+            {
+                "id": 43057,
+                "name": "Cañaveral"
+            },
+            {
+                "id": 43058,
+                "name": "Casa Quemada"
+            },
+            {
+                "id": 43059,
+                "name": "Chivana"
+            },
+            {
+                "id": 43060,
+                "name": "Choloma"
+            },
+            {
+                "id": 43061,
+                "name": "Chotepe"
+            },
+            {
+                "id": 43062,
+                "name": "Cofradía"
+            },
+            {
+                "id": 43063,
+                "name": "Cuyamel"
+            },
+            {
+                "id": 43064,
+                "name": "El Llano"
+            },
+            {
+                "id": 43065,
+                "name": "El Marañón"
+            },
+            {
+                "id": 43066,
+                "name": "El Milagro"
+            },
+            {
+                "id": 43067,
+                "name": "El Olivar"
+            },
+            {
+                "id": 43068,
+                "name": "El Perico"
+            },
+            {
+                "id": 43069,
+                "name": "El Plan"
+            },
+            {
+                "id": 43070,
+                "name": "El Porvenir"
+            },
+            {
+                "id": 43071,
+                "name": "El Rancho"
+            },
+            {
+                "id": 43072,
+                "name": "El Tigre"
+            },
+            {
+                "id": 43073,
+                "name": "El Zapotal del Norte"
+            },
+            {
+                "id": 43074,
+                "name": "La Guama"
+            },
+            {
+                "id": 43075,
+                "name": "La Huesa"
+            },
+            {
+                "id": 43076,
+                "name": "La Jutosa"
+            },
+            {
+                "id": 43077,
+                "name": "La Lima"
+            },
+            {
+                "id": 43078,
+                "name": "La Sabana"
+            },
+            {
+                "id": 43079,
+                "name": "Los Caminos"
+            },
+            {
+                "id": 43080,
+                "name": "Los Naranjos"
+            },
+            {
+                "id": 43081,
+                "name": "Monterrey"
+            },
+            {
+                "id": 43082,
+                "name": "Nuevo Chamelecón"
+            },
+            {
+                "id": 43083,
+                "name": "Omoa"
+            },
+            {
+                "id": 43084,
+                "name": "Oropéndolas"
+            },
+            {
+                "id": 43085,
+                "name": "Peña Blanca"
+            },
+            {
+                "id": 43086,
+                "name": "Pimienta"
+            },
+            {
+                "id": 43087,
+                "name": "Pimienta Vieja"
+            },
+            {
+                "id": 43088,
+                "name": "Potrerillos"
+            },
+            {
+                "id": 43089,
+                "name": "Pueblo Nuevo"
+            },
+            {
+                "id": 43090,
+                "name": "Puerto Alto"
+            },
+            {
+                "id": 43091,
+                "name": "Puerto Cortés"
+            },
+            {
+                "id": 43092,
+                "name": "Puerto Cortez"
+            },
+            {
+                "id": 43093,
+                "name": "Quebrada Seca"
+            },
+            {
+                "id": 43094,
+                "name": "Río Blanquito"
+            },
+            {
+                "id": 43095,
+                "name": "Río Chiquito"
+            },
+            {
+                "id": 43096,
+                "name": "Río Lindo"
+            },
+            {
+                "id": 43097,
+                "name": "San Antonio de Cortés"
+            },
+            {
+                "id": 43098,
+                "name": "San Buenaventura"
+            },
+            {
+                "id": 43099,
+                "name": "San Francisco de Yojoa"
+            },
+            {
+                "id": 43100,
+                "name": "San José del Boquerón"
+            },
+            {
+                "id": 43101,
+                "name": "San Manuel"
+            },
+            {
+                "id": 43102,
+                "name": "San Pedro Sula"
+            },
+            {
+                "id": 43103,
+                "name": "Santa Cruz de Yojoa"
+            },
+            {
+                "id": 43104,
+                "name": "Santa Elena"
+            },
+            {
+                "id": 43105,
+                "name": "Travesía"
+            },
+            {
+                "id": 43106,
+                "name": "Villanueva"
+            }
+        ]
+    },
+    {
+        "id": 1517,
+        "name": "El Paraíso Department",
+        "cities": [
+            {
+                "id": 43107,
+                "name": "Alauca"
+            },
+            {
+                "id": 43108,
+                "name": "Araulí"
+            },
+            {
+                "id": 43109,
+                "name": "Cuyalí"
+            },
+            {
+                "id": 43110,
+                "name": "Danlí"
+            },
+            {
+                "id": 43111,
+                "name": "El Benque"
+            },
+            {
+                "id": 43112,
+                "name": "El Chichicaste"
+            },
+            {
+                "id": 43113,
+                "name": "El Obraje"
+            },
+            {
+                "id": 43114,
+                "name": "El Paraíso"
+            },
+            {
+                "id": 43115,
+                "name": "Güinope"
+            },
+            {
+                "id": 43116,
+                "name": "Jacaleapa"
+            },
+            {
+                "id": 43117,
+                "name": "Jutiapa"
+            },
+            {
+                "id": 43118,
+                "name": "Las Ánimas"
+            },
+            {
+                "id": 43119,
+                "name": "Las Trojes"
+            },
+            {
+                "id": 43120,
+                "name": "Liure"
+            },
+            {
+                "id": 43121,
+                "name": "Morocelí"
+            },
+            {
+                "id": 43122,
+                "name": "Municipio de Texiguat"
+            },
+            {
+                "id": 43123,
+                "name": "Ojo de Agua"
+            },
+            {
+                "id": 43124,
+                "name": "Oropolí"
+            },
+            {
+                "id": 43125,
+                "name": "Potrerillos"
+            },
+            {
+                "id": 43126,
+                "name": "Quebrada Larga"
+            },
+            {
+                "id": 43127,
+                "name": "San Antonio de Flores"
+            },
+            {
+                "id": 43128,
+                "name": "San Diego"
+            },
+            {
+                "id": 43129,
+                "name": "San Lucas"
+            },
+            {
+                "id": 43130,
+                "name": "San Matías"
+            },
+            {
+                "id": 43131,
+                "name": "Santa Cruz"
+            },
+            {
+                "id": 43132,
+                "name": "Soledad"
+            },
+            {
+                "id": 43133,
+                "name": "Teupasenti"
+            },
+            {
+                "id": 43134,
+                "name": "Texíguat"
+            },
+            {
+                "id": 43135,
+                "name": "Trojes"
+            },
+            {
+                "id": 43136,
+                "name": "Vado Ancho"
+            },
+            {
+                "id": 43137,
+                "name": "Yauyupe"
+            },
+            {
+                "id": 43138,
+                "name": "Yuscarán"
+            }
+        ]
+    },
+    {
+        "id": 1518,
+        "name": "Francisco Morazán Department",
+        "cities": [
+            {
+                "id": 43139,
+                "name": "Agalteca"
+            },
+            {
+                "id": 43140,
+                "name": "Alubarén"
+            },
+            {
+                "id": 43141,
+                "name": "Cedros"
+            },
+            {
+                "id": 43142,
+                "name": "Cerro Grande"
+            },
+            {
+                "id": 43143,
+                "name": "Cofradía"
+            },
+            {
+                "id": 43144,
+                "name": "Curarén"
+            },
+            {
+                "id": 43145,
+                "name": "Distrito Central"
+            },
+            {
+                "id": 43146,
+                "name": "El Chimbo"
+            },
+            {
+                "id": 43147,
+                "name": "El Escanito"
+            },
+            {
+                "id": 43148,
+                "name": "El Escaño de Tepale"
+            },
+            {
+                "id": 43149,
+                "name": "El Guante"
+            },
+            {
+                "id": 43150,
+                "name": "El Guantillo"
+            },
+            {
+                "id": 43151,
+                "name": "El Guapinol"
+            },
+            {
+                "id": 43152,
+                "name": "El Lolo"
+            },
+            {
+                "id": 43153,
+                "name": "El Pedernal"
+            },
+            {
+                "id": 43154,
+                "name": "El Porvenir"
+            },
+            {
+                "id": 43155,
+                "name": "El Suyatal"
+            },
+            {
+                "id": 43156,
+                "name": "El Tablón"
+            },
+            {
+                "id": 43157,
+                "name": "El Terrero"
+            },
+            {
+                "id": 43158,
+                "name": "Guaimaca"
+            },
+            {
+                "id": 43159,
+                "name": "La Ermita"
+            },
+            {
+                "id": 43160,
+                "name": "La Libertad"
+            },
+            {
+                "id": 43161,
+                "name": "La Venta"
+            },
+            {
+                "id": 43162,
+                "name": "Lepaterique"
+            },
+            {
+                "id": 43163,
+                "name": "Maraita"
+            },
+            {
+                "id": 43164,
+                "name": "Marale"
+            },
+            {
+                "id": 43165,
+                "name": "Mata de Plátano"
+            },
+            {
+                "id": 43166,
+                "name": "Mateo"
+            },
+            {
+                "id": 43167,
+                "name": "Nueva Armenia"
+            },
+            {
+                "id": 43168,
+                "name": "Ojojona"
+            },
+            {
+                "id": 43169,
+                "name": "Orica"
+            },
+            {
+                "id": 43170,
+                "name": "Quebradas"
+            },
+            {
+                "id": 43171,
+                "name": "Reitoca"
+            },
+            {
+                "id": 43172,
+                "name": "Río Abajo"
+            },
+            {
+                "id": 43173,
+                "name": "Sabanagrande"
+            },
+            {
+                "id": 43174,
+                "name": "San Antonio de Oriente"
+            },
+            {
+                "id": 43175,
+                "name": "San Buenaventura"
+            },
+            {
+                "id": 43176,
+                "name": "San Ignacio"
+            },
+            {
+                "id": 43177,
+                "name": "San Juan de Flores"
+            },
+            {
+                "id": 43178,
+                "name": "San Miguelito"
+            },
+            {
+                "id": 43179,
+                "name": "Santa Ana"
+            },
+            {
+                "id": 43180,
+                "name": "Santa Lucía"
+            },
+            {
+                "id": 43181,
+                "name": "Talanga"
+            },
+            {
+                "id": 43182,
+                "name": "Támara"
+            },
+            {
+                "id": 43183,
+                "name": "Tatumbla"
+            },
+            {
+                "id": 43184,
+                "name": "Tegucigalpa"
+            },
+            {
+                "id": 43185,
+                "name": "Valle de Ángeles"
+            },
+            {
+                "id": 43186,
+                "name": "Vallecillo"
+            },
+            {
+                "id": 43187,
+                "name": "Villa de San Francisco"
+            },
+            {
+                "id": 43188,
+                "name": "Villa Nueva"
+            },
+            {
+                "id": 43189,
+                "name": "Yaguacire"
+            },
+            {
+                "id": 43190,
+                "name": "Zambrano"
+            }
+        ]
+    },
+    {
+        "id": 1519,
+        "name": "Gracias a Dios Department",
+        "cities": [
+            {
+                "id": 43191,
+                "name": "Ahuas"
+            },
+            {
+                "id": 43192,
+                "name": "Auas"
+            },
+            {
+                "id": 43193,
+                "name": "Auka"
+            },
+            {
+                "id": 43194,
+                "name": "Barra Patuca"
+            },
+            {
+                "id": 43195,
+                "name": "Brus Laguna"
+            },
+            {
+                "id": 43196,
+                "name": "Iralaya"
+            },
+            {
+                "id": 43197,
+                "name": "Juan Francisco Bulnes"
+            },
+            {
+                "id": 43198,
+                "name": "Paptalaya"
+            },
+            {
+                "id": 43199,
+                "name": "Puerto Lempira"
+            },
+            {
+                "id": 43200,
+                "name": "Villeda Morales"
+            },
+            {
+                "id": 43201,
+                "name": "Wampusirpi"
+            },
+            {
+                "id": 43202,
+                "name": "Wawina"
+            }
+        ]
+    },
+    {
+        "id": 1520,
+        "name": "Intibucá Department",
+        "cities": [
+            {
+                "id": 43203,
+                "name": "Camasca"
+            },
+            {
+                "id": 43204,
+                "name": "Colomoncagua"
+            },
+            {
+                "id": 43205,
+                "name": "Concepción"
+            },
+            {
+                "id": 43206,
+                "name": "Dolores"
+            },
+            {
+                "id": 43207,
+                "name": "Intibucá"
+            },
+            {
+                "id": 43208,
+                "name": "Jesús de Otoro"
+            },
+            {
+                "id": 43209,
+                "name": "Jiquinlaca"
+            },
+            {
+                "id": 43210,
+                "name": "La Esperanza"
+            },
+            {
+                "id": 43211,
+                "name": "Magdalena"
+            },
+            {
+                "id": 43212,
+                "name": "Masaguara"
+            },
+            {
+                "id": 43213,
+                "name": "San Antonio"
+            },
+            {
+                "id": 43214,
+                "name": "San Francisco de Opalaca"
+            },
+            {
+                "id": 43215,
+                "name": "San Isidro"
+            },
+            {
+                "id": 43216,
+                "name": "San Juan"
+            },
+            {
+                "id": 43217,
+                "name": "San Marcos de la Sierra"
+            },
+            {
+                "id": 43218,
+                "name": "San Miguelito"
+            },
+            {
+                "id": 43219,
+                "name": "Santa Lucía"
+            },
+            {
+                "id": 43220,
+                "name": "Yamaranguila"
+            }
+        ]
+    },
+    {
+        "id": 1521,
+        "name": "La Paz Department",
+        "cities": [
+            {
+                "id": 43221,
+                "name": "Aguanqueterique"
+            },
+            {
+                "id": 43222,
+                "name": "Cabañas"
+            },
+            {
+                "id": 43223,
+                "name": "Cane"
+            },
+            {
+                "id": 43224,
+                "name": "Chinacla"
+            },
+            {
+                "id": 43225,
+                "name": "Guajiquiro"
+            },
+            {
+                "id": 43226,
+                "name": "La Paz"
+            },
+            {
+                "id": 43227,
+                "name": "Lauterique"
+            },
+            {
+                "id": 43228,
+                "name": "Los Planes"
+            },
+            {
+                "id": 43229,
+                "name": "Marcala"
+            },
+            {
+                "id": 43230,
+                "name": "Mercedes de Oriente"
+            },
+            {
+                "id": 43231,
+                "name": "Opatoro"
+            },
+            {
+                "id": 43232,
+                "name": "San Antonio del Norte"
+            },
+            {
+                "id": 43233,
+                "name": "San José"
+            },
+            {
+                "id": 43234,
+                "name": "San Juan"
+            },
+            {
+                "id": 43235,
+                "name": "San Pedro de Tutule"
+            },
+            {
+                "id": 43236,
+                "name": "Santa Ana"
+            },
+            {
+                "id": 43237,
+                "name": "Santa Elena"
+            },
+            {
+                "id": 43238,
+                "name": "Santa María"
+            },
+            {
+                "id": 43239,
+                "name": "Santiago Puringla"
+            },
+            {
+                "id": 43240,
+                "name": "Tepanguare"
+            },
+            {
+                "id": 43241,
+                "name": "Yarula"
+            },
+            {
+                "id": 43242,
+                "name": "Yarumela"
+            }
+        ]
+    },
+    {
+        "id": 1522,
+        "name": "Lempira Department",
+        "cities": [
+            {
+                "id": 43243,
+                "name": "Belén"
+            },
+            {
+                "id": 43244,
+                "name": "Candelaria"
+            },
+            {
+                "id": 43245,
+                "name": "Cololaca"
+            },
+            {
+                "id": 43246,
+                "name": "El Achiotal"
+            },
+            {
+                "id": 43247,
+                "name": "Erandique"
+            },
+            {
+                "id": 43248,
+                "name": "Gracias"
+            },
+            {
+                "id": 43249,
+                "name": "Gualcince"
+            },
+            {
+                "id": 43250,
+                "name": "Guarita"
+            },
+            {
+                "id": 43251,
+                "name": "La Campa"
+            },
+            {
+                "id": 43252,
+                "name": "La Iguala"
+            },
+            {
+                "id": 43253,
+                "name": "La Libertad"
+            },
+            {
+                "id": 43254,
+                "name": "La Unión"
+            },
+            {
+                "id": 43255,
+                "name": "La Virtud"
+            },
+            {
+                "id": 43256,
+                "name": "Las Flores"
+            },
+            {
+                "id": 43257,
+                "name": "Las Tejeras"
+            },
+            {
+                "id": 43258,
+                "name": "Lepaera"
+            },
+            {
+                "id": 43259,
+                "name": "Mapulaca"
+            },
+            {
+                "id": 43260,
+                "name": "Piraera"
+            },
+            {
+                "id": 43261,
+                "name": "San Andrés"
+            },
+            {
+                "id": 43262,
+                "name": "San Francisco"
+            },
+            {
+                "id": 43263,
+                "name": "San Juan Guarita"
+            },
+            {
+                "id": 43264,
+                "name": "San Manuel Colohete"
+            },
+            {
+                "id": 43265,
+                "name": "San Marcos de Caiquin"
+            },
+            {
+                "id": 43266,
+                "name": "San Rafael"
+            },
+            {
+                "id": 43267,
+                "name": "San Sebastián"
+            },
+            {
+                "id": 43268,
+                "name": "Santa Cruz"
+            },
+            {
+                "id": 43269,
+                "name": "Talgua"
+            },
+            {
+                "id": 43270,
+                "name": "Tambla"
+            },
+            {
+                "id": 43271,
+                "name": "Taragual"
+            },
+            {
+                "id": 43272,
+                "name": "Tomalá"
+            },
+            {
+                "id": 43273,
+                "name": "Valladolid"
+            },
+            {
+                "id": 43274,
+                "name": "Virginia"
+            }
+        ]
+    },
+    {
+        "id": 1523,
+        "name": "Ocotepeque Department",
+        "cities": [
+            {
+                "id": 43275,
+                "name": "Antigua Ocotepeque"
+            },
+            {
+                "id": 43276,
+                "name": "Belén Gualcho"
+            },
+            {
+                "id": 43277,
+                "name": "Concepción"
+            },
+            {
+                "id": 43278,
+                "name": "Dolores Merendón"
+            },
+            {
+                "id": 43279,
+                "name": "El Tránsito"
+            },
+            {
+                "id": 43280,
+                "name": "Fraternidad"
+            },
+            {
+                "id": 43281,
+                "name": "La Encarnación"
+            },
+            {
+                "id": 43282,
+                "name": "La Labor"
+            },
+            {
+                "id": 43283,
+                "name": "Lucerna"
+            },
+            {
+                "id": 43284,
+                "name": "Mercedes"
+            },
+            {
+                "id": 43285,
+                "name": "Nueva Ocotepeque"
+            },
+            {
+                "id": 43286,
+                "name": "San Fernando"
+            },
+            {
+                "id": 43287,
+                "name": "San Francisco de Cones"
+            },
+            {
+                "id": 43288,
+                "name": "San Francisco del Valle"
+            },
+            {
+                "id": 43289,
+                "name": "San Jorge"
+            },
+            {
+                "id": 43290,
+                "name": "San Marcos"
+            },
+            {
+                "id": 43291,
+                "name": "Santa Fe"
+            },
+            {
+                "id": 43292,
+                "name": "Santa Lucía"
+            },
+            {
+                "id": 43293,
+                "name": "Sensenti"
+            },
+            {
+                "id": 43294,
+                "name": "Sinuapa"
+            },
+            {
+                "id": 43295,
+                "name": "Yaruchel"
+            }
+        ]
+    },
+    {
+        "id": 1524,
+        "name": "Olancho Department",
+        "cities": [
+            {
+                "id": 43296,
+                "name": "Arimís"
+            },
+            {
+                "id": 43297,
+                "name": "Campamento"
+            },
+            {
+                "id": 43298,
+                "name": "Catacamas"
+            },
+            {
+                "id": 43299,
+                "name": "Concordia"
+            },
+            {
+                "id": 43300,
+                "name": "Dulce Nombre de Culmí"
+            },
+            {
+                "id": 43301,
+                "name": "El Guayabito"
+            },
+            {
+                "id": 43302,
+                "name": "El Rosario"
+            },
+            {
+                "id": 43303,
+                "name": "El Rusio"
+            },
+            {
+                "id": 43304,
+                "name": "Esquipulas del Norte"
+            },
+            {
+                "id": 43305,
+                "name": "Gualaco"
+            },
+            {
+                "id": 43306,
+                "name": "Guarizama"
+            },
+            {
+                "id": 43307,
+                "name": "Guata"
+            },
+            {
+                "id": 43308,
+                "name": "Guayape"
+            },
+            {
+                "id": 43309,
+                "name": "Jano"
+            },
+            {
+                "id": 43310,
+                "name": "Juticalpa"
+            },
+            {
+                "id": 43311,
+                "name": "Jutiquile"
+            },
+            {
+                "id": 43312,
+                "name": "La Concepción"
+            },
+            {
+                "id": 43313,
+                "name": "La Estancia"
+            },
+            {
+                "id": 43314,
+                "name": "La Guata"
+            },
+            {
+                "id": 43315,
+                "name": "La Unión"
+            },
+            {
+                "id": 43316,
+                "name": "Laguna Seca"
+            },
+            {
+                "id": 43317,
+                "name": "Mangulile"
+            },
+            {
+                "id": 43318,
+                "name": "Manto"
+            },
+            {
+                "id": 43319,
+                "name": "Municipio de San Francisco de La Paz"
+            },
+            {
+                "id": 43320,
+                "name": "Patuca"
+            },
+            {
+                "id": 43321,
+                "name": "Punuare"
+            },
+            {
+                "id": 43322,
+                "name": "Salamá"
+            },
+            {
+                "id": 43323,
+                "name": "San Esteban"
+            },
+            {
+                "id": 43324,
+                "name": "San Francisco de Becerra"
+            },
+            {
+                "id": 43325,
+                "name": "San Francisco de la Paz"
+            },
+            {
+                "id": 43326,
+                "name": "San José de Río Tinto"
+            },
+            {
+                "id": 43327,
+                "name": "San Nicolás"
+            },
+            {
+                "id": 43328,
+                "name": "Santa María del Real"
+            },
+            {
+                "id": 43329,
+                "name": "Silca"
+            },
+            {
+                "id": 43330,
+                "name": "Yocón"
+            },
+            {
+                "id": 43331,
+                "name": "Zopilotepe"
+            }
+        ]
+    },
+    {
+        "id": 1525,
+        "name": "Santa Bárbara Department",
+        "cities": [
+            {
+                "id": 43332,
+                "name": "Agualote"
+            },
+            {
+                "id": 43333,
+                "name": "Arada"
+            },
+            {
+                "id": 43334,
+                "name": "Atima"
+            },
+            {
+                "id": 43335,
+                "name": "Azacualpa"
+            },
+            {
+                "id": 43336,
+                "name": "Berlín"
+            },
+            {
+                "id": 43337,
+                "name": "Callejones"
+            },
+            {
+                "id": 43338,
+                "name": "Camalote"
+            },
+            {
+                "id": 43339,
+                "name": "Casa Quemada"
+            },
+            {
+                "id": 43340,
+                "name": "Ceguaca"
+            },
+            {
+                "id": 43341,
+                "name": "Chinda"
+            },
+            {
+                "id": 43342,
+                "name": "Concepción del Norte"
+            },
+            {
+                "id": 43343,
+                "name": "Concepción del Sur"
+            },
+            {
+                "id": 43344,
+                "name": "Correderos"
+            },
+            {
+                "id": 43345,
+                "name": "El Ciruelo"
+            },
+            {
+                "id": 43346,
+                "name": "El Corozal"
+            },
+            {
+                "id": 43347,
+                "name": "El Mochito"
+            },
+            {
+                "id": 43348,
+                "name": "El Níspero"
+            },
+            {
+                "id": 43349,
+                "name": "Guacamaya"
+            },
+            {
+                "id": 43350,
+                "name": "Gualala"
+            },
+            {
+                "id": 43351,
+                "name": "Gualjoco"
+            },
+            {
+                "id": 43352,
+                "name": "Ilama"
+            },
+            {
+                "id": 43353,
+                "name": "Joconal"
+            },
+            {
+                "id": 43354,
+                "name": "La Flecha"
+            },
+            {
+                "id": 43355,
+                "name": "Laguna Verde"
+            },
+            {
+                "id": 43356,
+                "name": "Las Vegas"
+            },
+            {
+                "id": 43357,
+                "name": "Las Vegas, Santa Barbara"
+            },
+            {
+                "id": 43358,
+                "name": "Loma Alta"
+            },
+            {
+                "id": 43359,
+                "name": "Macuelizo"
+            },
+            {
+                "id": 43360,
+                "name": "Naco"
+            },
+            {
+                "id": 43361,
+                "name": "Naranjito"
+            },
+            {
+                "id": 43362,
+                "name": "Nueva Frontera"
+            },
+            {
+                "id": 43363,
+                "name": "Nueva Jalapa"
+            },
+            {
+                "id": 43364,
+                "name": "Nuevo Celilac"
+            },
+            {
+                "id": 43365,
+                "name": "Petoa"
+            },
+            {
+                "id": 43366,
+                "name": "Pinalejo"
+            },
+            {
+                "id": 43367,
+                "name": "Protección"
+            },
+            {
+                "id": 43368,
+                "name": "Quimistán"
+            },
+            {
+                "id": 43369,
+                "name": "San Francisco de Ojuera"
+            },
+            {
+                "id": 43370,
+                "name": "San José de Colinas"
+            },
+            {
+                "id": 43371,
+                "name": "San José de Tarros"
+            },
+            {
+                "id": 43372,
+                "name": "San Luis"
+            },
+            {
+                "id": 43373,
+                "name": "San Luis de Planes"
+            },
+            {
+                "id": 43374,
+                "name": "San Marcos"
+            },
+            {
+                "id": 43375,
+                "name": "San Nicolás"
+            },
+            {
+                "id": 43376,
+                "name": "San Pedro Zacapa"
+            },
+            {
+                "id": 43377,
+                "name": "San Vicente Centenario"
+            },
+            {
+                "id": 43378,
+                "name": "Santa Bárbara"
+            },
+            {
+                "id": 43379,
+                "name": "Santa Rita"
+            },
+            {
+                "id": 43380,
+                "name": "Sula"
+            },
+            {
+                "id": 43381,
+                "name": "Tras Cerros"
+            },
+            {
+                "id": 43382,
+                "name": "Trinidad"
+            }
+        ]
+    },
+    {
+        "id": 1526,
+        "name": "Valle Department",
+        "cities": [
+            {
+                "id": 43383,
+                "name": "Agua Fría"
+            },
+            {
+                "id": 43384,
+                "name": "Alianza"
+            },
+            {
+                "id": 43385,
+                "name": "Amapala"
+            },
+            {
+                "id": 43386,
+                "name": "Aramecina"
+            },
+            {
+                "id": 43387,
+                "name": "Caridad"
+            },
+            {
+                "id": 43388,
+                "name": "El Cubolero"
+            },
+            {
+                "id": 43389,
+                "name": "El Tular"
+            },
+            {
+                "id": 43390,
+                "name": "Goascorán"
+            },
+            {
+                "id": 43391,
+                "name": "Jícaro Galán"
+            },
+            {
+                "id": 43392,
+                "name": "La Alianza"
+            },
+            {
+                "id": 43393,
+                "name": "La Criba"
+            },
+            {
+                "id": 43394,
+                "name": "Langue"
+            },
+            {
+                "id": 43395,
+                "name": "Nacaome"
+            },
+            {
+                "id": 43396,
+                "name": "San Francisco de Coray"
+            },
+            {
+                "id": 43397,
+                "name": "San Lorenzo"
+            }
+        ]
+    },
+    {
+        "id": 1527,
+        "name": "Yoro Department",
+        "cities": [
+            {
+                "id": 43398,
+                "name": "Agua Blanca Sur"
+            },
+            {
+                "id": 43399,
+                "name": "Arenal"
+            },
+            {
+                "id": 43400,
+                "name": "Armenia"
+            },
+            {
+                "id": 43401,
+                "name": "Ayapa"
+            },
+            {
+                "id": 43402,
+                "name": "Bálsamo Oriental"
+            },
+            {
+                "id": 43403,
+                "name": "Carbajales"
+            },
+            {
+                "id": 43404,
+                "name": "Coyoles Central"
+            },
+            {
+                "id": 43405,
+                "name": "El Bálsamo"
+            },
+            {
+                "id": 43406,
+                "name": "El Juncal"
+            },
+            {
+                "id": 43407,
+                "name": "El Negrito"
+            },
+            {
+                "id": 43408,
+                "name": "El Ocote"
+            },
+            {
+                "id": 43409,
+                "name": "El Progreso"
+            },
+            {
+                "id": 43410,
+                "name": "Guaimitas"
+            },
+            {
+                "id": 43411,
+                "name": "Jocón"
+            },
+            {
+                "id": 43412,
+                "name": "La Estancia"
+            },
+            {
+                "id": 43413,
+                "name": "La Guacamaya"
+            },
+            {
+                "id": 43414,
+                "name": "La Mina"
+            },
+            {
+                "id": 43415,
+                "name": "La Rosa"
+            },
+            {
+                "id": 43416,
+                "name": "La Sarrosa"
+            },
+            {
+                "id": 43417,
+                "name": "La Trinidad"
+            },
+            {
+                "id": 43418,
+                "name": "Las Vegas"
+            },
+            {
+                "id": 43419,
+                "name": "Lomitas"
+            },
+            {
+                "id": 43420,
+                "name": "Mojimán"
+            },
+            {
+                "id": 43421,
+                "name": "Morazán"
+            },
+            {
+                "id": 43422,
+                "name": "Nombre de Jesús"
+            },
+            {
+                "id": 43423,
+                "name": "Nueva Esperanza"
+            },
+            {
+                "id": 43424,
+                "name": "Ocote Paulino"
+            },
+            {
+                "id": 43425,
+                "name": "Olanchito"
+            },
+            {
+                "id": 43426,
+                "name": "Paujiles"
+            },
+            {
+                "id": 43427,
+                "name": "Punta Ocote"
+            },
+            {
+                "id": 43428,
+                "name": "San Antonio"
+            },
+            {
+                "id": 43429,
+                "name": "San José"
+            },
+            {
+                "id": 43430,
+                "name": "Santa Rita"
+            },
+            {
+                "id": 43431,
+                "name": "Subirana"
+            },
+            {
+                "id": 43432,
+                "name": "Sulaco"
+            },
+            {
+                "id": 43433,
+                "name": "Teguajinal"
+            },
+            {
+                "id": 43434,
+                "name": "Tepusteca"
+            },
+            {
+                "id": 43435,
+                "name": "Toyós"
+            },
+            {
+                "id": 43436,
+                "name": "Trojas"
+            },
+            {
+                "id": 43437,
+                "name": "Victoria"
+            },
+            {
+                "id": 43438,
+                "name": "Yorito"
+            },
+            {
+                "id": 43439,
+                "name": "Yoro"
+            }
+        ]
+    }
+]

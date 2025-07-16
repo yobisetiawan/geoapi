@@ -1,0 +1,850 @@
+[
+    {
+        "id": 756,
+        "name": "Antofagasta Region",
+        "cities": [
+            {
+                "id": 17882,
+                "name": "Antofagasta"
+            },
+            {
+                "id": 17883,
+                "name": "Calama"
+            },
+            {
+                "id": 17884,
+                "name": "Provincia de Antofagasta"
+            },
+            {
+                "id": 17885,
+                "name": "Provincia de El Loa"
+            },
+            {
+                "id": 17886,
+                "name": "Provincia de Tocopilla"
+            },
+            {
+                "id": 17887,
+                "name": "San Pedro de Atacama"
+            },
+            {
+                "id": 17888,
+                "name": "Taltal"
+            },
+            {
+                "id": 17889,
+                "name": "Tocopilla"
+            }
+        ]
+    },
+    {
+        "id": 757,
+        "name": "Araucanía Region",
+        "cities": [
+            {
+                "id": 17890,
+                "name": "Angol"
+            },
+            {
+                "id": 17891,
+                "name": "Carahue"
+            },
+            {
+                "id": 17892,
+                "name": "Collipulli"
+            },
+            {
+                "id": 17893,
+                "name": "Freire"
+            },
+            {
+                "id": 17894,
+                "name": "Lautaro"
+            },
+            {
+                "id": 17895,
+                "name": "Loncoche"
+            },
+            {
+                "id": 17896,
+                "name": "Nueva Imperial"
+            },
+            {
+                "id": 17897,
+                "name": "Pitrufquén"
+            },
+            {
+                "id": 17898,
+                "name": "Provincia de Cautín"
+            },
+            {
+                "id": 17899,
+                "name": "Provincia de Malleco"
+            },
+            {
+                "id": 17900,
+                "name": "Pucón"
+            },
+            {
+                "id": 17901,
+                "name": "Temuco"
+            },
+            {
+                "id": 17902,
+                "name": "Traiguén"
+            },
+            {
+                "id": 17903,
+                "name": "Victoria"
+            },
+            {
+                "id": 17904,
+                "name": "Vilcún"
+            },
+            {
+                "id": 17905,
+                "name": "Villarrica"
+            }
+        ]
+    },
+    {
+        "id": 758,
+        "name": "Arica y Parinacota Region",
+        "cities": [
+            {
+                "id": 17906,
+                "name": "Arica"
+            },
+            {
+                "id": 17907,
+                "name": "Provincia de Arica"
+            },
+            {
+                "id": 17908,
+                "name": "Provincia de Parinacota"
+            }
+        ]
+    },
+    {
+        "id": 759,
+        "name": "Atacama Region",
+        "cities": [
+            {
+                "id": 17909,
+                "name": "Copiapó"
+            },
+            {
+                "id": 17910,
+                "name": "Diego de Almagro"
+            },
+            {
+                "id": 17911,
+                "name": "Provincia de Chañaral"
+            },
+            {
+                "id": 17912,
+                "name": "Provincia de Copiapó"
+            },
+            {
+                "id": 17913,
+                "name": "Provincia de Huasco"
+            },
+            {
+                "id": 17914,
+                "name": "Vallenar"
+            }
+        ]
+    },
+    {
+        "id": 760,
+        "name": "Aysén Region",
+        "cities": [
+            {
+                "id": 17915,
+                "name": "Chile Chico"
+            },
+            {
+                "id": 17916,
+                "name": "Cochrane"
+            },
+            {
+                "id": 17917,
+                "name": "Coyhaique"
+            },
+            {
+                "id": 17918,
+                "name": "La Junta"
+            },
+            {
+                "id": 17919,
+                "name": "Provincia Capitán Prat"
+            },
+            {
+                "id": 17920,
+                "name": "Provincia de Aisén"
+            },
+            {
+                "id": 17921,
+                "name": "Provincia de Coyhaique"
+            },
+            {
+                "id": 17922,
+                "name": "Provincia General Carrera"
+            },
+            {
+                "id": 17923,
+                "name": "Puerto Aysén"
+            },
+            {
+                "id": 17924,
+                "name": "Puerto Chacabuco"
+            },
+            {
+                "id": 17925,
+                "name": "Puerto Cisnes"
+            }
+        ]
+    },
+    {
+        "id": 761,
+        "name": "Bío Bío Region",
+        "cities": [
+            {
+                "id": 17926,
+                "name": "Arauco"
+            },
+            {
+                "id": 17927,
+                "name": "Cabrero"
+            },
+            {
+                "id": 17928,
+                "name": "Cañete"
+            },
+            {
+                "id": 17929,
+                "name": "Chiguayante"
+            },
+            {
+                "id": 17930,
+                "name": "Concepción"
+            },
+            {
+                "id": 17931,
+                "name": "Coronel"
+            },
+            {
+                "id": 17932,
+                "name": "Curanilahue"
+            },
+            {
+                "id": 17933,
+                "name": "Laja"
+            },
+            {
+                "id": 17934,
+                "name": "Lebu"
+            },
+            {
+                "id": 17935,
+                "name": "Los Ángeles"
+            },
+            {
+                "id": 17936,
+                "name": "Lota"
+            },
+            {
+                "id": 17937,
+                "name": "Mulchén"
+            },
+            {
+                "id": 17938,
+                "name": "Nacimiento"
+            },
+            {
+                "id": 17939,
+                "name": "Penco"
+            },
+            {
+                "id": 17940,
+                "name": "Provincia de Arauco"
+            },
+            {
+                "id": 17941,
+                "name": "Provincia de Biobío"
+            },
+            {
+                "id": 17942,
+                "name": "Provincia de Concepción"
+            },
+            {
+                "id": 17943,
+                "name": "Talcahuano"
+            },
+            {
+                "id": 17944,
+                "name": "Tomé"
+            },
+            {
+                "id": 17945,
+                "name": "Yumbel"
+            }
+        ]
+    },
+    {
+        "id": 762,
+        "name": "Coquimbo Region",
+        "cities": [
+            {
+                "id": 17946,
+                "name": "Coquimbo"
+            },
+            {
+                "id": 17947,
+                "name": "Illapel"
+            },
+            {
+                "id": 17948,
+                "name": "La Serena"
+            },
+            {
+                "id": 17949,
+                "name": "Monte Patria"
+            },
+            {
+                "id": 17950,
+                "name": "Ovalle"
+            },
+            {
+                "id": 17951,
+                "name": "Provincia de Choapa"
+            },
+            {
+                "id": 17952,
+                "name": "Provincia de Elqui"
+            },
+            {
+                "id": 17953,
+                "name": "Provincia de Limarí"
+            },
+            {
+                "id": 17954,
+                "name": "Salamanca"
+            },
+            {
+                "id": 17955,
+                "name": "Vicuña"
+            }
+        ]
+    },
+    {
+        "id": 763,
+        "name": "Los Lagos Region",
+        "cities": [
+            {
+                "id": 17956,
+                "name": "Ancud"
+            },
+            {
+                "id": 17957,
+                "name": "Calbuco"
+            },
+            {
+                "id": 17958,
+                "name": "Castro"
+            },
+            {
+                "id": 17959,
+                "name": "Chaitén"
+            },
+            {
+                "id": 17960,
+                "name": "Chonchi"
+            },
+            {
+                "id": 17961,
+                "name": "Dalcahue"
+            },
+            {
+                "id": 17962,
+                "name": "Futaleufú"
+            },
+            {
+                "id": 17963,
+                "name": "La Ensenada"
+            },
+            {
+                "id": 17964,
+                "name": "Osorno"
+            },
+            {
+                "id": 17965,
+                "name": "Palena"
+            },
+            {
+                "id": 17966,
+                "name": "Provincia de Chiloé"
+            },
+            {
+                "id": 17967,
+                "name": "Provincia de Llanquihue"
+            },
+            {
+                "id": 17968,
+                "name": "Provincia de Osorno"
+            },
+            {
+                "id": 17969,
+                "name": "Provincia de Palena"
+            },
+            {
+                "id": 17970,
+                "name": "Puerto Montt"
+            },
+            {
+                "id": 17971,
+                "name": "Puerto Varas"
+            },
+            {
+                "id": 17972,
+                "name": "Purranque"
+            },
+            {
+                "id": 17973,
+                "name": "Quellón"
+            }
+        ]
+    },
+    {
+        "id": 764,
+        "name": "Los Ríos Region",
+        "cities": [
+            {
+                "id": 17974,
+                "name": "Corral"
+            },
+            {
+                "id": 17975,
+                "name": "La Unión"
+            },
+            {
+                "id": 17976,
+                "name": "Las Animas"
+            },
+            {
+                "id": 17977,
+                "name": "Las Gaviotas"
+            },
+            {
+                "id": 17978,
+                "name": "Panguipulli"
+            },
+            {
+                "id": 17979,
+                "name": "Provincia de Valdivia"
+            },
+            {
+                "id": 17980,
+                "name": "Provincia del Ranco"
+            },
+            {
+                "id": 17981,
+                "name": "Puyehue"
+            },
+            {
+                "id": 17982,
+                "name": "Río Bueno"
+            },
+            {
+                "id": 17983,
+                "name": "Valdivia"
+            }
+        ]
+    },
+    {
+        "id": 765,
+        "name": "Magellan and the Chilean Antarctic Region",
+        "cities": [
+            {
+                "id": 17984,
+                "name": "Cámeron"
+            },
+            {
+                "id": 17985,
+                "name": "Porvenir"
+            },
+            {
+                "id": 17986,
+                "name": "Provincia Antártica Chilena"
+            },
+            {
+                "id": 17987,
+                "name": "Provincia de Magallanes"
+            },
+            {
+                "id": 17988,
+                "name": "Provincia de Tierra del Fuego"
+            },
+            {
+                "id": 17989,
+                "name": "Provincia de Última Esperanza"
+            },
+            {
+                "id": 17990,
+                "name": "Puerto Natales"
+            },
+            {
+                "id": 17991,
+                "name": "Punta Arenas"
+            }
+        ]
+    },
+    {
+        "id": 766,
+        "name": "Maule Region",
+        "cities": [
+            {
+                "id": 17992,
+                "name": "Cauquenes"
+            },
+            {
+                "id": 17993,
+                "name": "Colbún"
+            },
+            {
+                "id": 17994,
+                "name": "Constitución"
+            },
+            {
+                "id": 17995,
+                "name": "Curicó"
+            },
+            {
+                "id": 17996,
+                "name": "Linares"
+            },
+            {
+                "id": 17997,
+                "name": "Longaví"
+            },
+            {
+                "id": 17998,
+                "name": "Molina"
+            },
+            {
+                "id": 17999,
+                "name": "Parral"
+            },
+            {
+                "id": 18000,
+                "name": "Provincia de Cauquenes"
+            },
+            {
+                "id": 18001,
+                "name": "Provincia de Curicó"
+            },
+            {
+                "id": 18002,
+                "name": "Provincia de Linares"
+            },
+            {
+                "id": 18003,
+                "name": "Provincia de Talca"
+            },
+            {
+                "id": 18004,
+                "name": "Rauco"
+            },
+            {
+                "id": 18005,
+                "name": "San Clemente"
+            },
+            {
+                "id": 18006,
+                "name": "San Javier"
+            },
+            {
+                "id": 18007,
+                "name": "Talca"
+            },
+            {
+                "id": 18008,
+                "name": "Teno"
+            }
+        ]
+    },
+    {
+        "id": 767,
+        "name": "Ñuble Region",
+        "cities": [
+            {
+                "id": 18009,
+                "name": "Bulnes"
+            },
+            {
+                "id": 18010,
+                "name": "Chillán"
+            },
+            {
+                "id": 18011,
+                "name": "Coihueco"
+            },
+            {
+                "id": 18012,
+                "name": "Quirihue"
+            },
+            {
+                "id": 18013,
+                "name": "San Carlos"
+            }
+        ]
+    },
+    {
+        "id": 768,
+        "name": "O'Higgins",
+        "cities": [
+            {
+                "id": 18014,
+                "name": "Chimbarongo"
+            },
+            {
+                "id": 18015,
+                "name": "Graneros"
+            },
+            {
+                "id": 18016,
+                "name": "Machalí"
+            },
+            {
+                "id": 18017,
+                "name": "Provincia de Cachapoal"
+            },
+            {
+                "id": 18018,
+                "name": "Provincia de Cardenal Caro"
+            },
+            {
+                "id": 18019,
+                "name": "Provincia de Colchagua"
+            },
+            {
+                "id": 18020,
+                "name": "Rancagua"
+            },
+            {
+                "id": 18021,
+                "name": "Rengo"
+            },
+            {
+                "id": 18022,
+                "name": "San Vicente"
+            },
+            {
+                "id": 18023,
+                "name": "San Vicente de Tagua Tagua"
+            },
+            {
+                "id": 18024,
+                "name": "Santa Cruz"
+            }
+        ]
+    },
+    {
+        "id": 769,
+        "name": "Santiago Metropolitan Region",
+        "cities": [
+            {
+                "id": 18025,
+                "name": "Buin"
+            },
+            {
+                "id": 18026,
+                "name": "Chicureo Abajo"
+            },
+            {
+                "id": 18027,
+                "name": "El Monte"
+            },
+            {
+                "id": 18028,
+                "name": "La Pintana"
+            },
+            {
+                "id": 18029,
+                "name": "Lampa"
+            },
+            {
+                "id": 18030,
+                "name": "Lo Prado"
+            },
+            {
+                "id": 18031,
+                "name": "Melipilla"
+            },
+            {
+                "id": 18032,
+                "name": "Paine"
+            },
+            {
+                "id": 18033,
+                "name": "Peñaflor"
+            },
+            {
+                "id": 18034,
+                "name": "Provincia de Chacabuco"
+            },
+            {
+                "id": 18035,
+                "name": "Provincia de Cordillera"
+            },
+            {
+                "id": 18036,
+                "name": "Provincia de Maipo"
+            },
+            {
+                "id": 18037,
+                "name": "Provincia de Melipilla"
+            },
+            {
+                "id": 18038,
+                "name": "Provincia de Santiago"
+            },
+            {
+                "id": 18039,
+                "name": "Provincia de Talagante"
+            },
+            {
+                "id": 18040,
+                "name": "Puente Alto"
+            },
+            {
+                "id": 18041,
+                "name": "San Bernardo"
+            },
+            {
+                "id": 18042,
+                "name": "Santiago"
+            },
+            {
+                "id": 18043,
+                "name": "Talagante"
+            },
+            {
+                "id": 18044,
+                "name": "Villa Presidente Frei, Ñuñoa, Santiago, Chile"
+            }
+        ]
+    },
+    {
+        "id": 770,
+        "name": "Tarapacá Region",
+        "cities": [
+            {
+                "id": 18045,
+                "name": "Iquique"
+            },
+            {
+                "id": 18046,
+                "name": "Provincia de Iquique"
+            },
+            {
+                "id": 18047,
+                "name": "Provincia del Tamarugal"
+            }
+        ]
+    },
+    {
+        "id": 771,
+        "name": "Valparaíso",
+        "cities": [
+            {
+                "id": 18048,
+                "name": "Cartagena"
+            },
+            {
+                "id": 18049,
+                "name": "Hacienda La Calera"
+            },
+            {
+                "id": 18050,
+                "name": "Hanga Roa"
+            },
+            {
+                "id": 18051,
+                "name": "La Ligua"
+            },
+            {
+                "id": 18052,
+                "name": "Limache"
+            },
+            {
+                "id": 18053,
+                "name": "Llaillay"
+            },
+            {
+                "id": 18054,
+                "name": "Los Andes"
+            },
+            {
+                "id": 18055,
+                "name": "Petorca Province"
+            },
+            {
+                "id": 18056,
+                "name": "Provincia de Isla de Pascua"
+            },
+            {
+                "id": 18057,
+                "name": "Provincia de Los Andes"
+            },
+            {
+                "id": 18058,
+                "name": "Provincia de Marga Marga"
+            },
+            {
+                "id": 18059,
+                "name": "Provincia de Quillota"
+            },
+            {
+                "id": 18060,
+                "name": "Provincia de San Felipe de Aconcagua"
+            },
+            {
+                "id": 18061,
+                "name": "Provincia de Valparaíso"
+            },
+            {
+                "id": 18062,
+                "name": "Quillota"
+            },
+            {
+                "id": 18063,
+                "name": "Quilpué"
+            },
+            {
+                "id": 18064,
+                "name": "San Antonio"
+            },
+            {
+                "id": 18065,
+                "name": "San Antonio Province"
+            },
+            {
+                "id": 18066,
+                "name": "San Felipe"
+            },
+            {
+                "id": 18067,
+                "name": "Valparaíso"
+            },
+            {
+                "id": 18068,
+                "name": "Villa Alemana"
+            },
+            {
+                "id": 18069,
+                "name": "Viña del Mar"
+            }
+        ]
+    }
+]

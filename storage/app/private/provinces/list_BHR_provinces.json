@@ -1,0 +1,67 @@
+[
+    {
+        "id": 328,
+        "name": "Capital Governorate",
+        "cities": [
+            {
+                "id": 8537,
+                "name": "Jidd Ḩafş"
+            },
+            {
+                "id": 8538,
+                "name": "Manama"
+            },
+            {
+                "id": 8539,
+                "name": "Sitrah"
+            }
+        ]
+    },
+    {
+        "id": 329,
+        "name": "Central Governorate",
+        "cities": [
+            {
+                "id": 8540,
+                "name": "Madīnat Ḩamad"
+            }
+        ]
+    },
+    {
+        "id": 330,
+        "name": "Muharraq Governorate",
+        "cities": [
+            {
+                "id": 8541,
+                "name": "Al Ḩadd"
+            },
+            {
+                "id": 8542,
+                "name": "Al Muharraq"
+            }
+        ]
+    },
+    {
+        "id": 331,
+        "name": "Northern Governorate",
+        "cities": []
+    },
+    {
+        "id": 332,
+        "name": "Southern Governorate",
+        "cities": [
+            {
+                "id": 8543,
+                "name": "Ar Rifā‘"
+            },
+            {
+                "id": 8544,
+                "name": "Dār Kulayb"
+            },
+            {
+                "id": 8545,
+                "name": "Madīnat ‘Īsá"
+            }
+        ]
+    }
+]

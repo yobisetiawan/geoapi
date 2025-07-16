@@ -1,0 +1,109 @@
+[
+    {
+        "id": 3229,
+        "name": "Al Daayen",
+        "cities": []
+    },
+    {
+        "id": 3230,
+        "name": "Al Khor",
+        "cities": [
+            {
+                "id": 88197,
+                "name": "Al Ghuwayrīyah"
+            },
+            {
+                "id": 88198,
+                "name": "Al Khawr"
+            }
+        ]
+    },
+    {
+        "id": 3231,
+        "name": "Al Rayyan Municipality",
+        "cities": [
+            {
+                "id": 88199,
+                "name": "Ar Rayyān"
+            },
+            {
+                "id": 88200,
+                "name": "Umm Bāb"
+            }
+        ]
+    },
+    {
+        "id": 3232,
+        "name": "Al Wakrah",
+        "cities": [
+            {
+                "id": 88201,
+                "name": "Al Wakrah"
+            },
+            {
+                "id": 88202,
+                "name": "Al Wukayr"
+            },
+            {
+                "id": 88203,
+                "name": "Musay‘īd"
+            }
+        ]
+    },
+    {
+        "id": 3233,
+        "name": "Al-Shahaniya",
+        "cities": [
+            {
+                "id": 88204,
+                "name": "Al Jumaylīyah"
+            },
+            {
+                "id": 88205,
+                "name": "Ash Shīḩānīyah"
+            },
+            {
+                "id": 88206,
+                "name": "Dukhān"
+            }
+        ]
+    },
+    {
+        "id": 3234,
+        "name": "Doha",
+        "cities": [
+            {
+                "id": 88207,
+                "name": "Doha"
+            }
+        ]
+    },
+    {
+        "id": 3235,
+        "name": "Madinat ash Shamal",
+        "cities": [
+            {
+                "id": 88208,
+                "name": "Ar Ruways"
+            },
+            {
+                "id": 88209,
+                "name": "Fuwayriţ"
+            },
+            {
+                "id": 88210,
+                "name": "Madīnat ash Shamāl"
+            }
+        ]
+    },
+    {
+        "id": 3236,
+        "name": "Umm Salal Municipality",
+        "cities": [
+            {
+                "id": 88211,
+                "name": "Umm Şalāl Muḩammad"
+            }
+        ]
+    }
+]

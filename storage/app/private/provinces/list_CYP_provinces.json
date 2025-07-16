@@ -1,0 +1,418 @@
+[
+    {
+        "id": 955,
+        "name": "Famagusta District",
+        "cities": [
+            {
+                "id": 21680,
+                "name": "Acherítou"
+            },
+            {
+                "id": 21681,
+                "name": "Áchna"
+            },
+            {
+                "id": 21682,
+                "name": "Ammochostos Municipality"
+            },
+            {
+                "id": 21683,
+                "name": "Avgórou"
+            },
+            {
+                "id": 21684,
+                "name": "Ayia Napa"
+            },
+            {
+                "id": 21685,
+                "name": "Derýneia"
+            },
+            {
+                "id": 21686,
+                "name": "Famagusta"
+            },
+            {
+                "id": 21687,
+                "name": "Frénaros"
+            },
+            {
+                "id": 21688,
+                "name": "Lefkónoiko"
+            },
+            {
+                "id": 21689,
+                "name": "Leonárisso"
+            },
+            {
+                "id": 21690,
+                "name": "Liopétri"
+            },
+            {
+                "id": 21691,
+                "name": "Paralímni"
+            },
+            {
+                "id": 21692,
+                "name": "Protaras"
+            },
+            {
+                "id": 21693,
+                "name": "Rizokárpaso"
+            },
+            {
+                "id": 21694,
+                "name": "Tríkomo"
+            }
+        ]
+    },
+    {
+        "id": 956,
+        "name": "Kyrenia District",
+        "cities": [
+            {
+                "id": 21695,
+                "name": "Kyrenia"
+            },
+            {
+                "id": 21696,
+                "name": "Kyrenia Municipality"
+            },
+            {
+                "id": 21697,
+                "name": "Lápithos"
+            }
+        ]
+    },
+    {
+        "id": 957,
+        "name": "Larnaca District",
+        "cities": [
+            {
+                "id": 21698,
+                "name": "Ágios Týchon"
+            },
+            {
+                "id": 21699,
+                "name": "Aradíppou"
+            },
+            {
+                "id": 21700,
+                "name": "Athíenou"
+            },
+            {
+                "id": 21701,
+                "name": "Dhromolaxia"
+            },
+            {
+                "id": 21702,
+                "name": "Kíti"
+            },
+            {
+                "id": 21703,
+                "name": "Kofínou"
+            },
+            {
+                "id": 21704,
+                "name": "Kolossi"
+            },
+            {
+                "id": 21705,
+                "name": "Kórnos"
+            },
+            {
+                "id": 21706,
+                "name": "Larnaca"
+            },
+            {
+                "id": 21707,
+                "name": "Livádia"
+            },
+            {
+                "id": 21708,
+                "name": "Meneou"
+            },
+            {
+                "id": 21709,
+                "name": "Mosfilotí"
+            },
+            {
+                "id": 21710,
+                "name": "Pérgamos"
+            },
+            {
+                "id": 21711,
+                "name": "Perivólia"
+            },
+            {
+                "id": 21712,
+                "name": "Psevdás"
+            },
+            {
+                "id": 21713,
+                "name": "Pýla"
+            },
+            {
+                "id": 21714,
+                "name": "Tersefánou"
+            },
+            {
+                "id": 21715,
+                "name": "Troúlloi"
+            },
+            {
+                "id": 21716,
+                "name": "Voróklini"
+            },
+            {
+                "id": 21717,
+                "name": "Xylofágou"
+            },
+            {
+                "id": 21718,
+                "name": "Xylotymbou"
+            }
+        ]
+    },
+    {
+        "id": 958,
+        "name": "Limassol District",
+        "cities": [
+            {
+                "id": 21719,
+                "name": "Ágios Tomás"
+            },
+            {
+                "id": 21720,
+                "name": "Erími"
+            },
+            {
+                "id": 21721,
+                "name": "Germasógeia"
+            },
+            {
+                "id": 21722,
+                "name": "Kyperoúnta"
+            },
+            {
+                "id": 21723,
+                "name": "Lemesós"
+            },
+            {
+                "id": 21724,
+                "name": "Limassol"
+            },
+            {
+                "id": 21725,
+                "name": "Mouttagiáka"
+            },
+            {
+                "id": 21726,
+                "name": "Páchna"
+            },
+            {
+                "id": 21727,
+                "name": "Páno Polemídia"
+            },
+            {
+                "id": 21728,
+                "name": "Parekklisha"
+            },
+            {
+                "id": 21729,
+                "name": "Peléndri"
+            },
+            {
+                "id": 21730,
+                "name": "Pissoúri"
+            },
+            {
+                "id": 21731,
+                "name": "Pyrgos"
+            },
+            {
+                "id": 21732,
+                "name": "Sotíra"
+            },
+            {
+                "id": 21733,
+                "name": "Soúni-Zanakiá"
+            },
+            {
+                "id": 21734,
+                "name": "Ýpsonas"
+            }
+        ]
+    },
+    {
+        "id": 959,
+        "name": "Nicosia District",
+        "cities": [
+            {
+                "id": 21735,
+                "name": "Akáki"
+            },
+            {
+                "id": 21736,
+                "name": "Alámpra"
+            },
+            {
+                "id": 21737,
+                "name": "Aredioú"
+            },
+            {
+                "id": 21738,
+                "name": "Astromerítis"
+            },
+            {
+                "id": 21739,
+                "name": "Dáli"
+            },
+            {
+                "id": 21740,
+                "name": "Ergátes"
+            },
+            {
+                "id": 21741,
+                "name": "Géri"
+            },
+            {
+                "id": 21742,
+                "name": "Kakopetriá"
+            },
+            {
+                "id": 21743,
+                "name": "Káto Defterá"
+            },
+            {
+                "id": 21744,
+                "name": "Káto Pýrgos"
+            },
+            {
+                "id": 21745,
+                "name": "Klírou"
+            },
+            {
+                "id": 21746,
+                "name": "Kokkinotrimithiá"
+            },
+            {
+                "id": 21747,
+                "name": "Léfka"
+            },
+            {
+                "id": 21748,
+                "name": "Lýmpia"
+            },
+            {
+                "id": 21749,
+                "name": "Lythrodóntas"
+            },
+            {
+                "id": 21750,
+                "name": "Mámmari"
+            },
+            {
+                "id": 21751,
+                "name": "Méniko"
+            },
+            {
+                "id": 21752,
+                "name": "Mórfou"
+            },
+            {
+                "id": 21753,
+                "name": "Nicosia"
+            },
+            {
+                "id": 21754,
+                "name": "Nicosia Municipality"
+            },
+            {
+                "id": 21755,
+                "name": "Páno Defterá"
+            },
+            {
+                "id": 21756,
+                "name": "Péra"
+            },
+            {
+                "id": 21757,
+                "name": "Peristeróna"
+            },
+            {
+                "id": 21758,
+                "name": "Psimolofou"
+            },
+            {
+                "id": 21759,
+                "name": "Tséri"
+            }
+        ]
+    },
+    {
+        "id": 960,
+        "name": "Paphos District",
+        "cities": [
+            {
+                "id": 21760,
+                "name": "Argáka"
+            },
+            {
+                "id": 21761,
+                "name": "Chlórakas"
+            },
+            {
+                "id": 21762,
+                "name": "Emba"
+            },
+            {
+                "id": 21763,
+                "name": "Geroskipou"
+            },
+            {
+                "id": 21764,
+                "name": "Geroskípou (quarter)"
+            },
+            {
+                "id": 21765,
+                "name": "Geroskípou Municipality"
+            },
+            {
+                "id": 21766,
+                "name": "Kissonerga"
+            },
+            {
+                "id": 21767,
+                "name": "Koloni"
+            },
+            {
+                "id": 21768,
+                "name": "Konia"
+            },
+            {
+                "id": 21769,
+                "name": "Mesógi"
+            },
+            {
+                "id": 21770,
+                "name": "Paphos"
+            },
+            {
+                "id": 21771,
+                "name": "Pégeia"
+            },
+            {
+                "id": 21772,
+                "name": "Pólis"
+            },
+            {
+                "id": 21773,
+                "name": "Tála"
+            },
+            {
+                "id": 21774,
+                "name": "Tsáda"
+            }
+        ]
+    }
+]

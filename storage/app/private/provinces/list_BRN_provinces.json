@@ -1,0 +1,62 @@
+[
+    {
+        "id": 541,
+        "name": "Belait District",
+        "cities": [
+            {
+                "id": 15827,
+                "name": "Kuala Belait"
+            },
+            {
+                "id": 15828,
+                "name": "Seria"
+            }
+        ]
+    },
+    {
+        "id": 542,
+        "name": "Brunei-Muara District",
+        "cities": [
+            {
+                "id": 15829,
+                "name": "Bandar Seri Begawan"
+            },
+            {
+                "id": 15830,
+                "name": "Berakas A"
+            },
+            {
+                "id": 15831,
+                "name": "Kapok"
+            },
+            {
+                "id": 15832,
+                "name": "Mentiri"
+            },
+            {
+                "id": 15833,
+                "name": "Serasa"
+            }
+        ]
+    },
+    {
+        "id": 543,
+        "name": "Temburong District",
+        "cities": [
+            {
+                "id": 15834,
+                "name": "Bangar"
+            }
+        ]
+    },
+    {
+        "id": 544,
+        "name": "Tutong District",
+        "cities": [
+            {
+                "id": 15835,
+                "name": "Tutong"
+            }
+        ]
+    }
+]

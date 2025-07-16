@@ -1,0 +1,346 @@
+[
+    {
+        "id": 1570,
+        "name": "Capital Region",
+        "cities": [
+            {
+                "id": 44445,
+                "name": "Álftanes"
+            },
+            {
+                "id": 44446,
+                "name": "Garðabær"
+            },
+            {
+                "id": 44447,
+                "name": "Hafnarfjörður"
+            },
+            {
+                "id": 44448,
+                "name": "Kjósarhreppur"
+            },
+            {
+                "id": 44449,
+                "name": "Kópavogur"
+            },
+            {
+                "id": 44450,
+                "name": "Mosfellsbaer"
+            },
+            {
+                "id": 44451,
+                "name": "Mosfellsbær"
+            },
+            {
+                "id": 44452,
+                "name": "Reykjavík"
+            },
+            {
+                "id": 44453,
+                "name": "Seltjarnarnes"
+            }
+        ]
+    },
+    {
+        "id": 1571,
+        "name": "Eastern Region",
+        "cities": [
+            {
+                "id": 44454,
+                "name": "Borgarfjarðarhreppur"
+            },
+            {
+                "id": 44455,
+                "name": "Breiðdalshreppur"
+            },
+            {
+                "id": 44456,
+                "name": "Egilsstaðir"
+            },
+            {
+                "id": 44457,
+                "name": "Eskifjörður"
+            },
+            {
+                "id": 44458,
+                "name": "Fjarðabyggð"
+            },
+            {
+                "id": 44459,
+                "name": "Fljótsdalshérað"
+            },
+            {
+                "id": 44460,
+                "name": "Fljótsdalshreppur"
+            },
+            {
+                "id": 44461,
+                "name": "Höfn"
+            },
+            {
+                "id": 44462,
+                "name": "Neskaupstaður"
+            },
+            {
+                "id": 44463,
+                "name": "Reyðarfjörður"
+            }
+        ]
+    },
+    {
+        "id": 1572,
+        "name": "Northeastern Region",
+        "cities": [
+            {
+                "id": 44464,
+                "name": "Akureyri"
+            },
+            {
+                "id": 44465,
+                "name": "Dalvík"
+            },
+            {
+                "id": 44466,
+                "name": "Dalvíkurbyggð"
+            },
+            {
+                "id": 44467,
+                "name": "Eyjafjarðarsveit"
+            },
+            {
+                "id": 44468,
+                "name": "Fjallabyggð"
+            },
+            {
+                "id": 44469,
+                "name": "Grýtubakkahreppur"
+            },
+            {
+                "id": 44470,
+                "name": "Hörgársveit"
+            },
+            {
+                "id": 44471,
+                "name": "Húsavík"
+            },
+            {
+                "id": 44472,
+                "name": "Langanesbyggð"
+            },
+            {
+                "id": 44473,
+                "name": "Laugar"
+            },
+            {
+                "id": 44474,
+                "name": "Siglufjörður"
+            },
+            {
+                "id": 44475,
+                "name": "Skútustaðahreppur"
+            },
+            {
+                "id": 44476,
+                "name": "Svalbarðsstrandarhreppur"
+            },
+            {
+                "id": 44477,
+                "name": "Tjörneshreppur"
+            },
+            {
+                "id": 44478,
+                "name": "Þingeyjarsveit"
+            }
+        ]
+    },
+    {
+        "id": 1573,
+        "name": "Northwestern Region",
+        "cities": [
+            {
+                "id": 44479,
+                "name": "Akrahreppur"
+            },
+            {
+                "id": 44480,
+                "name": "Húnaþing Vestra"
+            },
+            {
+                "id": 44481,
+                "name": "Sauðárkrókur"
+            },
+            {
+                "id": 44482,
+                "name": "Skagabyggð"
+            },
+            {
+                "id": 44483,
+                "name": "Sveitarfélagið Skagafjörður"
+            }
+        ]
+    },
+    {
+        "id": 1574,
+        "name": "Southern Peninsula Region",
+        "cities": [
+            {
+                "id": 44484,
+                "name": "Garður"
+            },
+            {
+                "id": 44485,
+                "name": "Grindavík"
+            },
+            {
+                "id": 44486,
+                "name": "Keflavík"
+            },
+            {
+                "id": 44487,
+                "name": "Reykjanesbær"
+            },
+            {
+                "id": 44488,
+                "name": "Sandgerði"
+            },
+            {
+                "id": 44489,
+                "name": "Vogar"
+            }
+        ]
+    },
+    {
+        "id": 1575,
+        "name": "Southern Region",
+        "cities": [
+            {
+                "id": 44490,
+                "name": "Ásahreppur"
+            },
+            {
+                "id": 44491,
+                "name": "Bláskógabyggð"
+            },
+            {
+                "id": 44492,
+                "name": "Flóahreppur"
+            },
+            {
+                "id": 44493,
+                "name": "Grímsnes- og Grafningshreppur"
+            },
+            {
+                "id": 44494,
+                "name": "Hrunamannahreppur"
+            },
+            {
+                "id": 44495,
+                "name": "Hveragerði"
+            },
+            {
+                "id": 44496,
+                "name": "Mýrdalshreppur"
+            },
+            {
+                "id": 44497,
+                "name": "Selfoss"
+            },
+            {
+                "id": 44498,
+                "name": "Skaftárhreppur"
+            },
+            {
+                "id": 44499,
+                "name": "Skeiða- og Gnúpverjahreppur"
+            },
+            {
+                "id": 44500,
+                "name": "Vestmannaeyjabær"
+            },
+            {
+                "id": 44501,
+                "name": "Vestmannaeyjar"
+            },
+            {
+                "id": 44502,
+                "name": "Þorlákshöfn"
+            }
+        ]
+    },
+    {
+        "id": 1576,
+        "name": "Western Region",
+        "cities": [
+            {
+                "id": 44503,
+                "name": "Akranes"
+            },
+            {
+                "id": 44504,
+                "name": "Borgarbyggð"
+            },
+            {
+                "id": 44505,
+                "name": "Borgarnes"
+            },
+            {
+                "id": 44506,
+                "name": "Dalabyggð"
+            },
+            {
+                "id": 44507,
+                "name": "Eyja- og Miklaholtshreppur"
+            },
+            {
+                "id": 44508,
+                "name": "Helgafellssveit"
+            },
+            {
+                "id": 44509,
+                "name": "Hvalfjarðarsveit"
+            },
+            {
+                "id": 44510,
+                "name": "Ólafsvík"
+            },
+            {
+                "id": 44511,
+                "name": "Skorradalshreppur"
+            },
+            {
+                "id": 44512,
+                "name": "Snæfellsbær"
+            },
+            {
+                "id": 44513,
+                "name": "Stykkishólmur"
+            }
+        ]
+    },
+    {
+        "id": 1577,
+        "name": "Westfjords",
+        "cities": [
+            {
+                "id": 44514,
+                "name": "Ísafjarðarbær"
+            },
+            {
+                "id": 44515,
+                "name": "Ísafjörður"
+            },
+            {
+                "id": 44516,
+                "name": "Reykhólahreppur"
+            },
+            {
+                "id": 44517,
+                "name": "Strandabyggð"
+            },
+            {
+                "id": 44518,
+                "name": "Tálknafjarðarhreppur"
+            }
+        ]
+    }
+]

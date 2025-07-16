@@ -1,0 +1,281 @@
+[
+    {
+        "id": 3737,
+        "name": "Awdal Region",
+        "cities": []
+    },
+    {
+        "id": 3738,
+        "name": "Bakool",
+        "cities": [
+            {
+                "id": 102924,
+                "name": "Tayeeglow"
+            },
+            {
+                "id": 102925,
+                "name": "Waajid"
+            },
+            {
+                "id": 102926,
+                "name": "Xuddur"
+            },
+            {
+                "id": 102927,
+                "name": "Yeed"
+            }
+        ]
+    },
+    {
+        "id": 3739,
+        "name": "Banaadir",
+        "cities": [
+            {
+                "id": 102928,
+                "name": "Mogadishu"
+            }
+        ]
+    },
+    {
+        "id": 3740,
+        "name": "Bari",
+        "cities": [
+            {
+                "id": 102929,
+                "name": "Bandarbeyla"
+            },
+            {
+                "id": 102930,
+                "name": "Bargaal"
+            },
+            {
+                "id": 102931,
+                "name": "Bereeda"
+            },
+            {
+                "id": 102932,
+                "name": "Bosaso"
+            },
+            {
+                "id": 102933,
+                "name": "Caluula"
+            },
+            {
+                "id": 102934,
+                "name": "Iskushuban"
+            },
+            {
+                "id": 102935,
+                "name": "Qandala"
+            }
+        ]
+    },
+    {
+        "id": 3741,
+        "name": "Bay",
+        "cities": [
+            {
+                "id": 102936,
+                "name": "Baidoa"
+            },
+            {
+                "id": 102937,
+                "name": "Buurhakaba"
+            }
+        ]
+    },
+    {
+        "id": 3742,
+        "name": "Galguduud",
+        "cities": [
+            {
+                "id": 102938,
+                "name": "Ceelbuur"
+            },
+            {
+                "id": 102939,
+                "name": "Ceeldheer"
+            },
+            {
+                "id": 102940,
+                "name": "Dhuusamarreeb"
+            }
+        ]
+    },
+    {
+        "id": 3743,
+        "name": "Gedo",
+        "cities": [
+            {
+                "id": 102941,
+                "name": "Baardheere"
+            },
+            {
+                "id": 102942,
+                "name": "Garbahaarrey"
+            },
+            {
+                "id": 102943,
+                "name": "Luuq"
+            }
+        ]
+    },
+    {
+        "id": 3744,
+        "name": "Hiran",
+        "cities": [
+            {
+                "id": 102944,
+                "name": "Beledweyne"
+            },
+            {
+                "id": 102945,
+                "name": "Buulobarde"
+            },
+            {
+                "id": 102946,
+                "name": "Jalalaqsi"
+            }
+        ]
+    },
+    {
+        "id": 3745,
+        "name": "Lower Juba",
+        "cities": [
+            {
+                "id": 102947,
+                "name": "Buur Gaabo"
+            },
+            {
+                "id": 102948,
+                "name": "Jamaame"
+            },
+            {
+                "id": 102949,
+                "name": "Kismayo"
+            }
+        ]
+    },
+    {
+        "id": 3746,
+        "name": "Lower Shebelle",
+        "cities": [
+            {
+                "id": 102950,
+                "name": "Afgooye"
+            },
+            {
+                "id": 102951,
+                "name": "Marka"
+            },
+            {
+                "id": 102952,
+                "name": "Qoryooley"
+            },
+            {
+                "id": 102953,
+                "name": "Wanlaweyn"
+            }
+        ]
+    },
+    {
+        "id": 3747,
+        "name": "Middle Juba",
+        "cities": [
+            {
+                "id": 102954,
+                "name": "Dujuuma"
+            },
+            {
+                "id": 102955,
+                "name": "Jilib"
+            },
+            {
+                "id": 102956,
+                "name": "Saacow"
+            }
+        ]
+    },
+    {
+        "id": 3748,
+        "name": "Middle Shebelle",
+        "cities": [
+            {
+                "id": 102957,
+                "name": "Cadale"
+            },
+            {
+                "id": 102958,
+                "name": "Jawhar"
+            },
+            {
+                "id": 102959,
+                "name": "Mahaddayweyne"
+            }
+        ]
+    },
+    {
+        "id": 3749,
+        "name": "Mudug",
+        "cities": [
+            {
+                "id": 102960,
+                "name": "Gaalkacyo"
+            },
+            {
+                "id": 102961,
+                "name": "Hobyo"
+            },
+            {
+                "id": 102962,
+                "name": "Xarardheere"
+            }
+        ]
+    },
+    {
+        "id": 3750,
+        "name": "Nugal",
+        "cities": [
+            {
+                "id": 102963,
+                "name": "Eyl"
+            },
+            {
+                "id": 102964,
+                "name": "Garoowe"
+            }
+        ]
+    },
+    {
+        "id": 3751,
+        "name": "Sanaag Region",
+        "cities": [
+            {
+                "id": 102965,
+                "name": "Ceerigaabo"
+            },
+            {
+                "id": 102966,
+                "name": "Las Khorey"
+            }
+        ]
+    },
+    {
+        "id": 3752,
+        "name": "Togdheer Region",
+        "cities": [
+            {
+                "id": 102967,
+                "name": "Burao"
+            },
+            {
+                "id": 102968,
+                "name": "Ceek"
+            },
+            {
+                "id": 102969,
+                "name": "Oodweyne"
+            }
+        ]
+    }
+]

@@ -1,0 +1,284 @@
+[
+    {
+        "id": 716,
+        "name": "Bamingui-Bangoran Prefecture",
+        "cities": [
+            {
+                "id": 17796,
+                "name": "Bamingui"
+            },
+            {
+                "id": 17797,
+                "name": "Ndélé"
+            }
+        ]
+    },
+    {
+        "id": 717,
+        "name": "Bangui",
+        "cities": [
+            {
+                "id": 17798,
+                "name": "Bangui"
+            }
+        ]
+    },
+    {
+        "id": 718,
+        "name": "Basse-Kotto Prefecture",
+        "cities": [
+            {
+                "id": 17799,
+                "name": "Alindao"
+            },
+            {
+                "id": 17800,
+                "name": "Kembé"
+            },
+            {
+                "id": 17801,
+                "name": "Mobaye"
+            }
+        ]
+    },
+    {
+        "id": 719,
+        "name": "Haut-Mbomou Prefecture",
+        "cities": [
+            {
+                "id": 17802,
+                "name": "Obo"
+            },
+            {
+                "id": 17803,
+                "name": "Zemio"
+            }
+        ]
+    },
+    {
+        "id": 720,
+        "name": "Haute-Kotto Prefecture",
+        "cities": [
+            {
+                "id": 17804,
+                "name": "Bria"
+            },
+            {
+                "id": 17805,
+                "name": "Ouadda"
+            }
+        ]
+    },
+    {
+        "id": 721,
+        "name": "Kémo Prefecture",
+        "cities": [
+            {
+                "id": 17806,
+                "name": "Sibut"
+            }
+        ]
+    },
+    {
+        "id": 722,
+        "name": "Lobaye Prefecture",
+        "cities": [
+            {
+                "id": 17807,
+                "name": "Boda"
+            },
+            {
+                "id": 17808,
+                "name": "Boganangone"
+            },
+            {
+                "id": 17809,
+                "name": "Mbaiki"
+            },
+            {
+                "id": 17810,
+                "name": "Mbaïki"
+            },
+            {
+                "id": 17811,
+                "name": "Mongoumba"
+            }
+        ]
+    },
+    {
+        "id": 723,
+        "name": "Mambéré-Kadéï",
+        "cities": [
+            {
+                "id": 17812,
+                "name": "Berberati"
+            },
+            {
+                "id": 17813,
+                "name": "Berbérati"
+            },
+            {
+                "id": 17814,
+                "name": "Carnot"
+            },
+            {
+                "id": 17815,
+                "name": "Gamboula"
+            }
+        ]
+    },
+    {
+        "id": 724,
+        "name": "Mbomou Prefecture",
+        "cities": [
+            {
+                "id": 17816,
+                "name": "Bangassou"
+            },
+            {
+                "id": 17817,
+                "name": "Gambo"
+            },
+            {
+                "id": 17818,
+                "name": "Ouango"
+            },
+            {
+                "id": 17819,
+                "name": "Rafai"
+            }
+        ]
+    },
+    {
+        "id": 725,
+        "name": "Nana-Grébizi Economic Prefecture",
+        "cities": [
+            {
+                "id": 17820,
+                "name": "Kaga Bandoro"
+            },
+            {
+                "id": 17821,
+                "name": "Kaga-Bandoro"
+            }
+        ]
+    },
+    {
+        "id": 726,
+        "name": "Nana-Mambéré Prefecture",
+        "cities": [
+            {
+                "id": 17822,
+                "name": "Baoro"
+            },
+            {
+                "id": 17823,
+                "name": "Bouar"
+            }
+        ]
+    },
+    {
+        "id": 727,
+        "name": "Ombella-M'Poko Prefecture",
+        "cities": [
+            {
+                "id": 17824,
+                "name": "Bimbo"
+            },
+            {
+                "id": 17825,
+                "name": "Boali"
+            },
+            {
+                "id": 17826,
+                "name": "Damara"
+            }
+        ]
+    },
+    {
+        "id": 728,
+        "name": "Ouaka Prefecture",
+        "cities": [
+            {
+                "id": 17827,
+                "name": "Bambari"
+            },
+            {
+                "id": 17828,
+                "name": "Grimari"
+            },
+            {
+                "id": 17829,
+                "name": "Ippy"
+            },
+            {
+                "id": 17830,
+                "name": "Kouango"
+            }
+        ]
+    },
+    {
+        "id": 729,
+        "name": "Ouham Prefecture",
+        "cities": [
+            {
+                "id": 17831,
+                "name": "Batangafo"
+            },
+            {
+                "id": 17832,
+                "name": "Bossangoa"
+            },
+            {
+                "id": 17833,
+                "name": "Bouca"
+            },
+            {
+                "id": 17834,
+                "name": "Kabo"
+            }
+        ]
+    },
+    {
+        "id": 730,
+        "name": "Ouham-Pendé Prefecture",
+        "cities": [
+            {
+                "id": 17835,
+                "name": "Bocaranga"
+            },
+            {
+                "id": 17836,
+                "name": "Bozoum"
+            },
+            {
+                "id": 17837,
+                "name": "Paoua"
+            }
+        ]
+    },
+    {
+        "id": 731,
+        "name": "Sangha-Mbaéré",
+        "cities": [
+            {
+                "id": 17838,
+                "name": "Nola"
+            }
+        ]
+    },
+    {
+        "id": 732,
+        "name": "Vakaga Prefecture",
+        "cities": [
+            {
+                "id": 17839,
+                "name": "Birao"
+            },
+            {
+                "id": 17840,
+                "name": "Ouanda-Djallé"
+            }
+        ]
+    }
+]

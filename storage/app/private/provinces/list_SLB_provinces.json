@@ -1,0 +1,87 @@
+[
+    {
+        "id": 3727,
+        "name": "Central Province",
+        "cities": [
+            {
+                "id": 102917,
+                "name": "Tulagi"
+            }
+        ]
+    },
+    {
+        "id": 3728,
+        "name": "Choiseul Province",
+        "cities": []
+    },
+    {
+        "id": 3729,
+        "name": "Guadalcanal Province",
+        "cities": [
+            {
+                "id": 102918,
+                "name": "Honiara"
+            }
+        ]
+    },
+    {
+        "id": 3730,
+        "name": "Honiara",
+        "cities": []
+    },
+    {
+        "id": 3731,
+        "name": "Isabel Province",
+        "cities": [
+            {
+                "id": 102919,
+                "name": "Buala"
+            }
+        ]
+    },
+    {
+        "id": 3732,
+        "name": "Makira-Ulawa Province",
+        "cities": [
+            {
+                "id": 102920,
+                "name": "Kirakira"
+            }
+        ]
+    },
+    {
+        "id": 3733,
+        "name": "Malaita Province",
+        "cities": [
+            {
+                "id": 102921,
+                "name": "Auki"
+            }
+        ]
+    },
+    {
+        "id": 3734,
+        "name": "Rennell and Bellona Province",
+        "cities": []
+    },
+    {
+        "id": 3735,
+        "name": "Temotu Province",
+        "cities": [
+            {
+                "id": 102922,
+                "name": "Lata"
+            }
+        ]
+    },
+    {
+        "id": 3736,
+        "name": "Western Province",
+        "cities": [
+            {
+                "id": 102923,
+                "name": "Gizo"
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "id": 2038,
+        "name": "Đakovica District (Gjakove)",
+        "cities": []
+    },
+    {
+        "id": 2039,
+        "name": "Gjilan District",
+        "cities": []
+    },
+    {
+        "id": 2040,
+        "name": "Kosovska Mitrovica District",
+        "cities": []
+    },
+    {
+        "id": 2041,
+        "name": "Peć District",
+        "cities": []
+    },
+    {
+        "id": 2042,
+        "name": "Pristina (Priştine)",
+        "cities": []
+    },
+    {
+        "id": 2043,
+        "name": "Prizren District",
+        "cities": []
+    },
+    {
+        "id": 2044,
+        "name": "Uroševac District (Ferizaj)",
+        "cities": []
+    }
+]

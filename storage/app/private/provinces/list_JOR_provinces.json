@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1924,
+        "name": "Ajloun Governorate",
+        "cities": [
+            {
+                "id": 62822,
+                "name": "‘Ajlūn"
+            },
+            {
+                "id": 62823,
+                "name": "‘Anjarah"
+            },
+            {
+                "id": 62824,
+                "name": "‘Ayn Jannah"
+            },
+            {
+                "id": 62825,
+                "name": "Ḩalāwah"
+            },
+            {
+                "id": 62826,
+                "name": "Şakhrah"
+            }
+        ]
+    },
+    {
+        "id": 1925,
+        "name": "Amman Governorate",
+        "cities": [
+            {
+                "id": 62827,
+                "name": "Al Jīzah"
+            },
+            {
+                "id": 62828,
+                "name": "Al Jubayhah"
+            },
+            {
+                "id": 62829,
+                "name": "Amman"
+            },
+            {
+                "id": 62830,
+                "name": "Ḩayy al Bunayyāt"
+            },
+            {
+                "id": 62831,
+                "name": "Ḩayy al Quwaysimah"
+            },
+            {
+                "id": 62832,
+                "name": "Jāwā"
+            },
+            {
+                "id": 62833,
+                "name": "Saḩāb"
+            },
+            {
+                "id": 62834,
+                "name": "Umm as Summāq"
+            },
+            {
+                "id": 62835,
+                "name": "Wādī as Sīr"
+            }
+        ]
+    },
+    {
+        "id": 1926,
+        "name": "Aqaba Governorate",
+        "cities": [
+            {
+                "id": 62836,
+                "name": "Aqaba"
+            },
+            {
+                "id": 62837,
+                "name": "Tala Bay"
+            }
+        ]
+    },
+    {
+        "id": 1927,
+        "name": "Balqa Governorate",
+        "cities": [
+            {
+                "id": 62838,
+                "name": "Al Karāmah"
+            },
+            {
+                "id": 62839,
+                "name": "As Salţ"
+            },
+            {
+                "id": 62840,
+                "name": "Yarqā"
+            }
+        ]
+    },
+    {
+        "id": 1928,
+        "name": "Irbid Governorate",
+        "cities": [
+            {
+                "id": 62841,
+                "name": "Ar Ramthā"
+            },
+            {
+                "id": 62842,
+                "name": "Ash Shajarah"
+            },
+            {
+                "id": 62843,
+                "name": "Aţ Ţayyibah"
+            },
+            {
+                "id": 62844,
+                "name": "Aţ Ţurrah"
+            },
+            {
+                "id": 62845,
+                "name": "Aydūn"
+            },
+            {
+                "id": 62846,
+                "name": "Bayt Īdis"
+            },
+            {
+                "id": 62847,
+                "name": "Bayt Yāfā"
+            },
+            {
+                "id": 62848,
+                "name": "Dayr Yūsuf"
+            },
+            {
+                "id": 62849,
+                "name": "Ḩakamā"
+            },
+            {
+                "id": 62850,
+                "name": "Ḩātim"
+            },
+            {
+                "id": 62851,
+                "name": "Irbid"
+            },
+            {
+                "id": 62852,
+                "name": "Judita"
+            },
+            {
+                "id": 62853,
+                "name": "Kafr Abīl"
+            },
+            {
+                "id": 62854,
+                "name": "Kafr Asad"
+            },
+            {
+                "id": 62855,
+                "name": "Kafr Sawm"
+            },
+            {
+                "id": 62856,
+                "name": "Kharjā"
+            },
+            {
+                "id": 62857,
+                "name": "Kitim"
+            },
+            {
+                "id": 62858,
+                "name": "Kurayyimah"
+            },
+            {
+                "id": 62859,
+                "name": "Malkā"
+            },
+            {
+                "id": 62860,
+                "name": "Qumaym"
+            },
+            {
+                "id": 62861,
+                "name": "Saḩam al Kaffārāt"
+            },
+            {
+                "id": 62862,
+                "name": "Sāl"
+            },
+            {
+                "id": 62863,
+                "name": "Şammā"
+            },
+            {
+                "id": 62864,
+                "name": "Tibnah"
+            },
+            {
+                "id": 62865,
+                "name": "Umm Qays"
+            },
+            {
+                "id": 62866,
+                "name": "Waqqāş"
+            },
+            {
+                "id": 62867,
+                "name": "Zaḩar"
+            }
+        ]
+    },
+    {
+        "id": 1929,
+        "name": "Jerash Governorate",
+        "cities": [
+            {
+                "id": 62868,
+                "name": "Al Kittah"
+            },
+            {
+                "id": 62869,
+                "name": "Balīlā"
+            },
+            {
+                "id": 62870,
+                "name": "Burmā"
+            },
+            {
+                "id": 62871,
+                "name": "Jarash"
+            },
+            {
+                "id": 62872,
+                "name": "Qafqafā"
+            },
+            {
+                "id": 62873,
+                "name": "Raymūn"
+            },
+            {
+                "id": 62874,
+                "name": "Sakib"
+            },
+            {
+                "id": 62875,
+                "name": "Sūf"
+            }
+        ]
+    },
+    {
+        "id": 1930,
+        "name": "Karak Governorate",
+        "cities": [
+            {
+                "id": 62876,
+                "name": "‘Ayy"
+            },
+            {
+                "id": 62877,
+                "name": "‘Izrā"
+            },
+            {
+                "id": 62878,
+                "name": "Adir"
+            },
+            {
+                "id": 62879,
+                "name": "Al Khinzīrah"
+            },
+            {
+                "id": 62880,
+                "name": "Al Mazār al Janūbī"
+            },
+            {
+                "id": 62881,
+                "name": "Al Qaşr"
+            },
+            {
+                "id": 62882,
+                "name": "Ar Rabbah"
+            },
+            {
+                "id": 62883,
+                "name": "Karak City"
+            },
+            {
+                "id": 62884,
+                "name": "Safi"
+            }
+        ]
+    },
+    {
+        "id": 1931,
+        "name": "Ma'an Governorate",
+        "cities": [
+            {
+                "id": 62885,
+                "name": "Al Jafr"
+            },
+            {
+                "id": 62886,
+                "name": "Al Quwayrah"
+            },
+            {
+                "id": 62887,
+                "name": "Ash Shawbak"
+            },
+            {
+                "id": 62888,
+                "name": "Aţ Ţayyibah"
+            },
+            {
+                "id": 62889,
+                "name": "Ma'an"
+            },
+            {
+                "id": 62890,
+                "name": "Petra"
+            },
+            {
+                "id": 62891,
+                "name": "Qīr Moāv"
+            }
+        ]
+    },
+    {
+        "id": 1932,
+        "name": "Madaba Governorate",
+        "cities": [
+            {
+                "id": 62892,
+                "name": "Mādabā"
+            }
+        ]
+    },
+    {
+        "id": 1933,
+        "name": "Mafraq Governorate",
+        "cities": [
+            {
+                "id": 62893,
+                "name": "Al Ḩamrā’"
+            },
+            {
+                "id": 62894,
+                "name": "Mafraq"
+            },
+            {
+                "id": 62895,
+                "name": "Rehab"
+            },
+            {
+                "id": 62896,
+                "name": "Rukban"
+            },
+            {
+                "id": 62897,
+                "name": "Şabḩā"
+            },
+            {
+                "id": 62898,
+                "name": "Umm al Qiţţayn"
+            }
+        ]
+    },
+    {
+        "id": 1934,
+        "name": "Tafilah Governorate",
+        "cities": [
+            {
+                "id": 62899,
+                "name": "Aţ Ţafīlah"
+            },
+            {
+                "id": 62900,
+                "name": "Buşayrā"
+            }
+        ]
+    },
+    {
+        "id": 1935,
+        "name": "Zarqa Governorate",
+        "cities": [
+            {
+                "id": 62901,
+                "name": "Al Azraq ash Shamālī"
+            },
+            {
+                "id": 62902,
+                "name": "Russeifa"
+            },
+            {
+                "id": 62903,
+                "name": "Zarqa"
+            }
+        ]
+    }
+]

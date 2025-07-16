@@ -1,0 +1,596 @@
+[
+    {
+        "id": 1132,
+        "name": "Azuay Province",
+        "cities": [
+            {
+                "id": 23845,
+                "name": "Cantón San Fernando"
+            },
+            {
+                "id": 23846,
+                "name": "Cuenca"
+            },
+            {
+                "id": 23847,
+                "name": "Gualaceo"
+            },
+            {
+                "id": 23848,
+                "name": "La Unión"
+            },
+            {
+                "id": 23849,
+                "name": "Llacao"
+            },
+            {
+                "id": 23850,
+                "name": "Nulti"
+            }
+        ]
+    },
+    {
+        "id": 1133,
+        "name": "Bolívar Province",
+        "cities": [
+            {
+                "id": 23851,
+                "name": "Guaranda"
+            },
+            {
+                "id": 23852,
+                "name": "San Miguel"
+            }
+        ]
+    },
+    {
+        "id": 1134,
+        "name": "Cañar Province",
+        "cities": [
+            {
+                "id": 23853,
+                "name": "Azogues"
+            },
+            {
+                "id": 23854,
+                "name": "Cañar"
+            },
+            {
+                "id": 23855,
+                "name": "La Troncal"
+            }
+        ]
+    },
+    {
+        "id": 1135,
+        "name": "Carchi Province",
+        "cities": [
+            {
+                "id": 23856,
+                "name": "El Ángel"
+            },
+            {
+                "id": 23857,
+                "name": "San Gabriel"
+            },
+            {
+                "id": 23858,
+                "name": "Tulcán"
+            }
+        ]
+    },
+    {
+        "id": 1136,
+        "name": "Chimborazo Province",
+        "cities": [
+            {
+                "id": 23859,
+                "name": "Alausí"
+            },
+            {
+                "id": 23860,
+                "name": "Guano"
+            },
+            {
+                "id": 23861,
+                "name": "Riobamba"
+            }
+        ]
+    },
+    {
+        "id": 1137,
+        "name": "Cotopaxi Province",
+        "cities": [
+            {
+                "id": 23862,
+                "name": "La Maná"
+            },
+            {
+                "id": 23863,
+                "name": "Latacunga"
+            },
+            {
+                "id": 23864,
+                "name": "Pujilí"
+            },
+            {
+                "id": 23865,
+                "name": "San Miguel de Salcedo"
+            },
+            {
+                "id": 23866,
+                "name": "Saquisilí"
+            }
+        ]
+    },
+    {
+        "id": 1138,
+        "name": "El Oro Province",
+        "cities": [
+            {
+                "id": 23867,
+                "name": "Huaquillas"
+            },
+            {
+                "id": 23868,
+                "name": "Machala"
+            },
+            {
+                "id": 23869,
+                "name": "Pasaje"
+            },
+            {
+                "id": 23870,
+                "name": "Piñas"
+            },
+            {
+                "id": 23871,
+                "name": "Portovelo"
+            },
+            {
+                "id": 23872,
+                "name": "Puerto Bolívar"
+            },
+            {
+                "id": 23873,
+                "name": "Santa Rosa"
+            },
+            {
+                "id": 23874,
+                "name": "Zaruma"
+            }
+        ]
+    },
+    {
+        "id": 1139,
+        "name": "Esmeraldas",
+        "cities": [
+            {
+                "id": 23875,
+                "name": "Esmeraldas"
+            },
+            {
+                "id": 23876,
+                "name": "Muisne"
+            },
+            {
+                "id": 23877,
+                "name": "Pampanal de Bolívar"
+            },
+            {
+                "id": 23878,
+                "name": "Rio Verde"
+            },
+            {
+                "id": 23879,
+                "name": "Rosa Zarate"
+            },
+            {
+                "id": 23880,
+                "name": "San Lorenzo de Esmeraldas"
+            },
+            {
+                "id": 23881,
+                "name": "Valdez"
+            }
+        ]
+    },
+    {
+        "id": 1140,
+        "name": "Galápagos Province",
+        "cities": [
+            {
+                "id": 23882,
+                "name": "Puerto Ayora"
+            },
+            {
+                "id": 23883,
+                "name": "Puerto Baquerizo Moreno"
+            },
+            {
+                "id": 23884,
+                "name": "Puerto Villamil"
+            }
+        ]
+    },
+    {
+        "id": 1141,
+        "name": "Guayas Province",
+        "cities": [
+            {
+                "id": 23885,
+                "name": "Alfredo Baquerizo Moreno"
+            },
+            {
+                "id": 23886,
+                "name": "Baláo"
+            },
+            {
+                "id": 23887,
+                "name": "Balzar"
+            },
+            {
+                "id": 23888,
+                "name": "Colimes"
+            },
+            {
+                "id": 23889,
+                "name": "Coronel Marcelino Maridueña"
+            },
+            {
+                "id": 23890,
+                "name": "El Triunfo"
+            },
+            {
+                "id": 23891,
+                "name": "Eloy Alfaro"
+            },
+            {
+                "id": 23892,
+                "name": "Guayaquil"
+            },
+            {
+                "id": 23893,
+                "name": "La Libertad"
+            },
+            {
+                "id": 23894,
+                "name": "Lomas de Sargentillo"
+            },
+            {
+                "id": 23895,
+                "name": "Milagro"
+            },
+            {
+                "id": 23896,
+                "name": "Naranjal"
+            },
+            {
+                "id": 23897,
+                "name": "Naranjito"
+            },
+            {
+                "id": 23898,
+                "name": "Palestina"
+            },
+            {
+                "id": 23899,
+                "name": "Pedro Carbo"
+            },
+            {
+                "id": 23900,
+                "name": "Playas"
+            },
+            {
+                "id": 23901,
+                "name": "Samborondón"
+            },
+            {
+                "id": 23902,
+                "name": "Santa Lucía"
+            },
+            {
+                "id": 23903,
+                "name": "Velasco Ibarra"
+            },
+            {
+                "id": 23904,
+                "name": "Yaguachi Nuevo"
+            }
+        ]
+    },
+    {
+        "id": 1142,
+        "name": "Imbabura Province",
+        "cities": [
+            {
+                "id": 23905,
+                "name": "Atuntaqui"
+            },
+            {
+                "id": 23906,
+                "name": "Cotacachi"
+            },
+            {
+                "id": 23907,
+                "name": "Ibarra"
+            },
+            {
+                "id": 23908,
+                "name": "Otavalo"
+            },
+            {
+                "id": 23909,
+                "name": "Pimampiro"
+            }
+        ]
+    },
+    {
+        "id": 1143,
+        "name": "Los Ríos Province",
+        "cities": [
+            {
+                "id": 23910,
+                "name": "Babahoyo"
+            },
+            {
+                "id": 23911,
+                "name": "Catarama"
+            },
+            {
+                "id": 23912,
+                "name": "Montalvo"
+            },
+            {
+                "id": 23913,
+                "name": "Palenque"
+            },
+            {
+                "id": 23914,
+                "name": "Quevedo"
+            },
+            {
+                "id": 23915,
+                "name": "Ventanas"
+            },
+            {
+                "id": 23916,
+                "name": "Vinces"
+            }
+        ]
+    },
+    {
+        "id": 1144,
+        "name": "Manabí Province",
+        "cities": [
+            {
+                "id": 23917,
+                "name": "Bahía de Caráquez"
+            },
+            {
+                "id": 23918,
+                "name": "Calceta"
+            },
+            {
+                "id": 23919,
+                "name": "Cantón Portoviejo"
+            },
+            {
+                "id": 23920,
+                "name": "Chone"
+            },
+            {
+                "id": 23921,
+                "name": "Jipijapa"
+            },
+            {
+                "id": 23922,
+                "name": "Junín"
+            },
+            {
+                "id": 23923,
+                "name": "Manta"
+            },
+            {
+                "id": 23924,
+                "name": "Montecristi"
+            },
+            {
+                "id": 23925,
+                "name": "Paján"
+            },
+            {
+                "id": 23926,
+                "name": "Pedernales"
+            },
+            {
+                "id": 23927,
+                "name": "Portoviejo"
+            },
+            {
+                "id": 23928,
+                "name": "Rocafuerte"
+            },
+            {
+                "id": 23929,
+                "name": "San Vicente"
+            },
+            {
+                "id": 23930,
+                "name": "Santa Ana"
+            },
+            {
+                "id": 23931,
+                "name": "Sucre"
+            },
+            {
+                "id": 23932,
+                "name": "Tosagua"
+            }
+        ]
+    },
+    {
+        "id": 1145,
+        "name": "Morona-Santiago Province",
+        "cities": [
+            {
+                "id": 23933,
+                "name": "Gualaquiza"
+            },
+            {
+                "id": 23934,
+                "name": "Macas"
+            },
+            {
+                "id": 23935,
+                "name": "Palora"
+            },
+            {
+                "id": 23936,
+                "name": "Sucúa"
+            }
+        ]
+    },
+    {
+        "id": 1146,
+        "name": "Napo Province",
+        "cities": [
+            {
+                "id": 23937,
+                "name": "Archidona"
+            },
+            {
+                "id": 23938,
+                "name": "Tena"
+            }
+        ]
+    },
+    {
+        "id": 1147,
+        "name": "Orellana Province",
+        "cities": [
+            {
+                "id": 23939,
+                "name": "Boca Suno"
+            },
+            {
+                "id": 23940,
+                "name": "Francisco de Orellana Canton"
+            },
+            {
+                "id": 23941,
+                "name": "Loreto Canton"
+            },
+            {
+                "id": 23942,
+                "name": "Puerto Francisco de Orellana"
+            }
+        ]
+    },
+    {
+        "id": 1148,
+        "name": "Pastaza Province",
+        "cities": [
+            {
+                "id": 23943,
+                "name": "Puyo"
+            }
+        ]
+    },
+    {
+        "id": 1149,
+        "name": "Pichincha Province",
+        "cities": [
+            {
+                "id": 23944,
+                "name": "Cayambe"
+            },
+            {
+                "id": 23945,
+                "name": "Machachi"
+            },
+            {
+                "id": 23946,
+                "name": "Quito"
+            },
+            {
+                "id": 23947,
+                "name": "Sangolquí"
+            },
+            {
+                "id": 23948,
+                "name": "Tutamandahostel"
+            }
+        ]
+    },
+    {
+        "id": 1150,
+        "name": "Santa Elena Province",
+        "cities": [
+            {
+                "id": 23949,
+                "name": "Salinas"
+            },
+            {
+                "id": 23950,
+                "name": "Santa Elena"
+            }
+        ]
+    },
+    {
+        "id": 1151,
+        "name": "Santo Domingo de los Tsáchilas Province",
+        "cities": [
+            {
+                "id": 23951,
+                "name": "Santo Domingo de los Colorados"
+            }
+        ]
+    },
+    {
+        "id": 1152,
+        "name": "Sucumbíos Province",
+        "cities": [
+            {
+                "id": 23952,
+                "name": "Nueva Loja"
+            }
+        ]
+    },
+    {
+        "id": 1153,
+        "name": "Tungurahua Province",
+        "cities": [
+            {
+                "id": 23953,
+                "name": "Ambato"
+            },
+            {
+                "id": 23954,
+                "name": "Baños"
+            },
+            {
+                "id": 23955,
+                "name": "Pelileo"
+            },
+            {
+                "id": 23956,
+                "name": "Píllaro"
+            }
+        ]
+    },
+    {
+        "id": 1154,
+        "name": "Zamora-Chinchipe Province",
+        "cities": [
+            {
+                "id": 23957,
+                "name": "Yantzaza"
+            },
+            {
+                "id": 23958,
+                "name": "Zamora"
+            }
+        ]
+    }
+]

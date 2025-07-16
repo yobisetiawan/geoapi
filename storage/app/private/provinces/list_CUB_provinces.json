@@ -1,0 +1,846 @@
+[
+    {
+        "id": 939,
+        "name": "Artemisa Province",
+        "cities": [
+            {
+                "id": 21493,
+                "name": "Alquízar"
+            },
+            {
+                "id": 21494,
+                "name": "Artemisa"
+            },
+            {
+                "id": 21495,
+                "name": "Bahía Honda"
+            },
+            {
+                "id": 21496,
+                "name": "Bauta"
+            },
+            {
+                "id": 21497,
+                "name": "Cabañas"
+            },
+            {
+                "id": 21498,
+                "name": "Candelaria"
+            },
+            {
+                "id": 21499,
+                "name": "Guanajay"
+            },
+            {
+                "id": 21500,
+                "name": "Güira de Melena"
+            },
+            {
+                "id": 21501,
+                "name": "Mariel"
+            },
+            {
+                "id": 21502,
+                "name": "Municipio de Artemisa"
+            },
+            {
+                "id": 21503,
+                "name": "Municipio de Bauta"
+            },
+            {
+                "id": 21504,
+                "name": "Municipio de Guanajay"
+            },
+            {
+                "id": 21505,
+                "name": "Municipio de Mariel"
+            },
+            {
+                "id": 21506,
+                "name": "Municipio de San Cristóbal"
+            },
+            {
+                "id": 21507,
+                "name": "San Antonio de los Baños"
+            },
+            {
+                "id": 21508,
+                "name": "San Cristobal"
+            },
+            {
+                "id": 21509,
+                "name": "Soroa"
+            }
+        ]
+    },
+    {
+        "id": 940,
+        "name": "Camagüey Province",
+        "cities": [
+            {
+                "id": 21510,
+                "name": "Camagüey"
+            },
+            {
+                "id": 21511,
+                "name": "El Caney"
+            },
+            {
+                "id": 21512,
+                "name": "Esmeralda"
+            },
+            {
+                "id": 21513,
+                "name": "Florida"
+            },
+            {
+                "id": 21514,
+                "name": "Guáimaro"
+            },
+            {
+                "id": 21515,
+                "name": "Jimaguayú"
+            },
+            {
+                "id": 21516,
+                "name": "Minas"
+            },
+            {
+                "id": 21517,
+                "name": "Municipio de Florida"
+            },
+            {
+                "id": 21518,
+                "name": "Municipio de Nuevitas"
+            },
+            {
+                "id": 21519,
+                "name": "Nuevitas"
+            },
+            {
+                "id": 21520,
+                "name": "Santa Cruz del Sur"
+            },
+            {
+                "id": 21521,
+                "name": "Sibanicú"
+            },
+            {
+                "id": 21522,
+                "name": "Vertientes"
+            }
+        ]
+    },
+    {
+        "id": 941,
+        "name": "Ciego de Ávila Province",
+        "cities": [
+            {
+                "id": 21523,
+                "name": "Baraguá"
+            },
+            {
+                "id": 21524,
+                "name": "Chambas"
+            },
+            {
+                "id": 21525,
+                "name": "Ciego de Ávila"
+            },
+            {
+                "id": 21526,
+                "name": "Ciro Redondo"
+            },
+            {
+                "id": 21527,
+                "name": "Florencia"
+            },
+            {
+                "id": 21528,
+                "name": "Morón"
+            },
+            {
+                "id": 21529,
+                "name": "Municipio de Ciego de Ávila"
+            },
+            {
+                "id": 21530,
+                "name": "Municipio de Morón"
+            },
+            {
+                "id": 21531,
+                "name": "Primero de Enero"
+            },
+            {
+                "id": 21532,
+                "name": "Venezuela"
+            }
+        ]
+    },
+    {
+        "id": 942,
+        "name": "Cienfuegos Province",
+        "cities": [
+            {
+                "id": 21533,
+                "name": "Abreus"
+            },
+            {
+                "id": 21534,
+                "name": "Aguada de Pasajeros"
+            },
+            {
+                "id": 21535,
+                "name": "Cienfuegos"
+            },
+            {
+                "id": 21536,
+                "name": "Cruces"
+            },
+            {
+                "id": 21537,
+                "name": "Cumanayagua"
+            },
+            {
+                "id": 21538,
+                "name": "Lajas"
+            },
+            {
+                "id": 21539,
+                "name": "Municipio de Abreus"
+            },
+            {
+                "id": 21540,
+                "name": "Municipio de Cienfuegos"
+            },
+            {
+                "id": 21541,
+                "name": "Palmira"
+            },
+            {
+                "id": 21542,
+                "name": "Rodas"
+            }
+        ]
+    },
+    {
+        "id": 943,
+        "name": "Granma Province",
+        "cities": [
+            {
+                "id": 21543,
+                "name": "Bartolomé Masó"
+            },
+            {
+                "id": 21544,
+                "name": "Bayamo"
+            },
+            {
+                "id": 21545,
+                "name": "Campechuela"
+            },
+            {
+                "id": 21546,
+                "name": "Cauto Cristo"
+            },
+            {
+                "id": 21547,
+                "name": "Guisa"
+            },
+            {
+                "id": 21548,
+                "name": "Jiguaní"
+            },
+            {
+                "id": 21549,
+                "name": "Manzanillo"
+            },
+            {
+                "id": 21550,
+                "name": "Media Luna"
+            },
+            {
+                "id": 21551,
+                "name": "Municipio de Bayamo"
+            },
+            {
+                "id": 21552,
+                "name": "Municipio de Manzanillo"
+            },
+            {
+                "id": 21553,
+                "name": "Municipio de Niquero"
+            },
+            {
+                "id": 21554,
+                "name": "Niquero"
+            },
+            {
+                "id": 21555,
+                "name": "Río Cauto"
+            },
+            {
+                "id": 21556,
+                "name": "Yara"
+            }
+        ]
+    },
+    {
+        "id": 944,
+        "name": "Guantánamo Province",
+        "cities": [
+            {
+                "id": 21557,
+                "name": "Baracoa"
+            },
+            {
+                "id": 21558,
+                "name": "Guantánamo"
+            },
+            {
+                "id": 21559,
+                "name": "Maisí"
+            },
+            {
+                "id": 21560,
+                "name": "Municipio de Guantánamo"
+            },
+            {
+                "id": 21561,
+                "name": "Río Guayabal de Yateras"
+            },
+            {
+                "id": 21562,
+                "name": "San Antonio del Sur"
+            }
+        ]
+    },
+    {
+        "id": 945,
+        "name": "Havana Province",
+        "cities": [
+            {
+                "id": 21563,
+                "name": "Alamar"
+            },
+            {
+                "id": 21564,
+                "name": "Arroyo Naranjo"
+            },
+            {
+                "id": 21565,
+                "name": "Boyeros"
+            },
+            {
+                "id": 21566,
+                "name": "Centro Habana"
+            },
+            {
+                "id": 21567,
+                "name": "Cerro"
+            },
+            {
+                "id": 21568,
+                "name": "Diez de Octubre"
+            },
+            {
+                "id": 21569,
+                "name": "Guanabacoa"
+            },
+            {
+                "id": 21570,
+                "name": "Habana del Este"
+            },
+            {
+                "id": 21571,
+                "name": "Havana"
+            },
+            {
+                "id": 21572,
+                "name": "La Habana Vieja"
+            },
+            {
+                "id": 21573,
+                "name": "Regla"
+            },
+            {
+                "id": 21574,
+                "name": "San Miguel del Padrón"
+            },
+            {
+                "id": 21575,
+                "name": "Santiago de las Vegas"
+            }
+        ]
+    },
+    {
+        "id": 946,
+        "name": "Holguín Province",
+        "cities": [
+            {
+                "id": 21576,
+                "name": "Banes"
+            },
+            {
+                "id": 21577,
+                "name": "Cacocum"
+            },
+            {
+                "id": 21578,
+                "name": "Cueto"
+            },
+            {
+                "id": 21579,
+                "name": "Gibara"
+            },
+            {
+                "id": 21580,
+                "name": "Holguín"
+            },
+            {
+                "id": 21581,
+                "name": "Jobabo"
+            },
+            {
+                "id": 21582,
+                "name": "Moa"
+            },
+            {
+                "id": 21583,
+                "name": "Municipio de Banes"
+            },
+            {
+                "id": 21584,
+                "name": "Municipio de Holguín"
+            },
+            {
+                "id": 21585,
+                "name": "Sagua de Tánamo"
+            },
+            {
+                "id": 21586,
+                "name": "San Germán"
+            }
+        ]
+    },
+    {
+        "id": 947,
+        "name": "Isla de la Juventud",
+        "cities": [
+            {
+                "id": 21587,
+                "name": "Nueva Gerona"
+            }
+        ]
+    },
+    {
+        "id": 948,
+        "name": "Las Tunas Province",
+        "cities": [
+            {
+                "id": 21588,
+                "name": "Amancio"
+            },
+            {
+                "id": 21589,
+                "name": "Colombia"
+            },
+            {
+                "id": 21590,
+                "name": "Jesús Menéndez"
+            },
+            {
+                "id": 21591,
+                "name": "Jobabo"
+            },
+            {
+                "id": 21592,
+                "name": "Las Tunas"
+            },
+            {
+                "id": 21593,
+                "name": "Manatí"
+            },
+            {
+                "id": 21594,
+                "name": "Puerto Padre"
+            }
+        ]
+    },
+    {
+        "id": 949,
+        "name": "Matanzas Province",
+        "cities": [
+            {
+                "id": 21595,
+                "name": "Alacranes"
+            },
+            {
+                "id": 21596,
+                "name": "Bolondrón"
+            },
+            {
+                "id": 21597,
+                "name": "Calimete"
+            },
+            {
+                "id": 21598,
+                "name": "Cárdenas"
+            },
+            {
+                "id": 21599,
+                "name": "Colón"
+            },
+            {
+                "id": 21600,
+                "name": "Jagüey Grande"
+            },
+            {
+                "id": 21601,
+                "name": "Jovellanos"
+            },
+            {
+                "id": 21602,
+                "name": "Limonar"
+            },
+            {
+                "id": 21603,
+                "name": "Los Arabos"
+            },
+            {
+                "id": 21604,
+                "name": "Manguito"
+            },
+            {
+                "id": 21605,
+                "name": "Martí"
+            },
+            {
+                "id": 21606,
+                "name": "Matanzas"
+            },
+            {
+                "id": 21607,
+                "name": "Municipio de Cárdenas"
+            },
+            {
+                "id": 21608,
+                "name": "Municipio de Matanzas"
+            },
+            {
+                "id": 21609,
+                "name": "Pedro Betancourt"
+            },
+            {
+                "id": 21610,
+                "name": "Perico"
+            },
+            {
+                "id": 21611,
+                "name": "Unión de Reyes"
+            },
+            {
+                "id": 21612,
+                "name": "Varadero"
+            }
+        ]
+    },
+    {
+        "id": 950,
+        "name": "Mayabeque Province",
+        "cities": [
+            {
+                "id": 21613,
+                "name": "Batabanó"
+            },
+            {
+                "id": 21614,
+                "name": "Bejucal"
+            },
+            {
+                "id": 21615,
+                "name": "Güines"
+            },
+            {
+                "id": 21616,
+                "name": "Jamaica"
+            },
+            {
+                "id": 21617,
+                "name": "Jaruco"
+            },
+            {
+                "id": 21618,
+                "name": "La Salud"
+            },
+            {
+                "id": 21619,
+                "name": "Madruga"
+            },
+            {
+                "id": 21620,
+                "name": "Municipio de Güines"
+            },
+            {
+                "id": 21621,
+                "name": "Municipio de Melena del Sur"
+            },
+            {
+                "id": 21622,
+                "name": "Quivicán"
+            },
+            {
+                "id": 21623,
+                "name": "San José de las Lajas"
+            },
+            {
+                "id": 21624,
+                "name": "San Nicolás de Bari"
+            },
+            {
+                "id": 21625,
+                "name": "Santa Cruz del Norte"
+            }
+        ]
+    },
+    {
+        "id": 951,
+        "name": "Pinar del Río Province",
+        "cities": [
+            {
+                "id": 21626,
+                "name": "Consolación del Sur"
+            },
+            {
+                "id": 21627,
+                "name": "Guane"
+            },
+            {
+                "id": 21628,
+                "name": "Los Palacios"
+            },
+            {
+                "id": 21629,
+                "name": "Mantua"
+            },
+            {
+                "id": 21630,
+                "name": "Minas de Matahambre"
+            },
+            {
+                "id": 21631,
+                "name": "Municipio de Consolación del Sur"
+            },
+            {
+                "id": 21632,
+                "name": "Municipio de Guane"
+            },
+            {
+                "id": 21633,
+                "name": "Municipio de La Palma"
+            },
+            {
+                "id": 21634,
+                "name": "Municipio de Los Palacios"
+            },
+            {
+                "id": 21635,
+                "name": "Pinar del Río"
+            },
+            {
+                "id": 21636,
+                "name": "Puerto Esperanza"
+            },
+            {
+                "id": 21637,
+                "name": "San Diego de Los Baños"
+            },
+            {
+                "id": 21638,
+                "name": "San Luis"
+            },
+            {
+                "id": 21639,
+                "name": "Viñales"
+            }
+        ]
+    },
+    {
+        "id": 952,
+        "name": "Sancti Spíritus Province",
+        "cities": [
+            {
+                "id": 21640,
+                "name": "Cabaiguán"
+            },
+            {
+                "id": 21641,
+                "name": "Condado"
+            },
+            {
+                "id": 21642,
+                "name": "Fomento"
+            },
+            {
+                "id": 21643,
+                "name": "Guayos"
+            },
+            {
+                "id": 21644,
+                "name": "Jatibonico"
+            },
+            {
+                "id": 21645,
+                "name": "La Sierpe"
+            },
+            {
+                "id": 21646,
+                "name": "Municipio de Cabaiguán"
+            },
+            {
+                "id": 21647,
+                "name": "Municipio de Jatibonico"
+            },
+            {
+                "id": 21648,
+                "name": "Municipio de Sancti Spíritus"
+            },
+            {
+                "id": 21649,
+                "name": "Municipio de Trinidad"
+            },
+            {
+                "id": 21650,
+                "name": "Sancti Spíritus"
+            },
+            {
+                "id": 21651,
+                "name": "Topes de Collantes"
+            },
+            {
+                "id": 21652,
+                "name": "Trinidad"
+            },
+            {
+                "id": 21653,
+                "name": "Yaguajay"
+            },
+            {
+                "id": 21654,
+                "name": "Zaza del Medio"
+            }
+        ]
+    },
+    {
+        "id": 953,
+        "name": "Santiago de Cuba Province",
+        "cities": [
+            {
+                "id": 21655,
+                "name": "Contramaestre"
+            },
+            {
+                "id": 21656,
+                "name": "El Cobre"
+            },
+            {
+                "id": 21657,
+                "name": "Municipio de Palma Soriano"
+            },
+            {
+                "id": 21658,
+                "name": "Municipio de Santiago de Cuba"
+            },
+            {
+                "id": 21659,
+                "name": "Palma Soriano"
+            },
+            {
+                "id": 21660,
+                "name": "San Luis"
+            },
+            {
+                "id": 21661,
+                "name": "Santiago de Cuba"
+            }
+        ]
+    },
+    {
+        "id": 954,
+        "name": "Villa Clara Province",
+        "cities": [
+            {
+                "id": 21662,
+                "name": "Caibarién"
+            },
+            {
+                "id": 21663,
+                "name": "Calabazar de Sagua"
+            },
+            {
+                "id": 21664,
+                "name": "Camajuaní"
+            },
+            {
+                "id": 21665,
+                "name": "Cifuentes"
+            },
+            {
+                "id": 21666,
+                "name": "Corralillo"
+            },
+            {
+                "id": 21667,
+                "name": "Encrucijada"
+            },
+            {
+                "id": 21668,
+                "name": "Esperanza"
+            },
+            {
+                "id": 21669,
+                "name": "Isabela de Sagua"
+            },
+            {
+                "id": 21670,
+                "name": "Manicaragua"
+            },
+            {
+                "id": 21671,
+                "name": "Municipio de Placetas"
+            },
+            {
+                "id": 21672,
+                "name": "Municipio de Santa Clara"
+            },
+            {
+                "id": 21673,
+                "name": "Placetas"
+            },
+            {
+                "id": 21674,
+                "name": "Quemado de Güines"
+            },
+            {
+                "id": 21675,
+                "name": "Rancho Veloz"
+            },
+            {
+                "id": 21676,
+                "name": "Ranchuelo"
+            },
+            {
+                "id": 21677,
+                "name": "Sagua la Grande"
+            },
+            {
+                "id": 21678,
+                "name": "Santa Clara"
+            },
+            {
+                "id": 21679,
+                "name": "Santo Domingo"
+            }
+        ]
+    }
+]

@@ -1,0 +1,460 @@
+[
+    {
+        "id": 3422,
+        "name": "'Asir Region",
+        "cities": [
+            {
+                "id": 101771,
+                "name": "Abha"
+            },
+            {
+                "id": 101772,
+                "name": "Al Majāridah"
+            },
+            {
+                "id": 101773,
+                "name": "An Nimāş"
+            },
+            {
+                "id": 101774,
+                "name": "Khamis Mushait"
+            },
+            {
+                "id": 101775,
+                "name": "Qal‘at Bīshah"
+            },
+            {
+                "id": 101776,
+                "name": "Sabt Al Alayah"
+            },
+            {
+                "id": 101777,
+                "name": "Tabālah"
+            }
+        ]
+    },
+    {
+        "id": 3423,
+        "name": "Al Bahah Region",
+        "cities": [
+            {
+                "id": 101778,
+                "name": "Al Bahah"
+            },
+            {
+                "id": 101779,
+                "name": "Al Mindak"
+            }
+        ]
+    },
+    {
+        "id": 3424,
+        "name": "Al Jawf Region",
+        "cities": [
+            {
+                "id": 101780,
+                "name": "Qurayyat"
+            },
+            {
+                "id": 101781,
+                "name": "Sakakah"
+            },
+            {
+                "id": 101782,
+                "name": "Şuwayr"
+            },
+            {
+                "id": 101783,
+                "name": "Ţubarjal"
+            }
+        ]
+    },
+    {
+        "id": 3425,
+        "name": "Al Madinah Region",
+        "cities": [
+            {
+                "id": 101784,
+                "name": "Al-`Ula"
+            },
+            {
+                "id": 101785,
+                "name": "Badr Ḩunayn"
+            },
+            {
+                "id": 101786,
+                "name": "Medina"
+            },
+            {
+                "id": 101787,
+                "name": "Sulţānah"
+            },
+            {
+                "id": 101788,
+                "name": "Yanbu"
+            }
+        ]
+    },
+    {
+        "id": 3426,
+        "name": "Al-Qassim Region",
+        "cities": [
+            {
+                "id": 101789,
+                "name": "Adh Dhibiyah"
+            },
+            {
+                "id": 101790,
+                "name": "Al Bukayrīyah"
+            },
+            {
+                "id": 101791,
+                "name": "Al Fuwayliq"
+            },
+            {
+                "id": 101792,
+                "name": "Al Mithnab"
+            },
+            {
+                "id": 101793,
+                "name": "Ar Rass"
+            },
+            {
+                "id": 101794,
+                "name": "Buraydah"
+            },
+            {
+                "id": 101795,
+                "name": "Tanūmah"
+            },
+            {
+                "id": 101796,
+                "name": "Wed Alnkil"
+            }
+        ]
+    },
+    {
+        "id": 3427,
+        "name": "Eastern Province",
+        "cities": [
+            {
+                "id": 101797,
+                "name": "Abqaiq"
+            },
+            {
+                "id": 101798,
+                "name": "Al Awjām"
+            },
+            {
+                "id": 101799,
+                "name": "Al Baţţālīyah"
+            },
+            {
+                "id": 101800,
+                "name": "Al Hufūf"
+            },
+            {
+                "id": 101801,
+                "name": "Al Jafr"
+            },
+            {
+                "id": 101802,
+                "name": "Al Jubayl"
+            },
+            {
+                "id": 101803,
+                "name": "Al Khafjī"
+            },
+            {
+                "id": 101804,
+                "name": "Al Markaz"
+            },
+            {
+                "id": 101805,
+                "name": "Al Mubarraz"
+            },
+            {
+                "id": 101806,
+                "name": "Al Munayzilah"
+            },
+            {
+                "id": 101807,
+                "name": "Al Muţayrifī"
+            },
+            {
+                "id": 101808,
+                "name": "Al Qārah"
+            },
+            {
+                "id": 101809,
+                "name": "Al Qaţīf"
+            },
+            {
+                "id": 101810,
+                "name": "Al Qurayn"
+            },
+            {
+                "id": 101811,
+                "name": "As Saffānīyah"
+            },
+            {
+                "id": 101812,
+                "name": "Aţ Ţaraf"
+            },
+            {
+                "id": 101813,
+                "name": "At Tūbī"
+            },
+            {
+                "id": 101814,
+                "name": "Dammam"
+            },
+            {
+                "id": 101815,
+                "name": "Dhahran"
+            },
+            {
+                "id": 101816,
+                "name": "Hafar Al-Batin"
+            },
+            {
+                "id": 101817,
+                "name": "Julayjilah"
+            },
+            {
+                "id": 101818,
+                "name": "Khobar"
+            },
+            {
+                "id": 101819,
+                "name": "Mulayjah"
+            },
+            {
+                "id": 101820,
+                "name": "Qaisumah"
+            },
+            {
+                "id": 101821,
+                "name": "Raḩīmah"
+            },
+            {
+                "id": 101822,
+                "name": "Şafwá"
+            },
+            {
+                "id": 101823,
+                "name": "Sayhāt"
+            },
+            {
+                "id": 101824,
+                "name": "Tārūt"
+            },
+            {
+                "id": 101825,
+                "name": "Umm as Sāhik"
+            }
+        ]
+    },
+    {
+        "id": 3428,
+        "name": "Ha'il Region",
+        "cities": [
+            {
+                "id": 101826,
+                "name": "Ha'il"
+            }
+        ]
+    },
+    {
+        "id": 3429,
+        "name": "Jizan Region",
+        "cities": [
+            {
+                "id": 101827,
+                "name": "Abū ‘Arīsh"
+            },
+            {
+                "id": 101828,
+                "name": "Ad Darb"
+            },
+            {
+                "id": 101829,
+                "name": "Al Jarādīyah"
+            },
+            {
+                "id": 101830,
+                "name": "Farasān"
+            },
+            {
+                "id": 101831,
+                "name": "Jizan"
+            },
+            {
+                "id": 101832,
+                "name": "Mislīyah"
+            },
+            {
+                "id": 101833,
+                "name": "Mizhirah"
+            },
+            {
+                "id": 101834,
+                "name": "Şabyā"
+            },
+            {
+                "id": 101835,
+                "name": "Şāmitah"
+            }
+        ]
+    },
+    {
+        "id": 3430,
+        "name": "Makkah Region",
+        "cities": [
+            {
+                "id": 101836,
+                "name": "Al Hadā"
+            },
+            {
+                "id": 101837,
+                "name": "Al Jumūm"
+            },
+            {
+                "id": 101838,
+                "name": "Al Muwayh"
+            },
+            {
+                "id": 101839,
+                "name": "Ash Shafā"
+            },
+            {
+                "id": 101840,
+                "name": "Ghran"
+            },
+            {
+                "id": 101841,
+                "name": "Jeddah"
+            },
+            {
+                "id": 101842,
+                "name": "Mecca"
+            },
+            {
+                "id": 101843,
+                "name": "Rābigh"
+            },
+            {
+                "id": 101844,
+                "name": "Ta’if"
+            },
+            {
+                "id": 101845,
+                "name": "Turabah"
+            }
+        ]
+    },
+    {
+        "id": 3431,
+        "name": "Najran Region",
+        "cities": [
+            {
+                "id": 101846,
+                "name": "Najrān"
+            }
+        ]
+    },
+    {
+        "id": 3432,
+        "name": "Northern Borders Region",
+        "cities": [
+            {
+                "id": 101847,
+                "name": "Arar"
+            },
+            {
+                "id": 101848,
+                "name": "Turaif"
+            }
+        ]
+    },
+    {
+        "id": 3433,
+        "name": "Riyadh Region",
+        "cities": [
+            {
+                "id": 101849,
+                "name": "Ad Dawādimī"
+            },
+            {
+                "id": 101850,
+                "name": "Ad Dilam"
+            },
+            {
+                "id": 101851,
+                "name": "Afif"
+            },
+            {
+                "id": 101852,
+                "name": "Ain AlBaraha"
+            },
+            {
+                "id": 101853,
+                "name": "Al Arţāwīyah"
+            },
+            {
+                "id": 101854,
+                "name": "Al Kharj"
+            },
+            {
+                "id": 101855,
+                "name": "As Sulayyil"
+            },
+            {
+                "id": 101856,
+                "name": "Az Zulfī"
+            },
+            {
+                "id": 101857,
+                "name": "Marāt"
+            },
+            {
+                "id": 101858,
+                "name": "Riyadh"
+            },
+            {
+                "id": 101859,
+                "name": "Sājir"
+            },
+            {
+                "id": 101860,
+                "name": "shokhaibٍ"
+            },
+            {
+                "id": 101861,
+                "name": "Tumayr"
+            }
+        ]
+    },
+    {
+        "id": 3434,
+        "name": "Tabuk Region",
+        "cities": [
+            {
+                "id": 101862,
+                "name": "Al Wajh"
+            },
+            {
+                "id": 101863,
+                "name": "Duba"
+            },
+            {
+                "id": 101864,
+                "name": "Tabuk"
+            },
+            {
+                "id": 101865,
+                "name": "Umm Lajj"
+            }
+        ]
+    }
+]

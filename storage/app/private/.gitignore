@@ -1,5 +1,7 @@
 *
 !.gitignore
 !countries_data.json
-!countries/*
-!provinces/*
+!countries/
+!countries/**
+!provinces/
+!provinces/**

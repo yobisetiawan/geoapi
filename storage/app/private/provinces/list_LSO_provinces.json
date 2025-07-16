@@ -1,0 +1,110 @@
+[
+    {
+        "id": 2205,
+        "name": "Berea District",
+        "cities": [
+            {
+                "id": 64006,
+                "name": "Teyateyaneng"
+            }
+        ]
+    },
+    {
+        "id": 2206,
+        "name": "Butha-Buthe District",
+        "cities": [
+            {
+                "id": 64007,
+                "name": "Butha-Buthe"
+            }
+        ]
+    },
+    {
+        "id": 2207,
+        "name": "Leribe District",
+        "cities": [
+            {
+                "id": 64008,
+                "name": "Leribe"
+            },
+            {
+                "id": 64009,
+                "name": "Maputsoe"
+            }
+        ]
+    },
+    {
+        "id": 2208,
+        "name": "Mafeteng District",
+        "cities": [
+            {
+                "id": 64010,
+                "name": "Mafeteng"
+            }
+        ]
+    },
+    {
+        "id": 2209,
+        "name": "Maseru District",
+        "cities": [
+            {
+                "id": 64011,
+                "name": "Maseru"
+            },
+            {
+                "id": 64012,
+                "name": "Nako"
+            }
+        ]
+    },
+    {
+        "id": 2210,
+        "name": "Mohale's Hoek District",
+        "cities": [
+            {
+                "id": 64013,
+                "name": "Mohale’s Hoek"
+            }
+        ]
+    },
+    {
+        "id": 2211,
+        "name": "Mokhotlong District",
+        "cities": [
+            {
+                "id": 64014,
+                "name": "Mokhotlong"
+            }
+        ]
+    },
+    {
+        "id": 2212,
+        "name": "Qacha's Nek District",
+        "cities": [
+            {
+                "id": 64015,
+                "name": "Qacha’s Nek"
+            }
+        ]
+    },
+    {
+        "id": 2213,
+        "name": "Quthing District",
+        "cities": [
+            {
+                "id": 64016,
+                "name": "Quthing"
+            }
+        ]
+    },
+    {
+        "id": 2214,
+        "name": "Thaba-Tseka District",
+        "cities": [
+            {
+                "id": 64017,
+                "name": "Thaba-Tseka"
+            }
+        ]
+    }
+]

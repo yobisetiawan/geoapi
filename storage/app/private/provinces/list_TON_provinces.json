@@ -1,0 +1,64 @@
+[
+    {
+        "id": 4099,
+        "name": "Haʻapai",
+        "cities": [
+            {
+                "id": 114549,
+                "name": "Pangai"
+            }
+        ]
+    },
+    {
+        "id": 4100,
+        "name": "ʻEua",
+        "cities": [
+            {
+                "id": 114550,
+                "name": "‘Ohonua"
+            }
+        ]
+    },
+    {
+        "id": 4101,
+        "name": "Niuas",
+        "cities": [
+            {
+                "id": 114551,
+                "name": "Hihifo"
+            }
+        ]
+    },
+    {
+        "id": 4102,
+        "name": "Tongatapu",
+        "cities": [
+            {
+                "id": 114552,
+                "name": "Haveluloto"
+            },
+            {
+                "id": 114553,
+                "name": "Kolonga"
+            },
+            {
+                "id": 114554,
+                "name": "Nuku‘alofa"
+            },
+            {
+                "id": 114555,
+                "name": "Vaini"
+            }
+        ]
+    },
+    {
+        "id": 4103,
+        "name": "Vavaʻu",
+        "cities": [
+            {
+                "id": 114556,
+                "name": "Neiafu"
+            }
+        ]
+    }
+]

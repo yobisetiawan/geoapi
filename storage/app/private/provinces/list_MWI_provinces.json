@@ -1,0 +1,399 @@
+[
+    {
+        "id": 2436,
+        "name": "Balaka District",
+        "cities": []
+    },
+    {
+        "id": 2437,
+        "name": "Blantyre District",
+        "cities": []
+    },
+    {
+        "id": 2438,
+        "name": "Central Region",
+        "cities": [
+            {
+                "id": 64596,
+                "name": "Chipoka"
+            },
+            {
+                "id": 64597,
+                "name": "Dedza"
+            },
+            {
+                "id": 64598,
+                "name": "Dedza District"
+            },
+            {
+                "id": 64599,
+                "name": "Dowa"
+            },
+            {
+                "id": 64600,
+                "name": "Dowa District"
+            },
+            {
+                "id": 64601,
+                "name": "Kasungu"
+            },
+            {
+                "id": 64602,
+                "name": "Kasungu District"
+            },
+            {
+                "id": 64603,
+                "name": "Lilongwe"
+            },
+            {
+                "id": 64604,
+                "name": "Lilongwe District"
+            },
+            {
+                "id": 64605,
+                "name": "Mchinji"
+            },
+            {
+                "id": 64606,
+                "name": "Mchinji District"
+            },
+            {
+                "id": 64607,
+                "name": "Mponela"
+            },
+            {
+                "id": 64608,
+                "name": "Nkhotakota"
+            },
+            {
+                "id": 64609,
+                "name": "Nkhotakota District"
+            },
+            {
+                "id": 64610,
+                "name": "Ntcheu"
+            },
+            {
+                "id": 64611,
+                "name": "Ntcheu District"
+            },
+            {
+                "id": 64612,
+                "name": "Ntchisi"
+            },
+            {
+                "id": 64613,
+                "name": "Ntchisi District"
+            },
+            {
+                "id": 64614,
+                "name": "Salima"
+            },
+            {
+                "id": 64615,
+                "name": "Salima District"
+            }
+        ]
+    },
+    {
+        "id": 2439,
+        "name": "Chikwawa District",
+        "cities": []
+    },
+    {
+        "id": 2440,
+        "name": "Chiradzulu District",
+        "cities": []
+    },
+    {
+        "id": 2441,
+        "name": "Chitipa district",
+        "cities": []
+    },
+    {
+        "id": 2442,
+        "name": "Dedza District",
+        "cities": []
+    },
+    {
+        "id": 2443,
+        "name": "Dowa District",
+        "cities": []
+    },
+    {
+        "id": 2444,
+        "name": "Karonga District",
+        "cities": []
+    },
+    {
+        "id": 2445,
+        "name": "Kasungu District",
+        "cities": []
+    },
+    {
+        "id": 2446,
+        "name": "Likoma District",
+        "cities": []
+    },
+    {
+        "id": 2447,
+        "name": "Lilongwe District",
+        "cities": []
+    },
+    {
+        "id": 2448,
+        "name": "Machinga District",
+        "cities": []
+    },
+    {
+        "id": 2449,
+        "name": "Mangochi District",
+        "cities": []
+    },
+    {
+        "id": 2450,
+        "name": "Mchinji District",
+        "cities": []
+    },
+    {
+        "id": 2451,
+        "name": "Mulanje District",
+        "cities": []
+    },
+    {
+        "id": 2452,
+        "name": "Mwanza District",
+        "cities": []
+    },
+    {
+        "id": 2453,
+        "name": "Mzimba District",
+        "cities": []
+    },
+    {
+        "id": 2454,
+        "name": "Nkhata Bay District",
+        "cities": []
+    },
+    {
+        "id": 2455,
+        "name": "Nkhotakota District",
+        "cities": []
+    },
+    {
+        "id": 2456,
+        "name": "Northern Region",
+        "cities": [
+            {
+                "id": 64616,
+                "name": "Chitipa"
+            },
+            {
+                "id": 64617,
+                "name": "Chitipa District"
+            },
+            {
+                "id": 64618,
+                "name": "Karonga"
+            },
+            {
+                "id": 64619,
+                "name": "Karonga District"
+            },
+            {
+                "id": 64620,
+                "name": "Likoma District"
+            },
+            {
+                "id": 64621,
+                "name": "Livingstonia"
+            },
+            {
+                "id": 64622,
+                "name": "Mzimba"
+            },
+            {
+                "id": 64623,
+                "name": "Mzimba District"
+            },
+            {
+                "id": 64624,
+                "name": "Mzuzu"
+            },
+            {
+                "id": 64625,
+                "name": "Nkhata Bay"
+            },
+            {
+                "id": 64626,
+                "name": "Nkhata Bay District"
+            },
+            {
+                "id": 64627,
+                "name": "Rumphi"
+            },
+            {
+                "id": 64628,
+                "name": "Rumphi District"
+            }
+        ]
+    },
+    {
+        "id": 2457,
+        "name": "Nsanje District",
+        "cities": []
+    },
+    {
+        "id": 2458,
+        "name": "Ntcheu District",
+        "cities": []
+    },
+    {
+        "id": 2459,
+        "name": "Ntchisi District",
+        "cities": []
+    },
+    {
+        "id": 2460,
+        "name": "Phalombe District",
+        "cities": []
+    },
+    {
+        "id": 2461,
+        "name": "Rumphi District",
+        "cities": []
+    },
+    {
+        "id": 2462,
+        "name": "Salima District",
+        "cities": []
+    },
+    {
+        "id": 2463,
+        "name": "Southern Region",
+        "cities": [
+            {
+                "id": 64629,
+                "name": "Balaka"
+            },
+            {
+                "id": 64630,
+                "name": "Balaka District"
+            },
+            {
+                "id": 64631,
+                "name": "Blantyre"
+            },
+            {
+                "id": 64632,
+                "name": "Blantyre District"
+            },
+            {
+                "id": 64633,
+                "name": "Chikwawa"
+            },
+            {
+                "id": 64634,
+                "name": "Chikwawa District"
+            },
+            {
+                "id": 64635,
+                "name": "Chiradzulu"
+            },
+            {
+                "id": 64636,
+                "name": "Chiradzulu District"
+            },
+            {
+                "id": 64637,
+                "name": "Liwonde"
+            },
+            {
+                "id": 64638,
+                "name": "Luchenza"
+            },
+            {
+                "id": 64639,
+                "name": "Machinga"
+            },
+            {
+                "id": 64640,
+                "name": "Machinga District"
+            },
+            {
+                "id": 64641,
+                "name": "Mangochi"
+            },
+            {
+                "id": 64642,
+                "name": "Mangochi District"
+            },
+            {
+                "id": 64643,
+                "name": "Monkey Bay"
+            },
+            {
+                "id": 64644,
+                "name": "Mulanje"
+            },
+            {
+                "id": 64645,
+                "name": "Mulanje District"
+            },
+            {
+                "id": 64646,
+                "name": "Mwanza"
+            },
+            {
+                "id": 64647,
+                "name": "Mwanza District"
+            },
+            {
+                "id": 64648,
+                "name": "Neno District"
+            },
+            {
+                "id": 64649,
+                "name": "Nsanje"
+            },
+            {
+                "id": 64650,
+                "name": "Nsanje District"
+            },
+            {
+                "id": 64651,
+                "name": "Phalombe"
+            },
+            {
+                "id": 64652,
+                "name": "Phalombe District"
+            },
+            {
+                "id": 64653,
+                "name": "Thyolo"
+            },
+            {
+                "id": 64654,
+                "name": "Thyolo District"
+            },
+            {
+                "id": 64655,
+                "name": "Zomba"
+            },
+            {
+                "id": 64656,
+                "name": "Zomba District"
+            }
+        ]
+    },
+    {
+        "id": 2464,
+        "name": "Thyolo District",
+        "cities": []
+    },
+    {
+        "id": 2465,
+        "name": "Zomba District",
+        "cities": []
+    }
+]

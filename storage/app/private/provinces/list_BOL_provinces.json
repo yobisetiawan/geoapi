@@ -1,0 +1,968 @@
+[
+    {
+        "id": 482,
+        "name": "Beni Department",
+        "cities": [
+            {
+                "id": 9660,
+                "name": "Guayaramerín"
+            },
+            {
+                "id": 9661,
+                "name": "Provincia Cercado"
+            },
+            {
+                "id": 9662,
+                "name": "Provincia General José Ballivián"
+            },
+            {
+                "id": 9663,
+                "name": "Provincia Iténez"
+            },
+            {
+                "id": 9664,
+                "name": "Provincia Mamoré"
+            },
+            {
+                "id": 9665,
+                "name": "Provincia Marbán"
+            },
+            {
+                "id": 9666,
+                "name": "Provincia Moxos"
+            },
+            {
+                "id": 9667,
+                "name": "Provincia Vaca Diez"
+            },
+            {
+                "id": 9668,
+                "name": "Provincia Yacuma"
+            },
+            {
+                "id": 9669,
+                "name": "Reyes"
+            },
+            {
+                "id": 9670,
+                "name": "Riberalta"
+            },
+            {
+                "id": 9671,
+                "name": "Rurrenabaque"
+            },
+            {
+                "id": 9672,
+                "name": "San Borja"
+            },
+            {
+                "id": 9673,
+                "name": "San Ramón"
+            },
+            {
+                "id": 9674,
+                "name": "Santa Ana de Yacuma"
+            },
+            {
+                "id": 9675,
+                "name": "Santa Rosa"
+            },
+            {
+                "id": 9676,
+                "name": "Trinidad"
+            }
+        ]
+    },
+    {
+        "id": 483,
+        "name": "Chuquisaca Department",
+        "cities": [
+            {
+                "id": 9677,
+                "name": "Camargo"
+            },
+            {
+                "id": 9678,
+                "name": "Monteagudo"
+            },
+            {
+                "id": 9679,
+                "name": "Padilla"
+            },
+            {
+                "id": 9680,
+                "name": "Provincia Azurduy"
+            },
+            {
+                "id": 9681,
+                "name": "Provincia Belisario Boeto"
+            },
+            {
+                "id": 9682,
+                "name": "Provincia Hernando Siles"
+            },
+            {
+                "id": 9683,
+                "name": "Provincia Luis Calvo"
+            },
+            {
+                "id": 9684,
+                "name": "Provincia Nor Cinti"
+            },
+            {
+                "id": 9685,
+                "name": "Provincia Oropeza"
+            },
+            {
+                "id": 9686,
+                "name": "Provincia Sud Cinti"
+            },
+            {
+                "id": 9687,
+                "name": "Provincia Tomina"
+            },
+            {
+                "id": 9688,
+                "name": "Provincia Yamparáez"
+            },
+            {
+                "id": 9689,
+                "name": "Provincia Zudáñez"
+            },
+            {
+                "id": 9690,
+                "name": "Sucre"
+            },
+            {
+                "id": 9691,
+                "name": "Tarabuco"
+            }
+        ]
+    },
+    {
+        "id": 484,
+        "name": "Cochabamba Department",
+        "cities": [
+            {
+                "id": 9692,
+                "name": "Aiquile"
+            },
+            {
+                "id": 9693,
+                "name": "Arani"
+            },
+            {
+                "id": 9694,
+                "name": "Bolivar"
+            },
+            {
+                "id": 9695,
+                "name": "Capinota"
+            },
+            {
+                "id": 9696,
+                "name": "Chimoré"
+            },
+            {
+                "id": 9697,
+                "name": "Cliza"
+            },
+            {
+                "id": 9698,
+                "name": "Cochabamba"
+            },
+            {
+                "id": 9699,
+                "name": "Colchani"
+            },
+            {
+                "id": 9700,
+                "name": "Colomi"
+            },
+            {
+                "id": 9701,
+                "name": "Independencia"
+            },
+            {
+                "id": 9702,
+                "name": "Irpa Irpa"
+            },
+            {
+                "id": 9703,
+                "name": "Mizque"
+            },
+            {
+                "id": 9704,
+                "name": "Provincia Arani"
+            },
+            {
+                "id": 9705,
+                "name": "Provincia Arque"
+            },
+            {
+                "id": 9706,
+                "name": "Provincia Ayopaya"
+            },
+            {
+                "id": 9707,
+                "name": "Provincia Campero"
+            },
+            {
+                "id": 9708,
+                "name": "Provincia Capinota"
+            },
+            {
+                "id": 9709,
+                "name": "Provincia Carrasco"
+            },
+            {
+                "id": 9710,
+                "name": "Provincia Cercado"
+            },
+            {
+                "id": 9711,
+                "name": "Provincia Chaparé"
+            },
+            {
+                "id": 9712,
+                "name": "Provincia Esteban Arce"
+            },
+            {
+                "id": 9713,
+                "name": "Provincia Germán Jordán"
+            },
+            {
+                "id": 9714,
+                "name": "Provincia Mizque"
+            },
+            {
+                "id": 9715,
+                "name": "Provincia Punata"
+            },
+            {
+                "id": 9716,
+                "name": "Provincia Quillacollo"
+            },
+            {
+                "id": 9717,
+                "name": "Provincia Tapacarí"
+            },
+            {
+                "id": 9718,
+                "name": "Punata"
+            },
+            {
+                "id": 9719,
+                "name": "Quillacollo"
+            },
+            {
+                "id": 9720,
+                "name": "Sacaba"
+            },
+            {
+                "id": 9721,
+                "name": "Sipe Sipe"
+            },
+            {
+                "id": 9722,
+                "name": "Tarata"
+            },
+            {
+                "id": 9723,
+                "name": "Tiquipaya"
+            },
+            {
+                "id": 9724,
+                "name": "Tiraque Province"
+            },
+            {
+                "id": 9725,
+                "name": "Totora"
+            }
+        ]
+    },
+    {
+        "id": 485,
+        "name": "La Paz Department",
+        "cities": [
+            {
+                "id": 9726,
+                "name": "Achacachi"
+            },
+            {
+                "id": 9727,
+                "name": "Amarete"
+            },
+            {
+                "id": 9728,
+                "name": "Batallas"
+            },
+            {
+                "id": 9729,
+                "name": "Caranavi"
+            },
+            {
+                "id": 9730,
+                "name": "Chulumani"
+            },
+            {
+                "id": 9731,
+                "name": "Colquiri"
+            },
+            {
+                "id": 9732,
+                "name": "Coripata"
+            },
+            {
+                "id": 9733,
+                "name": "Coroico"
+            },
+            {
+                "id": 9734,
+                "name": "Curahuara de Carangas"
+            },
+            {
+                "id": 9735,
+                "name": "Eucaliptus"
+            },
+            {
+                "id": 9736,
+                "name": "Guanay"
+            },
+            {
+                "id": 9737,
+                "name": "Huarina"
+            },
+            {
+                "id": 9738,
+                "name": "Huatajata"
+            },
+            {
+                "id": 9739,
+                "name": "José Manuel Pando"
+            },
+            {
+                "id": 9740,
+                "name": "La Paz"
+            },
+            {
+                "id": 9741,
+                "name": "Lahuachaca"
+            },
+            {
+                "id": 9742,
+                "name": "Mapiri"
+            },
+            {
+                "id": 9743,
+                "name": "Patacamaya"
+            },
+            {
+                "id": 9744,
+                "name": "Provincia Aroma"
+            },
+            {
+                "id": 9745,
+                "name": "Provincia Bautista Saavedra"
+            },
+            {
+                "id": 9746,
+                "name": "Provincia Camacho"
+            },
+            {
+                "id": 9747,
+                "name": "Provincia Franz Tamayo"
+            },
+            {
+                "id": 9748,
+                "name": "Provincia Gualberto Villarroel"
+            },
+            {
+                "id": 9749,
+                "name": "Provincia Ingavi"
+            },
+            {
+                "id": 9750,
+                "name": "Provincia Inquisivi"
+            },
+            {
+                "id": 9751,
+                "name": "Provincia Iturralde"
+            },
+            {
+                "id": 9752,
+                "name": "Provincia Larecaja"
+            },
+            {
+                "id": 9753,
+                "name": "Provincia Loayza"
+            },
+            {
+                "id": 9754,
+                "name": "Provincia Los Andes"
+            },
+            {
+                "id": 9755,
+                "name": "Provincia Manco Kapac"
+            },
+            {
+                "id": 9756,
+                "name": "Provincia Muñecas"
+            },
+            {
+                "id": 9757,
+                "name": "Provincia Murillo"
+            },
+            {
+                "id": 9758,
+                "name": "Provincia Nor Yungas"
+            },
+            {
+                "id": 9759,
+                "name": "Provincia Omasuyos"
+            },
+            {
+                "id": 9760,
+                "name": "Provincia Pacajes"
+            },
+            {
+                "id": 9761,
+                "name": "Provincia Sud Yungas"
+            },
+            {
+                "id": 9762,
+                "name": "Quime"
+            },
+            {
+                "id": 9763,
+                "name": "San Pablo"
+            },
+            {
+                "id": 9764,
+                "name": "San Pedro"
+            },
+            {
+                "id": 9765,
+                "name": "Sorata"
+            },
+            {
+                "id": 9766,
+                "name": "Tiahuanaco"
+            },
+            {
+                "id": 9767,
+                "name": "Viloco"
+            },
+            {
+                "id": 9768,
+                "name": "Yumani"
+            }
+        ]
+    },
+    {
+        "id": 486,
+        "name": "Oruro Department",
+        "cities": [
+            {
+                "id": 9769,
+                "name": "Challapata"
+            },
+            {
+                "id": 9770,
+                "name": "Huanuni"
+            },
+            {
+                "id": 9771,
+                "name": "Litoral de Atacama"
+            },
+            {
+                "id": 9772,
+                "name": "Machacamarca"
+            },
+            {
+                "id": 9773,
+                "name": "Nor Carangas Province"
+            },
+            {
+                "id": 9774,
+                "name": "Oruro"
+            },
+            {
+                "id": 9775,
+                "name": "Poopó"
+            },
+            {
+                "id": 9776,
+                "name": "Provincia Avaroa"
+            },
+            {
+                "id": 9777,
+                "name": "Provincia Carangas"
+            },
+            {
+                "id": 9778,
+                "name": "Provincia Cercado"
+            },
+            {
+                "id": 9779,
+                "name": "Provincia Ladislao Cabrera"
+            },
+            {
+                "id": 9780,
+                "name": "Provincia Pantaleón Dalence"
+            },
+            {
+                "id": 9781,
+                "name": "Provincia Poopó"
+            },
+            {
+                "id": 9782,
+                "name": "Provincia Sabaya"
+            },
+            {
+                "id": 9783,
+                "name": "Provincia Sajama"
+            },
+            {
+                "id": 9784,
+                "name": "Provincia San Pedro de Totora"
+            },
+            {
+                "id": 9785,
+                "name": "Provincia Saucari"
+            },
+            {
+                "id": 9786,
+                "name": "Provincia Tomás Barron"
+            },
+            {
+                "id": 9787,
+                "name": "Puerto de Mejillones"
+            },
+            {
+                "id": 9788,
+                "name": "Sebastian Pagador Province"
+            },
+            {
+                "id": 9789,
+                "name": "Sud Carangas Province"
+            },
+            {
+                "id": 9790,
+                "name": "Totoral"
+            }
+        ]
+    },
+    {
+        "id": 487,
+        "name": "Pando Department",
+        "cities": [
+            {
+                "id": 9791,
+                "name": "Cobija"
+            },
+            {
+                "id": 9792,
+                "name": "Provincia Abuná"
+            },
+            {
+                "id": 9793,
+                "name": "Provincia General Federico Román"
+            },
+            {
+                "id": 9794,
+                "name": "Provincia Madre de Dios"
+            },
+            {
+                "id": 9795,
+                "name": "Provincia Manuripi"
+            },
+            {
+                "id": 9796,
+                "name": "Provincia Nicolás Suárez"
+            }
+        ]
+    },
+    {
+        "id": 488,
+        "name": "Potosí Department",
+        "cities": [
+            {
+                "id": 9797,
+                "name": "Atocha"
+            },
+            {
+                "id": 9798,
+                "name": "Betanzos"
+            },
+            {
+                "id": 9799,
+                "name": "Colchani"
+            },
+            {
+                "id": 9800,
+                "name": "Colquechaca"
+            },
+            {
+                "id": 9801,
+                "name": "Enrique Baldivieso"
+            },
+            {
+                "id": 9802,
+                "name": "Llallagua"
+            },
+            {
+                "id": 9803,
+                "name": "Potosí"
+            },
+            {
+                "id": 9804,
+                "name": "Provincia Alonzo de Ibáñez"
+            },
+            {
+                "id": 9805,
+                "name": "Provincia Charcas"
+            },
+            {
+                "id": 9806,
+                "name": "Provincia Chayanta"
+            },
+            {
+                "id": 9807,
+                "name": "Provincia Daniel Campos"
+            },
+            {
+                "id": 9808,
+                "name": "Provincia General Bilbao"
+            },
+            {
+                "id": 9809,
+                "name": "Provincia Linares"
+            },
+            {
+                "id": 9810,
+                "name": "Provincia Modesto Omiste"
+            },
+            {
+                "id": 9811,
+                "name": "Provincia Nor Chichas"
+            },
+            {
+                "id": 9812,
+                "name": "Provincia Nor Lípez"
+            },
+            {
+                "id": 9813,
+                "name": "Provincia Quijarro"
+            },
+            {
+                "id": 9814,
+                "name": "Provincia Rafael Bustillo"
+            },
+            {
+                "id": 9815,
+                "name": "Provincia Saavedra"
+            },
+            {
+                "id": 9816,
+                "name": "Provincia Sud Chichas"
+            },
+            {
+                "id": 9817,
+                "name": "Provincia Sud Lípez"
+            },
+            {
+                "id": 9818,
+                "name": "Provincia Tomás Frías"
+            },
+            {
+                "id": 9819,
+                "name": "Santa Bárbara"
+            },
+            {
+                "id": 9820,
+                "name": "Tupiza"
+            },
+            {
+                "id": 9821,
+                "name": "Uyuni"
+            },
+            {
+                "id": 9822,
+                "name": "Villazón"
+            }
+        ]
+    },
+    {
+        "id": 489,
+        "name": "Santa Cruz Department",
+        "cities": [
+            {
+                "id": 9823,
+                "name": "Abapó"
+            },
+            {
+                "id": 9824,
+                "name": "Ascención de Guarayos"
+            },
+            {
+                "id": 9825,
+                "name": "Ascensión"
+            },
+            {
+                "id": 9826,
+                "name": "Boyuibe"
+            },
+            {
+                "id": 9827,
+                "name": "Buena Vista"
+            },
+            {
+                "id": 9828,
+                "name": "Camiri"
+            },
+            {
+                "id": 9829,
+                "name": "Charagua"
+            },
+            {
+                "id": 9830,
+                "name": "Comarapa"
+            },
+            {
+                "id": 9831,
+                "name": "Concepción"
+            },
+            {
+                "id": 9832,
+                "name": "Cotoca"
+            },
+            {
+                "id": 9833,
+                "name": "German Busch"
+            },
+            {
+                "id": 9834,
+                "name": "Guarayos"
+            },
+            {
+                "id": 9835,
+                "name": "Jorochito"
+            },
+            {
+                "id": 9836,
+                "name": "La Bélgica"
+            },
+            {
+                "id": 9837,
+                "name": "Limoncito"
+            },
+            {
+                "id": 9838,
+                "name": "Los Negros"
+            },
+            {
+                "id": 9839,
+                "name": "Mairana"
+            },
+            {
+                "id": 9840,
+                "name": "Mineros"
+            },
+            {
+                "id": 9841,
+                "name": "Montero"
+            },
+            {
+                "id": 9842,
+                "name": "Okinawa Número Uno"
+            },
+            {
+                "id": 9843,
+                "name": "Pailón"
+            },
+            {
+                "id": 9844,
+                "name": "Paurito"
+            },
+            {
+                "id": 9845,
+                "name": "Portachuelo"
+            },
+            {
+                "id": 9846,
+                "name": "Provincia Andrés Ibáñez"
+            },
+            {
+                "id": 9847,
+                "name": "Provincia Ángel Sandoval"
+            },
+            {
+                "id": 9848,
+                "name": "Provincia Chiquitos"
+            },
+            {
+                "id": 9849,
+                "name": "Provincia Cordillera"
+            },
+            {
+                "id": 9850,
+                "name": "Provincia Florida"
+            },
+            {
+                "id": 9851,
+                "name": "Provincia Ichilo"
+            },
+            {
+                "id": 9852,
+                "name": "Provincia Manuel María Caballero"
+            },
+            {
+                "id": 9853,
+                "name": "Provincia Ñuflo de Chávez"
+            },
+            {
+                "id": 9854,
+                "name": "Provincia Santiesteban"
+            },
+            {
+                "id": 9855,
+                "name": "Provincia Sara"
+            },
+            {
+                "id": 9856,
+                "name": "Provincia Vallegrande"
+            },
+            {
+                "id": 9857,
+                "name": "Provincia Velasco"
+            },
+            {
+                "id": 9858,
+                "name": "Provincia Warnes"
+            },
+            {
+                "id": 9859,
+                "name": "Puerto Quijarro"
+            },
+            {
+                "id": 9860,
+                "name": "Puesto de Pailas"
+            },
+            {
+                "id": 9861,
+                "name": "Roboré"
+            },
+            {
+                "id": 9862,
+                "name": "Samaipata"
+            },
+            {
+                "id": 9863,
+                "name": "San Carlos"
+            },
+            {
+                "id": 9864,
+                "name": "San Ignacio de Velasco"
+            },
+            {
+                "id": 9865,
+                "name": "San Juan del Surutú"
+            },
+            {
+                "id": 9866,
+                "name": "San Julian"
+            },
+            {
+                "id": 9867,
+                "name": "San Matías"
+            },
+            {
+                "id": 9868,
+                "name": "San Pedro"
+            },
+            {
+                "id": 9869,
+                "name": "Santa Cruz de la Sierra"
+            },
+            {
+                "id": 9870,
+                "name": "Santa Rita"
+            },
+            {
+                "id": 9871,
+                "name": "Santa Rosa del Sara"
+            },
+            {
+                "id": 9872,
+                "name": "Santiago del Torno"
+            },
+            {
+                "id": 9873,
+                "name": "Urubichá"
+            },
+            {
+                "id": 9874,
+                "name": "Vallegrande"
+            },
+            {
+                "id": 9875,
+                "name": "Villa Yapacaní"
+            },
+            {
+                "id": 9876,
+                "name": "Warnes"
+            }
+        ]
+    },
+    {
+        "id": 490,
+        "name": "Tarija Department",
+        "cities": [
+            {
+                "id": 9877,
+                "name": "Bermejo"
+            },
+            {
+                "id": 9878,
+                "name": "Entre Ríos"
+            },
+            {
+                "id": 9879,
+                "name": "Provincia Arce"
+            },
+            {
+                "id": 9880,
+                "name": "Provincia Avilez"
+            },
+            {
+                "id": 9881,
+                "name": "Provincia Cercado"
+            },
+            {
+                "id": 9882,
+                "name": "Provincia Gran Chaco"
+            },
+            {
+                "id": 9883,
+                "name": "Provincia Méndez"
+            },
+            {
+                "id": 9884,
+                "name": "Provincia O’Connor"
+            },
+            {
+                "id": 9885,
+                "name": "Tarija"
+            },
+            {
+                "id": 9886,
+                "name": "Villamontes"
+            },
+            {
+                "id": 9887,
+                "name": "Yacuiba"
+            }
+        ]
+    }
+]

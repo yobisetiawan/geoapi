@@ -1,0 +1,5058 @@
+[
+    {
+        "id": 772,
+        "name": "Anhui",
+        "cities": [
+            {
+                "id": 18070,
+                "name": "Anqing"
+            },
+            {
+                "id": 18071,
+                "name": "Anqing Shi"
+            },
+            {
+                "id": 18072,
+                "name": "Bengbu"
+            },
+            {
+                "id": 18073,
+                "name": "Bozhou"
+            },
+            {
+                "id": 18074,
+                "name": "Chaohu"
+            },
+            {
+                "id": 18075,
+                "name": "Chizhou"
+            },
+            {
+                "id": 18076,
+                "name": "Chizhou Shi"
+            },
+            {
+                "id": 18077,
+                "name": "Chuzhou"
+            },
+            {
+                "id": 18078,
+                "name": "Chuzhou Shi"
+            },
+            {
+                "id": 18079,
+                "name": "Datong"
+            },
+            {
+                "id": 18080,
+                "name": "Fuyang"
+            },
+            {
+                "id": 18081,
+                "name": "Fuyang Shi"
+            },
+            {
+                "id": 18082,
+                "name": "Gushu"
+            },
+            {
+                "id": 18083,
+                "name": "Hefei"
+            },
+            {
+                "id": 18084,
+                "name": "Hefei Shi"
+            },
+            {
+                "id": 18085,
+                "name": "Huaibei"
+            },
+            {
+                "id": 18086,
+                "name": "Huainan"
+            },
+            {
+                "id": 18087,
+                "name": "Huainan Shi"
+            },
+            {
+                "id": 18088,
+                "name": "Huaiyuan Chengguanzhen"
+            },
+            {
+                "id": 18089,
+                "name": "Huangshan"
+            },
+            {
+                "id": 18090,
+                "name": "Huangshan Shi"
+            },
+            {
+                "id": 18091,
+                "name": "Huoqiu Chengguanzhen"
+            },
+            {
+                "id": 18092,
+                "name": "Jieshou"
+            },
+            {
+                "id": 18093,
+                "name": "Lu’an"
+            },
+            {
+                "id": 18094,
+                "name": "Lucheng"
+            },
+            {
+                "id": 18095,
+                "name": "Mengcheng Chengguanzhen"
+            },
+            {
+                "id": 18096,
+                "name": "Mingguang"
+            },
+            {
+                "id": 18097,
+                "name": "Suixi"
+            },
+            {
+                "id": 18098,
+                "name": "Suzhou"
+            },
+            {
+                "id": 18099,
+                "name": "Suzhou Shi"
+            },
+            {
+                "id": 18100,
+                "name": "Tangzhai"
+            },
+            {
+                "id": 18101,
+                "name": "Wucheng"
+            },
+            {
+                "id": 18102,
+                "name": "Wuhu"
+            },
+            {
+                "id": 18103,
+                "name": "Wusong"
+            },
+            {
+                "id": 18104,
+                "name": "Wuyang"
+            },
+            {
+                "id": 18105,
+                "name": "Xuanzhou"
+            },
+            {
+                "id": 18106,
+                "name": "Yingshang Chengguanzhen"
+            }
+        ]
+    },
+    {
+        "id": 773,
+        "name": "Beijing",
+        "cities": [
+            {
+                "id": 18107,
+                "name": "Beijing"
+            },
+            {
+                "id": 18108,
+                "name": "Changping"
+            },
+            {
+                "id": 18109,
+                "name": "Daxing"
+            },
+            {
+                "id": 18110,
+                "name": "Fangshan"
+            },
+            {
+                "id": 18111,
+                "name": "Liangxiang"
+            },
+            {
+                "id": 18112,
+                "name": "Mentougou"
+            },
+            {
+                "id": 18113,
+                "name": "Shunyi"
+            },
+            {
+                "id": 18114,
+                "name": "Tongzhou"
+            }
+        ]
+    },
+    {
+        "id": 774,
+        "name": "Chongqing",
+        "cities": [
+            {
+                "id": 18115,
+                "name": "Beibei"
+            },
+            {
+                "id": 18116,
+                "name": "Caijia"
+            },
+            {
+                "id": 18117,
+                "name": "Chongqing"
+            },
+            {
+                "id": 18118,
+                "name": "Dongxi"
+            },
+            {
+                "id": 18119,
+                "name": "Fuling"
+            },
+            {
+                "id": 18120,
+                "name": "Ganshui"
+            },
+            {
+                "id": 18121,
+                "name": "Guofuchang"
+            },
+            {
+                "id": 18122,
+                "name": "Hechuan"
+            },
+            {
+                "id": 18123,
+                "name": "Jijiang"
+            },
+            {
+                "id": 18124,
+                "name": "Liangping District"
+            },
+            {
+                "id": 18125,
+                "name": "Puhechang"
+            },
+            {
+                "id": 18126,
+                "name": "Shapingba District"
+            },
+            {
+                "id": 18127,
+                "name": "Shijiaochang"
+            },
+            {
+                "id": 18128,
+                "name": "Wanxian"
+            },
+            {
+                "id": 18129,
+                "name": "Wanzhou District"
+            },
+            {
+                "id": 18130,
+                "name": "Yongchuan"
+            },
+            {
+                "id": 18131,
+                "name": "Yudong"
+            },
+            {
+                "id": 18132,
+                "name": "Yuzhong District"
+            }
+        ]
+    },
+    {
+        "id": 775,
+        "name": "Fujian",
+        "cities": [
+            {
+                "id": 18133,
+                "name": "Badu"
+            },
+            {
+                "id": 18134,
+                "name": "Baiqi"
+            },
+            {
+                "id": 18135,
+                "name": "Baiyun"
+            },
+            {
+                "id": 18136,
+                "name": "Beishancun"
+            },
+            {
+                "id": 18137,
+                "name": "Changqiao"
+            },
+            {
+                "id": 18138,
+                "name": "Chengmen"
+            },
+            {
+                "id": 18139,
+                "name": "Chixi"
+            },
+            {
+                "id": 18140,
+                "name": "Chongru"
+            },
+            {
+                "id": 18141,
+                "name": "Dadeng"
+            },
+            {
+                "id": 18142,
+                "name": "Daixi"
+            },
+            {
+                "id": 18143,
+                "name": "Danyang"
+            },
+            {
+                "id": 18144,
+                "name": "Daqiao"
+            },
+            {
+                "id": 18145,
+                "name": "Dazuo"
+            },
+            {
+                "id": 18146,
+                "name": "Dinghaicun"
+            },
+            {
+                "id": 18147,
+                "name": "Dingtoucun"
+            },
+            {
+                "id": 18148,
+                "name": "Dongchongcun"
+            },
+            {
+                "id": 18149,
+                "name": "Dongdai"
+            },
+            {
+                "id": 18150,
+                "name": "Donghu"
+            },
+            {
+                "id": 18151,
+                "name": "Dongling"
+            },
+            {
+                "id": 18152,
+                "name": "Dongyuan"
+            },
+            {
+                "id": 18153,
+                "name": "Feiluan"
+            },
+            {
+                "id": 18154,
+                "name": "Fengpu"
+            },
+            {
+                "id": 18155,
+                "name": "Fengzhou"
+            },
+            {
+                "id": 18156,
+                "name": "Fu’an"
+            },
+            {
+                "id": 18157,
+                "name": "Fuding"
+            },
+            {
+                "id": 18158,
+                "name": "Fuqing"
+            },
+            {
+                "id": 18159,
+                "name": "Fuzhou"
+            },
+            {
+                "id": 18160,
+                "name": "Gantang"
+            },
+            {
+                "id": 18161,
+                "name": "Guantou"
+            },
+            {
+                "id": 18162,
+                "name": "Gufeng"
+            },
+            {
+                "id": 18163,
+                "name": "Hetang"
+            },
+            {
+                "id": 18164,
+                "name": "Hongtang"
+            },
+            {
+                "id": 18165,
+                "name": "Hongyang"
+            },
+            {
+                "id": 18166,
+                "name": "Houyu"
+            },
+            {
+                "id": 18167,
+                "name": "Huai’an"
+            },
+            {
+                "id": 18168,
+                "name": "Huangtian"
+            },
+            {
+                "id": 18169,
+                "name": "Huotong"
+            },
+            {
+                "id": 18170,
+                "name": "Jian’ou"
+            },
+            {
+                "id": 18171,
+                "name": "Jiangkou"
+            },
+            {
+                "id": 18172,
+                "name": "Jianjiang"
+            },
+            {
+                "id": 18173,
+                "name": "Jingfeng"
+            },
+            {
+                "id": 18174,
+                "name": "Jinjiang"
+            },
+            {
+                "id": 18175,
+                "name": "Jinjing"
+            },
+            {
+                "id": 18176,
+                "name": "Jitoucun"
+            },
+            {
+                "id": 18177,
+                "name": "Kengyuan"
+            },
+            {
+                "id": 18178,
+                "name": "Kerencun"
+            },
+            {
+                "id": 18179,
+                "name": "Kuai’an"
+            },
+            {
+                "id": 18180,
+                "name": "Lianhecun"
+            },
+            {
+                "id": 18181,
+                "name": "Liuwudiancun"
+            },
+            {
+                "id": 18182,
+                "name": "Longmen"
+            },
+            {
+                "id": 18183,
+                "name": "Longyan"
+            },
+            {
+                "id": 18184,
+                "name": "Luoqiao"
+            },
+            {
+                "id": 18185,
+                "name": "Luoyang"
+            },
+            {
+                "id": 18186,
+                "name": "Luxia"
+            },
+            {
+                "id": 18187,
+                "name": "Maping"
+            },
+            {
+                "id": 18188,
+                "name": "Meipu"
+            },
+            {
+                "id": 18189,
+                "name": "Min’an"
+            },
+            {
+                "id": 18190,
+                "name": "Nanping"
+            },
+            {
+                "id": 18191,
+                "name": "Neikeng"
+            },
+            {
+                "id": 18192,
+                "name": "Ningde"
+            },
+            {
+                "id": 18193,
+                "name": "Pandu"
+            },
+            {
+                "id": 18194,
+                "name": "Pucheng"
+            },
+            {
+                "id": 18195,
+                "name": "Putian"
+            },
+            {
+                "id": 18196,
+                "name": "Qibu"
+            },
+            {
+                "id": 18197,
+                "name": "Qidu"
+            },
+            {
+                "id": 18198,
+                "name": "Quanzhou"
+            },
+            {
+                "id": 18199,
+                "name": "Rong’an"
+            },
+            {
+                "id": 18200,
+                "name": "Sanming"
+            },
+            {
+                "id": 18201,
+                "name": "Shajiang"
+            },
+            {
+                "id": 18202,
+                "name": "Shangjie"
+            },
+            {
+                "id": 18203,
+                "name": "Shanxia"
+            },
+            {
+                "id": 18204,
+                "name": "Shanyang"
+            },
+            {
+                "id": 18205,
+                "name": "Shaowu"
+            },
+            {
+                "id": 18206,
+                "name": "Shijing"
+            },
+            {
+                "id": 18207,
+                "name": "Shima"
+            },
+            {
+                "id": 18208,
+                "name": "Shoushan"
+            },
+            {
+                "id": 18209,
+                "name": "Shuangxi"
+            },
+            {
+                "id": 18210,
+                "name": "Shuangzhu"
+            },
+            {
+                "id": 18211,
+                "name": "Shuikou"
+            },
+            {
+                "id": 18212,
+                "name": "Tangkou"
+            },
+            {
+                "id": 18213,
+                "name": "Tantou"
+            },
+            {
+                "id": 18214,
+                "name": "Tatou"
+            },
+            {
+                "id": 18215,
+                "name": "Tingjiang"
+            },
+            {
+                "id": 18216,
+                "name": "Tuzhai"
+            },
+            {
+                "id": 18217,
+                "name": "Wubao"
+            },
+            {
+                "id": 18218,
+                "name": "Wuyishan"
+            },
+            {
+                "id": 18219,
+                "name": "Wuyucun"
+            },
+            {
+                "id": 18220,
+                "name": "Xiabaishi"
+            },
+            {
+                "id": 18221,
+                "name": "Xiahu"
+            },
+            {
+                "id": 18222,
+                "name": "Xiamen"
+            },
+            {
+                "id": 18223,
+                "name": "Xiancun"
+            },
+            {
+                "id": 18224,
+                "name": "Xiangyun"
+            },
+            {
+                "id": 18225,
+                "name": "Xibing"
+            },
+            {
+                "id": 18226,
+                "name": "Xiling"
+            },
+            {
+                "id": 18227,
+                "name": "Ximei"
+            },
+            {
+                "id": 18228,
+                "name": "Xinan"
+            },
+            {
+                "id": 18229,
+                "name": "Xindian"
+            },
+            {
+                "id": 18230,
+                "name": "Yakou"
+            },
+            {
+                "id": 18231,
+                "name": "Yanghou"
+            },
+            {
+                "id": 18232,
+                "name": "Yangzhong"
+            },
+            {
+                "id": 18233,
+                "name": "Yantian"
+            },
+            {
+                "id": 18234,
+                "name": "Yingdu"
+            },
+            {
+                "id": 18235,
+                "name": "Yinglin"
+            },
+            {
+                "id": 18236,
+                "name": "Yongning"
+            },
+            {
+                "id": 18237,
+                "name": "Yushan"
+            },
+            {
+                "id": 18238,
+                "name": "Zhangwan"
+            },
+            {
+                "id": 18239,
+                "name": "Zhangzhou"
+            },
+            {
+                "id": 18240,
+                "name": "Zhenhaicun"
+            },
+            {
+                "id": 18241,
+                "name": "Zhongfang"
+            },
+            {
+                "id": 18242,
+                "name": "Zhuoyang"
+            },
+            {
+                "id": 18243,
+                "name": "Zhuqi"
+            }
+        ]
+    },
+    {
+        "id": 776,
+        "name": "Gansu",
+        "cities": [
+            {
+                "id": 18244,
+                "name": "Baiyin"
+            },
+            {
+                "id": 18245,
+                "name": "Beidao"
+            },
+            {
+                "id": 18246,
+                "name": "Dingxi Shi"
+            },
+            {
+                "id": 18247,
+                "name": "Hezuo"
+            },
+            {
+                "id": 18248,
+                "name": "Jiayuguan"
+            },
+            {
+                "id": 18249,
+                "name": "Jinchang"
+            },
+            {
+                "id": 18250,
+                "name": "Jiuquan"
+            },
+            {
+                "id": 18251,
+                "name": "Lanzhou"
+            },
+            {
+                "id": 18252,
+                "name": "Laojunmiao"
+            },
+            {
+                "id": 18253,
+                "name": "Linxia Chengguanzhen"
+            },
+            {
+                "id": 18254,
+                "name": "Linxia Huizu Zizhizhou"
+            },
+            {
+                "id": 18255,
+                "name": "Longnan Shi"
+            },
+            {
+                "id": 18256,
+                "name": "Mawu"
+            },
+            {
+                "id": 18257,
+                "name": "Pingliang"
+            },
+            {
+                "id": 18258,
+                "name": "Qincheng"
+            },
+            {
+                "id": 18259,
+                "name": "Qingyang Shi"
+            },
+            {
+                "id": 18260,
+                "name": "Tianshui"
+            },
+            {
+                "id": 18261,
+                "name": "Wuwei"
+            },
+            {
+                "id": 18262,
+                "name": "Zhangye"
+            },
+            {
+                "id": 18263,
+                "name": "Zhangye Shi"
+            }
+        ]
+    },
+    {
+        "id": 777,
+        "name": "Guangdong",
+        "cities": [
+            {
+                "id": 18264,
+                "name": "Anbu"
+            },
+            {
+                "id": 18265,
+                "name": "Chaozhou"
+            },
+            {
+                "id": 18266,
+                "name": "Chenghua"
+            },
+            {
+                "id": 18267,
+                "name": "Daliang"
+            },
+            {
+                "id": 18268,
+                "name": "Danshui"
+            },
+            {
+                "id": 18269,
+                "name": "Dasha"
+            },
+            {
+                "id": 18270,
+                "name": "Dongguan"
+            },
+            {
+                "id": 18271,
+                "name": "Donghai"
+            },
+            {
+                "id": 18272,
+                "name": "Ducheng"
+            },
+            {
+                "id": 18273,
+                "name": "Encheng"
+            },
+            {
+                "id": 18274,
+                "name": "Foshan"
+            },
+            {
+                "id": 18275,
+                "name": "Foshan Shi"
+            },
+            {
+                "id": 18276,
+                "name": "Gaoyao"
+            },
+            {
+                "id": 18277,
+                "name": "Gaozhou"
+            },
+            {
+                "id": 18278,
+                "name": "Guangzhou"
+            },
+            {
+                "id": 18279,
+                "name": "Guangzhou Shi"
+            },
+            {
+                "id": 18280,
+                "name": "Haikuotiankong"
+            },
+            {
+                "id": 18281,
+                "name": "Haimen"
+            },
+            {
+                "id": 18282,
+                "name": "Hepo"
+            },
+            {
+                "id": 18283,
+                "name": "Heyuan"
+            },
+            {
+                "id": 18284,
+                "name": "Huaicheng"
+            },
+            {
+                "id": 18285,
+                "name": "Huanggang"
+            },
+            {
+                "id": 18286,
+                "name": "Huazhou"
+            },
+            {
+                "id": 18287,
+                "name": "Huicheng"
+            },
+            {
+                "id": 18288,
+                "name": "Huizhou"
+            },
+            {
+                "id": 18289,
+                "name": "Humen"
+            },
+            {
+                "id": 18290,
+                "name": "Jiangmen"
+            },
+            {
+                "id": 18291,
+                "name": "Jiazi"
+            },
+            {
+                "id": 18292,
+                "name": "Jieshi"
+            },
+            {
+                "id": 18293,
+                "name": "Jieyang"
+            },
+            {
+                "id": 18294,
+                "name": "Lecheng"
+            },
+            {
+                "id": 18295,
+                "name": "Lianjiang"
+            },
+            {
+                "id": 18296,
+                "name": "Lianzhou"
+            },
+            {
+                "id": 18297,
+                "name": "Licheng"
+            },
+            {
+                "id": 18298,
+                "name": "Lubu"
+            },
+            {
+                "id": 18299,
+                "name": "Luocheng"
+            },
+            {
+                "id": 18300,
+                "name": "Luoyang"
+            },
+            {
+                "id": 18301,
+                "name": "Maba"
+            },
+            {
+                "id": 18302,
+                "name": "Maoming"
+            },
+            {
+                "id": 18303,
+                "name": "Meizhou"
+            },
+            {
+                "id": 18304,
+                "name": "Nanfeng"
+            },
+            {
+                "id": 18305,
+                "name": "Pingshan"
+            },
+            {
+                "id": 18306,
+                "name": "Puning"
+            },
+            {
+                "id": 18307,
+                "name": "Qingyuan"
+            },
+            {
+                "id": 18308,
+                "name": "Sanshui"
+            },
+            {
+                "id": 18309,
+                "name": "Shantou"
+            },
+            {
+                "id": 18310,
+                "name": "Shanwei"
+            },
+            {
+                "id": 18311,
+                "name": "Shaoguan"
+            },
+            {
+                "id": 18312,
+                "name": "Shaping"
+            },
+            {
+                "id": 18313,
+                "name": "Shenzhen"
+            },
+            {
+                "id": 18314,
+                "name": "Shilong"
+            },
+            {
+                "id": 18315,
+                "name": "Shiqi"
+            },
+            {
+                "id": 18316,
+                "name": "Shiqiao"
+            },
+            {
+                "id": 18317,
+                "name": "Shiwan"
+            },
+            {
+                "id": 18318,
+                "name": "Shixing"
+            },
+            {
+                "id": 18319,
+                "name": "Taishan"
+            },
+            {
+                "id": 18320,
+                "name": "Tangping"
+            },
+            {
+                "id": 18321,
+                "name": "Wuchuan"
+            },
+            {
+                "id": 18322,
+                "name": "Xingning"
+            },
+            {
+                "id": 18323,
+                "name": "Xinhui"
+            },
+            {
+                "id": 18324,
+                "name": "Xinyi"
+            },
+            {
+                "id": 18325,
+                "name": "Xiongzhou"
+            },
+            {
+                "id": 18326,
+                "name": "Xucheng"
+            },
+            {
+                "id": 18327,
+                "name": "Yangchun"
+            },
+            {
+                "id": 18328,
+                "name": "Yangjiang"
+            },
+            {
+                "id": 18329,
+                "name": "Yingcheng"
+            },
+            {
+                "id": 18330,
+                "name": "Yunfu"
+            },
+            {
+                "id": 18331,
+                "name": "Zhanjiang"
+            },
+            {
+                "id": 18332,
+                "name": "Zhaoqing"
+            },
+            {
+                "id": 18333,
+                "name": "Zhongshan"
+            },
+            {
+                "id": 18334,
+                "name": "Zhongshan Prefecture"
+            },
+            {
+                "id": 18335,
+                "name": "Zhuhai"
+            }
+        ]
+    },
+    {
+        "id": 778,
+        "name": "Guangxi Zhuang Autonomous Region",
+        "cities": [
+            {
+                "id": 18336,
+                "name": "Babu"
+            },
+            {
+                "id": 18337,
+                "name": "Baihe"
+            },
+            {
+                "id": 18338,
+                "name": "Baise City"
+            },
+            {
+                "id": 18339,
+                "name": "Baise Shi"
+            },
+            {
+                "id": 18340,
+                "name": "Beihai"
+            },
+            {
+                "id": 18341,
+                "name": "Chongzuo Shi"
+            },
+            {
+                "id": 18342,
+                "name": "Dazhai"
+            },
+            {
+                "id": 18343,
+                "name": "Fangchenggang Shi"
+            },
+            {
+                "id": 18344,
+                "name": "Guigang"
+            },
+            {
+                "id": 18345,
+                "name": "Guilin"
+            },
+            {
+                "id": 18346,
+                "name": "Guilin Shi"
+            },
+            {
+                "id": 18347,
+                "name": "Guiping"
+            },
+            {
+                "id": 18348,
+                "name": "Hechi Shi"
+            },
+            {
+                "id": 18349,
+                "name": "Jinji"
+            },
+            {
+                "id": 18350,
+                "name": "Laibin"
+            },
+            {
+                "id": 18351,
+                "name": "Lianzhou"
+            },
+            {
+                "id": 18352,
+                "name": "Lingcheng"
+            },
+            {
+                "id": 18353,
+                "name": "Liuzhou Shi"
+            },
+            {
+                "id": 18354,
+                "name": "Luorong"
+            },
+            {
+                "id": 18355,
+                "name": "Nandu"
+            },
+            {
+                "id": 18356,
+                "name": "Nanning"
+            },
+            {
+                "id": 18357,
+                "name": "Pingnan"
+            },
+            {
+                "id": 18358,
+                "name": "Pumiao"
+            },
+            {
+                "id": 18359,
+                "name": "Qinzhou"
+            },
+            {
+                "id": 18360,
+                "name": "Wuzhou"
+            },
+            {
+                "id": 18361,
+                "name": "Yangshuo"
+            },
+            {
+                "id": 18362,
+                "name": "Yashan"
+            },
+            {
+                "id": 18363,
+                "name": "Yulin"
+            }
+        ]
+    },
+    {
+        "id": 779,
+        "name": "Guizhou",
+        "cities": [
+            {
+                "id": 18364,
+                "name": "Anshun"
+            },
+            {
+                "id": 18365,
+                "name": "Aoshi"
+            },
+            {
+                "id": 18366,
+                "name": "Bahuang"
+            },
+            {
+                "id": 18367,
+                "name": "Baishi"
+            },
+            {
+                "id": 18368,
+                "name": "Bangdong"
+            },
+            {
+                "id": 18369,
+                "name": "Benchu"
+            },
+            {
+                "id": 18370,
+                "name": "Bijie"
+            },
+            {
+                "id": 18371,
+                "name": "Chadian"
+            },
+            {
+                "id": 18372,
+                "name": "Changsha"
+            },
+            {
+                "id": 18373,
+                "name": "Chumi"
+            },
+            {
+                "id": 18374,
+                "name": "Dabachang"
+            },
+            {
+                "id": 18375,
+                "name": "Darong"
+            },
+            {
+                "id": 18376,
+                "name": "Dundong"
+            },
+            {
+                "id": 18377,
+                "name": "Duyun"
+            },
+            {
+                "id": 18378,
+                "name": "Gaoniang"
+            },
+            {
+                "id": 18379,
+                "name": "Gaowu"
+            },
+            {
+                "id": 18380,
+                "name": "Gaozeng"
+            },
+            {
+                "id": 18381,
+                "name": "Guandu"
+            },
+            {
+                "id": 18382,
+                "name": "Guiyang"
+            },
+            {
+                "id": 18383,
+                "name": "Hongzhou"
+            },
+            {
+                "id": 18384,
+                "name": "Huaqiu"
+            },
+            {
+                "id": 18385,
+                "name": "Lantian"
+            },
+            {
+                "id": 18386,
+                "name": "Liangcunchang"
+            },
+            {
+                "id": 18387,
+                "name": "Liupanshui"
+            },
+            {
+                "id": 18388,
+                "name": "Longlisuo"
+            },
+            {
+                "id": 18389,
+                "name": "Loushanguan"
+            },
+            {
+                "id": 18390,
+                "name": "Maoping"
+            },
+            {
+                "id": 18391,
+                "name": "Ouyang"
+            },
+            {
+                "id": 18392,
+                "name": "Pingjiang"
+            },
+            {
+                "id": 18393,
+                "name": "Qiandongnan Miao and Dong Autonomous Prefecture"
+            },
+            {
+                "id": 18394,
+                "name": "Qianxinan Bouyeizu Miaozu Zizhizhou"
+            },
+            {
+                "id": 18395,
+                "name": "Qimeng"
+            },
+            {
+                "id": 18396,
+                "name": "Qinglang"
+            },
+            {
+                "id": 18397,
+                "name": "Runsong"
+            },
+            {
+                "id": 18398,
+                "name": "Sanchahe"
+            },
+            {
+                "id": 18399,
+                "name": "Sangmu"
+            },
+            {
+                "id": 18400,
+                "name": "Shiqian"
+            },
+            {
+                "id": 18401,
+                "name": "Songkan"
+            },
+            {
+                "id": 18402,
+                "name": "Tingdong"
+            },
+            {
+                "id": 18403,
+                "name": "Tonggu"
+            },
+            {
+                "id": 18404,
+                "name": "Tongren"
+            },
+            {
+                "id": 18405,
+                "name": "Tongren Diqu"
+            },
+            {
+                "id": 18406,
+                "name": "Weining"
+            },
+            {
+                "id": 18407,
+                "name": "Wenshui"
+            },
+            {
+                "id": 18408,
+                "name": "Xiajiang"
+            },
+            {
+                "id": 18409,
+                "name": "Xiaoweizhai"
+            },
+            {
+                "id": 18410,
+                "name": "Xinzhan"
+            },
+            {
+                "id": 18411,
+                "name": "Xishan"
+            },
+            {
+                "id": 18412,
+                "name": "Xujiaba"
+            },
+            {
+                "id": 18413,
+                "name": "Yangtou"
+            },
+            {
+                "id": 18414,
+                "name": "Youyupu"
+            },
+            {
+                "id": 18415,
+                "name": "Zhongchao"
+            },
+            {
+                "id": 18416,
+                "name": "Zhujiachang"
+            },
+            {
+                "id": 18417,
+                "name": "Zunyi"
+            }
+        ]
+    },
+    {
+        "id": 780,
+        "name": "Hainan",
+        "cities": [
+            {
+                "id": 18418,
+                "name": "Basuo"
+            },
+            {
+                "id": 18419,
+                "name": "Chongshan"
+            },
+            {
+                "id": 18420,
+                "name": "Dadonghai"
+            },
+            {
+                "id": 18421,
+                "name": "Haikou"
+            },
+            {
+                "id": 18422,
+                "name": "Jinjiang"
+            },
+            {
+                "id": 18423,
+                "name": "Lincheng"
+            },
+            {
+                "id": 18424,
+                "name": "Nada"
+            },
+            {
+                "id": 18425,
+                "name": "Qionghai"
+            },
+            {
+                "id": 18426,
+                "name": "Qiongshan"
+            },
+            {
+                "id": 18427,
+                "name": "Sansha"
+            },
+            {
+                "id": 18428,
+                "name": "Sanya"
+            },
+            {
+                "id": 18429,
+                "name": "Wanning"
+            },
+            {
+                "id": 18430,
+                "name": "Wenchang"
+            },
+            {
+                "id": 18431,
+                "name": "Xiuying"
+            }
+        ]
+    },
+    {
+        "id": 781,
+        "name": "Hebei",
+        "cities": [
+            {
+                "id": 18432,
+                "name": "Baoding"
+            },
+            {
+                "id": 18433,
+                "name": "Beidaihehaibin"
+            },
+            {
+                "id": 18434,
+                "name": "Botou"
+            },
+            {
+                "id": 18435,
+                "name": "Cangzhou"
+            },
+            {
+                "id": 18436,
+                "name": "Cangzhou Shi"
+            },
+            {
+                "id": 18437,
+                "name": "Changli"
+            },
+            {
+                "id": 18438,
+                "name": "Chengde"
+            },
+            {
+                "id": 18439,
+                "name": "Chengde Prefecture"
+            },
+            {
+                "id": 18440,
+                "name": "Dingzhou"
+            },
+            {
+                "id": 18441,
+                "name": "Fengrun"
+            },
+            {
+                "id": 18442,
+                "name": "Guye"
+            },
+            {
+                "id": 18443,
+                "name": "Handan"
+            },
+            {
+                "id": 18444,
+                "name": "Hecun"
+            },
+            {
+                "id": 18445,
+                "name": "Hengshui"
+            },
+            {
+                "id": 18446,
+                "name": "Langfang"
+            },
+            {
+                "id": 18447,
+                "name": "Langfang Shi"
+            },
+            {
+                "id": 18448,
+                "name": "Linshui"
+            },
+            {
+                "id": 18449,
+                "name": "Linxi"
+            },
+            {
+                "id": 18450,
+                "name": "Luancheng"
+            },
+            {
+                "id": 18451,
+                "name": "Nangong"
+            },
+            {
+                "id": 18452,
+                "name": "Pengcheng"
+            },
+            {
+                "id": 18453,
+                "name": "Qinhuangdao"
+            },
+            {
+                "id": 18454,
+                "name": "Renqiu"
+            },
+            {
+                "id": 18455,
+                "name": "Shahecheng"
+            },
+            {
+                "id": 18456,
+                "name": "Shanhaiguan"
+            },
+            {
+                "id": 18457,
+                "name": "Shijiazhuang"
+            },
+            {
+                "id": 18458,
+                "name": "Shijiazhuang Shi"
+            },
+            {
+                "id": 18459,
+                "name": "Songling"
+            },
+            {
+                "id": 18460,
+                "name": "Tangjiazhuang"
+            },
+            {
+                "id": 18461,
+                "name": "Tangshan"
+            },
+            {
+                "id": 18462,
+                "name": "Tangshan Shi"
+            },
+            {
+                "id": 18463,
+                "name": "Tianchang"
+            },
+            {
+                "id": 18464,
+                "name": "Xingtai"
+            },
+            {
+                "id": 18465,
+                "name": "Xinji"
+            },
+            {
+                "id": 18466,
+                "name": "Zhangjiakou"
+            },
+            {
+                "id": 18467,
+                "name": "Zhangjiakou Shi"
+            },
+            {
+                "id": 18468,
+                "name": "Zhangjiakou Shi Xuanhua Qu"
+            },
+            {
+                "id": 18469,
+                "name": "Zhaogezhuang"
+            },
+            {
+                "id": 18470,
+                "name": "Zunhua"
+            }
+        ]
+    },
+    {
+        "id": 782,
+        "name": "Heilongjiang",
+        "cities": [
+            {
+                "id": 18471,
+                "name": "Acheng"
+            },
+            {
+                "id": 18472,
+                "name": "Anda"
+            },
+            {
+                "id": 18473,
+                "name": "Baiquan"
+            },
+            {
+                "id": 18474,
+                "name": "Bamiantong"
+            },
+            {
+                "id": 18475,
+                "name": "Baoqing"
+            },
+            {
+                "id": 18476,
+                "name": "Baoshan"
+            },
+            {
+                "id": 18477,
+                "name": "Bayan"
+            },
+            {
+                "id": 18478,
+                "name": "Bei’an"
+            },
+            {
+                "id": 18479,
+                "name": "Binzhou"
+            },
+            {
+                "id": 18480,
+                "name": "Boli"
+            },
+            {
+                "id": 18481,
+                "name": "Chaihe"
+            },
+            {
+                "id": 18482,
+                "name": "Chengzihe"
+            },
+            {
+                "id": 18483,
+                "name": "Daqing"
+            },
+            {
+                "id": 18484,
+                "name": "Dongning"
+            },
+            {
+                "id": 18485,
+                "name": "Dongxing"
+            },
+            {
+                "id": 18486,
+                "name": "Fendou"
+            },
+            {
+                "id": 18487,
+                "name": "Fengxiang"
+            },
+            {
+                "id": 18488,
+                "name": "Fujin"
+            },
+            {
+                "id": 18489,
+                "name": "Fuli"
+            },
+            {
+                "id": 18490,
+                "name": "Fuyu"
+            },
+            {
+                "id": 18491,
+                "name": "Fuyuan"
+            },
+            {
+                "id": 18492,
+                "name": "Gannan"
+            },
+            {
+                "id": 18493,
+                "name": "Hailin"
+            },
+            {
+                "id": 18494,
+                "name": "Hailun"
+            },
+            {
+                "id": 18495,
+                "name": "Harbin"
+            },
+            {
+                "id": 18496,
+                "name": "Hegang"
+            },
+            {
+                "id": 18497,
+                "name": "Heihe"
+            },
+            {
+                "id": 18498,
+                "name": "Honggang"
+            },
+            {
+                "id": 18499,
+                "name": "Huanan"
+            },
+            {
+                "id": 18500,
+                "name": "Hulan"
+            },
+            {
+                "id": 18501,
+                "name": "Hulan Ergi"
+            },
+            {
+                "id": 18502,
+                "name": "Jiamusi"
+            },
+            {
+                "id": 18503,
+                "name": "Jidong"
+            },
+            {
+                "id": 18504,
+                "name": "Jixi"
+            },
+            {
+                "id": 18505,
+                "name": "Langxiang"
+            },
+            {
+                "id": 18506,
+                "name": "Lanxi"
+            },
+            {
+                "id": 18507,
+                "name": "Lianhe"
+            },
+            {
+                "id": 18508,
+                "name": "Lingdong"
+            },
+            {
+                "id": 18509,
+                "name": "Linkou"
+            },
+            {
+                "id": 18510,
+                "name": "Longfeng"
+            },
+            {
+                "id": 18511,
+                "name": "Longjiang"
+            },
+            {
+                "id": 18512,
+                "name": "Mingshui"
+            },
+            {
+                "id": 18513,
+                "name": "Mishan"
+            },
+            {
+                "id": 18514,
+                "name": "Mudanjiang"
+            },
+            {
+                "id": 18515,
+                "name": "Nehe"
+            },
+            {
+                "id": 18516,
+                "name": "Nenjiang"
+            },
+            {
+                "id": 18517,
+                "name": "Nianzishan"
+            },
+            {
+                "id": 18518,
+                "name": "Ning’an"
+            },
+            {
+                "id": 18519,
+                "name": "Qinggang"
+            },
+            {
+                "id": 18520,
+                "name": "Qiqihar"
+            },
+            {
+                "id": 18521,
+                "name": "Shangzhi"
+            },
+            {
+                "id": 18522,
+                "name": "Shanhecun"
+            },
+            {
+                "id": 18523,
+                "name": "Shuangcheng"
+            },
+            {
+                "id": 18524,
+                "name": "Shuangyashan"
+            },
+            {
+                "id": 18525,
+                "name": "Suifenhe"
+            },
+            {
+                "id": 18526,
+                "name": "Suihua"
+            },
+            {
+                "id": 18527,
+                "name": "Suileng"
+            },
+            {
+                "id": 18528,
+                "name": "Tahe"
+            },
+            {
+                "id": 18529,
+                "name": "Taihecun"
+            },
+            {
+                "id": 18530,
+                "name": "Taikang"
+            },
+            {
+                "id": 18531,
+                "name": "Tailai"
+            },
+            {
+                "id": 18532,
+                "name": "Tieli"
+            },
+            {
+                "id": 18533,
+                "name": "Wangkui"
+            },
+            {
+                "id": 18534,
+                "name": "Wuchang"
+            },
+            {
+                "id": 18535,
+                "name": "Xinqing"
+            },
+            {
+                "id": 18536,
+                "name": "Yichun"
+            },
+            {
+                "id": 18537,
+                "name": "Yilan"
+            },
+            {
+                "id": 18538,
+                "name": "Youhao"
+            },
+            {
+                "id": 18539,
+                "name": "Zhaodong"
+            },
+            {
+                "id": 18540,
+                "name": "Zhaoyuan"
+            },
+            {
+                "id": 18541,
+                "name": "Zhaozhou"
+            }
+        ]
+    },
+    {
+        "id": 783,
+        "name": "Henan",
+        "cities": [
+            {
+                "id": 18542,
+                "name": "Anyang"
+            },
+            {
+                "id": 18543,
+                "name": "Anyang Shi"
+            },
+            {
+                "id": 18544,
+                "name": "Binhe"
+            },
+            {
+                "id": 18545,
+                "name": "Chengguan"
+            },
+            {
+                "id": 18546,
+                "name": "Chengjiao"
+            },
+            {
+                "id": 18547,
+                "name": "Daokou"
+            },
+            {
+                "id": 18548,
+                "name": "Dingcheng"
+            },
+            {
+                "id": 18549,
+                "name": "Hancheng"
+            },
+            {
+                "id": 18550,
+                "name": "Hebi"
+            },
+            {
+                "id": 18551,
+                "name": "Huaidian"
+            },
+            {
+                "id": 18552,
+                "name": "Huazhou"
+            },
+            {
+                "id": 18553,
+                "name": "Huichang"
+            },
+            {
+                "id": 18554,
+                "name": "Jianshe"
+            },
+            {
+                "id": 18555,
+                "name": "Jiaozuo"
+            },
+            {
+                "id": 18556,
+                "name": "Jishui"
+            },
+            {
+                "id": 18557,
+                "name": "Jiyuan"
+            },
+            {
+                "id": 18558,
+                "name": "Kaifeng"
+            },
+            {
+                "id": 18559,
+                "name": "Kaiyuan"
+            },
+            {
+                "id": 18560,
+                "name": "Lingbao Chengguanzhen"
+            },
+            {
+                "id": 18561,
+                "name": "Luohe"
+            },
+            {
+                "id": 18562,
+                "name": "Luohe Shi"
+            },
+            {
+                "id": 18563,
+                "name": "Luoyang"
+            },
+            {
+                "id": 18564,
+                "name": "Minggang"
+            },
+            {
+                "id": 18565,
+                "name": "Nanyang"
+            },
+            {
+                "id": 18566,
+                "name": "Pingdingshan"
+            },
+            {
+                "id": 18567,
+                "name": "Puyang Chengguanzhen"
+            },
+            {
+                "id": 18568,
+                "name": "Puyang Shi"
+            },
+            {
+                "id": 18569,
+                "name": "Qingping"
+            },
+            {
+                "id": 18570,
+                "name": "Runing"
+            },
+            {
+                "id": 18571,
+                "name": "Ruzhou"
+            },
+            {
+                "id": 18572,
+                "name": "Shangqiu"
+            },
+            {
+                "id": 18573,
+                "name": "Songyang"
+            },
+            {
+                "id": 18574,
+                "name": "Suohe"
+            },
+            {
+                "id": 18575,
+                "name": "Tanbei"
+            },
+            {
+                "id": 18576,
+                "name": "Wacheng"
+            },
+            {
+                "id": 18577,
+                "name": "Xiangcheng Chengguanzhen"
+            },
+            {
+                "id": 18578,
+                "name": "Xincheng"
+            },
+            {
+                "id": 18579,
+                "name": "Xinhualu"
+            },
+            {
+                "id": 18580,
+                "name": "Xinxiang"
+            },
+            {
+                "id": 18581,
+                "name": "Xinxiang Shi"
+            },
+            {
+                "id": 18582,
+                "name": "Xinyang"
+            },
+            {
+                "id": 18583,
+                "name": "Xixiang"
+            },
+            {
+                "id": 18584,
+                "name": "Xuchang"
+            },
+            {
+                "id": 18585,
+                "name": "Xuchang Shi"
+            },
+            {
+                "id": 18586,
+                "name": "Yakou"
+            },
+            {
+                "id": 18587,
+                "name": "Yanshi Chengguanzhen"
+            },
+            {
+                "id": 18588,
+                "name": "Yigou"
+            },
+            {
+                "id": 18589,
+                "name": "Yima"
+            },
+            {
+                "id": 18590,
+                "name": "Yingchuan"
+            },
+            {
+                "id": 18591,
+                "name": "Yunyang"
+            },
+            {
+                "id": 18592,
+                "name": "Zhengzhou"
+            },
+            {
+                "id": 18593,
+                "name": "Zhoukou"
+            },
+            {
+                "id": 18594,
+                "name": "Zhumadian"
+            },
+            {
+                "id": 18595,
+                "name": "Zhumadian Shi"
+            },
+            {
+                "id": 18596,
+                "name": "Zijinglu"
+            }
+        ]
+    },
+    {
+        "id": 784,
+        "name": "Hong Kong",
+        "cities": []
+    },
+    {
+        "id": 785,
+        "name": "Hubei",
+        "cities": [
+            {
+                "id": 18597,
+                "name": "Anlu"
+            },
+            {
+                "id": 18598,
+                "name": "Buhe"
+            },
+            {
+                "id": 18599,
+                "name": "Caidian"
+            },
+            {
+                "id": 18600,
+                "name": "Caohe"
+            },
+            {
+                "id": 18601,
+                "name": "Chengzhong"
+            },
+            {
+                "id": 18602,
+                "name": "Danjiangkou"
+            },
+            {
+                "id": 18603,
+                "name": "Daye"
+            },
+            {
+                "id": 18604,
+                "name": "Duobao"
+            },
+            {
+                "id": 18605,
+                "name": "Enshi"
+            },
+            {
+                "id": 18606,
+                "name": "Enshi Tujiazu Miaozu Zizhizhou"
+            },
+            {
+                "id": 18607,
+                "name": "Ezhou"
+            },
+            {
+                "id": 18608,
+                "name": "Ezhou Shi"
+            },
+            {
+                "id": 18609,
+                "name": "Fengkou"
+            },
+            {
+                "id": 18610,
+                "name": "Guangshui"
+            },
+            {
+                "id": 18611,
+                "name": "Gucheng Chengguanzhen"
+            },
+            {
+                "id": 18612,
+                "name": "Hanchuan"
+            },
+            {
+                "id": 18613,
+                "name": "Huanggang"
+            },
+            {
+                "id": 18614,
+                "name": "Huangmei"
+            },
+            {
+                "id": 18615,
+                "name": "Huangpi"
+            },
+            {
+                "id": 18616,
+                "name": "Huangshi"
+            },
+            {
+                "id": 18617,
+                "name": "Huangzhou"
+            },
+            {
+                "id": 18618,
+                "name": "Jingling"
+            },
+            {
+                "id": 18619,
+                "name": "Jingmen"
+            },
+            {
+                "id": 18620,
+                "name": "Jingmen Shi"
+            },
+            {
+                "id": 18621,
+                "name": "Jingzhou"
+            },
+            {
+                "id": 18622,
+                "name": "Laohekou"
+            },
+            {
+                "id": 18623,
+                "name": "Lichuan"
+            },
+            {
+                "id": 18624,
+                "name": "Macheng"
+            },
+            {
+                "id": 18625,
+                "name": "Nanzhang Chengguanzhen"
+            },
+            {
+                "id": 18626,
+                "name": "Puqi"
+            },
+            {
+                "id": 18627,
+                "name": "Qianjiang"
+            },
+            {
+                "id": 18628,
+                "name": "Qingquan"
+            },
+            {
+                "id": 18629,
+                "name": "Shashi"
+            },
+            {
+                "id": 18630,
+                "name": "Shennongjia"
+            },
+            {
+                "id": 18631,
+                "name": "Shiyan"
+            },
+            {
+                "id": 18632,
+                "name": "Suizhou"
+            },
+            {
+                "id": 18633,
+                "name": "Wuhan"
+            },
+            {
+                "id": 18634,
+                "name": "Wuxue"
+            },
+            {
+                "id": 18635,
+                "name": "Xiangyang"
+            },
+            {
+                "id": 18636,
+                "name": "Xianning"
+            },
+            {
+                "id": 18637,
+                "name": "Xianning Prefecture"
+            },
+            {
+                "id": 18638,
+                "name": "Xiantao"
+            },
+            {
+                "id": 18639,
+                "name": "Xiaogan"
+            },
+            {
+                "id": 18640,
+                "name": "Xihe"
+            },
+            {
+                "id": 18641,
+                "name": "Xindi"
+            },
+            {
+                "id": 18642,
+                "name": "Xinshi"
+            },
+            {
+                "id": 18643,
+                "name": "Xinzhou"
+            },
+            {
+                "id": 18644,
+                "name": "Xiulin"
+            },
+            {
+                "id": 18645,
+                "name": "Yichang"
+            },
+            {
+                "id": 18646,
+                "name": "Yicheng"
+            },
+            {
+                "id": 18647,
+                "name": "Yunmeng Chengguanzhen"
+            },
+            {
+                "id": 18648,
+                "name": "Zaoyang"
+            },
+            {
+                "id": 18649,
+                "name": "Zhicheng"
+            },
+            {
+                "id": 18650,
+                "name": "Zhijiang"
+            },
+            {
+                "id": 18651,
+                "name": "Zhongxiang"
+            }
+        ]
+    },
+    {
+        "id": 786,
+        "name": "Hunan",
+        "cities": [
+            {
+                "id": 18652,
+                "name": "Anjiang"
+            },
+            {
+                "id": 18653,
+                "name": "Anping"
+            },
+            {
+                "id": 18654,
+                "name": "Anxiang"
+            },
+            {
+                "id": 18655,
+                "name": "Baisha"
+            },
+            {
+                "id": 18656,
+                "name": "Biyong"
+            },
+            {
+                "id": 18657,
+                "name": "Bojia"
+            },
+            {
+                "id": 18658,
+                "name": "Boyang"
+            },
+            {
+                "id": 18659,
+                "name": "Bozhou"
+            },
+            {
+                "id": 18660,
+                "name": "Changde"
+            },
+            {
+                "id": 18661,
+                "name": "Changsha"
+            },
+            {
+                "id": 18662,
+                "name": "Changsha Shi"
+            },
+            {
+                "id": 18663,
+                "name": "Chatian"
+            },
+            {
+                "id": 18664,
+                "name": "Chenzhou"
+            },
+            {
+                "id": 18665,
+                "name": "Dabaozi"
+            },
+            {
+                "id": 18666,
+                "name": "Dehang"
+            },
+            {
+                "id": 18667,
+                "name": "Dengjiapu"
+            },
+            {
+                "id": 18668,
+                "name": "Dengyuantai"
+            },
+            {
+                "id": 18669,
+                "name": "Dongshan Dongzuxiang"
+            },
+            {
+                "id": 18670,
+                "name": "Fenghuang"
+            },
+            {
+                "id": 18671,
+                "name": "Gangdong"
+            },
+            {
+                "id": 18672,
+                "name": "Gaoqiao"
+            },
+            {
+                "id": 18673,
+                "name": "Gaoyi"
+            },
+            {
+                "id": 18674,
+                "name": "Guankou"
+            },
+            {
+                "id": 18675,
+                "name": "Hengbanqiao"
+            },
+            {
+                "id": 18676,
+                "name": "Hengyang"
+            },
+            {
+                "id": 18677,
+                "name": "Hexiangqiao"
+            },
+            {
+                "id": 18678,
+                "name": "Hongjiang"
+            },
+            {
+                "id": 18679,
+                "name": "Hongqiao"
+            },
+            {
+                "id": 18680,
+                "name": "Huaihua"
+            },
+            {
+                "id": 18681,
+                "name": "Huangjinjing"
+            },
+            {
+                "id": 18682,
+                "name": "Huanglong"
+            },
+            {
+                "id": 18683,
+                "name": "Huangmaoyuan"
+            },
+            {
+                "id": 18684,
+                "name": "Huangqiao"
+            },
+            {
+                "id": 18685,
+                "name": "Huangtukuang"
+            },
+            {
+                "id": 18686,
+                "name": "Huangxikou"
+            },
+            {
+                "id": 18687,
+                "name": "Huaqiao"
+            },
+            {
+                "id": 18688,
+                "name": "Huayuan"
+            },
+            {
+                "id": 18689,
+                "name": "Huomachong"
+            },
+            {
+                "id": 18690,
+                "name": "Jiangfang"
+            },
+            {
+                "id": 18691,
+                "name": "Jiangkouxu"
+            },
+            {
+                "id": 18692,
+                "name": "Jiangshi"
+            },
+            {
+                "id": 18693,
+                "name": "Jinhe"
+            },
+            {
+                "id": 18694,
+                "name": "Jinshi"
+            },
+            {
+                "id": 18695,
+                "name": "Jinshiqiao"
+            },
+            {
+                "id": 18696,
+                "name": "Lanli"
+            },
+            {
+                "id": 18697,
+                "name": "Leiyang"
+            },
+            {
+                "id": 18698,
+                "name": "Lengshuijiang"
+            },
+            {
+                "id": 18699,
+                "name": "Lengshuitan"
+            },
+            {
+                "id": 18700,
+                "name": "Liangyaping"
+            },
+            {
+                "id": 18701,
+                "name": "Lianyuan"
+            },
+            {
+                "id": 18702,
+                "name": "Linkou"
+            },
+            {
+                "id": 18703,
+                "name": "Liuduzhai"
+            },
+            {
+                "id": 18704,
+                "name": "Lixiqiao"
+            },
+            {
+                "id": 18705,
+                "name": "Longtan"
+            },
+            {
+                "id": 18706,
+                "name": "Longtou’an"
+            },
+            {
+                "id": 18707,
+                "name": "Loudi"
+            },
+            {
+                "id": 18708,
+                "name": "Luojiu"
+            },
+            {
+                "id": 18709,
+                "name": "Luyang"
+            },
+            {
+                "id": 18710,
+                "name": "Ma’an"
+            },
+            {
+                "id": 18711,
+                "name": "Malin"
+            },
+            {
+                "id": 18712,
+                "name": "Maoping"
+            },
+            {
+                "id": 18713,
+                "name": "Nanmuping"
+            },
+            {
+                "id": 18714,
+                "name": "Nanzhou"
+            },
+            {
+                "id": 18715,
+                "name": "Prefecture of Chenzhou"
+            },
+            {
+                "id": 18716,
+                "name": "Pukou"
+            },
+            {
+                "id": 18717,
+                "name": "Puzi"
+            },
+            {
+                "id": 18718,
+                "name": "Qiancheng"
+            },
+            {
+                "id": 18719,
+                "name": "Qianzhou"
+            },
+            {
+                "id": 18720,
+                "name": "Qiaojiang"
+            },
+            {
+                "id": 18721,
+                "name": "Qingjiangqiao"
+            },
+            {
+                "id": 18722,
+                "name": "Qingxi"
+            },
+            {
+                "id": 18723,
+                "name": "Qionghu"
+            },
+            {
+                "id": 18724,
+                "name": "Ruoshui"
+            },
+            {
+                "id": 18725,
+                "name": "Shangmei"
+            },
+            {
+                "id": 18726,
+                "name": "Shanmen"
+            },
+            {
+                "id": 18727,
+                "name": "Shijiang"
+            },
+            {
+                "id": 18728,
+                "name": "Shuangjiang"
+            },
+            {
+                "id": 18729,
+                "name": "Shuangxi"
+            },
+            {
+                "id": 18730,
+                "name": "Shuiche"
+            },
+            {
+                "id": 18731,
+                "name": "Shuidatian"
+            },
+            {
+                "id": 18732,
+                "name": "Simenqian"
+            },
+            {
+                "id": 18733,
+                "name": "Tangjiafang"
+            },
+            {
+                "id": 18734,
+                "name": "Tanwan"
+            },
+            {
+                "id": 18735,
+                "name": "Tongwan"
+            },
+            {
+                "id": 18736,
+                "name": "Tuokou"
+            },
+            {
+                "id": 18737,
+                "name": "Wantouqiao"
+            },
+            {
+                "id": 18738,
+                "name": "Wenxing"
+            },
+            {
+                "id": 18739,
+                "name": "Wulingyuan"
+            },
+            {
+                "id": 18740,
+                "name": "Wuxi"
+            },
+            {
+                "id": 18741,
+                "name": "Wuyang"
+            },
+            {
+                "id": 18742,
+                "name": "Xiangtan"
+            },
+            {
+                "id": 18743,
+                "name": "Xiangxi Tujiazu Miaozu Zizhizhou"
+            },
+            {
+                "id": 18744,
+                "name": "Xiangxiang"
+            },
+            {
+                "id": 18745,
+                "name": "Xianrenwan"
+            },
+            {
+                "id": 18746,
+                "name": "Xianxi"
+            },
+            {
+                "id": 18747,
+                "name": "Xiaohenglong"
+            },
+            {
+                "id": 18748,
+                "name": "Xiaolongmen"
+            },
+            {
+                "id": 18749,
+                "name": "Xiaoshajiang"
+            },
+            {
+                "id": 18750,
+                "name": "Xishan"
+            },
+            {
+                "id": 18751,
+                "name": "Xixi"
+            },
+            {
+                "id": 18752,
+                "name": "Xiyan"
+            },
+            {
+                "id": 18753,
+                "name": "Yanmen"
+            },
+            {
+                "id": 18754,
+                "name": "Yaoshi"
+            },
+            {
+                "id": 18755,
+                "name": "Yatunpu"
+            },
+            {
+                "id": 18756,
+                "name": "Yiyang"
+            },
+            {
+                "id": 18757,
+                "name": "Yongfeng"
+            },
+            {
+                "id": 18758,
+                "name": "Yongzhou"
+            },
+            {
+                "id": 18759,
+                "name": "Yueyang"
+            },
+            {
+                "id": 18760,
+                "name": "Yueyang Shi"
+            },
+            {
+                "id": 18761,
+                "name": "Yutan"
+            },
+            {
+                "id": 18762,
+                "name": "Zhaishi Miaozu Dongzuxiang"
+            },
+            {
+                "id": 18763,
+                "name": "Zhangjiajie"
+            },
+            {
+                "id": 18764,
+                "name": "Zhongfang"
+            },
+            {
+                "id": 18765,
+                "name": "Zhongzhai"
+            },
+            {
+                "id": 18766,
+                "name": "Zhushi"
+            },
+            {
+                "id": 18767,
+                "name": "Zhuzhou"
+            },
+            {
+                "id": 18768,
+                "name": "Zhuzhou Shi"
+            },
+            {
+                "id": 18769,
+                "name": "Zhuzhoujiang Miaozuxiang"
+            }
+        ]
+    },
+    {
+        "id": 787,
+        "name": "Inner Mongolia",
+        "cities": [
+            {
+                "id": 18770,
+                "name": "Baotou"
+            },
+            {
+                "id": 18771,
+                "name": "Bayan Nur"
+            },
+            {
+                "id": 18772,
+                "name": "Bayannur Shi"
+            },
+            {
+                "id": 18773,
+                "name": "Beichengqu"
+            },
+            {
+                "id": 18774,
+                "name": "Chifeng"
+            },
+            {
+                "id": 18775,
+                "name": "Dongsheng"
+            },
+            {
+                "id": 18776,
+                "name": "E’erguna"
+            },
+            {
+                "id": 18777,
+                "name": "Erenhot"
+            },
+            {
+                "id": 18778,
+                "name": "Genhe"
+            },
+            {
+                "id": 18779,
+                "name": "Hailar"
+            },
+            {
+                "id": 18780,
+                "name": "Hohhot"
+            },
+            {
+                "id": 18781,
+                "name": "Hulunbuir Region"
+            },
+            {
+                "id": 18782,
+                "name": "Jalai Nur"
+            },
+            {
+                "id": 18783,
+                "name": "Jiagedaqi"
+            },
+            {
+                "id": 18784,
+                "name": "Jining"
+            },
+            {
+                "id": 18785,
+                "name": "Manzhouli"
+            },
+            {
+                "id": 18786,
+                "name": "Mositai"
+            },
+            {
+                "id": 18787,
+                "name": "Mujiayingzi"
+            },
+            {
+                "id": 18788,
+                "name": "Ordos"
+            },
+            {
+                "id": 18789,
+                "name": "Ordos Shi"
+            },
+            {
+                "id": 18790,
+                "name": "Oroqen Zizhiqi"
+            },
+            {
+                "id": 18791,
+                "name": "Pingzhuang"
+            },
+            {
+                "id": 18792,
+                "name": "Salaqi"
+            },
+            {
+                "id": 18793,
+                "name": "Shiguai"
+            },
+            {
+                "id": 18794,
+                "name": "Tongliao"
+            },
+            {
+                "id": 18795,
+                "name": "Ulanhot"
+            },
+            {
+                "id": 18796,
+                "name": "Wenquan"
+            },
+            {
+                "id": 18797,
+                "name": "Wuda"
+            },
+            {
+                "id": 18798,
+                "name": "Wuhai"
+            },
+            {
+                "id": 18799,
+                "name": "Xilin Gol Meng"
+            },
+            {
+                "id": 18800,
+                "name": "Xilin Hot"
+            },
+            {
+                "id": 18801,
+                "name": "Yakeshi"
+            },
+            {
+                "id": 18802,
+                "name": "Zhalantun"
+            }
+        ]
+    },
+    {
+        "id": 788,
+        "name": "Jiangsu",
+        "cities": []
+    },
+    {
+        "id": 789,
+        "name": "Jiangxi",
+        "cities": [
+            {
+                "id": 18803,
+                "name": "Changleng"
+            },
+            {
+                "id": 18804,
+                "name": "Fenyi"
+            },
+            {
+                "id": 18805,
+                "name": "Ganzhou"
+            },
+            {
+                "id": 18806,
+                "name": "Ganzhou Shi"
+            },
+            {
+                "id": 18807,
+                "name": "Guixi"
+            },
+            {
+                "id": 18808,
+                "name": "Ji’an"
+            },
+            {
+                "id": 18809,
+                "name": "Jianguang"
+            },
+            {
+                "id": 18810,
+                "name": "Jingdezhen"
+            },
+            {
+                "id": 18811,
+                "name": "Jingdezhen Shi"
+            },
+            {
+                "id": 18812,
+                "name": "Jiujiang"
+            },
+            {
+                "id": 18813,
+                "name": "Nanchang"
+            },
+            {
+                "id": 18814,
+                "name": "Pingxiang"
+            },
+            {
+                "id": 18815,
+                "name": "Poyang"
+            },
+            {
+                "id": 18816,
+                "name": "Shangrao"
+            },
+            {
+                "id": 18817,
+                "name": "Xinyu"
+            },
+            {
+                "id": 18818,
+                "name": "Yichun"
+            }
+        ]
+    },
+    {
+        "id": 790,
+        "name": "Jilin",
+        "cities": [
+            {
+                "id": 18819,
+                "name": "Baicheng"
+            },
+            {
+                "id": 18820,
+                "name": "Baishan"
+            },
+            {
+                "id": 18821,
+                "name": "Baishishan"
+            },
+            {
+                "id": 18822,
+                "name": "Changchun"
+            },
+            {
+                "id": 18823,
+                "name": "Changling"
+            },
+            {
+                "id": 18824,
+                "name": "Chaoyang"
+            },
+            {
+                "id": 18825,
+                "name": "Dalai"
+            },
+            {
+                "id": 18826,
+                "name": "Dashitou"
+            },
+            {
+                "id": 18827,
+                "name": "Dehui"
+            },
+            {
+                "id": 18828,
+                "name": "Dongfeng"
+            },
+            {
+                "id": 18829,
+                "name": "Dunhua"
+            },
+            {
+                "id": 18830,
+                "name": "Erdaojiang"
+            },
+            {
+                "id": 18831,
+                "name": "Fuyu"
+            },
+            {
+                "id": 18832,
+                "name": "Gongzhuling"
+            },
+            {
+                "id": 18833,
+                "name": "Guangming"
+            },
+            {
+                "id": 18834,
+                "name": "Helong"
+            },
+            {
+                "id": 18835,
+                "name": "Hepingjie"
+            },
+            {
+                "id": 18836,
+                "name": "Huadian"
+            },
+            {
+                "id": 18837,
+                "name": "Huangnihe"
+            },
+            {
+                "id": 18838,
+                "name": "Huinan"
+            },
+            {
+                "id": 18839,
+                "name": "Hunchun"
+            },
+            {
+                "id": 18840,
+                "name": "Ji’an"
+            },
+            {
+                "id": 18841,
+                "name": "Jilin"
+            },
+            {
+                "id": 18842,
+                "name": "Jishu"
+            },
+            {
+                "id": 18843,
+                "name": "Jiutai"
+            },
+            {
+                "id": 18844,
+                "name": "Kaitong"
+            },
+            {
+                "id": 18845,
+                "name": "Liaoyuan"
+            },
+            {
+                "id": 18846,
+                "name": "Linjiang"
+            },
+            {
+                "id": 18847,
+                "name": "Lishu"
+            },
+            {
+                "id": 18848,
+                "name": "Liuhe"
+            },
+            {
+                "id": 18849,
+                "name": "Longjing"
+            },
+            {
+                "id": 18850,
+                "name": "Meihekou"
+            },
+            {
+                "id": 18851,
+                "name": "Mingyue"
+            },
+            {
+                "id": 18852,
+                "name": "Minzhu"
+            },
+            {
+                "id": 18853,
+                "name": "Panshi"
+            },
+            {
+                "id": 18854,
+                "name": "Sanchazi"
+            },
+            {
+                "id": 18855,
+                "name": "Shuangyang"
+            },
+            {
+                "id": 18856,
+                "name": "Shulan"
+            },
+            {
+                "id": 18857,
+                "name": "Siping"
+            },
+            {
+                "id": 18858,
+                "name": "Songjianghe"
+            },
+            {
+                "id": 18859,
+                "name": "Songyuan"
+            },
+            {
+                "id": 18860,
+                "name": "Tonghua"
+            },
+            {
+                "id": 18861,
+                "name": "Tonghua Shi"
+            },
+            {
+                "id": 18862,
+                "name": "Tumen"
+            },
+            {
+                "id": 18863,
+                "name": "Wangqing"
+            },
+            {
+                "id": 18864,
+                "name": "Xinglongshan"
+            },
+            {
+                "id": 18865,
+                "name": "Yanbian Chaoxianzu Zizhizhou"
+            },
+            {
+                "id": 18866,
+                "name": "Yanji"
+            },
+            {
+                "id": 18867,
+                "name": "Yantongshan"
+            },
+            {
+                "id": 18868,
+                "name": "Yushu"
+            },
+            {
+                "id": 18869,
+                "name": "Zhengjiatun"
+            },
+            {
+                "id": 18870,
+                "name": "Zhenlai"
+            }
+        ]
+    },
+    {
+        "id": 791,
+        "name": "Keelung",
+        "cities": []
+    },
+    {
+        "id": 792,
+        "name": "Liaoning",
+        "cities": [
+            {
+                "id": 18871,
+                "name": "Anshan"
+            },
+            {
+                "id": 18872,
+                "name": "Beipiao"
+            },
+            {
+                "id": 18873,
+                "name": "Benxi"
+            },
+            {
+                "id": 18874,
+                "name": "Changtu"
+            },
+            {
+                "id": 18875,
+                "name": "Chaoyang"
+            },
+            {
+                "id": 18876,
+                "name": "Dalian"
+            },
+            {
+                "id": 18877,
+                "name": "Dalianwan"
+            },
+            {
+                "id": 18878,
+                "name": "Dandong"
+            },
+            {
+                "id": 18879,
+                "name": "Dashiqiao"
+            },
+            {
+                "id": 18880,
+                "name": "Dongling"
+            },
+            {
+                "id": 18881,
+                "name": "Fengcheng"
+            },
+            {
+                "id": 18882,
+                "name": "Fushun"
+            },
+            {
+                "id": 18883,
+                "name": "Fuxin"
+            },
+            {
+                "id": 18884,
+                "name": "Gaizhou"
+            },
+            {
+                "id": 18885,
+                "name": "Gongchangling"
+            },
+            {
+                "id": 18886,
+                "name": "Haicheng"
+            },
+            {
+                "id": 18887,
+                "name": "Heishan"
+            },
+            {
+                "id": 18888,
+                "name": "Huanren"
+            },
+            {
+                "id": 18889,
+                "name": "Huludao"
+            },
+            {
+                "id": 18890,
+                "name": "Huludao Shi"
+            },
+            {
+                "id": 18891,
+                "name": "Hushitai"
+            },
+            {
+                "id": 18892,
+                "name": "Jinzhou"
+            },
+            {
+                "id": 18893,
+                "name": "Jiupu"
+            },
+            {
+                "id": 18894,
+                "name": "Kaiyuan"
+            },
+            {
+                "id": 18895,
+                "name": "Kuandian"
+            },
+            {
+                "id": 18896,
+                "name": "Langtoucun"
+            },
+            {
+                "id": 18897,
+                "name": "Lianshan"
+            },
+            {
+                "id": 18898,
+                "name": "Liaoyang"
+            },
+            {
+                "id": 18899,
+                "name": "Liaozhong"
+            },
+            {
+                "id": 18900,
+                "name": "Linghai"
+            },
+            {
+                "id": 18901,
+                "name": "Lingyuan"
+            },
+            {
+                "id": 18902,
+                "name": "Lüshun"
+            },
+            {
+                "id": 18903,
+                "name": "Nanpiao"
+            },
+            {
+                "id": 18904,
+                "name": "Nantai"
+            },
+            {
+                "id": 18905,
+                "name": "Panjin Shi"
+            },
+            {
+                "id": 18906,
+                "name": "Panshan"
+            },
+            {
+                "id": 18907,
+                "name": "Pulandian"
+            },
+            {
+                "id": 18908,
+                "name": "Shenyang"
+            },
+            {
+                "id": 18909,
+                "name": "Sujiatun"
+            },
+            {
+                "id": 18910,
+                "name": "Tieling"
+            },
+            {
+                "id": 18911,
+                "name": "Tieling Shi"
+            },
+            {
+                "id": 18912,
+                "name": "Wafangdian"
+            },
+            {
+                "id": 18913,
+                "name": "Xiaoshi"
+            },
+            {
+                "id": 18914,
+                "name": "Xifeng"
+            },
+            {
+                "id": 18915,
+                "name": "Xingcheng"
+            },
+            {
+                "id": 18916,
+                "name": "Xinmin"
+            },
+            {
+                "id": 18917,
+                "name": "Xinxing"
+            },
+            {
+                "id": 18918,
+                "name": "Xiuyan"
+            },
+            {
+                "id": 18919,
+                "name": "Yebaishou"
+            },
+            {
+                "id": 18920,
+                "name": "Yingkou"
+            },
+            {
+                "id": 18921,
+                "name": "Zhuanghe"
+            }
+        ]
+    },
+    {
+        "id": 793,
+        "name": "Macau",
+        "cities": []
+    },
+    {
+        "id": 794,
+        "name": "Ningxia Hui Autonomous Region",
+        "cities": [
+            {
+                "id": 18922,
+                "name": "Dawukou"
+            },
+            {
+                "id": 18923,
+                "name": "Dongta"
+            },
+            {
+                "id": 18924,
+                "name": "Shitanjing"
+            },
+            {
+                "id": 18925,
+                "name": "Shizuishan"
+            },
+            {
+                "id": 18926,
+                "name": "Wuzhong"
+            },
+            {
+                "id": 18927,
+                "name": "Yinchuan"
+            },
+            {
+                "id": 18928,
+                "name": "Zhongwei"
+            }
+        ]
+    },
+    {
+        "id": 795,
+        "name": "Qinghai",
+        "cities": [
+            {
+                "id": 18929,
+                "name": "Delingha"
+            },
+            {
+                "id": 18930,
+                "name": "Golmud"
+            },
+            {
+                "id": 18931,
+                "name": "Golog Tibetan Autonomous Prefecture"
+            },
+            {
+                "id": 18932,
+                "name": "Haibei Tibetan Autonomous Prefecture"
+            },
+            {
+                "id": 18933,
+                "name": "Huangnan Zangzu Zizhizhou"
+            },
+            {
+                "id": 18934,
+                "name": "Xining"
+            },
+            {
+                "id": 18935,
+                "name": "Xireg"
+            },
+            {
+                "id": 18936,
+                "name": "Yushu Zangzu Zizhizhou"
+            }
+        ]
+    },
+    {
+        "id": 796,
+        "name": "Shaanxi",
+        "cities": [
+            {
+                "id": 18937,
+                "name": "Ankang"
+            },
+            {
+                "id": 18938,
+                "name": "Baoji Shi"
+            },
+            {
+                "id": 18939,
+                "name": "Guozhen"
+            },
+            {
+                "id": 18940,
+                "name": "Hancheng"
+            },
+            {
+                "id": 18941,
+                "name": "Hanzhong"
+            },
+            {
+                "id": 18942,
+                "name": "Huayin"
+            },
+            {
+                "id": 18943,
+                "name": "Lintong"
+            },
+            {
+                "id": 18944,
+                "name": "Tongchuanshi"
+            },
+            {
+                "id": 18945,
+                "name": "Weinan"
+            },
+            {
+                "id": 18946,
+                "name": "Xi’an"
+            },
+            {
+                "id": 18947,
+                "name": "Xianyang"
+            },
+            {
+                "id": 18948,
+                "name": "Yanliang"
+            },
+            {
+                "id": 18949,
+                "name": "Yulinshi"
+            },
+            {
+                "id": 18950,
+                "name": "Yuxia"
+            }
+        ]
+    },
+    {
+        "id": 797,
+        "name": "Shandong",
+        "cities": [
+            {
+                "id": 18951,
+                "name": "Anqiu"
+            },
+            {
+                "id": 18952,
+                "name": "Beizhai"
+            },
+            {
+                "id": 18953,
+                "name": "Bianzhuang"
+            },
+            {
+                "id": 18954,
+                "name": "Binzhou"
+            },
+            {
+                "id": 18955,
+                "name": "Boshan"
+            },
+            {
+                "id": 18956,
+                "name": "Changqing"
+            },
+            {
+                "id": 18957,
+                "name": "Chengqu"
+            },
+            {
+                "id": 18958,
+                "name": "Chengtangcun"
+            },
+            {
+                "id": 18959,
+                "name": "Chengyang"
+            },
+            {
+                "id": 18960,
+                "name": "Dengying"
+            },
+            {
+                "id": 18961,
+                "name": "Dengzhou"
+            },
+            {
+                "id": 18962,
+                "name": "Dezhou"
+            },
+            {
+                "id": 18963,
+                "name": "Dingtao"
+            },
+            {
+                "id": 18964,
+                "name": "Dongcun"
+            },
+            {
+                "id": 18965,
+                "name": "Dongdu"
+            },
+            {
+                "id": 18966,
+                "name": "Feicheng"
+            },
+            {
+                "id": 18967,
+                "name": "Gaomi"
+            },
+            {
+                "id": 18968,
+                "name": "Hanting"
+            },
+            {
+                "id": 18969,
+                "name": "Heze"
+            },
+            {
+                "id": 18970,
+                "name": "Jiamaying"
+            },
+            {
+                "id": 18971,
+                "name": "Jiaozhou"
+            },
+            {
+                "id": 18972,
+                "name": "Jiehu"
+            },
+            {
+                "id": 18973,
+                "name": "Jimo"
+            },
+            {
+                "id": 18974,
+                "name": "Jinan"
+            },
+            {
+                "id": 18975,
+                "name": "Jining"
+            },
+            {
+                "id": 18976,
+                "name": "Juye"
+            },
+            {
+                "id": 18977,
+                "name": "Kuiju"
+            },
+            {
+                "id": 18978,
+                "name": "Kutao"
+            },
+            {
+                "id": 18979,
+                "name": "Laiwu"
+            },
+            {
+                "id": 18980,
+                "name": "Laixi"
+            },
+            {
+                "id": 18981,
+                "name": "Laiyang"
+            },
+            {
+                "id": 18982,
+                "name": "Laizhou"
+            },
+            {
+                "id": 18983,
+                "name": "Laocheng"
+            },
+            {
+                "id": 18984,
+                "name": "Liaocheng"
+            },
+            {
+                "id": 18985,
+                "name": "Linqu"
+            },
+            {
+                "id": 18986,
+                "name": "Linyi"
+            },
+            {
+                "id": 18987,
+                "name": "Longgang"
+            },
+            {
+                "id": 18988,
+                "name": "Mengyin"
+            },
+            {
+                "id": 18989,
+                "name": "Mingshui"
+            },
+            {
+                "id": 18990,
+                "name": "Mizhou"
+            },
+            {
+                "id": 18991,
+                "name": "Nanding"
+            },
+            {
+                "id": 18992,
+                "name": "Nanma"
+            },
+            {
+                "id": 18993,
+                "name": "Ninghai"
+            },
+            {
+                "id": 18994,
+                "name": "Ningyang"
+            },
+            {
+                "id": 18995,
+                "name": "Pingdu"
+            },
+            {
+                "id": 18996,
+                "name": "Pingyi"
+            },
+            {
+                "id": 18997,
+                "name": "Pingyin"
+            },
+            {
+                "id": 18998,
+                "name": "Qingdao"
+            },
+            {
+                "id": 18999,
+                "name": "Qingnian"
+            },
+            {
+                "id": 19000,
+                "name": "Qingshancun"
+            },
+            {
+                "id": 19001,
+                "name": "Qingyang"
+            },
+            {
+                "id": 19002,
+                "name": "Qingzhou"
+            },
+            {
+                "id": 19003,
+                "name": "Qufu"
+            },
+            {
+                "id": 19004,
+                "name": "Rizhao"
+            },
+            {
+                "id": 19005,
+                "name": "Shancheng"
+            },
+            {
+                "id": 19006,
+                "name": "Shanting"
+            },
+            {
+                "id": 19007,
+                "name": "Shazikou"
+            },
+            {
+                "id": 19008,
+                "name": "Shengli"
+            },
+            {
+                "id": 19009,
+                "name": "Shilaorencun"
+            },
+            {
+                "id": 19010,
+                "name": "Shizilu"
+            },
+            {
+                "id": 19011,
+                "name": "Shouguang"
+            },
+            {
+                "id": 19012,
+                "name": "Sishui"
+            },
+            {
+                "id": 19013,
+                "name": "Suozhen"
+            },
+            {
+                "id": 19014,
+                "name": "Tai’an"
+            },
+            {
+                "id": 19015,
+                "name": "Taozhuang"
+            },
+            {
+                "id": 19016,
+                "name": "Tianfu"
+            },
+            {
+                "id": 19017,
+                "name": "Weifang"
+            },
+            {
+                "id": 19018,
+                "name": "Weihai"
+            },
+            {
+                "id": 19019,
+                "name": "Wenshang"
+            },
+            {
+                "id": 19020,
+                "name": "Xiazhen"
+            },
+            {
+                "id": 19021,
+                "name": "Xiazhuang"
+            },
+            {
+                "id": 19022,
+                "name": "Xiliguantun"
+            },
+            {
+                "id": 19023,
+                "name": "Xindian"
+            },
+            {
+                "id": 19024,
+                "name": "Xintai"
+            },
+            {
+                "id": 19025,
+                "name": "Yanggu"
+            },
+            {
+                "id": 19026,
+                "name": "Yanta"
+            },
+            {
+                "id": 19027,
+                "name": "Yantai"
+            },
+            {
+                "id": 19028,
+                "name": "Yanzhou"
+            },
+            {
+                "id": 19029,
+                "name": "Yatou"
+            },
+            {
+                "id": 19030,
+                "name": "Yinzhu"
+            },
+            {
+                "id": 19031,
+                "name": "Yishui"
+            },
+            {
+                "id": 19032,
+                "name": "Yucheng"
+            },
+            {
+                "id": 19033,
+                "name": "Zaozhuang"
+            },
+            {
+                "id": 19034,
+                "name": "Zhaoyuan"
+            },
+            {
+                "id": 19035,
+                "name": "Zhoucheng"
+            },
+            {
+                "id": 19036,
+                "name": "Zhoucun"
+            },
+            {
+                "id": 19037,
+                "name": "Zhu Cheng City"
+            },
+            {
+                "id": 19038,
+                "name": "Zhuangyuan"
+            },
+            {
+                "id": 19039,
+                "name": "Zibo"
+            },
+            {
+                "id": 19040,
+                "name": "Zoucheng"
+            }
+        ]
+    },
+    {
+        "id": 798,
+        "name": "Shanghai",
+        "cities": [
+            {
+                "id": 19041,
+                "name": "Shanghai"
+            },
+            {
+                "id": 19042,
+                "name": "Songjiang"
+            },
+            {
+                "id": 19043,
+                "name": "Zhabei"
+            },
+            {
+                "id": 19044,
+                "name": "Zhujiajiao"
+            }
+        ]
+    },
+    {
+        "id": 799,
+        "name": "Shanxi",
+        "cities": [
+            {
+                "id": 19045,
+                "name": "Changzhi"
+            },
+            {
+                "id": 19046,
+                "name": "Datong"
+            },
+            {
+                "id": 19047,
+                "name": "Datong Shi"
+            },
+            {
+                "id": 19048,
+                "name": "Gutao"
+            },
+            {
+                "id": 19049,
+                "name": "Jiexiu"
+            },
+            {
+                "id": 19050,
+                "name": "Jincheng"
+            },
+            {
+                "id": 19051,
+                "name": "Jinzhong Shi"
+            },
+            {
+                "id": 19052,
+                "name": "Linfen"
+            },
+            {
+                "id": 19053,
+                "name": "Lüliang"
+            },
+            {
+                "id": 19054,
+                "name": "Shuozhou"
+            },
+            {
+                "id": 19055,
+                "name": "Taiyuan"
+            },
+            {
+                "id": 19056,
+                "name": "Xintian"
+            },
+            {
+                "id": 19057,
+                "name": "Xinzhi"
+            },
+            {
+                "id": 19058,
+                "name": "Xinzhou"
+            },
+            {
+                "id": 19059,
+                "name": "Yangquan"
+            },
+            {
+                "id": 19060,
+                "name": "Yuanping"
+            },
+            {
+                "id": 19061,
+                "name": "Yuci"
+            },
+            {
+                "id": 19062,
+                "name": "Yuncheng"
+            }
+        ]
+    },
+    {
+        "id": 800,
+        "name": "Sichuan",
+        "cities": [
+            {
+                "id": 19063,
+                "name": "Aba Zangzu Qiangzu Zizhizhou"
+            },
+            {
+                "id": 19064,
+                "name": "Barkam"
+            },
+            {
+                "id": 19065,
+                "name": "Bazhong Shi"
+            },
+            {
+                "id": 19066,
+                "name": "Changchi"
+            },
+            {
+                "id": 19067,
+                "name": "Chengdu"
+            },
+            {
+                "id": 19068,
+                "name": "Chonglong"
+            },
+            {
+                "id": 19069,
+                "name": "Dadukou"
+            },
+            {
+                "id": 19070,
+                "name": "Dazhou"
+            },
+            {
+                "id": 19071,
+                "name": "Deyang"
+            },
+            {
+                "id": 19072,
+                "name": "Dongxi"
+            },
+            {
+                "id": 19073,
+                "name": "Fangting"
+            },
+            {
+                "id": 19074,
+                "name": "Fubao"
+            },
+            {
+                "id": 19075,
+                "name": "Gaoping"
+            },
+            {
+                "id": 19076,
+                "name": "Garzê Zangzu Zizhizhou"
+            },
+            {
+                "id": 19077,
+                "name": "Guang’an"
+            },
+            {
+                "id": 19078,
+                "name": "Guangyuan"
+            },
+            {
+                "id": 19079,
+                "name": "Jiancheng"
+            },
+            {
+                "id": 19080,
+                "name": "Jiangyou"
+            },
+            {
+                "id": 19081,
+                "name": "Jiannan"
+            },
+            {
+                "id": 19082,
+                "name": "Kangding"
+            },
+            {
+                "id": 19083,
+                "name": "Langzhong"
+            },
+            {
+                "id": 19084,
+                "name": "Leshan"
+            },
+            {
+                "id": 19085,
+                "name": "Liangshan Yizu Zizhizhou"
+            },
+            {
+                "id": 19086,
+                "name": "Linqiong"
+            },
+            {
+                "id": 19087,
+                "name": "Luocheng"
+            },
+            {
+                "id": 19088,
+                "name": "Luzhou"
+            },
+            {
+                "id": 19089,
+                "name": "Meishan Shi"
+            },
+            {
+                "id": 19090,
+                "name": "Mianyang"
+            },
+            {
+                "id": 19091,
+                "name": "Nanchong"
+            },
+            {
+                "id": 19092,
+                "name": "Nanlong"
+            },
+            {
+                "id": 19093,
+                "name": "Neijiang"
+            },
+            {
+                "id": 19094,
+                "name": "Panzhihua"
+            },
+            {
+                "id": 19095,
+                "name": "Puji"
+            },
+            {
+                "id": 19096,
+                "name": "Shuanghejiedao"
+            },
+            {
+                "id": 19097,
+                "name": "Suining"
+            },
+            {
+                "id": 19098,
+                "name": "Taihe"
+            },
+            {
+                "id": 19099,
+                "name": "Taiping"
+            },
+            {
+                "id": 19100,
+                "name": "Tianpeng"
+            },
+            {
+                "id": 19101,
+                "name": "Tongchuan"
+            },
+            {
+                "id": 19102,
+                "name": "Xialiang"
+            },
+            {
+                "id": 19103,
+                "name": "Xiantan"
+            },
+            {
+                "id": 19104,
+                "name": "Xichang"
+            },
+            {
+                "id": 19105,
+                "name": "Xunchang"
+            },
+            {
+                "id": 19106,
+                "name": "Yanjiang"
+            },
+            {
+                "id": 19107,
+                "name": "Yibin"
+            },
+            {
+                "id": 19108,
+                "name": "Yucheng"
+            },
+            {
+                "id": 19109,
+                "name": "Zengjia"
+            },
+            {
+                "id": 19110,
+                "name": "Zhongba"
+            },
+            {
+                "id": 19111,
+                "name": "Zigong"
+            }
+        ]
+    },
+    {
+        "id": 801,
+        "name": "Taiwan Province, People's Republic of China",
+        "cities": [
+            {
+                "id": 19112,
+                "name": "Baoying"
+            },
+            {
+                "id": 19113,
+                "name": "Changshu City"
+            },
+            {
+                "id": 19114,
+                "name": "Changzhou"
+            },
+            {
+                "id": 19115,
+                "name": "Chengxiang"
+            },
+            {
+                "id": 19116,
+                "name": "Dazhong"
+            },
+            {
+                "id": 19117,
+                "name": "Dongkan"
+            },
+            {
+                "id": 19118,
+                "name": "Dongtai"
+            },
+            {
+                "id": 19119,
+                "name": "Fengxian"
+            },
+            {
+                "id": 19120,
+                "name": "Gaogou"
+            },
+            {
+                "id": 19121,
+                "name": "Gaoyou"
+            },
+            {
+                "id": 19122,
+                "name": "Guiren"
+            },
+            {
+                "id": 19123,
+                "name": "Haizhou"
+            },
+            {
+                "id": 19124,
+                "name": "Hede"
+            },
+            {
+                "id": 19125,
+                "name": "Huai'an"
+            },
+            {
+                "id": 19126,
+                "name": "Huai’an Shi"
+            },
+            {
+                "id": 19127,
+                "name": "Huilong"
+            },
+            {
+                "id": 19128,
+                "name": "Hutang"
+            },
+            {
+                "id": 19129,
+                "name": "Jiangyan"
+            },
+            {
+                "id": 19130,
+                "name": "Jiangyin"
+            },
+            {
+                "id": 19131,
+                "name": "Jingjiang"
+            },
+            {
+                "id": 19132,
+                "name": "Jinsha"
+            },
+            {
+                "id": 19133,
+                "name": "Juegang"
+            },
+            {
+                "id": 19134,
+                "name": "Kunshan"
+            },
+            {
+                "id": 19135,
+                "name": "Lianyungang Shi"
+            },
+            {
+                "id": 19136,
+                "name": "Licheng"
+            },
+            {
+                "id": 19137,
+                "name": "Mudu"
+            },
+            {
+                "id": 19138,
+                "name": "Nanjing"
+            },
+            {
+                "id": 19139,
+                "name": "Nantong"
+            },
+            {
+                "id": 19140,
+                "name": "Pizhou"
+            },
+            {
+                "id": 19141,
+                "name": "Qinnan"
+            },
+            {
+                "id": 19142,
+                "name": "Rucheng"
+            },
+            {
+                "id": 19143,
+                "name": "Sanmao"
+            },
+            {
+                "id": 19144,
+                "name": "Songling"
+            },
+            {
+                "id": 19145,
+                "name": "Suicheng"
+            },
+            {
+                "id": 19146,
+                "name": "Suzhou"
+            },
+            {
+                "id": 19147,
+                "name": "Taixing"
+            },
+            {
+                "id": 19148,
+                "name": "Taizhou"
+            },
+            {
+                "id": 19149,
+                "name": "Tongshan"
+            },
+            {
+                "id": 19150,
+                "name": "Wuxi"
+            },
+            {
+                "id": 19151,
+                "name": "Xiannü"
+            },
+            {
+                "id": 19152,
+                "name": "Xiaolingwei"
+            },
+            {
+                "id": 19153,
+                "name": "Xinghua"
+            },
+            {
+                "id": 19154,
+                "name": "Xinpu"
+            },
+            {
+                "id": 19155,
+                "name": "Yancheng"
+            },
+            {
+                "id": 19156,
+                "name": "Yangzhou"
+            },
+            {
+                "id": 19157,
+                "name": "Yicheng"
+            },
+            {
+                "id": 19158,
+                "name": "Yushan"
+            },
+            {
+                "id": 19159,
+                "name": "Zhangjiagang"
+            },
+            {
+                "id": 19160,
+                "name": "Zhenjiang"
+            },
+            {
+                "id": 19161,
+                "name": "Zhenzhou"
+            },
+            {
+                "id": 19162,
+                "name": "Zhongxing"
+            },
+            {
+                "id": 19163,
+                "name": "Zhouzhuang"
+            }
+        ]
+    },
+    {
+        "id": 802,
+        "name": "Tibet Autonomous Region",
+        "cities": [
+            {
+                "id": 19164,
+                "name": "Burang"
+            },
+            {
+                "id": 19165,
+                "name": "Dêqên"
+            },
+            {
+                "id": 19166,
+                "name": "Jiangzi"
+            },
+            {
+                "id": 19167,
+                "name": "Lhasa"
+            },
+            {
+                "id": 19168,
+                "name": "Nagqu"
+            },
+            {
+                "id": 19169,
+                "name": "Nagqu Diqu"
+            },
+            {
+                "id": 19170,
+                "name": "Ngari Diqu"
+            },
+            {
+                "id": 19171,
+                "name": "Nyingchi Prefecture"
+            },
+            {
+                "id": 19172,
+                "name": "Qamdo"
+            },
+            {
+                "id": 19173,
+                "name": "Qamdo Shi"
+            },
+            {
+                "id": 19174,
+                "name": "Rikaze"
+            },
+            {
+                "id": 19175,
+                "name": "Saga"
+            },
+            {
+                "id": 19176,
+                "name": "Shannan Diqu"
+            }
+        ]
+    },
+    {
+        "id": 803,
+        "name": "Xinjiang",
+        "cities": [
+            {
+                "id": 19177,
+                "name": "Ailan Mubage"
+            },
+            {
+                "id": 19178,
+                "name": "Aksu"
+            },
+            {
+                "id": 19179,
+                "name": "Aksu Diqu"
+            },
+            {
+                "id": 19180,
+                "name": "Altay"
+            },
+            {
+                "id": 19181,
+                "name": "Altay Diqu"
+            },
+            {
+                "id": 19182,
+                "name": "Aral"
+            },
+            {
+                "id": 19183,
+                "name": "Aykol"
+            },
+            {
+                "id": 19184,
+                "name": "Baijiantan"
+            },
+            {
+                "id": 19185,
+                "name": "Baluntaicun"
+            },
+            {
+                "id": 19186,
+                "name": "Bayingolin Mongol Zizhizhou"
+            },
+            {
+                "id": 19187,
+                "name": "Changji"
+            },
+            {
+                "id": 19188,
+                "name": "Changji Huizu Zizhizhou"
+            },
+            {
+                "id": 19189,
+                "name": "Fukang"
+            },
+            {
+                "id": 19190,
+                "name": "Hami"
+            },
+            {
+                "id": 19191,
+                "name": "Hotan"
+            },
+            {
+                "id": 19192,
+                "name": "Hoxtolgay"
+            },
+            {
+                "id": 19193,
+                "name": "Huocheng"
+            },
+            {
+                "id": 19194,
+                "name": "Ili Kazak Zizhizhou"
+            },
+            {
+                "id": 19195,
+                "name": "Karamay"
+            },
+            {
+                "id": 19196,
+                "name": "Karamay Shi"
+            },
+            {
+                "id": 19197,
+                "name": "Kashgar"
+            },
+            {
+                "id": 19198,
+                "name": "Kaxgar Diqu"
+            },
+            {
+                "id": 19199,
+                "name": "Korla"
+            },
+            {
+                "id": 19200,
+                "name": "Kuqa"
+            },
+            {
+                "id": 19201,
+                "name": "Kuytun"
+            },
+            {
+                "id": 19202,
+                "name": "Qapqal"
+            },
+            {
+                "id": 19203,
+                "name": "Shache"
+            },
+            {
+                "id": 19204,
+                "name": "Shihezi"
+            },
+            {
+                "id": 19205,
+                "name": "Sishilichengzi"
+            },
+            {
+                "id": 19206,
+                "name": "Tacheng"
+            },
+            {
+                "id": 19207,
+                "name": "Tacheng Diqu"
+            },
+            {
+                "id": 19208,
+                "name": "Turpan"
+            },
+            {
+                "id": 19209,
+                "name": "Turpan Diqu"
+            },
+            {
+                "id": 19210,
+                "name": "Ürümqi"
+            },
+            {
+                "id": 19211,
+                "name": "Urumqi Shi"
+            },
+            {
+                "id": 19212,
+                "name": "Xinyuan"
+            },
+            {
+                "id": 19213,
+                "name": "Zangguy"
+            }
+        ]
+    },
+    {
+        "id": 804,
+        "name": "Yunnan",
+        "cities": [
+            {
+                "id": 19214,
+                "name": "Chuxiong Yizu Zizhizhou"
+            },
+            {
+                "id": 19215,
+                "name": "Dali"
+            },
+            {
+                "id": 19216,
+                "name": "Dali Baizu Zizhizhou"
+            },
+            {
+                "id": 19217,
+                "name": "Dehong Daizu Jingpozu Zizhizhou"
+            },
+            {
+                "id": 19218,
+                "name": "Dêqên Tibetan Autonomous Prefecture"
+            },
+            {
+                "id": 19219,
+                "name": "Gejiu"
+            },
+            {
+                "id": 19220,
+                "name": "Haikou"
+            },
+            {
+                "id": 19221,
+                "name": "Honghe Hanizu Yizu Zizhizhou"
+            },
+            {
+                "id": 19222,
+                "name": "Jinghong"
+            },
+            {
+                "id": 19223,
+                "name": "Kaihua"
+            },
+            {
+                "id": 19224,
+                "name": "Kaiyuan"
+            },
+            {
+                "id": 19225,
+                "name": "Kunming"
+            },
+            {
+                "id": 19226,
+                "name": "Lianran"
+            },
+            {
+                "id": 19227,
+                "name": "Lijiang"
+            },
+            {
+                "id": 19228,
+                "name": "Lincang Shi"
+            },
+            {
+                "id": 19229,
+                "name": "Longquan"
+            },
+            {
+                "id": 19230,
+                "name": "Mabai"
+            },
+            {
+                "id": 19231,
+                "name": "Majie"
+            },
+            {
+                "id": 19232,
+                "name": "Miyang"
+            },
+            {
+                "id": 19233,
+                "name": "Nujiang Lisuzu Zizhizhou"
+            },
+            {
+                "id": 19234,
+                "name": "Qujing"
+            },
+            {
+                "id": 19235,
+                "name": "Shangri-La"
+            },
+            {
+                "id": 19236,
+                "name": "Shilin"
+            },
+            {
+                "id": 19237,
+                "name": "Wenlan"
+            },
+            {
+                "id": 19238,
+                "name": "Wenshan City"
+            },
+            {
+                "id": 19239,
+                "name": "Wenshan Zhuangzu Miaozu Zizhizhou"
+            },
+            {
+                "id": 19240,
+                "name": "Yuxi"
+            },
+            {
+                "id": 19241,
+                "name": "Zhaotong"
+            },
+            {
+                "id": 19242,
+                "name": "Zhongshu"
+            }
+        ]
+    },
+    {
+        "id": 805,
+        "name": "Zhejiang",
+        "cities": [
+            {
+                "id": 19243,
+                "name": "Deqing"
+            },
+            {
+                "id": 19244,
+                "name": "Dongyang"
+            },
+            {
+                "id": 19245,
+                "name": "Fenghua"
+            },
+            {
+                "id": 19246,
+                "name": "Fuyang"
+            },
+            {
+                "id": 19247,
+                "name": "Guli"
+            },
+            {
+                "id": 19248,
+                "name": "Haining"
+            },
+            {
+                "id": 19249,
+                "name": "Hangzhou"
+            },
+            {
+                "id": 19250,
+                "name": "Huangyan"
+            },
+            {
+                "id": 19251,
+                "name": "Huzhou"
+            },
+            {
+                "id": 19252,
+                "name": "Jiaojiang"
+            },
+            {
+                "id": 19253,
+                "name": "Jiashan"
+            },
+            {
+                "id": 19254,
+                "name": "Jiaxing"
+            },
+            {
+                "id": 19255,
+                "name": "Jiaxing Shi"
+            },
+            {
+                "id": 19256,
+                "name": "Jinhua"
+            },
+            {
+                "id": 19257,
+                "name": "Jinxiang"
+            },
+            {
+                "id": 19258,
+                "name": "Kunyang"
+            },
+            {
+                "id": 19259,
+                "name": "Lanxi"
+            },
+            {
+                "id": 19260,
+                "name": "Lianghu"
+            },
+            {
+                "id": 19261,
+                "name": "Linhai"
+            },
+            {
+                "id": 19262,
+                "name": "Linping"
+            },
+            {
+                "id": 19263,
+                "name": "Lishui"
+            },
+            {
+                "id": 19264,
+                "name": "Luqiao"
+            },
+            {
+                "id": 19265,
+                "name": "Ningbo"
+            },
+            {
+                "id": 19266,
+                "name": "Ninghai"
+            },
+            {
+                "id": 19267,
+                "name": "Puyang"
+            },
+            {
+                "id": 19268,
+                "name": "Quzhou"
+            },
+            {
+                "id": 19269,
+                "name": "Shangyu"
+            },
+            {
+                "id": 19270,
+                "name": "Shaoxing"
+            },
+            {
+                "id": 19271,
+                "name": "Shenjiamen"
+            },
+            {
+                "id": 19272,
+                "name": "Taizhou"
+            },
+            {
+                "id": 19273,
+                "name": "Wenling"
+            },
+            {
+                "id": 19274,
+                "name": "Wenzhou"
+            },
+            {
+                "id": 19275,
+                "name": "Wuzhen"
+            },
+            {
+                "id": 19276,
+                "name": "Xianju"
+            },
+            {
+                "id": 19277,
+                "name": "Xiaoshan"
+            },
+            {
+                "id": 19278,
+                "name": "Yiwu"
+            },
+            {
+                "id": 19279,
+                "name": "Yuyao"
+            },
+            {
+                "id": 19280,
+                "name": "Zhaobaoshan"
+            },
+            {
+                "id": 19281,
+                "name": "Zhicheng"
+            },
+            {
+                "id": 19282,
+                "name": "Zhoushan"
+            },
+            {
+                "id": 19283,
+                "name": "Zhuji"
+            }
+        ]
+    }
+]

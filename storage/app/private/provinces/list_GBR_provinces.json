@@ -1,0 +1,510 @@
+[
+    {
+        "id": 4395,
+        "name": "England",
+        "cities": [
+            {
+                "id": 118382,
+                "name": "London"
+            },
+            {
+                "id": 118383,
+                "name": "Manchester"
+            },
+            {
+                "id": 118384,
+                "name": "Birmingham"
+            },
+            {
+                "id": 118385,
+                "name": "Liverpool"
+            },
+            {
+                "id": 118386,
+                "name": "Leeds"
+            },
+            {
+                "id": 118387,
+                "name": "Oxford"
+            },
+            {
+                "id": 118388,
+                "name": "Cambridge"
+            },
+            {
+                "id": 118389,
+                "name": "Bath"
+            },
+            {
+                "id": 118390,
+                "name": "York"
+            },
+            {
+                "id": 118391,
+                "name": "Winchester"
+            },
+            {
+                "id": 118392,
+                "name": "St Albans"
+            },
+            {
+                "id": 118393,
+                "name": "Salisbury"
+            },
+            {
+                "id": 118394,
+                "name": "Chichester"
+            },
+            {
+                "id": 118395,
+                "name": "Wells"
+            },
+            {
+                "id": 118396,
+                "name": "Durham"
+            },
+            {
+                "id": 118397,
+                "name": "Stratford-upon-Avon"
+            },
+            {
+                "id": 118398,
+                "name": "Lichfield"
+            },
+            {
+                "id": 118399,
+                "name": "Warwick"
+            },
+            {
+                "id": 118400,
+                "name": "Rye"
+            },
+            {
+                "id": 118401,
+                "name": "Whitby"
+            },
+            {
+                "id": 118402,
+                "name": "Bakewell"
+            },
+            {
+                "id": 118403,
+                "name": "Totnes"
+            },
+            {
+                "id": 118404,
+                "name": "Hexham"
+            },
+            {
+                "id": 118405,
+                "name": "Matlock"
+            },
+            {
+                "id": 118406,
+                "name": "Malton"
+            },
+            {
+                "id": 118407,
+                "name": "Haworth"
+            },
+            {
+                "id": 118408,
+                "name": "Lynton"
+            },
+            {
+                "id": 118409,
+                "name": "Keswick"
+            },
+            {
+                "id": 118410,
+                "name": "Painswick"
+            },
+            {
+                "id": 118411,
+                "name": "Broadway"
+            },
+            {
+                "id": 118412,
+                "name": "Cley next the Sea"
+            }
+        ]
+    },
+    {
+        "id": 4396,
+        "name": "Northern Ireland",
+        "cities": [
+            {
+                "id": 118413,
+                "name": "Belfast"
+            },
+            {
+                "id": 118414,
+                "name": "Derry (Londonderry)"
+            },
+            {
+                "id": 118415,
+                "name": "Lisburn"
+            },
+            {
+                "id": 118416,
+                "name": "Newry"
+            },
+            {
+                "id": 118417,
+                "name": "Armagh"
+            },
+            {
+                "id": 118418,
+                "name": "Bangor"
+            },
+            {
+                "id": 118419,
+                "name": "Antrim"
+            },
+            {
+                "id": 118420,
+                "name": "Ballymena"
+            },
+            {
+                "id": 118421,
+                "name": "Coleraine"
+            },
+            {
+                "id": 118422,
+                "name": "Omagh"
+            },
+            {
+                "id": 118423,
+                "name": "Strabane"
+            },
+            {
+                "id": 118424,
+                "name": "Downpatrick"
+            },
+            {
+                "id": 118425,
+                "name": "Carrickfergus"
+            },
+            {
+                "id": 118426,
+                "name": "Newtownabbey"
+            },
+            {
+                "id": 118427,
+                "name": "Enniskillen"
+            },
+            {
+                "id": 118428,
+                "name": "Cookstown"
+            },
+            {
+                "id": 118429,
+                "name": "Magherafelt"
+            },
+            {
+                "id": 118430,
+                "name": "Banbridge"
+            },
+            {
+                "id": 118431,
+                "name": "Holywood"
+            },
+            {
+                "id": 118432,
+                "name": "Portadown"
+            },
+            {
+                "id": 118433,
+                "name": "Larne"
+            },
+            {
+                "id": 118434,
+                "name": "Ballycastle"
+            },
+            {
+                "id": 118435,
+                "name": "Dungannon"
+            },
+            {
+                "id": 118436,
+                "name": "Warrenpoint"
+            },
+            {
+                "id": 118437,
+                "name": "Randalstown"
+            },
+            {
+                "id": 118438,
+                "name": "Ballynahinch"
+            },
+            {
+                "id": 118439,
+                "name": "Moira"
+            },
+            {
+                "id": 118440,
+                "name": "Saintfield"
+            },
+            {
+                "id": 118441,
+                "name": "Crumlin"
+            },
+            {
+                "id": 118442,
+                "name": "Limavady"
+            }
+        ]
+    },
+    {
+        "id": 4397,
+        "name": "Wales",
+        "cities": [
+            {
+                "id": 118443,
+                "name": "Cardiff"
+            },
+            {
+                "id": 118444,
+                "name": "Swansea"
+            },
+            {
+                "id": 118445,
+                "name": "Newport"
+            },
+            {
+                "id": 118446,
+                "name": "Bangor"
+            },
+            {
+                "id": 118447,
+                "name": "St Davids"
+            },
+            {
+                "id": 118448,
+                "name": "Wrexham"
+            },
+            {
+                "id": 118449,
+                "name": "Aberystwyth"
+            },
+            {
+                "id": 118450,
+                "name": "Carmarthen"
+            },
+            {
+                "id": 118451,
+                "name": "Llandudno"
+            },
+            {
+                "id": 118452,
+                "name": "Conwy"
+            },
+            {
+                "id": 118453,
+                "name": "Caernarfon"
+            },
+            {
+                "id": 118454,
+                "name": "Brecon"
+            },
+            {
+                "id": 118455,
+                "name": "Hay-on-Wye"
+            },
+            {
+                "id": 118456,
+                "name": "Pontypridd"
+            },
+            {
+                "id": 118457,
+                "name": "Llanelli"
+            },
+            {
+                "id": 118458,
+                "name": "Rhyl"
+            },
+            {
+                "id": 118459,
+                "name": "Prestatyn"
+            },
+            {
+                "id": 118460,
+                "name": "Holyhead"
+            },
+            {
+                "id": 118461,
+                "name": "Tenby"
+            },
+            {
+                "id": 118462,
+                "name": "Pembroke"
+            },
+            {
+                "id": 118463,
+                "name": "Abergavenny"
+            },
+            {
+                "id": 118464,
+                "name": "Llangollen"
+            },
+            {
+                "id": 118465,
+                "name": "Machynlleth"
+            },
+            {
+                "id": 118466,
+                "name": "Betws-y-Coed"
+            },
+            {
+                "id": 118467,
+                "name": "Bala"
+            },
+            {
+                "id": 118468,
+                "name": "Fishguard"
+            },
+            {
+                "id": 118469,
+                "name": "Porthmadog"
+            },
+            {
+                "id": 118470,
+                "name": "Aberaeron"
+            },
+            {
+                "id": 118471,
+                "name": "Knighton"
+            },
+            {
+                "id": 118472,
+                "name": "Criccieth"
+            }
+        ]
+    },
+    {
+        "id": 4398,
+        "name": "Scotland",
+        "cities": [
+            {
+                "id": 118473,
+                "name": "Edinburgh"
+            },
+            {
+                "id": 118474,
+                "name": "Glasgow"
+            },
+            {
+                "id": 118475,
+                "name": "Aberdeen"
+            },
+            {
+                "id": 118476,
+                "name": "Inverness"
+            },
+            {
+                "id": 118477,
+                "name": "Dundee"
+            },
+            {
+                "id": 118478,
+                "name": "Stirling"
+            },
+            {
+                "id": 118479,
+                "name": "Perth"
+            },
+            {
+                "id": 118480,
+                "name": "Paisley"
+            },
+            {
+                "id": 118481,
+                "name": "Kilmarnock"
+            },
+            {
+                "id": 118482,
+                "name": "Dumfries"
+            },
+            {
+                "id": 118483,
+                "name": "Fort William"
+            },
+            {
+                "id": 118484,
+                "name": "Oban"
+            },
+            {
+                "id": 118485,
+                "name": "St Andrews"
+            },
+            {
+                "id": 118486,
+                "name": "Ayr"
+            },
+            {
+                "id": 118487,
+                "name": "Elgin"
+            },
+            {
+                "id": 118488,
+                "name": "Falkirk"
+            },
+            {
+                "id": 118489,
+                "name": "Dunfermline"
+            },
+            {
+                "id": 118490,
+                "name": "Hawick"
+            },
+            {
+                "id": 118491,
+                "name": "Melrose"
+            },
+            {
+                "id": 118492,
+                "name": "Peebles"
+            },
+            {
+                "id": 118493,
+                "name": "Selkirk"
+            },
+            {
+                "id": 118494,
+                "name": "Thurso"
+            },
+            {
+                "id": 118495,
+                "name": "Wick"
+            },
+            {
+                "id": 118496,
+                "name": "Kirkwall"
+            },
+            {
+                "id": 118497,
+                "name": "Lerwick"
+            },
+            {
+                "id": 118498,
+                "name": "Stonehaven"
+            },
+            {
+                "id": 118499,
+                "name": "Isle of Skye (Portree)"
+            },
+            {
+                "id": 118500,
+                "name": "Pitlochry"
+            },
+            {
+                "id": 118501,
+                "name": "Kingussie"
+            },
+            {
+                "id": 118502,
+                "name": "Ballater"
+            }
+        ]
+    }
+]

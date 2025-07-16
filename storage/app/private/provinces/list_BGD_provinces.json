@@ -1,0 +1,976 @@
+[
+    {
+        "id": 333,
+        "name": "Bagerhat District",
+        "cities": []
+    },
+    {
+        "id": 334,
+        "name": "Bahadia",
+        "cities": []
+    },
+    {
+        "id": 335,
+        "name": "Bandarban District",
+        "cities": []
+    },
+    {
+        "id": 336,
+        "name": "Barguna District",
+        "cities": []
+    },
+    {
+        "id": 337,
+        "name": "Barisal District",
+        "cities": [
+            {
+                "id": 8546,
+                "name": "Barguna"
+            },
+            {
+                "id": 8547,
+                "name": "Barisal"
+            },
+            {
+                "id": 8548,
+                "name": "Barisāl"
+            },
+            {
+                "id": 8549,
+                "name": "Bhāndāria"
+            },
+            {
+                "id": 8550,
+                "name": "Bhola"
+            },
+            {
+                "id": 8551,
+                "name": "Burhānuddin"
+            },
+            {
+                "id": 8552,
+                "name": "Gaurnadi"
+            },
+            {
+                "id": 8553,
+                "name": "Jhalokati"
+            },
+            {
+                "id": 8554,
+                "name": "Lālmohan"
+            },
+            {
+                "id": 8555,
+                "name": "Mathba"
+            },
+            {
+                "id": 8556,
+                "name": "Mehendiganj"
+            },
+            {
+                "id": 8557,
+                "name": "Nālchiti"
+            },
+            {
+                "id": 8558,
+                "name": "Patuakhali"
+            },
+            {
+                "id": 8559,
+                "name": "Pirojpur"
+            }
+        ]
+    },
+    {
+        "id": 338,
+        "name": "Barisal Division",
+        "cities": []
+    },
+    {
+        "id": 339,
+        "name": "Bhola District",
+        "cities": []
+    },
+    {
+        "id": 340,
+        "name": "Bogra District",
+        "cities": []
+    },
+    {
+        "id": 341,
+        "name": "Brahmanbaria District",
+        "cities": []
+    },
+    {
+        "id": 342,
+        "name": "Chandpur District",
+        "cities": []
+    },
+    {
+        "id": 343,
+        "name": "Chapai Nawabganj District",
+        "cities": []
+    },
+    {
+        "id": 344,
+        "name": "Chittagong District",
+        "cities": []
+    },
+    {
+        "id": 345,
+        "name": "Chittagong Division",
+        "cities": [
+            {
+                "id": 8560,
+                "name": "Bandarban"
+            },
+            {
+                "id": 8561,
+                "name": "Bāndarban"
+            },
+            {
+                "id": 8562,
+                "name": "Bibir Hat"
+            },
+            {
+                "id": 8563,
+                "name": "Brahmanbaria"
+            },
+            {
+                "id": 8564,
+                "name": "Chandpur"
+            },
+            {
+                "id": 8565,
+                "name": "Chhāgalnāiya"
+            },
+            {
+                "id": 8566,
+                "name": "Chittagong"
+            },
+            {
+                "id": 8567,
+                "name": "Comilla"
+            },
+            {
+                "id": 8568,
+                "name": "Cox's Bazar"
+            },
+            {
+                "id": 8569,
+                "name": "Cox’s Bāzār"
+            },
+            {
+                "id": 8570,
+                "name": "Feni"
+            },
+            {
+                "id": 8571,
+                "name": "Hājīganj"
+            },
+            {
+                "id": 8572,
+                "name": "Khagrachhari"
+            },
+            {
+                "id": 8573,
+                "name": "Lākshām"
+            },
+            {
+                "id": 8574,
+                "name": "Lakshmipur"
+            },
+            {
+                "id": 8575,
+                "name": "Lakshmīpur"
+            },
+            {
+                "id": 8576,
+                "name": "Manikchari"
+            },
+            {
+                "id": 8577,
+                "name": "Nabīnagar"
+            },
+            {
+                "id": 8578,
+                "name": "Noakhali"
+            },
+            {
+                "id": 8579,
+                "name": "Patiya"
+            },
+            {
+                "id": 8580,
+                "name": "Rāipur"
+            },
+            {
+                "id": 8581,
+                "name": "Rāmganj"
+            },
+            {
+                "id": 8582,
+                "name": "Rangamati"
+            },
+            {
+                "id": 8583,
+                "name": "Raojān"
+            },
+            {
+                "id": 8584,
+                "name": "Sandwīp"
+            },
+            {
+                "id": 8585,
+                "name": "Sātkania"
+            },
+            {
+                "id": 8586,
+                "name": "Teknāf"
+            }
+        ]
+    },
+    {
+        "id": 346,
+        "name": "Chuadanga District",
+        "cities": []
+    },
+    {
+        "id": 347,
+        "name": "Comilla District",
+        "cities": []
+    },
+    {
+        "id": 348,
+        "name": "Cox's Bazar District",
+        "cities": []
+    },
+    {
+        "id": 349,
+        "name": "Dhaka District",
+        "cities": [
+            {
+                "id": 8587,
+                "name": "Azimpur"
+            },
+            {
+                "id": 8588,
+                "name": "Bājitpur"
+            },
+            {
+                "id": 8589,
+                "name": "Bhairab Bāzār"
+            },
+            {
+                "id": 8590,
+                "name": "Char Bhadrāsan"
+            },
+            {
+                "id": 8591,
+                "name": "Char Golora"
+            },
+            {
+                "id": 8592,
+                "name": "Dhaka"
+            },
+            {
+                "id": 8593,
+                "name": "Dohār"
+            },
+            {
+                "id": 8594,
+                "name": "Faridpur"
+            },
+            {
+                "id": 8595,
+                "name": "Farīdpur"
+            },
+            {
+                "id": 8596,
+                "name": "Gazipur"
+            },
+            {
+                "id": 8597,
+                "name": "Gopalganj"
+            },
+            {
+                "id": 8598,
+                "name": "Joymontop"
+            },
+            {
+                "id": 8599,
+                "name": "Khanbaniara"
+            },
+            {
+                "id": 8600,
+                "name": "Kishoregonj"
+            },
+            {
+                "id": 8601,
+                "name": "Kishorganj"
+            },
+            {
+                "id": 8602,
+                "name": "Madaripur"
+            },
+            {
+                "id": 8603,
+                "name": "Mādārīpur"
+            },
+            {
+                "id": 8604,
+                "name": "Manikganj"
+            },
+            {
+                "id": 8605,
+                "name": "Mirzāpur"
+            },
+            {
+                "id": 8606,
+                "name": "Munshiganj"
+            },
+            {
+                "id": 8607,
+                "name": "Nāgarpur"
+            },
+            {
+                "id": 8608,
+                "name": "Narayanganj"
+            },
+            {
+                "id": 8609,
+                "name": "Nārāyanganj"
+            },
+            {
+                "id": 8610,
+                "name": "Narsingdi"
+            },
+            {
+                "id": 8611,
+                "name": "Pālang"
+            },
+            {
+                "id": 8612,
+                "name": "Paltan"
+            },
+            {
+                "id": 8613,
+                "name": "Parvez Ali"
+            },
+            {
+                "id": 8614,
+                "name": "Parvez Ali Hossain"
+            },
+            {
+                "id": 8615,
+                "name": "Rajbari"
+            },
+            {
+                "id": 8616,
+                "name": "Ramnagar"
+            },
+            {
+                "id": 8617,
+                "name": "Sakhipur"
+            },
+            {
+                "id": 8618,
+                "name": "Sayani"
+            },
+            {
+                "id": 8619,
+                "name": "Shariatpur"
+            },
+            {
+                "id": 8620,
+                "name": "Sonārgaon"
+            },
+            {
+                "id": 8621,
+                "name": "Tangail"
+            },
+            {
+                "id": 8622,
+                "name": "Tāngāil"
+            },
+            {
+                "id": 8623,
+                "name": "Tungi"
+            },
+            {
+                "id": 8624,
+                "name": "Tungipāra"
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "name": "Dhaka Division",
+        "cities": []
+    },
+    {
+        "id": 351,
+        "name": "Dinajpur District",
+        "cities": []
+    },
+    {
+        "id": 352,
+        "name": "Faridpur District",
+        "cities": []
+    },
+    {
+        "id": 353,
+        "name": "Feni District",
+        "cities": []
+    },
+    {
+        "id": 354,
+        "name": "Gaibandha District",
+        "cities": []
+    },
+    {
+        "id": 355,
+        "name": "Gazipur District",
+        "cities": []
+    },
+    {
+        "id": 356,
+        "name": "Gopalganj District",
+        "cities": []
+    },
+    {
+        "id": 357,
+        "name": "Habiganj District",
+        "cities": []
+    },
+    {
+        "id": 358,
+        "name": "Jamalpur District",
+        "cities": []
+    },
+    {
+        "id": 359,
+        "name": "Jessore District",
+        "cities": []
+    },
+    {
+        "id": 360,
+        "name": "Jhalokati District",
+        "cities": []
+    },
+    {
+        "id": 361,
+        "name": "Jhenaidah District",
+        "cities": []
+    },
+    {
+        "id": 362,
+        "name": "Joypurhat District",
+        "cities": []
+    },
+    {
+        "id": 363,
+        "name": "Khagrachari District",
+        "cities": []
+    },
+    {
+        "id": 364,
+        "name": "Khulna District",
+        "cities": [
+            {
+                "id": 8625,
+                "name": "Bagerhat"
+            },
+            {
+                "id": 8626,
+                "name": "Bhātpāra Abhaynagar"
+            },
+            {
+                "id": 8627,
+                "name": "Bherāmāra"
+            },
+            {
+                "id": 8628,
+                "name": "Chuadanga"
+            },
+            {
+                "id": 8629,
+                "name": "Jessore"
+            },
+            {
+                "id": 8630,
+                "name": "Jhenaidah"
+            },
+            {
+                "id": 8631,
+                "name": "Jhingergācha"
+            },
+            {
+                "id": 8632,
+                "name": "Kālia"
+            },
+            {
+                "id": 8633,
+                "name": "Kālīganj"
+            },
+            {
+                "id": 8634,
+                "name": "Kesabpur"
+            },
+            {
+                "id": 8635,
+                "name": "Khulna"
+            },
+            {
+                "id": 8636,
+                "name": "Kushtia"
+            },
+            {
+                "id": 8637,
+                "name": "Magura"
+            },
+            {
+                "id": 8638,
+                "name": "Meherpur"
+            },
+            {
+                "id": 8639,
+                "name": "Morrelgonj"
+            },
+            {
+                "id": 8640,
+                "name": "Narail"
+            },
+            {
+                "id": 8641,
+                "name": "Nowlamary"
+            },
+            {
+                "id": 8642,
+                "name": "Phultala"
+            },
+            {
+                "id": 8643,
+                "name": "Sarankhola"
+            },
+            {
+                "id": 8644,
+                "name": "Satkhira"
+            },
+            {
+                "id": 8645,
+                "name": "Sātkhira"
+            },
+            {
+                "id": 8646,
+                "name": "Ujalpur"
+            },
+            {
+                "id": 8647,
+                "name": "Uttar Char Fasson"
+            }
+        ]
+    },
+    {
+        "id": 365,
+        "name": "Khulna Division",
+        "cities": []
+    },
+    {
+        "id": 366,
+        "name": "Kishoreganj District",
+        "cities": []
+    },
+    {
+        "id": 367,
+        "name": "Kurigram District",
+        "cities": []
+    },
+    {
+        "id": 368,
+        "name": "Kushtia District",
+        "cities": []
+    },
+    {
+        "id": 369,
+        "name": "Lakshmipur District",
+        "cities": []
+    },
+    {
+        "id": 370,
+        "name": "Lalmonirhat District",
+        "cities": []
+    },
+    {
+        "id": 371,
+        "name": "Madaripur District",
+        "cities": []
+    },
+    {
+        "id": 372,
+        "name": "Meherpur District",
+        "cities": []
+    },
+    {
+        "id": 373,
+        "name": "Moulvibazar District",
+        "cities": []
+    },
+    {
+        "id": 374,
+        "name": "Munshiganj District",
+        "cities": []
+    },
+    {
+        "id": 375,
+        "name": "Mymensingh District",
+        "cities": [
+            {
+                "id": 8648,
+                "name": "Gafargaon"
+            },
+            {
+                "id": 8649,
+                "name": "Jamalpur"
+            },
+            {
+                "id": 8650,
+                "name": "Jamālpur"
+            },
+            {
+                "id": 8651,
+                "name": "Muktāgācha"
+            },
+            {
+                "id": 8652,
+                "name": "Mymensingh"
+            },
+            {
+                "id": 8653,
+                "name": "Netrakona"
+            },
+            {
+                "id": 8654,
+                "name": "Sarishābāri"
+            },
+            {
+                "id": 8655,
+                "name": "Sherpur"
+            }
+        ]
+    },
+    {
+        "id": 376,
+        "name": "Mymensingh Division",
+        "cities": []
+    },
+    {
+        "id": 377,
+        "name": "Naogaon District",
+        "cities": []
+    },
+    {
+        "id": 378,
+        "name": "Narail District",
+        "cities": []
+    },
+    {
+        "id": 379,
+        "name": "Narayanganj District",
+        "cities": []
+    },
+    {
+        "id": 380,
+        "name": "Natore District",
+        "cities": []
+    },
+    {
+        "id": 381,
+        "name": "Netrokona District",
+        "cities": []
+    },
+    {
+        "id": 382,
+        "name": "Nilphamari District",
+        "cities": []
+    },
+    {
+        "id": 383,
+        "name": "Noakhali District",
+        "cities": []
+    },
+    {
+        "id": 384,
+        "name": "Pabna District",
+        "cities": []
+    },
+    {
+        "id": 385,
+        "name": "Panchagarh District",
+        "cities": []
+    },
+    {
+        "id": 386,
+        "name": "Patuakhali District",
+        "cities": []
+    },
+    {
+        "id": 387,
+        "name": "Pirojpur District",
+        "cities": []
+    },
+    {
+        "id": 388,
+        "name": "Rajbari District",
+        "cities": []
+    },
+    {
+        "id": 389,
+        "name": "Rajshahi District",
+        "cities": [
+            {
+                "id": 8656,
+                "name": "Bera"
+            },
+            {
+                "id": 8657,
+                "name": "Bogra"
+            },
+            {
+                "id": 8658,
+                "name": "Chapai Nababganj"
+            },
+            {
+                "id": 8659,
+                "name": "Ishurdi"
+            },
+            {
+                "id": 8660,
+                "name": "Joypur Hāt"
+            },
+            {
+                "id": 8661,
+                "name": "Joypurhat"
+            },
+            {
+                "id": 8662,
+                "name": "Mahasthangarh"
+            },
+            {
+                "id": 8663,
+                "name": "Naogaon"
+            },
+            {
+                "id": 8664,
+                "name": "Natore"
+            },
+            {
+                "id": 8665,
+                "name": "Nawābganj"
+            },
+            {
+                "id": 8666,
+                "name": "Pabna"
+            },
+            {
+                "id": 8667,
+                "name": "Pābna"
+            },
+            {
+                "id": 8668,
+                "name": "Pār Naogaon"
+            },
+            {
+                "id": 8669,
+                "name": "Puthia"
+            },
+            {
+                "id": 8670,
+                "name": "Rajshahi"
+            },
+            {
+                "id": 8671,
+                "name": "Rājshāhi"
+            },
+            {
+                "id": 8672,
+                "name": "Saidpur"
+            },
+            {
+                "id": 8673,
+                "name": "Shāhzādpur"
+            },
+            {
+                "id": 8674,
+                "name": "Shibganj"
+            },
+            {
+                "id": 8675,
+                "name": "Sirajganj"
+            }
+        ]
+    },
+    {
+        "id": 390,
+        "name": "Rajshahi Division",
+        "cities": []
+    },
+    {
+        "id": 391,
+        "name": "Rangamati Hill District",
+        "cities": []
+    },
+    {
+        "id": 392,
+        "name": "Rangpur District",
+        "cities": [
+            {
+                "id": 8676,
+                "name": "Badarganj"
+            },
+            {
+                "id": 8677,
+                "name": "Chilmāri"
+            },
+            {
+                "id": 8678,
+                "name": "Dinajpur"
+            },
+            {
+                "id": 8679,
+                "name": "Dinājpur"
+            },
+            {
+                "id": 8680,
+                "name": "Gaibandha"
+            },
+            {
+                "id": 8681,
+                "name": "Kurigram"
+            },
+            {
+                "id": 8682,
+                "name": "Lalmonirhat"
+            },
+            {
+                "id": 8683,
+                "name": "Lalmonirhat District"
+            },
+            {
+                "id": 8684,
+                "name": "Nageswari"
+            },
+            {
+                "id": 8685,
+                "name": "Nilphamari Zila"
+            },
+            {
+                "id": 8686,
+                "name": "Panchagarh"
+            },
+            {
+                "id": 8687,
+                "name": "Parbatipur"
+            },
+            {
+                "id": 8688,
+                "name": "Pīrgaaj"
+            },
+            {
+                "id": 8689,
+                "name": "Rangpur"
+            },
+            {
+                "id": 8690,
+                "name": "Thakurgaon"
+            },
+            {
+                "id": 8691,
+                "name": "Thākurgaon"
+            }
+        ]
+    },
+    {
+        "id": 393,
+        "name": "Rangpur Division",
+        "cities": []
+    },
+    {
+        "id": 394,
+        "name": "Satkhira District",
+        "cities": []
+    },
+    {
+        "id": 395,
+        "name": "Shariatpur District",
+        "cities": []
+    },
+    {
+        "id": 396,
+        "name": "Sherpur District",
+        "cities": []
+    },
+    {
+        "id": 397,
+        "name": "Sirajganj District",
+        "cities": []
+    },
+    {
+        "id": 398,
+        "name": "Sunamganj District",
+        "cities": []
+    },
+    {
+        "id": 399,
+        "name": "Sylhet District",
+        "cities": [
+            {
+                "id": 8692,
+                "name": "Baniachang"
+            },
+            {
+                "id": 8693,
+                "name": "Chhātak"
+            },
+            {
+                "id": 8694,
+                "name": "Habiganj"
+            },
+            {
+                "id": 8695,
+                "name": "Jahedpur"
+            },
+            {
+                "id": 8696,
+                "name": "Maulavi Bāzār"
+            },
+            {
+                "id": 8697,
+                "name": "Maulvibazar"
+            },
+            {
+                "id": 8698,
+                "name": "Sunamganj"
+            },
+            {
+                "id": 8699,
+                "name": "Sylhet"
+            }
+        ]
+    },
+    {
+        "id": 400,
+        "name": "Sylhet Division",
+        "cities": []
+    },
+    {
+        "id": 401,
+        "name": "Tangail District",
+        "cities": []
+    },
+    {
+        "id": 402,
+        "name": "Thakurgaon District",
+        "cities": []
+    }
+]

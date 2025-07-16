@@ -1,0 +1,982 @@
+[
+    {
+        "id": 3508,
+        "name": "Banská Bystrica Region",
+        "cities": [
+            {
+                "id": 102373,
+                "name": "Banská Bystrica"
+            },
+            {
+                "id": 102374,
+                "name": "Banská Štiavnica"
+            },
+            {
+                "id": 102375,
+                "name": "Brezno"
+            },
+            {
+                "id": 102376,
+                "name": "Čierny Balog"
+            },
+            {
+                "id": 102377,
+                "name": "Detva"
+            },
+            {
+                "id": 102378,
+                "name": "Dudince"
+            },
+            {
+                "id": 102379,
+                "name": "Fiľakovo"
+            },
+            {
+                "id": 102380,
+                "name": "Hriňová"
+            },
+            {
+                "id": 102381,
+                "name": "Hrochoť,Slovakia"
+            },
+            {
+                "id": 102382,
+                "name": "Kováčová"
+            },
+            {
+                "id": 102383,
+                "name": "Kremnica"
+            },
+            {
+                "id": 102384,
+                "name": "Krupina"
+            },
+            {
+                "id": 102385,
+                "name": "Lučenec"
+            },
+            {
+                "id": 102386,
+                "name": "Nová Baňa"
+            },
+            {
+                "id": 102387,
+                "name": "Okres Banská Bystrica"
+            },
+            {
+                "id": 102388,
+                "name": "Okres Banská Štiavnica"
+            },
+            {
+                "id": 102389,
+                "name": "Okres Brezno"
+            },
+            {
+                "id": 102390,
+                "name": "Okres Detva"
+            },
+            {
+                "id": 102391,
+                "name": "Okres Krupina"
+            },
+            {
+                "id": 102392,
+                "name": "Okres Lučenec"
+            },
+            {
+                "id": 102393,
+                "name": "Okres Poltár"
+            },
+            {
+                "id": 102394,
+                "name": "Okres Revúca"
+            },
+            {
+                "id": 102395,
+                "name": "Okres Veľký Krtíš"
+            },
+            {
+                "id": 102396,
+                "name": "Okres Žarnovica"
+            },
+            {
+                "id": 102397,
+                "name": "Okres Žiar nad Hronom"
+            },
+            {
+                "id": 102398,
+                "name": "Okres Zvolen"
+            },
+            {
+                "id": 102399,
+                "name": "Poltár"
+            },
+            {
+                "id": 102400,
+                "name": "Revúca"
+            },
+            {
+                "id": 102401,
+                "name": "Rimavská Sobota"
+            },
+            {
+                "id": 102402,
+                "name": "Svätý Anton"
+            },
+            {
+                "id": 102403,
+                "name": "Tisovec"
+            },
+            {
+                "id": 102404,
+                "name": "Veľký Krtíš"
+            },
+            {
+                "id": 102405,
+                "name": "Žarnovica"
+            },
+            {
+                "id": 102406,
+                "name": "Žiar nad Hronom"
+            },
+            {
+                "id": 102407,
+                "name": "Zvolen"
+            }
+        ]
+    },
+    {
+        "id": 3509,
+        "name": "Bratislava Region",
+        "cities": [
+            {
+                "id": 102408,
+                "name": "Bratislava"
+            },
+            {
+                "id": 102409,
+                "name": "Bratislava - Vajnory"
+            },
+            {
+                "id": 102410,
+                "name": "Dunajská Lužná"
+            },
+            {
+                "id": 102411,
+                "name": "Ivanka pri Dunaji"
+            },
+            {
+                "id": 102412,
+                "name": "Malacky"
+            },
+            {
+                "id": 102413,
+                "name": "Marianka"
+            },
+            {
+                "id": 102414,
+                "name": "Modra"
+            },
+            {
+                "id": 102415,
+                "name": "Okres Bratislava I"
+            },
+            {
+                "id": 102416,
+                "name": "Okres Bratislava II"
+            },
+            {
+                "id": 102417,
+                "name": "Okres Bratislava III"
+            },
+            {
+                "id": 102418,
+                "name": "Okres Bratislava IV"
+            },
+            {
+                "id": 102419,
+                "name": "Okres Bratislava V"
+            },
+            {
+                "id": 102420,
+                "name": "Okres Malacky"
+            },
+            {
+                "id": 102421,
+                "name": "Okres Pezinok"
+            },
+            {
+                "id": 102422,
+                "name": "Okres Senec"
+            },
+            {
+                "id": 102423,
+                "name": "Pezinok"
+            },
+            {
+                "id": 102424,
+                "name": "Senec"
+            },
+            {
+                "id": 102425,
+                "name": "Stupava"
+            },
+            {
+                "id": 102426,
+                "name": "Svätý Jur"
+            },
+            {
+                "id": 102427,
+                "name": "Vinosady"
+            }
+        ]
+    },
+    {
+        "id": 3510,
+        "name": "Košice Region",
+        "cities": [
+            {
+                "id": 102428,
+                "name": "Čierna nad Tisou"
+            },
+            {
+                "id": 102429,
+                "name": "Dobšiná"
+            },
+            {
+                "id": 102430,
+                "name": "Gelnica"
+            },
+            {
+                "id": 102431,
+                "name": "Kavečany"
+            },
+            {
+                "id": 102432,
+                "name": "Košice"
+            },
+            {
+                "id": 102433,
+                "name": "Košice I"
+            },
+            {
+                "id": 102434,
+                "name": "Košice II"
+            },
+            {
+                "id": 102435,
+                "name": "Košice III"
+            },
+            {
+                "id": 102436,
+                "name": "Košice IV"
+            },
+            {
+                "id": 102437,
+                "name": "Krompachy"
+            },
+            {
+                "id": 102438,
+                "name": "Medzev"
+            },
+            {
+                "id": 102439,
+                "name": "Michalovce"
+            },
+            {
+                "id": 102440,
+                "name": "Moldava nad Bodvou"
+            },
+            {
+                "id": 102441,
+                "name": "Okres Gelnica"
+            },
+            {
+                "id": 102442,
+                "name": "Okres Kosice-okolie"
+            },
+            {
+                "id": 102443,
+                "name": "Okres Michalovce"
+            },
+            {
+                "id": 102444,
+                "name": "Okres Rožňava"
+            },
+            {
+                "id": 102445,
+                "name": "Okres Sobrance"
+            },
+            {
+                "id": 102446,
+                "name": "Okres Spišská Nová Ves"
+            },
+            {
+                "id": 102447,
+                "name": "Okres Trebišov"
+            },
+            {
+                "id": 102448,
+                "name": "Rožňava"
+            },
+            {
+                "id": 102449,
+                "name": "Sečovce"
+            },
+            {
+                "id": 102450,
+                "name": "Sobrance"
+            },
+            {
+                "id": 102451,
+                "name": "Spišská Nová Ves"
+            },
+            {
+                "id": 102452,
+                "name": "Strážske"
+            },
+            {
+                "id": 102453,
+                "name": "Trebišov"
+            },
+            {
+                "id": 102454,
+                "name": "Vinné"
+            },
+            {
+                "id": 102455,
+                "name": "Žehra"
+            }
+        ]
+    },
+    {
+        "id": 3511,
+        "name": "Nitra Region",
+        "cities": [
+            {
+                "id": 102456,
+                "name": "Hurbanovo"
+            },
+            {
+                "id": 102457,
+                "name": "Kolárovo"
+            },
+            {
+                "id": 102458,
+                "name": "Komárno"
+            },
+            {
+                "id": 102459,
+                "name": "Levice"
+            },
+            {
+                "id": 102460,
+                "name": "Nitra"
+            },
+            {
+                "id": 102461,
+                "name": "Nové Zámky"
+            },
+            {
+                "id": 102462,
+                "name": "Okres Komárno"
+            },
+            {
+                "id": 102463,
+                "name": "Okres Levice"
+            },
+            {
+                "id": 102464,
+                "name": "Okres Nitra"
+            },
+            {
+                "id": 102465,
+                "name": "Okres Nové Zámky"
+            },
+            {
+                "id": 102466,
+                "name": "Okres Šaľa"
+            },
+            {
+                "id": 102467,
+                "name": "Okres Topoľčany"
+            },
+            {
+                "id": 102468,
+                "name": "Okres Zlaté Moravce"
+            },
+            {
+                "id": 102469,
+                "name": "Šahy"
+            },
+            {
+                "id": 102470,
+                "name": "Šaľa"
+            },
+            {
+                "id": 102471,
+                "name": "Štúrovo"
+            },
+            {
+                "id": 102472,
+                "name": "Šurany"
+            },
+            {
+                "id": 102473,
+                "name": "Svodín"
+            },
+            {
+                "id": 102474,
+                "name": "Tlmače"
+            },
+            {
+                "id": 102475,
+                "name": "Topoľčany"
+            },
+            {
+                "id": 102476,
+                "name": "Vráble"
+            },
+            {
+                "id": 102477,
+                "name": "Želiezovce"
+            },
+            {
+                "id": 102478,
+                "name": "Zlaté Moravce"
+            }
+        ]
+    },
+    {
+        "id": 3512,
+        "name": "Prešov Region",
+        "cities": [
+            {
+                "id": 102479,
+                "name": "Bardejov"
+            },
+            {
+                "id": 102480,
+                "name": "Chlmec"
+            },
+            {
+                "id": 102481,
+                "name": "Giraltovce"
+            },
+            {
+                "id": 102482,
+                "name": "Humenné"
+            },
+            {
+                "id": 102483,
+                "name": "Kežmarok"
+            },
+            {
+                "id": 102484,
+                "name": "Levoča"
+            },
+            {
+                "id": 102485,
+                "name": "Lipany"
+            },
+            {
+                "id": 102486,
+                "name": "Ľubica"
+            },
+            {
+                "id": 102487,
+                "name": "Medzilaborce"
+            },
+            {
+                "id": 102488,
+                "name": "Nová Lesná"
+            },
+            {
+                "id": 102489,
+                "name": "Okres Bardejov"
+            },
+            {
+                "id": 102490,
+                "name": "Okres Humenné"
+            },
+            {
+                "id": 102491,
+                "name": "Okres Kežmarok"
+            },
+            {
+                "id": 102492,
+                "name": "Okres Levoča"
+            },
+            {
+                "id": 102493,
+                "name": "Okres Medzilaborce"
+            },
+            {
+                "id": 102494,
+                "name": "Okres Poprad"
+            },
+            {
+                "id": 102495,
+                "name": "Okres Prešov"
+            },
+            {
+                "id": 102496,
+                "name": "Okres Sabinov"
+            },
+            {
+                "id": 102497,
+                "name": "Okres Snina"
+            },
+            {
+                "id": 102498,
+                "name": "Okres Stará Ĺubovňa"
+            },
+            {
+                "id": 102499,
+                "name": "Okres Stropkov"
+            },
+            {
+                "id": 102500,
+                "name": "Okres Svidník"
+            },
+            {
+                "id": 102501,
+                "name": "Okres Vranov nad Topľou"
+            },
+            {
+                "id": 102502,
+                "name": "Podolínec"
+            },
+            {
+                "id": 102503,
+                "name": "Poprad"
+            },
+            {
+                "id": 102504,
+                "name": "Prešov"
+            },
+            {
+                "id": 102505,
+                "name": "Sabinov"
+            },
+            {
+                "id": 102506,
+                "name": "Snina"
+            },
+            {
+                "id": 102507,
+                "name": "Spišská Belá"
+            },
+            {
+                "id": 102508,
+                "name": "Spišské Podhradie"
+            },
+            {
+                "id": 102509,
+                "name": "Stará Ľubovňa"
+            },
+            {
+                "id": 102510,
+                "name": "Štrba"
+            },
+            {
+                "id": 102511,
+                "name": "Stropkov"
+            },
+            {
+                "id": 102512,
+                "name": "Svidník"
+            },
+            {
+                "id": 102513,
+                "name": "Svit"
+            },
+            {
+                "id": 102514,
+                "name": "Vranov nad Topľou"
+            },
+            {
+                "id": 102515,
+                "name": "Vrbov"
+            },
+            {
+                "id": 102516,
+                "name": "Vyšné Ružbachy"
+            },
+            {
+                "id": 102517,
+                "name": "Vysoké Tatry"
+            },
+            {
+                "id": 102518,
+                "name": "Ždiar"
+            }
+        ]
+    },
+    {
+        "id": 3513,
+        "name": "Trenčín Region",
+        "cities": [
+            {
+                "id": 102519,
+                "name": "Bánovce nad Bebravou"
+            },
+            {
+                "id": 102520,
+                "name": "Bojnice"
+            },
+            {
+                "id": 102521,
+                "name": "Brezová pod Bradlom"
+            },
+            {
+                "id": 102522,
+                "name": "Čachtice"
+            },
+            {
+                "id": 102523,
+                "name": "Dubnica nad Váhom"
+            },
+            {
+                "id": 102524,
+                "name": "Handlová"
+            },
+            {
+                "id": 102525,
+                "name": "Ilava"
+            },
+            {
+                "id": 102526,
+                "name": "Lehota pod Vtáčnikom"
+            },
+            {
+                "id": 102527,
+                "name": "Myjava"
+            },
+            {
+                "id": 102528,
+                "name": "Nemšová"
+            },
+            {
+                "id": 102529,
+                "name": "Nová Dubnica"
+            },
+            {
+                "id": 102530,
+                "name": "Nováky"
+            },
+            {
+                "id": 102531,
+                "name": "Nové Mesto nad Váhom"
+            },
+            {
+                "id": 102532,
+                "name": "Okres Bánovce nad Bebravou"
+            },
+            {
+                "id": 102533,
+                "name": "Okres Ilava"
+            },
+            {
+                "id": 102534,
+                "name": "Okres Myjava"
+            },
+            {
+                "id": 102535,
+                "name": "Okres Nové Mesto nad Váhom"
+            },
+            {
+                "id": 102536,
+                "name": "Okres Partizánske"
+            },
+            {
+                "id": 102537,
+                "name": "Okres Považská Bystrica"
+            },
+            {
+                "id": 102538,
+                "name": "Okres Prievidza"
+            },
+            {
+                "id": 102539,
+                "name": "Okres Púchov"
+            },
+            {
+                "id": 102540,
+                "name": "Okres Trenčín"
+            },
+            {
+                "id": 102541,
+                "name": "Partizánske"
+            },
+            {
+                "id": 102542,
+                "name": "Považská Bystrica"
+            },
+            {
+                "id": 102543,
+                "name": "Prievidza"
+            },
+            {
+                "id": 102544,
+                "name": "Púchov"
+            },
+            {
+                "id": 102545,
+                "name": "Stará Turá"
+            },
+            {
+                "id": 102546,
+                "name": "Trenčianske Teplice"
+            },
+            {
+                "id": 102547,
+                "name": "Trenčín"
+            }
+        ]
+    },
+    {
+        "id": 3514,
+        "name": "Trnava Region",
+        "cities": [
+            {
+                "id": 102548,
+                "name": "Dunajská Streda"
+            },
+            {
+                "id": 102549,
+                "name": "Gabčíkovo"
+            },
+            {
+                "id": 102550,
+                "name": "Galanta"
+            },
+            {
+                "id": 102551,
+                "name": "Gbely"
+            },
+            {
+                "id": 102552,
+                "name": "Hlohovec"
+            },
+            {
+                "id": 102553,
+                "name": "Holíč"
+            },
+            {
+                "id": 102554,
+                "name": "Leopoldov"
+            },
+            {
+                "id": 102555,
+                "name": "Okres Dunajská Streda"
+            },
+            {
+                "id": 102556,
+                "name": "Okres Galanta"
+            },
+            {
+                "id": 102557,
+                "name": "Okres Hlohovec"
+            },
+            {
+                "id": 102558,
+                "name": "Okres Piešťany"
+            },
+            {
+                "id": 102559,
+                "name": "Okres Senica"
+            },
+            {
+                "id": 102560,
+                "name": "Okres Skalica"
+            },
+            {
+                "id": 102561,
+                "name": "Okres Trnava"
+            },
+            {
+                "id": 102562,
+                "name": "Piešťany"
+            },
+            {
+                "id": 102563,
+                "name": "Šamorín"
+            },
+            {
+                "id": 102564,
+                "name": "Senica"
+            },
+            {
+                "id": 102565,
+                "name": "Skalica"
+            },
+            {
+                "id": 102566,
+                "name": "Sládkovičovo"
+            },
+            {
+                "id": 102567,
+                "name": "Smolenice"
+            },
+            {
+                "id": 102568,
+                "name": "Trnava"
+            },
+            {
+                "id": 102569,
+                "name": "Veľký Meder"
+            },
+            {
+                "id": 102570,
+                "name": "Vrbové"
+            }
+        ]
+    },
+    {
+        "id": 3515,
+        "name": "Žilina Region",
+        "cities": [
+            {
+                "id": 102571,
+                "name": "Bytča"
+            },
+            {
+                "id": 102572,
+                "name": "Čadca"
+            },
+            {
+                "id": 102573,
+                "name": "Dolný Kubín"
+            },
+            {
+                "id": 102574,
+                "name": "Hybe"
+            },
+            {
+                "id": 102575,
+                "name": "Krasňany"
+            },
+            {
+                "id": 102576,
+                "name": "Kysucké Nové Mesto"
+            },
+            {
+                "id": 102577,
+                "name": "Liptovský Hrádok"
+            },
+            {
+                "id": 102578,
+                "name": "Liptovský Mikuláš"
+            },
+            {
+                "id": 102579,
+                "name": "Lúčky"
+            },
+            {
+                "id": 102580,
+                "name": "Martin"
+            },
+            {
+                "id": 102581,
+                "name": "Námestovo"
+            },
+            {
+                "id": 102582,
+                "name": "Nižná"
+            },
+            {
+                "id": 102583,
+                "name": "Okres Bytča"
+            },
+            {
+                "id": 102584,
+                "name": "Okres Čadca"
+            },
+            {
+                "id": 102585,
+                "name": "Okres Dolný Kubín"
+            },
+            {
+                "id": 102586,
+                "name": "Okres Kysucké Nové Mesto"
+            },
+            {
+                "id": 102587,
+                "name": "Okres Liptovský Mikuláš"
+            },
+            {
+                "id": 102588,
+                "name": "Okres Martin"
+            },
+            {
+                "id": 102589,
+                "name": "Okres Namestovo"
+            },
+            {
+                "id": 102590,
+                "name": "Okres Ružomberok"
+            },
+            {
+                "id": 102591,
+                "name": "Okres Turčianske Teplice"
+            },
+            {
+                "id": 102592,
+                "name": "Okres Tvrdošín"
+            },
+            {
+                "id": 102593,
+                "name": "Okres Žilina"
+            },
+            {
+                "id": 102594,
+                "name": "Oravská Lesná"
+            },
+            {
+                "id": 102595,
+                "name": "Oravský Podzámok"
+            },
+            {
+                "id": 102596,
+                "name": "Pribylina"
+            },
+            {
+                "id": 102597,
+                "name": "Rajec"
+            },
+            {
+                "id": 102598,
+                "name": "Ružomberok"
+            },
+            {
+                "id": 102599,
+                "name": "Terchová"
+            },
+            {
+                "id": 102600,
+                "name": "Trstená"
+            },
+            {
+                "id": 102601,
+                "name": "Turčianske Teplice"
+            },
+            {
+                "id": 102602,
+                "name": "Turzovka"
+            },
+            {
+                "id": 102603,
+                "name": "Tvrdošín"
+            },
+            {
+                "id": 102604,
+                "name": "Vrútky"
+            },
+            {
+                "id": 102605,
+                "name": "Žilina"
+            }
+        ]
+    }
+]

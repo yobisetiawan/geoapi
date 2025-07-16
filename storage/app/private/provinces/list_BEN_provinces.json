@@ -1,0 +1,222 @@
+[
+    {
+        "id": 440,
+        "name": "Alibori Department",
+        "cities": [
+            {
+                "id": 9599,
+                "name": "Banikoara"
+            },
+            {
+                "id": 9600,
+                "name": "Kandi"
+            },
+            {
+                "id": 9601,
+                "name": "Malanville"
+            }
+        ]
+    },
+    {
+        "id": 441,
+        "name": "Atakora Department",
+        "cities": [
+            {
+                "id": 9602,
+                "name": "Guilmaro"
+            },
+            {
+                "id": 9603,
+                "name": "Natitingou"
+            },
+            {
+                "id": 9604,
+                "name": "Tanguieta"
+            },
+            {
+                "id": 9605,
+                "name": "Tanguiéta"
+            }
+        ]
+    },
+    {
+        "id": 442,
+        "name": "Atlantique Department",
+        "cities": [
+            {
+                "id": 9606,
+                "name": "Abomey-Calavi"
+            },
+            {
+                "id": 9607,
+                "name": "Allada"
+            },
+            {
+                "id": 9608,
+                "name": "Hévié"
+            },
+            {
+                "id": 9609,
+                "name": "Hinvi"
+            },
+            {
+                "id": 9610,
+                "name": "Ouidah"
+            }
+        ]
+    },
+    {
+        "id": 443,
+        "name": "Borgou Department",
+        "cities": [
+            {
+                "id": 9611,
+                "name": "Bembèrèkè"
+            },
+            {
+                "id": 9612,
+                "name": "Bétérou"
+            },
+            {
+                "id": 9613,
+                "name": "Nikki"
+            },
+            {
+                "id": 9614,
+                "name": "Parakou"
+            },
+            {
+                "id": 9615,
+                "name": "Tchaourou"
+            }
+        ]
+    },
+    {
+        "id": 444,
+        "name": "Collines Department",
+        "cities": [
+            {
+                "id": 9616,
+                "name": "Comé"
+            },
+            {
+                "id": 9617,
+                "name": "Dassa-Zoumé"
+            },
+            {
+                "id": 9618,
+                "name": "Savalou"
+            },
+            {
+                "id": 9619,
+                "name": "Savé"
+            }
+        ]
+    },
+    {
+        "id": 445,
+        "name": "Donga Department",
+        "cities": [
+            {
+                "id": 9620,
+                "name": "Bassila"
+            },
+            {
+                "id": 9621,
+                "name": "Commune of Djougou"
+            },
+            {
+                "id": 9622,
+                "name": "Djougou"
+            }
+        ]
+    },
+    {
+        "id": 446,
+        "name": "Kouffo Department",
+        "cities": [
+            {
+                "id": 9623,
+                "name": "Djakotomey"
+            },
+            {
+                "id": 9624,
+                "name": "Dogbo"
+            }
+        ]
+    },
+    {
+        "id": 447,
+        "name": "Littoral Department",
+        "cities": [
+            {
+                "id": 9625,
+                "name": "Cotonou"
+            }
+        ]
+    },
+    {
+        "id": 448,
+        "name": "Mono Department",
+        "cities": [
+            {
+                "id": 9626,
+                "name": "Commune of Athieme"
+            },
+            {
+                "id": 9627,
+                "name": "Lokossa"
+            }
+        ]
+    },
+    {
+        "id": 449,
+        "name": "Ouémé Department",
+        "cities": [
+            {
+                "id": 9628,
+                "name": "Porto-Novo"
+            }
+        ]
+    },
+    {
+        "id": 450,
+        "name": "Plateau Department",
+        "cities": [
+            {
+                "id": 9629,
+                "name": "Kétou"
+            },
+            {
+                "id": 9630,
+                "name": "Pobé"
+            },
+            {
+                "id": 9631,
+                "name": "Sakété"
+            }
+        ]
+    },
+    {
+        "id": 451,
+        "name": "Zou Department",
+        "cities": [
+            {
+                "id": 9632,
+                "name": "Abomey"
+            },
+            {
+                "id": 9633,
+                "name": "Bohicon"
+            },
+            {
+                "id": 9634,
+                "name": "Commune of Agbangnizoun"
+            },
+            {
+                "id": 9635,
+                "name": "Cové"
+            }
+        ]
+    }
+]

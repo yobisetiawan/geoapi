@@ -1,0 +1,740 @@
+[
+    {
+        "id": 1210,
+        "name": "Harju County",
+        "cities": [
+            {
+                "id": 24220,
+                "name": "Anija vald"
+            },
+            {
+                "id": 24221,
+                "name": "Aruküla"
+            },
+            {
+                "id": 24222,
+                "name": "Haabneeme"
+            },
+            {
+                "id": 24223,
+                "name": "Harku"
+            },
+            {
+                "id": 24224,
+                "name": "Harku vald"
+            },
+            {
+                "id": 24225,
+                "name": "Jõelähtme vald"
+            },
+            {
+                "id": 24226,
+                "name": "Jüri"
+            },
+            {
+                "id": 24227,
+                "name": "Kehra"
+            },
+            {
+                "id": 24228,
+                "name": "Keila"
+            },
+            {
+                "id": 24229,
+                "name": "Kiili"
+            },
+            {
+                "id": 24230,
+                "name": "Kiili vald"
+            },
+            {
+                "id": 24231,
+                "name": "Kose"
+            },
+            {
+                "id": 24232,
+                "name": "Kuusalu"
+            },
+            {
+                "id": 24233,
+                "name": "Laagri"
+            },
+            {
+                "id": 24234,
+                "name": "Loksa"
+            },
+            {
+                "id": 24235,
+                "name": "Loksa linn"
+            },
+            {
+                "id": 24236,
+                "name": "Loo"
+            },
+            {
+                "id": 24237,
+                "name": "Maardu"
+            },
+            {
+                "id": 24238,
+                "name": "Maardu linn"
+            },
+            {
+                "id": 24239,
+                "name": "Paldiski"
+            },
+            {
+                "id": 24240,
+                "name": "Pringi"
+            },
+            {
+                "id": 24241,
+                "name": "Raasiku"
+            },
+            {
+                "id": 24242,
+                "name": "Rae vald"
+            },
+            {
+                "id": 24243,
+                "name": "Riisipere"
+            },
+            {
+                "id": 24244,
+                "name": "Rummu"
+            },
+            {
+                "id": 24245,
+                "name": "Saku"
+            },
+            {
+                "id": 24246,
+                "name": "Saku vald"
+            },
+            {
+                "id": 24247,
+                "name": "Saue"
+            },
+            {
+                "id": 24248,
+                "name": "Saue vald"
+            },
+            {
+                "id": 24249,
+                "name": "Tabasalu"
+            },
+            {
+                "id": 24250,
+                "name": "Tallinn"
+            },
+            {
+                "id": 24251,
+                "name": "Turba"
+            },
+            {
+                "id": 24252,
+                "name": "Vaida"
+            },
+            {
+                "id": 24253,
+                "name": "Viimsi"
+            },
+            {
+                "id": 24254,
+                "name": "Viimsi vald"
+            }
+        ]
+    },
+    {
+        "id": 1211,
+        "name": "Hiiu County",
+        "cities": [
+            {
+                "id": 24255,
+                "name": "Kärdla"
+            }
+        ]
+    },
+    {
+        "id": 1212,
+        "name": "Ida-Viru County",
+        "cities": [
+            {
+                "id": 24256,
+                "name": "Iisaku"
+            },
+            {
+                "id": 24257,
+                "name": "Jõhvi"
+            },
+            {
+                "id": 24258,
+                "name": "Jõhvi vald"
+            },
+            {
+                "id": 24259,
+                "name": "Kiviõli"
+            },
+            {
+                "id": 24260,
+                "name": "Kohtla-Järve"
+            },
+            {
+                "id": 24261,
+                "name": "Kohtla-Nõmme"
+            },
+            {
+                "id": 24262,
+                "name": "Lüganuse vald"
+            },
+            {
+                "id": 24263,
+                "name": "Narva"
+            },
+            {
+                "id": 24264,
+                "name": "Narva-Jõesuu"
+            },
+            {
+                "id": 24265,
+                "name": "Narva-Jõesuu linn"
+            },
+            {
+                "id": 24266,
+                "name": "Püssi"
+            },
+            {
+                "id": 24267,
+                "name": "Sillamäe"
+            },
+            {
+                "id": 24268,
+                "name": "Toila"
+            },
+            {
+                "id": 24269,
+                "name": "Voka"
+            }
+        ]
+    },
+    {
+        "id": 1213,
+        "name": "Järva County",
+        "cities": [
+            {
+                "id": 24270,
+                "name": "Järva-Jaani"
+            },
+            {
+                "id": 24271,
+                "name": "Koeru"
+            },
+            {
+                "id": 24272,
+                "name": "Paide"
+            },
+            {
+                "id": 24273,
+                "name": "Paide linn"
+            },
+            {
+                "id": 24274,
+                "name": "Särevere"
+            },
+            {
+                "id": 24275,
+                "name": "Türi"
+            },
+            {
+                "id": 24276,
+                "name": "Türi vald"
+            }
+        ]
+    },
+    {
+        "id": 1214,
+        "name": "Jõgeva County",
+        "cities": [
+            {
+                "id": 24277,
+                "name": "Jõgeva"
+            },
+            {
+                "id": 24278,
+                "name": "Jõgeva vald"
+            },
+            {
+                "id": 24279,
+                "name": "Mustvee"
+            },
+            {
+                "id": 24280,
+                "name": "Põltsamaa"
+            },
+            {
+                "id": 24281,
+                "name": "Põltsamaa vald"
+            }
+        ]
+    },
+    {
+        "id": 1215,
+        "name": "Lääne County",
+        "cities": [
+            {
+                "id": 24282,
+                "name": "Haapsalu"
+            },
+            {
+                "id": 24283,
+                "name": "Haapsalu linn"
+            },
+            {
+                "id": 24284,
+                "name": "Hullo"
+            },
+            {
+                "id": 24285,
+                "name": "Lääne-Nigula vald"
+            },
+            {
+                "id": 24286,
+                "name": "Taebla"
+            },
+            {
+                "id": 24287,
+                "name": "Uuemõisa"
+            },
+            {
+                "id": 24288,
+                "name": "Vormsi vald"
+            }
+        ]
+    },
+    {
+        "id": 1216,
+        "name": "Lääne-Viru County",
+        "cities": [
+            {
+                "id": 24289,
+                "name": "Aseri"
+            },
+            {
+                "id": 24290,
+                "name": "Haljala"
+            },
+            {
+                "id": 24291,
+                "name": "Haljala vald"
+            },
+            {
+                "id": 24292,
+                "name": "Kadrina"
+            },
+            {
+                "id": 24293,
+                "name": "Kadrina vald"
+            },
+            {
+                "id": 24294,
+                "name": "Kunda"
+            },
+            {
+                "id": 24295,
+                "name": "Pajusti"
+            },
+            {
+                "id": 24296,
+                "name": "Rakke"
+            },
+            {
+                "id": 24297,
+                "name": "Rakvere"
+            },
+            {
+                "id": 24298,
+                "name": "Rakvere vald"
+            },
+            {
+                "id": 24299,
+                "name": "Sõmeru"
+            },
+            {
+                "id": 24300,
+                "name": "Tamsalu"
+            },
+            {
+                "id": 24301,
+                "name": "Tapa"
+            },
+            {
+                "id": 24302,
+                "name": "Tapa vald"
+            },
+            {
+                "id": 24303,
+                "name": "Vaiatu"
+            },
+            {
+                "id": 24304,
+                "name": "Väike-Maarja"
+            },
+            {
+                "id": 24305,
+                "name": "Väike-Maarja vald"
+            },
+            {
+                "id": 24306,
+                "name": "Vinni"
+            },
+            {
+                "id": 24307,
+                "name": "Vinni vald"
+            },
+            {
+                "id": 24308,
+                "name": "Viru-Nigula vald"
+            }
+        ]
+    },
+    {
+        "id": 1217,
+        "name": "Pärnu County",
+        "cities": [
+            {
+                "id": 24309,
+                "name": "Audru"
+            },
+            {
+                "id": 24310,
+                "name": "Kihnu vald"
+            },
+            {
+                "id": 24311,
+                "name": "Kilingi-Nõmme"
+            },
+            {
+                "id": 24312,
+                "name": "Lihula"
+            },
+            {
+                "id": 24313,
+                "name": "Linaküla"
+            },
+            {
+                "id": 24314,
+                "name": "Paikuse"
+            },
+            {
+                "id": 24315,
+                "name": "Pärnu"
+            },
+            {
+                "id": 24316,
+                "name": "Pärnu linn"
+            },
+            {
+                "id": 24317,
+                "name": "Pärnu-Jaagupi"
+            },
+            {
+                "id": 24318,
+                "name": "Saarde vald"
+            },
+            {
+                "id": 24319,
+                "name": "Sauga"
+            },
+            {
+                "id": 24320,
+                "name": "Sindi"
+            },
+            {
+                "id": 24321,
+                "name": "Tootsi"
+            },
+            {
+                "id": 24322,
+                "name": "Tori vald"
+            },
+            {
+                "id": 24323,
+                "name": "Uulu"
+            },
+            {
+                "id": 24324,
+                "name": "Vändra"
+            }
+        ]
+    },
+    {
+        "id": 1218,
+        "name": "Põlva County",
+        "cities": [
+            {
+                "id": 24325,
+                "name": "Kanepi"
+            },
+            {
+                "id": 24326,
+                "name": "Kanepi vald"
+            },
+            {
+                "id": 24327,
+                "name": "Põlva"
+            },
+            {
+                "id": 24328,
+                "name": "Põlva vald"
+            },
+            {
+                "id": 24329,
+                "name": "Räpina"
+            },
+            {
+                "id": 24330,
+                "name": "Räpina vald"
+            }
+        ]
+    },
+    {
+        "id": 1219,
+        "name": "Rapla County",
+        "cities": [
+            {
+                "id": 24331,
+                "name": "Järvakandi"
+            },
+            {
+                "id": 24332,
+                "name": "Kehtna"
+            },
+            {
+                "id": 24333,
+                "name": "Kehtna vald"
+            },
+            {
+                "id": 24334,
+                "name": "Kohila"
+            },
+            {
+                "id": 24335,
+                "name": "Kohila vald"
+            },
+            {
+                "id": 24336,
+                "name": "Märjamaa"
+            },
+            {
+                "id": 24337,
+                "name": "Märjamaa vald"
+            },
+            {
+                "id": 24338,
+                "name": "Rapla"
+            },
+            {
+                "id": 24339,
+                "name": "Rapla vald"
+            }
+        ]
+    },
+    {
+        "id": 1220,
+        "name": "Saare County",
+        "cities": [
+            {
+                "id": 24340,
+                "name": "Kuressaare"
+            },
+            {
+                "id": 24341,
+                "name": "Liiva"
+            },
+            {
+                "id": 24342,
+                "name": "Muhu vald"
+            },
+            {
+                "id": 24343,
+                "name": "Orissaare"
+            },
+            {
+                "id": 24344,
+                "name": "Ruhnu"
+            },
+            {
+                "id": 24345,
+                "name": "Ruhnu vald"
+            },
+            {
+                "id": 24346,
+                "name": "Tehumardi"
+            }
+        ]
+    },
+    {
+        "id": 1221,
+        "name": "Tartu County",
+        "cities": [
+            {
+                "id": 24347,
+                "name": "Alatskivi"
+            },
+            {
+                "id": 24348,
+                "name": "Elva"
+            },
+            {
+                "id": 24349,
+                "name": "Kallaste"
+            },
+            {
+                "id": 24350,
+                "name": "Kambja vald"
+            },
+            {
+                "id": 24351,
+                "name": "Kõrveküla"
+            },
+            {
+                "id": 24352,
+                "name": "Kurepalu"
+            },
+            {
+                "id": 24353,
+                "name": "Luunja"
+            },
+            {
+                "id": 24354,
+                "name": "Luunja vald"
+            },
+            {
+                "id": 24355,
+                "name": "Nõo"
+            },
+            {
+                "id": 24356,
+                "name": "Nõo vald"
+            },
+            {
+                "id": 24357,
+                "name": "Peipsiääre vald"
+            },
+            {
+                "id": 24358,
+                "name": "Puhja"
+            },
+            {
+                "id": 24359,
+                "name": "Tartu"
+            },
+            {
+                "id": 24360,
+                "name": "Tartu linn"
+            },
+            {
+                "id": 24361,
+                "name": "Tartu vald"
+            },
+            {
+                "id": 24362,
+                "name": "Ülenurme"
+            }
+        ]
+    },
+    {
+        "id": 1222,
+        "name": "Valga County",
+        "cities": [
+            {
+                "id": 24363,
+                "name": "Otepää vald"
+            },
+            {
+                "id": 24364,
+                "name": "Tõrva"
+            },
+            {
+                "id": 24365,
+                "name": "Valga"
+            }
+        ]
+    },
+    {
+        "id": 1223,
+        "name": "Viljandi County",
+        "cities": [
+            {
+                "id": 24366,
+                "name": "Abja-Paluoja"
+            },
+            {
+                "id": 24367,
+                "name": "Karksi-Nuia"
+            },
+            {
+                "id": 24368,
+                "name": "Mõisaküla"
+            },
+            {
+                "id": 24369,
+                "name": "Suure-Jaani"
+            },
+            {
+                "id": 24370,
+                "name": "Viiratsi"
+            },
+            {
+                "id": 24371,
+                "name": "Viljandi"
+            },
+            {
+                "id": 24372,
+                "name": "Viljandi vald"
+            },
+            {
+                "id": 24373,
+                "name": "Võhma"
+            }
+        ]
+    },
+    {
+        "id": 1224,
+        "name": "Võru County",
+        "cities": [
+            {
+                "id": 24374,
+                "name": "Antsla"
+            },
+            {
+                "id": 24375,
+                "name": "Antsla vald"
+            },
+            {
+                "id": 24376,
+                "name": "Rõuge"
+            },
+            {
+                "id": 24377,
+                "name": "Rõuge vald"
+            },
+            {
+                "id": 24378,
+                "name": "Vana-Antsla"
+            },
+            {
+                "id": 24379,
+                "name": "Värska"
+            },
+            {
+                "id": 24380,
+                "name": "Võru"
+            },
+            {
+                "id": 24381,
+                "name": "Võru vald"
+            }
+        ]
+    }
+]

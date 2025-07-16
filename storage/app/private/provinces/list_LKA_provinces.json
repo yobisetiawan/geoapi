@@ -1,0 +1,568 @@
+[
+    {
+        "id": 3836,
+        "name": "Ampara District",
+        "cities": []
+    },
+    {
+        "id": 3837,
+        "name": "Anuradhapura District",
+        "cities": []
+    },
+    {
+        "id": 3838,
+        "name": "Badulla District",
+        "cities": []
+    },
+    {
+        "id": 3839,
+        "name": "Batticaloa District",
+        "cities": []
+    },
+    {
+        "id": 3840,
+        "name": "Central Province",
+        "cities": [
+            {
+                "id": 109978,
+                "name": "Dambulla"
+            },
+            {
+                "id": 109979,
+                "name": "Gampola"
+            },
+            {
+                "id": 109980,
+                "name": "Hatton"
+            },
+            {
+                "id": 109981,
+                "name": "Kadugannawa"
+            },
+            {
+                "id": 109982,
+                "name": "Kandy"
+            },
+            {
+                "id": 109983,
+                "name": "Kandy District"
+            },
+            {
+                "id": 109984,
+                "name": "Matale"
+            },
+            {
+                "id": 109985,
+                "name": "Matale District"
+            },
+            {
+                "id": 109986,
+                "name": "Nuwara Eliya"
+            },
+            {
+                "id": 109987,
+                "name": "Nuwara Eliya District"
+            },
+            {
+                "id": 109988,
+                "name": "Sigiriya"
+            },
+            {
+                "id": 109989,
+                "name": "Talawakele"
+            }
+        ]
+    },
+    {
+        "id": 3841,
+        "name": "Colombo District",
+        "cities": []
+    },
+    {
+        "id": 3842,
+        "name": "Eastern Province",
+        "cities": [
+            {
+                "id": 109990,
+                "name": "Ampara"
+            },
+            {
+                "id": 109991,
+                "name": "Ampara District"
+            },
+            {
+                "id": 109992,
+                "name": "Batticaloa"
+            },
+            {
+                "id": 109993,
+                "name": "Batticaloa District"
+            },
+            {
+                "id": 109994,
+                "name": "Eravur Town"
+            },
+            {
+                "id": 109995,
+                "name": "Kalmunai"
+            },
+            {
+                "id": 109996,
+                "name": "Trincomalee"
+            },
+            {
+                "id": 109997,
+                "name": "Trincomalee District"
+            },
+            {
+                "id": 109998,
+                "name": "Vakarai"
+            }
+        ]
+    },
+    {
+        "id": 3843,
+        "name": "Galle District",
+        "cities": []
+    },
+    {
+        "id": 3844,
+        "name": "Gampaha District",
+        "cities": []
+    },
+    {
+        "id": 3845,
+        "name": "Hambantota District",
+        "cities": []
+    },
+    {
+        "id": 3846,
+        "name": "Jaffna District",
+        "cities": []
+    },
+    {
+        "id": 3847,
+        "name": "Kalutara District",
+        "cities": []
+    },
+    {
+        "id": 3848,
+        "name": "Kandy District",
+        "cities": []
+    },
+    {
+        "id": 3849,
+        "name": "Kegalle District",
+        "cities": []
+    },
+    {
+        "id": 3850,
+        "name": "Kilinochchi District",
+        "cities": []
+    },
+    {
+        "id": 3851,
+        "name": "Mannar District",
+        "cities": []
+    },
+    {
+        "id": 3852,
+        "name": "Matale District",
+        "cities": []
+    },
+    {
+        "id": 3853,
+        "name": "Matara District",
+        "cities": []
+    },
+    {
+        "id": 3854,
+        "name": "Monaragala District",
+        "cities": []
+    },
+    {
+        "id": 3855,
+        "name": "Mullaitivu District",
+        "cities": []
+    },
+    {
+        "id": 3856,
+        "name": "North Central Province",
+        "cities": [
+            {
+                "id": 109999,
+                "name": "Anuradhapura"
+            },
+            {
+                "id": 110000,
+                "name": "Anuradhapura District"
+            },
+            {
+                "id": 110001,
+                "name": "Mihintale"
+            },
+            {
+                "id": 110002,
+                "name": "Polonnaruwa"
+            },
+            {
+                "id": 110003,
+                "name": "Polonnaruwa District"
+            }
+        ]
+    },
+    {
+        "id": 3857,
+        "name": "North Western Province",
+        "cities": [
+            {
+                "id": 110004,
+                "name": "Chilaw"
+            },
+            {
+                "id": 110005,
+                "name": "Kuliyapitiya"
+            },
+            {
+                "id": 110006,
+                "name": "Kurunegala"
+            },
+            {
+                "id": 110007,
+                "name": "Kurunegala District"
+            },
+            {
+                "id": 110008,
+                "name": "Puttalam"
+            },
+            {
+                "id": 110009,
+                "name": "Puttalam District"
+            }
+        ]
+    },
+    {
+        "id": 3858,
+        "name": "Northern Province",
+        "cities": [
+            {
+                "id": 110010,
+                "name": "Jaffna"
+            },
+            {
+                "id": 110011,
+                "name": "Jaffna District"
+            },
+            {
+                "id": 110012,
+                "name": "Kilinochchi"
+            },
+            {
+                "id": 110013,
+                "name": "Kilinochchi District"
+            },
+            {
+                "id": 110014,
+                "name": "Point Pedro"
+            },
+            {
+                "id": 110015,
+                "name": "Valvedditturai"
+            },
+            {
+                "id": 110016,
+                "name": "Vavuniya"
+            },
+            {
+                "id": 110017,
+                "name": "Vavuniya District"
+            }
+        ]
+    },
+    {
+        "id": 3859,
+        "name": "Nuwara Eliya District",
+        "cities": []
+    },
+    {
+        "id": 3860,
+        "name": "Polonnaruwa District",
+        "cities": []
+    },
+    {
+        "id": 3861,
+        "name": "Puttalam District",
+        "cities": []
+    },
+    {
+        "id": 3862,
+        "name": "Ratnapura district",
+        "cities": []
+    },
+    {
+        "id": 3863,
+        "name": "Sabaragamuwa Province",
+        "cities": [
+            {
+                "id": 110018,
+                "name": "Kegalle"
+            },
+            {
+                "id": 110019,
+                "name": "Kegalle District"
+            },
+            {
+                "id": 110020,
+                "name": "Ratnapura"
+            },
+            {
+                "id": 110021,
+                "name": "Ratnapura District"
+            }
+        ]
+    },
+    {
+        "id": 3864,
+        "name": "Southern Province",
+        "cities": [
+            {
+                "id": 110022,
+                "name": "Ambalangoda"
+            },
+            {
+                "id": 110023,
+                "name": "Bentota"
+            },
+            {
+                "id": 110024,
+                "name": "Devinuwara"
+            },
+            {
+                "id": 110025,
+                "name": "Galle"
+            },
+            {
+                "id": 110026,
+                "name": "Galle District"
+            },
+            {
+                "id": 110027,
+                "name": "Hambantota District"
+            },
+            {
+                "id": 110028,
+                "name": "Hikkaduwa"
+            },
+            {
+                "id": 110029,
+                "name": "Koggala"
+            },
+            {
+                "id": 110030,
+                "name": "Matara"
+            },
+            {
+                "id": 110031,
+                "name": "Matara District"
+            },
+            {
+                "id": 110032,
+                "name": "Mirissa city"
+            },
+            {
+                "id": 110033,
+                "name": "Talpe"
+            },
+            {
+                "id": 110034,
+                "name": "Tangalle"
+            },
+            {
+                "id": 110035,
+                "name": "Unawatuna"
+            },
+            {
+                "id": 110036,
+                "name": "Weligama"
+            }
+        ]
+    },
+    {
+        "id": 3865,
+        "name": "Trincomalee District",
+        "cities": []
+    },
+    {
+        "id": 3866,
+        "name": "Uva Province",
+        "cities": [
+            {
+                "id": 110037,
+                "name": "Badulla"
+            },
+            {
+                "id": 110038,
+                "name": "Badulla District"
+            },
+            {
+                "id": 110039,
+                "name": "Ella Town"
+            },
+            {
+                "id": 110040,
+                "name": "Haputale"
+            },
+            {
+                "id": 110041,
+                "name": "Kataragama"
+            },
+            {
+                "id": 110042,
+                "name": "Monaragala"
+            },
+            {
+                "id": 110043,
+                "name": "Moneragala District"
+            },
+            {
+                "id": 110044,
+                "name": "Wattegama"
+            },
+            {
+                "id": 110045,
+                "name": "Wellawaya"
+            }
+        ]
+    },
+    {
+        "id": 3867,
+        "name": "Vavuniya District",
+        "cities": []
+    },
+    {
+        "id": 3868,
+        "name": "Western Province",
+        "cities": [
+            {
+                "id": 110046,
+                "name": "Battaramulla South"
+            },
+            {
+                "id": 110047,
+                "name": "Beruwala"
+            },
+            {
+                "id": 110048,
+                "name": "Colombo"
+            },
+            {
+                "id": 110049,
+                "name": "Colombo District"
+            },
+            {
+                "id": 110050,
+                "name": "Dehiwala-Mount Lavinia"
+            },
+            {
+                "id": 110051,
+                "name": "Gampaha"
+            },
+            {
+                "id": 110052,
+                "name": "Gampaha District"
+            },
+            {
+                "id": 110053,
+                "name": "Hanwella Ihala"
+            },
+            {
+                "id": 110054,
+                "name": "Hendala"
+            },
+            {
+                "id": 110055,
+                "name": "Homagama"
+            },
+            {
+                "id": 110056,
+                "name": "Horana South"
+            },
+            {
+                "id": 110057,
+                "name": "Horawala Junction"
+            },
+            {
+                "id": 110058,
+                "name": "Ja Ela"
+            },
+            {
+                "id": 110059,
+                "name": "Kalutara"
+            },
+            {
+                "id": 110060,
+                "name": "Kandana"
+            },
+            {
+                "id": 110061,
+                "name": "Katunayaka"
+            },
+            {
+                "id": 110062,
+                "name": "Kelaniya"
+            },
+            {
+                "id": 110063,
+                "name": "Kolonnawa"
+            },
+            {
+                "id": 110064,
+                "name": "Kotikawatta"
+            },
+            {
+                "id": 110065,
+                "name": "Maharagama"
+            },
+            {
+                "id": 110066,
+                "name": "Minuwangoda"
+            },
+            {
+                "id": 110067,
+                "name": "Moratuwa"
+            },
+            {
+                "id": 110068,
+                "name": "Mulleriyawa"
+            },
+            {
+                "id": 110069,
+                "name": "Negombo"
+            },
+            {
+                "id": 110070,
+                "name": "Panadura"
+            },
+            {
+                "id": 110071,
+                "name": "Peliyagoda"
+            },
+            {
+                "id": 110072,
+                "name": "Pita Kotte"
+            },
+            {
+                "id": 110073,
+                "name": "Sri Jayewardenepura Kotte"
+            },
+            {
+                "id": 110074,
+                "name": "Wattala"
+            },
+            {
+                "id": 110075,
+                "name": "Welisara"
+            }
+        ]
+    }
+]

@@ -1,0 +1,301 @@
+[
+    {
+        "id": 733,
+        "name": "Bahr el Gazel",
+        "cities": [
+            {
+                "id": 17841,
+                "name": "Moussoro"
+            }
+        ]
+    },
+    {
+        "id": 734,
+        "name": "Batha Region",
+        "cities": [
+            {
+                "id": 17842,
+                "name": "Ati"
+            },
+            {
+                "id": 17843,
+                "name": "Oum Hadjer"
+            }
+        ]
+    },
+    {
+        "id": 735,
+        "name": "Borkou",
+        "cities": [
+            {
+                "id": 17844,
+                "name": "Faya-Largeau"
+            }
+        ]
+    },
+    {
+        "id": 736,
+        "name": "Ennedi Region",
+        "cities": []
+    },
+    {
+        "id": 737,
+        "name": "Ennedi-Est",
+        "cities": []
+    },
+    {
+        "id": 738,
+        "name": "Ennedi-Ouest",
+        "cities": [
+            {
+                "id": 17845,
+                "name": "Fada"
+            }
+        ]
+    },
+    {
+        "id": 739,
+        "name": "Guéra Region",
+        "cities": [
+            {
+                "id": 17846,
+                "name": "Bitkine"
+            },
+            {
+                "id": 17847,
+                "name": "Melfi"
+            },
+            {
+                "id": 17848,
+                "name": "Mongo"
+            }
+        ]
+    },
+    {
+        "id": 740,
+        "name": "Hadjer-Lamis",
+        "cities": [
+            {
+                "id": 17849,
+                "name": "Bokoro"
+            },
+            {
+                "id": 17850,
+                "name": "Massaguet"
+            },
+            {
+                "id": 17851,
+                "name": "Massakory"
+            }
+        ]
+    },
+    {
+        "id": 741,
+        "name": "Kanem Region",
+        "cities": [
+            {
+                "id": 17852,
+                "name": "Mao"
+            }
+        ]
+    },
+    {
+        "id": 742,
+        "name": "Lac Region",
+        "cities": [
+            {
+                "id": 17853,
+                "name": "Bol"
+            }
+        ]
+    },
+    {
+        "id": 743,
+        "name": "Logone Occidental Region",
+        "cities": [
+            {
+                "id": 17854,
+                "name": "Beïnamar"
+            },
+            {
+                "id": 17855,
+                "name": "Benoy"
+            },
+            {
+                "id": 17856,
+                "name": "Lac Wey"
+            },
+            {
+                "id": 17857,
+                "name": "Moundou"
+            }
+        ]
+    },
+    {
+        "id": 744,
+        "name": "Logone Oriental Region",
+        "cities": [
+            {
+                "id": 17858,
+                "name": "Bébédja"
+            },
+            {
+                "id": 17859,
+                "name": "Béboto"
+            },
+            {
+                "id": 17860,
+                "name": "Doba"
+            }
+        ]
+    },
+    {
+        "id": 745,
+        "name": "Mandoul Region",
+        "cities": [
+            {
+                "id": 17861,
+                "name": "Goundi"
+            },
+            {
+                "id": 17862,
+                "name": "Koumra"
+            },
+            {
+                "id": 17863,
+                "name": "Moïssala"
+            }
+        ]
+    },
+    {
+        "id": 746,
+        "name": "Mayo-Kebbi Est Region",
+        "cities": [
+            {
+                "id": 17864,
+                "name": "Bongor"
+            },
+            {
+                "id": 17865,
+                "name": "Gounou Gaya"
+            },
+            {
+                "id": 17866,
+                "name": "Guelendeng"
+            }
+        ]
+    },
+    {
+        "id": 747,
+        "name": "Mayo-Kebbi Ouest Region",
+        "cities": [
+            {
+                "id": 17867,
+                "name": "Mboursou Léré"
+            },
+            {
+                "id": 17868,
+                "name": "Pala"
+            }
+        ]
+    },
+    {
+        "id": 748,
+        "name": "Moyen-Chari Region",
+        "cities": [
+            {
+                "id": 17869,
+                "name": "Kyabé"
+            },
+            {
+                "id": 17870,
+                "name": "Sarh"
+            }
+        ]
+    },
+    {
+        "id": 749,
+        "name": "N'Djamena",
+        "cities": []
+    },
+    {
+        "id": 750,
+        "name": "Ouaddaï Region",
+        "cities": [
+            {
+                "id": 17871,
+                "name": "Abéché"
+            },
+            {
+                "id": 17872,
+                "name": "Adré"
+            },
+            {
+                "id": 17873,
+                "name": "Goz Béïda"
+            }
+        ]
+    },
+    {
+        "id": 751,
+        "name": "Salamat Region",
+        "cities": [
+            {
+                "id": 17874,
+                "name": "Am Timan"
+            }
+        ]
+    },
+    {
+        "id": 752,
+        "name": "Sila Region",
+        "cities": [
+            {
+                "id": 17875,
+                "name": "Goz Beïda"
+            }
+        ]
+    },
+    {
+        "id": 753,
+        "name": "Tandjilé Region",
+        "cities": [
+            {
+                "id": 17876,
+                "name": "Béré"
+            },
+            {
+                "id": 17877,
+                "name": "Kelo"
+            },
+            {
+                "id": 17878,
+                "name": "Laï"
+            }
+        ]
+    },
+    {
+        "id": 754,
+        "name": "Tibesti Region",
+        "cities": [
+            {
+                "id": 17879,
+                "name": "Aozou"
+            }
+        ]
+    },
+    {
+        "id": 755,
+        "name": "Wadi Fira Region",
+        "cities": [
+            {
+                "id": 17880,
+                "name": "Biltine"
+            },
+            {
+                "id": 17881,
+                "name": "Iriba"
+            }
+        ]
+    }
+]

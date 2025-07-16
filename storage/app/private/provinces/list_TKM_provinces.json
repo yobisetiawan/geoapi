@@ -1,0 +1,158 @@
+[
+    {
+        "id": 4224,
+        "name": "Ahal Region",
+        "cities": [
+            {
+                "id": 116644,
+                "name": "Abadan"
+            },
+            {
+                "id": 116645,
+                "name": "Annau"
+            },
+            {
+                "id": 116646,
+                "name": "Arçabil"
+            },
+            {
+                "id": 116647,
+                "name": "Baharly"
+            },
+            {
+                "id": 116648,
+                "name": "Kaka"
+            },
+            {
+                "id": 116649,
+                "name": "Tejen"
+            }
+        ]
+    },
+    {
+        "id": 4225,
+        "name": "Ashgabat",
+        "cities": [
+            {
+                "id": 116650,
+                "name": "Ashgabat"
+            }
+        ]
+    },
+    {
+        "id": 4226,
+        "name": "Balkan Region",
+        "cities": [
+            {
+                "id": 116651,
+                "name": "Balkanabat"
+            },
+            {
+                "id": 116652,
+                "name": "Bereket"
+            },
+            {
+                "id": 116653,
+                "name": "Gumdag"
+            },
+            {
+                "id": 116654,
+                "name": "Magtymguly"
+            },
+            {
+                "id": 116655,
+                "name": "Serdar"
+            },
+            {
+                "id": 116656,
+                "name": "Türkmenbaşy"
+            }
+        ]
+    },
+    {
+        "id": 4227,
+        "name": "Daşoguz Region",
+        "cities": [
+            {
+                "id": 116657,
+                "name": "Akdepe"
+            },
+            {
+                "id": 116658,
+                "name": "Boldumsaz"
+            },
+            {
+                "id": 116659,
+                "name": "Daşoguz"
+            },
+            {
+                "id": 116660,
+                "name": "Köneürgench"
+            },
+            {
+                "id": 116661,
+                "name": "Tagta"
+            },
+            {
+                "id": 116662,
+                "name": "Yylanly"
+            }
+        ]
+    },
+    {
+        "id": 4228,
+        "name": "Lebap Region",
+        "cities": [
+            {
+                "id": 116663,
+                "name": "Atamyrat"
+            },
+            {
+                "id": 116664,
+                "name": "Farap"
+            },
+            {
+                "id": 116665,
+                "name": "Gazojak"
+            },
+            {
+                "id": 116666,
+                "name": "Gowurdak"
+            },
+            {
+                "id": 116667,
+                "name": "Saýat"
+            },
+            {
+                "id": 116668,
+                "name": "Türkmenabat"
+            }
+        ]
+    },
+    {
+        "id": 4229,
+        "name": "Mary Region",
+        "cities": [
+            {
+                "id": 116669,
+                "name": "Bayramaly"
+            },
+            {
+                "id": 116670,
+                "name": "Mary"
+            },
+            {
+                "id": 116671,
+                "name": "Serhetabat"
+            },
+            {
+                "id": 116672,
+                "name": "Seydi"
+            },
+            {
+                "id": 116673,
+                "name": "Yolöten"
+            }
+        ]
+    }
+]

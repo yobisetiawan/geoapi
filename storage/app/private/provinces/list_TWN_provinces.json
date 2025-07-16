@@ -1,0 +1,297 @@
+[
+    {
+        "id": 3961,
+        "name": "Changhua County",
+        "cities": [
+            {
+                "id": 112920,
+                "name": "Changhua"
+            },
+            {
+                "id": 112921,
+                "name": "Yuanlin"
+            }
+        ]
+    },
+    {
+        "id": 3962,
+        "name": "Chiayi City",
+        "cities": [
+            {
+                "id": 112922,
+                "name": "Chiayi County"
+            }
+        ]
+    },
+    {
+        "id": 3963,
+        "name": "Chiayi County",
+        "cities": [
+            {
+                "id": 112923,
+                "name": "Chiayi"
+            },
+            {
+                "id": 112924,
+                "name": "Pizitou"
+            }
+        ]
+    },
+    {
+        "id": 3964,
+        "name": "Hsinchu",
+        "cities": [
+            {
+                "id": 112925,
+                "name": "Hsinchu County"
+            }
+        ]
+    },
+    {
+        "id": 3965,
+        "name": "Hsinchu County",
+        "cities": [
+            {
+                "id": 112926,
+                "name": "Hsinchu"
+            }
+        ]
+    },
+    {
+        "id": 3966,
+        "name": "Hualien County",
+        "cities": [
+            {
+                "id": 112927,
+                "name": "Hualien"
+            },
+            {
+                "id": 112928,
+                "name": "Hualien City"
+            }
+        ]
+    },
+    {
+        "id": 3967,
+        "name": "Kaohsiung",
+        "cities": [
+            {
+                "id": 112929,
+                "name": "Kaohsiung"
+            }
+        ]
+    },
+    {
+        "id": 3968,
+        "name": "Kaohsiung County",
+        "cities": []
+    },
+    {
+        "id": 3969,
+        "name": "Kinmen",
+        "cities": [
+            {
+                "id": 112930,
+                "name": "Jincheng"
+            },
+            {
+                "id": 112931,
+                "name": "Kinmen County"
+            }
+        ]
+    },
+    {
+        "id": 3970,
+        "name": "Lienchiang County",
+        "cities": [
+            {
+                "id": 112932,
+                "name": "Lienchiang"
+            },
+            {
+                "id": 112933,
+                "name": "Nangan"
+            }
+        ]
+    },
+    {
+        "id": 3971,
+        "name": "Miaoli County",
+        "cities": [
+            {
+                "id": 112934,
+                "name": "Miaoli"
+            }
+        ]
+    },
+    {
+        "id": 3972,
+        "name": "Nantou County",
+        "cities": [
+            {
+                "id": 112935,
+                "name": "Lugu"
+            },
+            {
+                "id": 112936,
+                "name": "Nantou"
+            },
+            {
+                "id": 112937,
+                "name": "Puli"
+            },
+            {
+                "id": 112938,
+                "name": "Zhongxing New Village"
+            }
+        ]
+    },
+    {
+        "id": 3973,
+        "name": "Penghu County",
+        "cities": [
+            {
+                "id": 112939,
+                "name": "Magong"
+            },
+            {
+                "id": 112940,
+                "name": "Penghu County"
+            }
+        ]
+    },
+    {
+        "id": 3974,
+        "name": "Pingtung County",
+        "cities": [
+            {
+                "id": 112941,
+                "name": "Donggang"
+            },
+            {
+                "id": 112942,
+                "name": "Hengchun"
+            },
+            {
+                "id": 112943,
+                "name": "Pingtung"
+            }
+        ]
+    },
+    {
+        "id": 3975,
+        "name": "Taichung",
+        "cities": [
+            {
+                "id": 112944,
+                "name": "Taichung"
+            },
+            {
+                "id": 112945,
+                "name": "Taichung City"
+            }
+        ]
+    },
+    {
+        "id": 3976,
+        "name": "Taichung County",
+        "cities": []
+    },
+    {
+        "id": 3977,
+        "name": "Tainan",
+        "cities": [
+            {
+                "id": 112946,
+                "name": "Tainan"
+            },
+            {
+                "id": 112947,
+                "name": "Yujing"
+            }
+        ]
+    },
+    {
+        "id": 3978,
+        "name": "Tainan County",
+        "cities": []
+    },
+    {
+        "id": 3979,
+        "name": "Taipei",
+        "cities": [
+            {
+                "id": 112948,
+                "name": "Banqiao"
+            },
+            {
+                "id": 112949,
+                "name": "Jiufen"
+            },
+            {
+                "id": 112950,
+                "name": "Taipei"
+            },
+            {
+                "id": 112951,
+                "name": "Taipei City"
+            }
+        ]
+    },
+    {
+        "id": 3980,
+        "name": "Taitung County",
+        "cities": [
+            {
+                "id": 112952,
+                "name": "Taitung"
+            },
+            {
+                "id": 112953,
+                "name": "Taitung City"
+            }
+        ]
+    },
+    {
+        "id": 3981,
+        "name": "Taoyuan City",
+        "cities": [
+            {
+                "id": 112954,
+                "name": "Daxi"
+            },
+            {
+                "id": 112955,
+                "name": "Taoyuan"
+            },
+            {
+                "id": 112956,
+                "name": "Taoyuan City"
+            }
+        ]
+    },
+    {
+        "id": 3982,
+        "name": "Yilan County",
+        "cities": [
+            {
+                "id": 112957,
+                "name": "Yilan"
+            }
+        ]
+    },
+    {
+        "id": 3983,
+        "name": "Yunlin County",
+        "cities": [
+            {
+                "id": 112958,
+                "name": "Douliu"
+            },
+            {
+                "id": 112959,
+                "name": "Yunlin"
+            }
+        ]
+    }
+]

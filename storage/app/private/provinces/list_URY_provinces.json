@@ -1,0 +1,608 @@
+[
+    {
+        "id": 4449,
+        "name": "Artigas Department",
+        "cities": [
+            {
+                "id": 138061,
+                "name": "Artigas"
+            },
+            {
+                "id": 138062,
+                "name": "Baltasar Brum"
+            },
+            {
+                "id": 138063,
+                "name": "Bella Unión"
+            },
+            {
+                "id": 138064,
+                "name": "Las Piedras"
+            },
+            {
+                "id": 138065,
+                "name": "Tomás Gomensoro"
+            }
+        ]
+    },
+    {
+        "id": 4450,
+        "name": "Canelones Department",
+        "cities": [
+            {
+                "id": 138066,
+                "name": "Aguas Corrientes"
+            },
+            {
+                "id": 138067,
+                "name": "Atlántida"
+            },
+            {
+                "id": 138068,
+                "name": "Barra de Carrasco"
+            },
+            {
+                "id": 138069,
+                "name": "Barros Blancos"
+            },
+            {
+                "id": 138070,
+                "name": "Canelones"
+            },
+            {
+                "id": 138071,
+                "name": "Colonia Nicolich"
+            },
+            {
+                "id": 138072,
+                "name": "Empalme Olmos"
+            },
+            {
+                "id": 138073,
+                "name": "Joaquín Suárez"
+            },
+            {
+                "id": 138074,
+                "name": "Juanicó"
+            },
+            {
+                "id": 138075,
+                "name": "La Floresta"
+            },
+            {
+                "id": 138076,
+                "name": "La Paz"
+            },
+            {
+                "id": 138077,
+                "name": "Las Piedras"
+            },
+            {
+                "id": 138078,
+                "name": "Las Toscas"
+            },
+            {
+                "id": 138079,
+                "name": "Los Cerrillos"
+            },
+            {
+                "id": 138080,
+                "name": "Migues"
+            },
+            {
+                "id": 138081,
+                "name": "Montes"
+            },
+            {
+                "id": 138082,
+                "name": "Pando"
+            },
+            {
+                "id": 138083,
+                "name": "Paso de Carrasco"
+            },
+            {
+                "id": 138084,
+                "name": "Progreso"
+            },
+            {
+                "id": 138085,
+                "name": "San Antonio"
+            },
+            {
+                "id": 138086,
+                "name": "San Bautista"
+            },
+            {
+                "id": 138087,
+                "name": "San Jacinto"
+            },
+            {
+                "id": 138088,
+                "name": "San Ramón"
+            },
+            {
+                "id": 138089,
+                "name": "Santa Lucía"
+            },
+            {
+                "id": 138090,
+                "name": "Santa Rosa"
+            },
+            {
+                "id": 138091,
+                "name": "Sauce"
+            },
+            {
+                "id": 138092,
+                "name": "Soca"
+            },
+            {
+                "id": 138093,
+                "name": "Tala"
+            },
+            {
+                "id": 138094,
+                "name": "Toledo"
+            }
+        ]
+    },
+    {
+        "id": 4451,
+        "name": "Cerro Largo Department",
+        "cities": [
+            {
+                "id": 138095,
+                "name": "Aceguá"
+            },
+            {
+                "id": 138096,
+                "name": "Isidoro Noblía"
+            },
+            {
+                "id": 138097,
+                "name": "Melo"
+            },
+            {
+                "id": 138098,
+                "name": "Río Branco"
+            },
+            {
+                "id": 138099,
+                "name": "Tupambaé"
+            }
+        ]
+    },
+    {
+        "id": 4452,
+        "name": "Colonia Department",
+        "cities": [
+            {
+                "id": 138100,
+                "name": "Carmelo"
+            },
+            {
+                "id": 138101,
+                "name": "Colonia del Sacramento"
+            },
+            {
+                "id": 138102,
+                "name": "Florencio Sánchez"
+            },
+            {
+                "id": 138103,
+                "name": "Juan L. Lacaze"
+            },
+            {
+                "id": 138104,
+                "name": "Nueva Helvecia"
+            },
+            {
+                "id": 138105,
+                "name": "Nueva Palmira"
+            },
+            {
+                "id": 138106,
+                "name": "Ombúes de Lavalle"
+            },
+            {
+                "id": 138107,
+                "name": "Rosario"
+            },
+            {
+                "id": 138108,
+                "name": "Tarariras"
+            }
+        ]
+    },
+    {
+        "id": 4453,
+        "name": "Durazno Department",
+        "cities": [
+            {
+                "id": 138109,
+                "name": "Blanquillo"
+            },
+            {
+                "id": 138110,
+                "name": "Carlos Reyles"
+            },
+            {
+                "id": 138111,
+                "name": "Durazno"
+            },
+            {
+                "id": 138112,
+                "name": "La Paloma"
+            },
+            {
+                "id": 138113,
+                "name": "Santa Bernardina"
+            },
+            {
+                "id": 138114,
+                "name": "Sarandí del Yi"
+            },
+            {
+                "id": 138115,
+                "name": "Villa del Carmen"
+            }
+        ]
+    },
+    {
+        "id": 4454,
+        "name": "Flores Department",
+        "cities": [
+            {
+                "id": 138116,
+                "name": "Trinidad"
+            }
+        ]
+    },
+    {
+        "id": 4455,
+        "name": "Florida Department",
+        "cities": [
+            {
+                "id": 138117,
+                "name": "25 de Agosto"
+            },
+            {
+                "id": 138118,
+                "name": "25 de Mayo"
+            },
+            {
+                "id": 138119,
+                "name": "Alejandro Gallinal"
+            },
+            {
+                "id": 138120,
+                "name": "Cardal"
+            },
+            {
+                "id": 138121,
+                "name": "Casupá"
+            },
+            {
+                "id": 138122,
+                "name": "Florida"
+            },
+            {
+                "id": 138123,
+                "name": "Sarandí Grande"
+            }
+        ]
+    },
+    {
+        "id": 4456,
+        "name": "Lavalleja Department",
+        "cities": [
+            {
+                "id": 138124,
+                "name": "José Batlle y Ordóñez"
+            },
+            {
+                "id": 138125,
+                "name": "José Pedro Varela"
+            },
+            {
+                "id": 138126,
+                "name": "Mariscala"
+            },
+            {
+                "id": 138127,
+                "name": "Minas"
+            },
+            {
+                "id": 138128,
+                "name": "Solís de Mataojo"
+            }
+        ]
+    },
+    {
+        "id": 4457,
+        "name": "Maldonado Department",
+        "cities": [
+            {
+                "id": 138129,
+                "name": "Aiguá"
+            },
+            {
+                "id": 138130,
+                "name": "Maldonado"
+            },
+            {
+                "id": 138131,
+                "name": "Pan de Azúcar"
+            },
+            {
+                "id": 138132,
+                "name": "Piriápolis"
+            },
+            {
+                "id": 138133,
+                "name": "Punta del Este"
+            },
+            {
+                "id": 138134,
+                "name": "San Carlos"
+            }
+        ]
+    },
+    {
+        "id": 4458,
+        "name": "Montevideo Department",
+        "cities": [
+            {
+                "id": 138135,
+                "name": "Montevideo"
+            },
+            {
+                "id": 138136,
+                "name": "Pajas Blancas"
+            },
+            {
+                "id": 138137,
+                "name": "Santiago Vázquez"
+            }
+        ]
+    },
+    {
+        "id": 4459,
+        "name": "Paysandú Department",
+        "cities": [
+            {
+                "id": 138138,
+                "name": "Estación Porvenir"
+            },
+            {
+                "id": 138139,
+                "name": "Guichón"
+            },
+            {
+                "id": 138140,
+                "name": "Paysandú"
+            },
+            {
+                "id": 138141,
+                "name": "Piedras Coloradas"
+            },
+            {
+                "id": 138142,
+                "name": "Quebracho"
+            },
+            {
+                "id": 138143,
+                "name": "San Félix"
+            }
+        ]
+    },
+    {
+        "id": 4460,
+        "name": "Río Negro Department",
+        "cities": [
+            {
+                "id": 138144,
+                "name": "Fray Bentos"
+            },
+            {
+                "id": 138145,
+                "name": "Nuevo Berlín"
+            },
+            {
+                "id": 138146,
+                "name": "San Javier"
+            },
+            {
+                "id": 138147,
+                "name": "Young"
+            }
+        ]
+    },
+    {
+        "id": 4461,
+        "name": "Rivera Department",
+        "cities": [
+            {
+                "id": 138148,
+                "name": "Minas de Corrales"
+            },
+            {
+                "id": 138149,
+                "name": "Rivera"
+            },
+            {
+                "id": 138150,
+                "name": "Tranqueras"
+            },
+            {
+                "id": 138151,
+                "name": "Vichadero"
+            }
+        ]
+    },
+    {
+        "id": 4462,
+        "name": "Rocha Department",
+        "cities": [
+            {
+                "id": 138152,
+                "name": "Castillos"
+            },
+            {
+                "id": 138153,
+                "name": "Cebollatí"
+            },
+            {
+                "id": 138154,
+                "name": "Chui"
+            },
+            {
+                "id": 138155,
+                "name": "Dieciocho de Julio"
+            },
+            {
+                "id": 138156,
+                "name": "La Paloma"
+            },
+            {
+                "id": 138157,
+                "name": "Lascano"
+            },
+            {
+                "id": 138158,
+                "name": "Rocha"
+            },
+            {
+                "id": 138159,
+                "name": "Velázquez"
+            }
+        ]
+    },
+    {
+        "id": 4463,
+        "name": "Salto Department",
+        "cities": [
+            {
+                "id": 138160,
+                "name": "Belén"
+            },
+            {
+                "id": 138161,
+                "name": "Salto"
+            },
+            {
+                "id": 138162,
+                "name": "Villa Constitución"
+            }
+        ]
+    },
+    {
+        "id": 4464,
+        "name": "San José Department",
+        "cities": [
+            {
+                "id": 138163,
+                "name": "Delta del Tigre"
+            },
+            {
+                "id": 138164,
+                "name": "Ecilda Paullier"
+            },
+            {
+                "id": 138165,
+                "name": "Libertad"
+            },
+            {
+                "id": 138166,
+                "name": "Puntas de Valdéz"
+            },
+            {
+                "id": 138167,
+                "name": "Rafael Perazza"
+            },
+            {
+                "id": 138168,
+                "name": "Rodríguez"
+            },
+            {
+                "id": 138169,
+                "name": "San José de Mayo"
+            }
+        ]
+    },
+    {
+        "id": 4465,
+        "name": "Soriano Department",
+        "cities": [
+            {
+                "id": 138170,
+                "name": "Cardona"
+            },
+            {
+                "id": 138171,
+                "name": "Dolores"
+            },
+            {
+                "id": 138172,
+                "name": "José Enrique Rodó"
+            },
+            {
+                "id": 138173,
+                "name": "Mercedes"
+            },
+            {
+                "id": 138174,
+                "name": "Palmitas"
+            },
+            {
+                "id": 138175,
+                "name": "Santa Catalina"
+            },
+            {
+                "id": 138176,
+                "name": "Villa Soriano"
+            }
+        ]
+    },
+    {
+        "id": 4466,
+        "name": "Tacuarembó Department",
+        "cities": [
+            {
+                "id": 138177,
+                "name": "Curtina"
+            },
+            {
+                "id": 138178,
+                "name": "Paso de los Toros"
+            },
+            {
+                "id": 138179,
+                "name": "Tacuarembó"
+            }
+        ]
+    },
+    {
+        "id": 4467,
+        "name": "Treinta y Tres Department",
+        "cities": [
+            {
+                "id": 138180,
+                "name": "Santa Clara de Olimar"
+            },
+            {
+                "id": 138181,
+                "name": "Treinta y Tres"
+            },
+            {
+                "id": 138182,
+                "name": "Vergara"
+            },
+            {
+                "id": 138183,
+                "name": "Villa Sara"
+            }
+        ]
+    }
+]

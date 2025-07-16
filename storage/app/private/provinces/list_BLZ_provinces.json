@@ -1,0 +1,90 @@
+[
+    {
+        "id": 434,
+        "name": "Belize District",
+        "cities": [
+            {
+                "id": 9586,
+                "name": "Belize City"
+            },
+            {
+                "id": 9587,
+                "name": "San Pedro"
+            }
+        ]
+    },
+    {
+        "id": 435,
+        "name": "Cayo District",
+        "cities": [
+            {
+                "id": 9588,
+                "name": "Belmopan"
+            },
+            {
+                "id": 9589,
+                "name": "Benque Viejo el Carmen"
+            },
+            {
+                "id": 9590,
+                "name": "San Ignacio"
+            },
+            {
+                "id": 9591,
+                "name": "Valley of Peace"
+            }
+        ]
+    },
+    {
+        "id": 436,
+        "name": "Corozal District",
+        "cities": [
+            {
+                "id": 9592,
+                "name": "Corozal"
+            }
+        ]
+    },
+    {
+        "id": 437,
+        "name": "Orange Walk District",
+        "cities": [
+            {
+                "id": 9593,
+                "name": "Hopelchén"
+            },
+            {
+                "id": 9594,
+                "name": "Orange Walk"
+            },
+            {
+                "id": 9595,
+                "name": "Shipyard"
+            }
+        ]
+    },
+    {
+        "id": 438,
+        "name": "Stann Creek District",
+        "cities": [
+            {
+                "id": 9596,
+                "name": "Dangriga"
+            },
+            {
+                "id": 9597,
+                "name": "Placencia"
+            }
+        ]
+    },
+    {
+        "id": 439,
+        "name": "Toledo District",
+        "cities": [
+            {
+                "id": 9598,
+                "name": "Punta Gorda"
+            }
+        ]
+    }
+]

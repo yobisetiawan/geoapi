@@ -1,0 +1,1228 @@
+[
+    {
+        "id": 3988,
+        "name": "Arusha Region",
+        "cities": [
+            {
+                "id": 113030,
+                "name": "Arusha"
+            },
+            {
+                "id": 113031,
+                "name": "Kingori"
+            },
+            {
+                "id": 113032,
+                "name": "Kiratu"
+            },
+            {
+                "id": 113033,
+                "name": "Longido"
+            },
+            {
+                "id": 113034,
+                "name": "Mbuguni"
+            },
+            {
+                "id": 113035,
+                "name": "Merelani"
+            },
+            {
+                "id": 113036,
+                "name": "Meru"
+            },
+            {
+                "id": 113037,
+                "name": "Monduli"
+            },
+            {
+                "id": 113038,
+                "name": "Mto wa Mbu"
+            },
+            {
+                "id": 113039,
+                "name": "Namanga"
+            },
+            {
+                "id": 113040,
+                "name": "Ngorongoro"
+            },
+            {
+                "id": 113041,
+                "name": "Nkoaranga"
+            },
+            {
+                "id": 113042,
+                "name": "Poli"
+            },
+            {
+                "id": 113043,
+                "name": "Usa River"
+            }
+        ]
+    },
+    {
+        "id": 3989,
+        "name": "Dar es Salaam Region",
+        "cities": [
+            {
+                "id": 113044,
+                "name": "Dar es Salaam"
+            },
+            {
+                "id": 113045,
+                "name": "Magomeni"
+            }
+        ]
+    },
+    {
+        "id": 3990,
+        "name": "Dodoma Region",
+        "cities": [
+            {
+                "id": 113046,
+                "name": "Dodoma"
+            },
+            {
+                "id": 113047,
+                "name": "Kibakwe"
+            },
+            {
+                "id": 113048,
+                "name": "Kisasa"
+            },
+            {
+                "id": 113049,
+                "name": "Kondoa"
+            },
+            {
+                "id": 113050,
+                "name": "Kongwa"
+            },
+            {
+                "id": 113051,
+                "name": "Mpwapwa"
+            },
+            {
+                "id": 113052,
+                "name": "Msanga"
+            }
+        ]
+    },
+    {
+        "id": 3991,
+        "name": "Geita Region",
+        "cities": [
+            {
+                "id": 113053,
+                "name": "Buseresere"
+            },
+            {
+                "id": 113054,
+                "name": "Chato"
+            },
+            {
+                "id": 113055,
+                "name": "Geita"
+            },
+            {
+                "id": 113056,
+                "name": "Kasamwa"
+            },
+            {
+                "id": 113057,
+                "name": "Katoro"
+            },
+            {
+                "id": 113058,
+                "name": "Masumbwe"
+            },
+            {
+                "id": 113059,
+                "name": "Ushirombo"
+            },
+            {
+                "id": 113060,
+                "name": "Uyovu"
+            }
+        ]
+    },
+    {
+        "id": 3992,
+        "name": "Iringa Region",
+        "cities": [
+            {
+                "id": 113061,
+                "name": "Ilula"
+            },
+            {
+                "id": 113062,
+                "name": "Iringa"
+            },
+            {
+                "id": 113063,
+                "name": "Izazi"
+            },
+            {
+                "id": 113064,
+                "name": "Mafinga"
+            },
+            {
+                "id": 113065,
+                "name": "Makungu"
+            },
+            {
+                "id": 113066,
+                "name": "Malangali"
+            }
+        ]
+    },
+    {
+        "id": 3993,
+        "name": "Kagera Region",
+        "cities": [
+            {
+                "id": 113067,
+                "name": "Biharamulo"
+            },
+            {
+                "id": 113068,
+                "name": "Bugarama"
+            },
+            {
+                "id": 113069,
+                "name": "Bugene"
+            },
+            {
+                "id": 113070,
+                "name": "Bukoba"
+            },
+            {
+                "id": 113071,
+                "name": "Kabanga"
+            },
+            {
+                "id": 113072,
+                "name": "Kamachumu"
+            },
+            {
+                "id": 113073,
+                "name": "Katerero"
+            },
+            {
+                "id": 113074,
+                "name": "Katoro"
+            },
+            {
+                "id": 113075,
+                "name": "Kyaka"
+            },
+            {
+                "id": 113076,
+                "name": "Ngara"
+            },
+            {
+                "id": 113077,
+                "name": "Nshamba"
+            },
+            {
+                "id": 113078,
+                "name": "Nsunga"
+            },
+            {
+                "id": 113079,
+                "name": "Nyakahanga"
+            },
+            {
+                "id": 113080,
+                "name": "Rulenge"
+            }
+        ]
+    },
+    {
+        "id": 3994,
+        "name": "Katavi Region",
+        "cities": [
+            {
+                "id": 113081,
+                "name": "Inyonga"
+            },
+            {
+                "id": 113082,
+                "name": "Karema"
+            },
+            {
+                "id": 113083,
+                "name": "Mpanda"
+            },
+            {
+                "id": 113084,
+                "name": "Usevia"
+            }
+        ]
+    },
+    {
+        "id": 3995,
+        "name": "Kigoma Region",
+        "cities": [
+            {
+                "id": 113085,
+                "name": "Kakonko"
+            },
+            {
+                "id": 113086,
+                "name": "Kasulu"
+            },
+            {
+                "id": 113087,
+                "name": "Kibondo"
+            },
+            {
+                "id": 113088,
+                "name": "Kigoma"
+            },
+            {
+                "id": 113089,
+                "name": "Mabamba"
+            },
+            {
+                "id": 113090,
+                "name": "Mwandiga"
+            },
+            {
+                "id": 113091,
+                "name": "Nguruka"
+            },
+            {
+                "id": 113092,
+                "name": "Uvinza"
+            }
+        ]
+    },
+    {
+        "id": 3996,
+        "name": "Kilimanjaro Region",
+        "cities": [
+            {
+                "id": 113093,
+                "name": "Hedaru"
+            },
+            {
+                "id": 113094,
+                "name": "Kihurio"
+            },
+            {
+                "id": 113095,
+                "name": "Kisiwani"
+            },
+            {
+                "id": 113096,
+                "name": "Kwakoa"
+            },
+            {
+                "id": 113097,
+                "name": "Lembeni"
+            },
+            {
+                "id": 113098,
+                "name": "Makanya"
+            },
+            {
+                "id": 113099,
+                "name": "Moshi"
+            },
+            {
+                "id": 113100,
+                "name": "Mwembe"
+            },
+            {
+                "id": 113101,
+                "name": "Ndungu"
+            },
+            {
+                "id": 113102,
+                "name": "Same"
+            }
+        ]
+    },
+    {
+        "id": 3997,
+        "name": "Lindi Region",
+        "cities": [
+            {
+                "id": 113103,
+                "name": "Lindi"
+            },
+            {
+                "id": 113104,
+                "name": "Mbekenyera"
+            },
+            {
+                "id": 113105,
+                "name": "Mingoyo"
+            },
+            {
+                "id": 113106,
+                "name": "Mtama"
+            },
+            {
+                "id": 113107,
+                "name": "Nachingwea"
+            },
+            {
+                "id": 113108,
+                "name": "Nyangao"
+            },
+            {
+                "id": 113109,
+                "name": "Ruangwa"
+            }
+        ]
+    },
+    {
+        "id": 3998,
+        "name": "Manyara Region",
+        "cities": [
+            {
+                "id": 113110,
+                "name": "Babati"
+            },
+            {
+                "id": 113111,
+                "name": "Bashanet"
+            },
+            {
+                "id": 113112,
+                "name": "Basotu"
+            },
+            {
+                "id": 113113,
+                "name": "Dareda"
+            },
+            {
+                "id": 113114,
+                "name": "Dongobesh"
+            },
+            {
+                "id": 113115,
+                "name": "Endasak"
+            },
+            {
+                "id": 113116,
+                "name": "Galappo"
+            },
+            {
+                "id": 113117,
+                "name": "Katesh"
+            },
+            {
+                "id": 113118,
+                "name": "Kibaya"
+            },
+            {
+                "id": 113119,
+                "name": "Kirya"
+            },
+            {
+                "id": 113120,
+                "name": "Magugu"
+            },
+            {
+                "id": 113121,
+                "name": "Mbulu"
+            },
+            {
+                "id": 113122,
+                "name": "Naberera"
+            },
+            {
+                "id": 113123,
+                "name": "Nangwa"
+            }
+        ]
+    },
+    {
+        "id": 3999,
+        "name": "Mara Region",
+        "cities": [
+            {
+                "id": 113124,
+                "name": "Bukonyo"
+            },
+            {
+                "id": 113125,
+                "name": "Butiama"
+            },
+            {
+                "id": 113126,
+                "name": "Issenye"
+            },
+            {
+                "id": 113127,
+                "name": "Kibara"
+            },
+            {
+                "id": 113128,
+                "name": "Mugango"
+            },
+            {
+                "id": 113129,
+                "name": "Mugumu"
+            },
+            {
+                "id": 113130,
+                "name": "Muriti"
+            },
+            {
+                "id": 113131,
+                "name": "Musoma"
+            },
+            {
+                "id": 113132,
+                "name": "Nakatunguru"
+            },
+            {
+                "id": 113133,
+                "name": "Nansio"
+            },
+            {
+                "id": 113134,
+                "name": "Nyamuswa"
+            },
+            {
+                "id": 113135,
+                "name": "Sirari"
+            }
+        ]
+    },
+    {
+        "id": 4000,
+        "name": "Morogoro Region",
+        "cities": [
+            {
+                "id": 113136,
+                "name": "Geiro"
+            },
+            {
+                "id": 113137,
+                "name": "Ifakara"
+            },
+            {
+                "id": 113138,
+                "name": "Kidatu"
+            },
+            {
+                "id": 113139,
+                "name": "Kidodi"
+            },
+            {
+                "id": 113140,
+                "name": "Kilosa"
+            },
+            {
+                "id": 113141,
+                "name": "Kimamba"
+            },
+            {
+                "id": 113142,
+                "name": "Kisanga"
+            },
+            {
+                "id": 113143,
+                "name": "Lupiro"
+            },
+            {
+                "id": 113144,
+                "name": "Magole"
+            },
+            {
+                "id": 113145,
+                "name": "Mahenge"
+            },
+            {
+                "id": 113146,
+                "name": "Malinyi"
+            },
+            {
+                "id": 113147,
+                "name": "Mikumi"
+            },
+            {
+                "id": 113148,
+                "name": "Mlimba"
+            },
+            {
+                "id": 113149,
+                "name": "Morogoro"
+            },
+            {
+                "id": 113150,
+                "name": "Msowero"
+            },
+            {
+                "id": 113151,
+                "name": "Mtimbira"
+            },
+            {
+                "id": 113152,
+                "name": "Mvomero District"
+            },
+            {
+                "id": 113153,
+                "name": "Ngerengere"
+            }
+        ]
+    },
+    {
+        "id": 4001,
+        "name": "Mtwara Region",
+        "cities": [
+            {
+                "id": 113154,
+                "name": "Chiungutwa"
+            },
+            {
+                "id": 113155,
+                "name": "Kitama"
+            },
+            {
+                "id": 113156,
+                "name": "Kitangari"
+            },
+            {
+                "id": 113157,
+                "name": "Luchingu"
+            },
+            {
+                "id": 113158,
+                "name": "Lukuledi"
+            },
+            {
+                "id": 113159,
+                "name": "Lulindi"
+            },
+            {
+                "id": 113160,
+                "name": "Madimba"
+            },
+            {
+                "id": 113161,
+                "name": "Mahuta"
+            },
+            {
+                "id": 113162,
+                "name": "Masasi"
+            },
+            {
+                "id": 113163,
+                "name": "Masuguru"
+            },
+            {
+                "id": 113164,
+                "name": "Mtwara"
+            },
+            {
+                "id": 113165,
+                "name": "Namalenga"
+            },
+            {
+                "id": 113166,
+                "name": "Namikupa"
+            },
+            {
+                "id": 113167,
+                "name": "Nanganga"
+            },
+            {
+                "id": 113168,
+                "name": "Nangomba"
+            },
+            {
+                "id": 113169,
+                "name": "Nanhyanga"
+            },
+            {
+                "id": 113170,
+                "name": "Nanyamba"
+            },
+            {
+                "id": 113171,
+                "name": "Newala Kisimani"
+            },
+            {
+                "id": 113172,
+                "name": "Tandahimba"
+            }
+        ]
+    },
+    {
+        "id": 4002,
+        "name": "Mwanza Region",
+        "cities": [
+            {
+                "id": 113173,
+                "name": "Ilemela District"
+            },
+            {
+                "id": 113174,
+                "name": "Kihangara"
+            },
+            {
+                "id": 113175,
+                "name": "Malya"
+            },
+            {
+                "id": 113176,
+                "name": "Misasi"
+            },
+            {
+                "id": 113177,
+                "name": "Misungwi"
+            },
+            {
+                "id": 113178,
+                "name": "Mwanza"
+            },
+            {
+                "id": 113179,
+                "name": "Ngudu"
+            },
+            {
+                "id": 113180,
+                "name": "Nyanguge"
+            },
+            {
+                "id": 113181,
+                "name": "Usagara"
+            }
+        ]
+    },
+    {
+        "id": 4003,
+        "name": "Njombe Region",
+        "cities": [
+            {
+                "id": 113182,
+                "name": "Ilembula"
+            },
+            {
+                "id": 113183,
+                "name": "Makumbako"
+            },
+            {
+                "id": 113184,
+                "name": "Manda"
+            },
+            {
+                "id": 113185,
+                "name": "Matamba"
+            },
+            {
+                "id": 113186,
+                "name": "Mlangali"
+            },
+            {
+                "id": 113187,
+                "name": "Mtwango"
+            },
+            {
+                "id": 113188,
+                "name": "Njombe"
+            }
+        ]
+    },
+    {
+        "id": 4004,
+        "name": "North Pemba Region",
+        "cities": [
+            {
+                "id": 113189,
+                "name": "Konde"
+            },
+            {
+                "id": 113190,
+                "name": "Micheweni"
+            },
+            {
+                "id": 113191,
+                "name": "Wete"
+            }
+        ]
+    },
+    {
+        "id": 4005,
+        "name": "Pwani Region",
+        "cities": [
+            {
+                "id": 113192,
+                "name": "Bagamoyo"
+            },
+            {
+                "id": 113193,
+                "name": "Bungu"
+            },
+            {
+                "id": 113194,
+                "name": "Chalinze"
+            },
+            {
+                "id": 113195,
+                "name": "Ikwiriri"
+            },
+            {
+                "id": 113196,
+                "name": "Kibaha"
+            },
+            {
+                "id": 113197,
+                "name": "Kibiti"
+            },
+            {
+                "id": 113198,
+                "name": "Kilindoni"
+            },
+            {
+                "id": 113199,
+                "name": "Kisarawe"
+            },
+            {
+                "id": 113200,
+                "name": "Lugoba"
+            },
+            {
+                "id": 113201,
+                "name": "Maneromango"
+            },
+            {
+                "id": 113202,
+                "name": "Mbumi"
+            },
+            {
+                "id": 113203,
+                "name": "Mkuranga"
+            },
+            {
+                "id": 113204,
+                "name": "Mlandizi"
+            },
+            {
+                "id": 113205,
+                "name": "Mvomero"
+            },
+            {
+                "id": 113206,
+                "name": "Utete"
+            },
+            {
+                "id": 113207,
+                "name": "Vikindu"
+            }
+        ]
+    },
+    {
+        "id": 4006,
+        "name": "Rukwa Region",
+        "cities": [
+            {
+                "id": 113208,
+                "name": "Chala"
+            },
+            {
+                "id": 113209,
+                "name": "Kirando"
+            },
+            {
+                "id": 113210,
+                "name": "Laela"
+            },
+            {
+                "id": 113211,
+                "name": "Matai"
+            },
+            {
+                "id": 113212,
+                "name": "Namanyere"
+            },
+            {
+                "id": 113213,
+                "name": "Nkove"
+            },
+            {
+                "id": 113214,
+                "name": "Sumbawanga"
+            }
+        ]
+    },
+    {
+        "id": 4007,
+        "name": "Ruvuma Region",
+        "cities": [
+            {
+                "id": 113215,
+                "name": "Kigonsera"
+            },
+            {
+                "id": 113216,
+                "name": "Liuli"
+            },
+            {
+                "id": 113217,
+                "name": "Mahanje"
+            },
+            {
+                "id": 113218,
+                "name": "Maposeni"
+            },
+            {
+                "id": 113219,
+                "name": "Matiri"
+            },
+            {
+                "id": 113220,
+                "name": "Mbamba Bay"
+            },
+            {
+                "id": 113221,
+                "name": "Mbinga"
+            },
+            {
+                "id": 113222,
+                "name": "Songea"
+            },
+            {
+                "id": 113223,
+                "name": "Tingi"
+            }
+        ]
+    },
+    {
+        "id": 4008,
+        "name": "Shinyanga Region",
+        "cities": [
+            {
+                "id": 113224,
+                "name": "Isaka"
+            },
+            {
+                "id": 113225,
+                "name": "Kahama"
+            },
+            {
+                "id": 113226,
+                "name": "Kishapu"
+            },
+            {
+                "id": 113227,
+                "name": "Mhango"
+            },
+            {
+                "id": 113228,
+                "name": "Mwadui"
+            },
+            {
+                "id": 113229,
+                "name": "Old Shinyanga"
+            },
+            {
+                "id": 113230,
+                "name": "Shinyanga"
+            },
+            {
+                "id": 113231,
+                "name": "Songwa"
+            },
+            {
+                "id": 113232,
+                "name": "Tinde"
+            }
+        ]
+    },
+    {
+        "id": 4009,
+        "name": "Simiyu Region",
+        "cities": [
+            {
+                "id": 113233,
+                "name": "Bariadi"
+            },
+            {
+                "id": 113234,
+                "name": "Kisesa"
+            },
+            {
+                "id": 113235,
+                "name": "Lalago"
+            },
+            {
+                "id": 113236,
+                "name": "Malampaka"
+            },
+            {
+                "id": 113237,
+                "name": "Maswa"
+            },
+            {
+                "id": 113238,
+                "name": "Matonga"
+            },
+            {
+                "id": 113239,
+                "name": "Nyakabindi"
+            },
+            {
+                "id": 113240,
+                "name": "Nyalikungu"
+            },
+            {
+                "id": 113241,
+                "name": "Somanda"
+            }
+        ]
+    },
+    {
+        "id": 4010,
+        "name": "Singida Region",
+        "cities": [
+            {
+                "id": 113242,
+                "name": "Igugunu"
+            },
+            {
+                "id": 113243,
+                "name": "Ikungi"
+            },
+            {
+                "id": 113244,
+                "name": "Ilongero"
+            },
+            {
+                "id": 113245,
+                "name": "Itigi"
+            },
+            {
+                "id": 113246,
+                "name": "Kilimatinde"
+            },
+            {
+                "id": 113247,
+                "name": "Kintinku"
+            },
+            {
+                "id": 113248,
+                "name": "Kiomboi"
+            },
+            {
+                "id": 113249,
+                "name": "Mgandu"
+            },
+            {
+                "id": 113250,
+                "name": "Mtinko"
+            },
+            {
+                "id": 113251,
+                "name": "Mungaa"
+            },
+            {
+                "id": 113252,
+                "name": "Ndago"
+            },
+            {
+                "id": 113253,
+                "name": "Puma"
+            },
+            {
+                "id": 113254,
+                "name": "Sepuka"
+            },
+            {
+                "id": 113255,
+                "name": "Shelui"
+            },
+            {
+                "id": 113256,
+                "name": "Singida"
+            }
+        ]
+    },
+    {
+        "id": 4011,
+        "name": "South Pemba Region",
+        "cities": [
+            {
+                "id": 113257,
+                "name": "Chake Chake"
+            },
+            {
+                "id": 113258,
+                "name": "Mtambile"
+            },
+            {
+                "id": 113259,
+                "name": "Uwelini"
+            }
+        ]
+    },
+    {
+        "id": 4012,
+        "name": "Tabora Region",
+        "cities": [
+            {
+                "id": 113260,
+                "name": "Bukene"
+            },
+            {
+                "id": 113261,
+                "name": "Igurubi"
+            },
+            {
+                "id": 113262,
+                "name": "Kaliua"
+            },
+            {
+                "id": 113263,
+                "name": "Mabama"
+            },
+            {
+                "id": 113264,
+                "name": "Sikonge"
+            },
+            {
+                "id": 113265,
+                "name": "Tabora"
+            },
+            {
+                "id": 113266,
+                "name": "Tumbi"
+            },
+            {
+                "id": 113267,
+                "name": "Usoke"
+            }
+        ]
+    },
+    {
+        "id": 4013,
+        "name": "Tanga Region",
+        "cities": [
+            {
+                "id": 113268,
+                "name": "Chanika"
+            },
+            {
+                "id": 113269,
+                "name": "Lushoto"
+            },
+            {
+                "id": 113270,
+                "name": "Magomeni"
+            },
+            {
+                "id": 113271,
+                "name": "Majengo"
+            },
+            {
+                "id": 113272,
+                "name": "Makuyuni"
+            },
+            {
+                "id": 113273,
+                "name": "Maramba"
+            },
+            {
+                "id": 113274,
+                "name": "Matui"
+            },
+            {
+                "id": 113275,
+                "name": "Mazinde"
+            },
+            {
+                "id": 113276,
+                "name": "Mlalo"
+            },
+            {
+                "id": 113277,
+                "name": "Muheza"
+            },
+            {
+                "id": 113278,
+                "name": "Mwanga"
+            },
+            {
+                "id": 113279,
+                "name": "Pangani"
+            },
+            {
+                "id": 113280,
+                "name": "Soni"
+            },
+            {
+                "id": 113281,
+                "name": "Tanga"
+            }
+        ]
+    },
+    {
+        "id": 4014,
+        "name": "Zanzibar Central South Region",
+        "cities": [
+            {
+                "id": 113282,
+                "name": "Koani"
+            },
+            {
+                "id": 113283,
+                "name": "Koani Ndogo"
+            },
+            {
+                "id": 113284,
+                "name": "Mahonda"
+            },
+            {
+                "id": 113285,
+                "name": "Nganane"
+            },
+            {
+                "id": 113286,
+                "name": "Sokoni"
+            }
+        ]
+    },
+    {
+        "id": 4015,
+        "name": "Zanzibar North Region",
+        "cities": [
+            {
+                "id": 113287,
+                "name": "Gamba"
+            },
+            {
+                "id": 113288,
+                "name": "Kijini"
+            },
+            {
+                "id": 113289,
+                "name": "Kiwengwa"
+            },
+            {
+                "id": 113290,
+                "name": "Mkokotoni"
+            },
+            {
+                "id": 113291,
+                "name": "Nungwi"
+            }
+        ]
+    },
+    {
+        "id": 4016,
+        "name": "Zanzibar Urban West Region",
+        "cities": [
+            {
+                "id": 113292,
+                "name": "Zanzibar"
+            }
+        ]
+    }
+]

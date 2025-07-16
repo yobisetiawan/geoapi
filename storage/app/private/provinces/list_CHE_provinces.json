@@ -1,0 +1,6206 @@
+[
+    {
+        "id": 3921,
+        "name": "Aargau",
+        "cities": [
+            {
+                "id": 111266,
+                "name": "Aarau"
+            },
+            {
+                "id": 111267,
+                "name": "Aarburg"
+            },
+            {
+                "id": 111268,
+                "name": "Aristau"
+            },
+            {
+                "id": 111269,
+                "name": "Auw"
+            },
+            {
+                "id": 111270,
+                "name": "Bad Zurzach"
+            },
+            {
+                "id": 111271,
+                "name": "Baden"
+            },
+            {
+                "id": 111272,
+                "name": "Berikon"
+            },
+            {
+                "id": 111273,
+                "name": "Besenbüren"
+            },
+            {
+                "id": 111274,
+                "name": "Bezirk Aarau"
+            },
+            {
+                "id": 111275,
+                "name": "Bezirk Baden"
+            },
+            {
+                "id": 111276,
+                "name": "Bezirk Bremgarten"
+            },
+            {
+                "id": 111277,
+                "name": "Bezirk Brugg"
+            },
+            {
+                "id": 111278,
+                "name": "Bezirk Kulm"
+            },
+            {
+                "id": 111279,
+                "name": "Bezirk Laufenburg"
+            },
+            {
+                "id": 111280,
+                "name": "Bezirk Lenzburg"
+            },
+            {
+                "id": 111281,
+                "name": "Bezirk Muri"
+            },
+            {
+                "id": 111282,
+                "name": "Bezirk Rheinfelden"
+            },
+            {
+                "id": 111283,
+                "name": "Bezirk Zofingen"
+            },
+            {
+                "id": 111284,
+                "name": "Bezirk Zurzach"
+            },
+            {
+                "id": 111285,
+                "name": "Birmenstorf"
+            },
+            {
+                "id": 111286,
+                "name": "Birr"
+            },
+            {
+                "id": 111287,
+                "name": "Boniswil"
+            },
+            {
+                "id": 111288,
+                "name": "Bremgarten"
+            },
+            {
+                "id": 111289,
+                "name": "Brittnau"
+            },
+            {
+                "id": 111290,
+                "name": "Brugg"
+            },
+            {
+                "id": 111291,
+                "name": "Buchs"
+            },
+            {
+                "id": 111292,
+                "name": "Buttwil"
+            },
+            {
+                "id": 111293,
+                "name": "Densbüren"
+            },
+            {
+                "id": 111294,
+                "name": "Dottikon"
+            },
+            {
+                "id": 111295,
+                "name": "Dürrenäsch"
+            },
+            {
+                "id": 111296,
+                "name": "Egliswil"
+            },
+            {
+                "id": 111297,
+                "name": "Ehrendingen"
+            },
+            {
+                "id": 111298,
+                "name": "Eiken"
+            },
+            {
+                "id": 111299,
+                "name": "Endingen"
+            },
+            {
+                "id": 111300,
+                "name": "Frick"
+            },
+            {
+                "id": 111301,
+                "name": "Gebenstorf"
+            },
+            {
+                "id": 111302,
+                "name": "Gipf-Oberfrick"
+            },
+            {
+                "id": 111303,
+                "name": "Gontenschwil"
+            },
+            {
+                "id": 111304,
+                "name": "Gränichen"
+            },
+            {
+                "id": 111305,
+                "name": "Hägglingen"
+            },
+            {
+                "id": 111306,
+                "name": "Hausen"
+            },
+            {
+                "id": 111307,
+                "name": "Jonen"
+            },
+            {
+                "id": 111308,
+                "name": "Kaiseraugst"
+            },
+            {
+                "id": 111309,
+                "name": "Kaisten"
+            },
+            {
+                "id": 111310,
+                "name": "Killwangen"
+            },
+            {
+                "id": 111311,
+                "name": "Klingnau"
+            },
+            {
+                "id": 111312,
+                "name": "Koblenz"
+            },
+            {
+                "id": 111313,
+                "name": "Kölliken"
+            },
+            {
+                "id": 111314,
+                "name": "Künten"
+            },
+            {
+                "id": 111315,
+                "name": "Küttigen"
+            },
+            {
+                "id": 111316,
+                "name": "Laufenburg"
+            },
+            {
+                "id": 111317,
+                "name": "Lauffohr (Brugg)"
+            },
+            {
+                "id": 111318,
+                "name": "Leibstadt"
+            },
+            {
+                "id": 111319,
+                "name": "Lenzburg"
+            },
+            {
+                "id": 111320,
+                "name": "Magden"
+            },
+            {
+                "id": 111321,
+                "name": "Meisterschwanden"
+            },
+            {
+                "id": 111322,
+                "name": "Mellingen"
+            },
+            {
+                "id": 111323,
+                "name": "Menziken"
+            },
+            {
+                "id": 111324,
+                "name": "Merenschwand"
+            },
+            {
+                "id": 111325,
+                "name": "Möhlin"
+            },
+            {
+                "id": 111326,
+                "name": "Muhen"
+            },
+            {
+                "id": 111327,
+                "name": "Mumpf"
+            },
+            {
+                "id": 111328,
+                "name": "Murgenthal"
+            },
+            {
+                "id": 111329,
+                "name": "Muri"
+            },
+            {
+                "id": 111330,
+                "name": "Neuenhof"
+            },
+            {
+                "id": 111331,
+                "name": "Niederlenz"
+            },
+            {
+                "id": 111332,
+                "name": "Niederrohrdorf"
+            },
+            {
+                "id": 111333,
+                "name": "Oberentfelden"
+            },
+            {
+                "id": 111334,
+                "name": "Oberlunkhofen"
+            },
+            {
+                "id": 111335,
+                "name": "Oberrohrdorf"
+            },
+            {
+                "id": 111336,
+                "name": "Oberrüti"
+            },
+            {
+                "id": 111337,
+                "name": "Obersiggenthal"
+            },
+            {
+                "id": 111338,
+                "name": "Oftringen"
+            },
+            {
+                "id": 111339,
+                "name": "Othmarsingen"
+            },
+            {
+                "id": 111340,
+                "name": "Reinach"
+            },
+            {
+                "id": 111341,
+                "name": "Rheinfelden"
+            },
+            {
+                "id": 111342,
+                "name": "Rothrist"
+            },
+            {
+                "id": 111343,
+                "name": "Rudolfstetten"
+            },
+            {
+                "id": 111344,
+                "name": "Rupperswil"
+            },
+            {
+                "id": 111345,
+                "name": "Safenwil"
+            },
+            {
+                "id": 111346,
+                "name": "Sarmenstorf"
+            },
+            {
+                "id": 111347,
+                "name": "Schafisheim"
+            },
+            {
+                "id": 111348,
+                "name": "Schinznach Bad"
+            },
+            {
+                "id": 111349,
+                "name": "Schinznach Dorf"
+            },
+            {
+                "id": 111350,
+                "name": "Schöftland"
+            },
+            {
+                "id": 111351,
+                "name": "Schwaderloch"
+            },
+            {
+                "id": 111352,
+                "name": "Seengen"
+            },
+            {
+                "id": 111353,
+                "name": "Seon"
+            },
+            {
+                "id": 111354,
+                "name": "Sins"
+            },
+            {
+                "id": 111355,
+                "name": "Spreitenbach"
+            },
+            {
+                "id": 111356,
+                "name": "Staffelbach"
+            },
+            {
+                "id": 111357,
+                "name": "Staufen"
+            },
+            {
+                "id": 111358,
+                "name": "Stein"
+            },
+            {
+                "id": 111359,
+                "name": "Strengelbach"
+            },
+            {
+                "id": 111360,
+                "name": "Suhr"
+            },
+            {
+                "id": 111361,
+                "name": "Sulz"
+            },
+            {
+                "id": 111362,
+                "name": "Tegerfelden"
+            },
+            {
+                "id": 111363,
+                "name": "Teufenthal"
+            },
+            {
+                "id": 111364,
+                "name": "Turgi"
+            },
+            {
+                "id": 111365,
+                "name": "Uerkheim"
+            },
+            {
+                "id": 111366,
+                "name": "Unterkulm"
+            },
+            {
+                "id": 111367,
+                "name": "Unterlunkhofen"
+            },
+            {
+                "id": 111368,
+                "name": "Untersiggenthal"
+            },
+            {
+                "id": 111369,
+                "name": "Veltheim"
+            },
+            {
+                "id": 111370,
+                "name": "Villigen"
+            },
+            {
+                "id": 111371,
+                "name": "Villmergen"
+            },
+            {
+                "id": 111372,
+                "name": "Villnachern"
+            },
+            {
+                "id": 111373,
+                "name": "Vordemwald"
+            },
+            {
+                "id": 111374,
+                "name": "Waltenschwil"
+            },
+            {
+                "id": 111375,
+                "name": "Wegenstetten"
+            },
+            {
+                "id": 111376,
+                "name": "Wettingen"
+            },
+            {
+                "id": 111377,
+                "name": "Windisch"
+            },
+            {
+                "id": 111378,
+                "name": "Wittnau"
+            },
+            {
+                "id": 111379,
+                "name": "Wohlen"
+            },
+            {
+                "id": 111380,
+                "name": "Wölflinswil"
+            },
+            {
+                "id": 111381,
+                "name": "Würenlingen"
+            },
+            {
+                "id": 111382,
+                "name": "Würenlos"
+            },
+            {
+                "id": 111383,
+                "name": "Zofingen"
+            }
+        ]
+    },
+    {
+        "id": 3922,
+        "name": "Appenzell Ausserrhoden",
+        "cities": [
+            {
+                "id": 111384,
+                "name": "Bezirk Hinterland"
+            },
+            {
+                "id": 111385,
+                "name": "Bezirk Mittelland"
+            },
+            {
+                "id": 111386,
+                "name": "Bezirk Vorderland"
+            },
+            {
+                "id": 111387,
+                "name": "Bühler"
+            },
+            {
+                "id": 111388,
+                "name": "Gais"
+            },
+            {
+                "id": 111389,
+                "name": "Heiden"
+            },
+            {
+                "id": 111390,
+                "name": "Herisau"
+            },
+            {
+                "id": 111391,
+                "name": "Rehetobel"
+            },
+            {
+                "id": 111392,
+                "name": "Schwellbrunn"
+            },
+            {
+                "id": 111393,
+                "name": "Speicher"
+            },
+            {
+                "id": 111394,
+                "name": "Teufen"
+            },
+            {
+                "id": 111395,
+                "name": "Trogen"
+            },
+            {
+                "id": 111396,
+                "name": "Urnäsch"
+            },
+            {
+                "id": 111397,
+                "name": "Waldstatt"
+            },
+            {
+                "id": 111398,
+                "name": "Walzenhausen"
+            }
+        ]
+    },
+    {
+        "id": 3923,
+        "name": "Appenzell Innerrhoden",
+        "cities": [
+            {
+                "id": 111399,
+                "name": "Appenzell"
+            },
+            {
+                "id": 111400,
+                "name": "Gonten"
+            },
+            {
+                "id": 111401,
+                "name": "Haslen"
+            },
+            {
+                "id": 111402,
+                "name": "Oberegg"
+            }
+        ]
+    },
+    {
+        "id": 3924,
+        "name": "Basel-Landschaft",
+        "cities": [
+            {
+                "id": 111403,
+                "name": "Aesch"
+            },
+            {
+                "id": 111404,
+                "name": "Allschwil"
+            },
+            {
+                "id": 111405,
+                "name": "Arisdorf"
+            },
+            {
+                "id": 111406,
+                "name": "Arlesheim"
+            },
+            {
+                "id": 111407,
+                "name": "Bezirk Arlesheim"
+            },
+            {
+                "id": 111408,
+                "name": "Bezirk Laufen"
+            },
+            {
+                "id": 111409,
+                "name": "Bezirk Liestal"
+            },
+            {
+                "id": 111410,
+                "name": "Bezirk Sissach"
+            },
+            {
+                "id": 111411,
+                "name": "Bezirk Waldenburg"
+            },
+            {
+                "id": 111412,
+                "name": "Binningen"
+            },
+            {
+                "id": 111413,
+                "name": "Birsfelden"
+            },
+            {
+                "id": 111414,
+                "name": "Bottmingen"
+            },
+            {
+                "id": 111415,
+                "name": "Brislach"
+            },
+            {
+                "id": 111416,
+                "name": "Bubendorf"
+            },
+            {
+                "id": 111417,
+                "name": "Buus"
+            },
+            {
+                "id": 111418,
+                "name": "Diegten"
+            },
+            {
+                "id": 111419,
+                "name": "Ettingen"
+            },
+            {
+                "id": 111420,
+                "name": "Frenkendorf"
+            },
+            {
+                "id": 111421,
+                "name": "Füllinsdorf"
+            },
+            {
+                "id": 111422,
+                "name": "Gelterkinden"
+            },
+            {
+                "id": 111423,
+                "name": "Grellingen"
+            },
+            {
+                "id": 111424,
+                "name": "Hölstein"
+            },
+            {
+                "id": 111425,
+                "name": "Itingen"
+            },
+            {
+                "id": 111426,
+                "name": "Langenbruck"
+            },
+            {
+                "id": 111427,
+                "name": "Läufelfingen"
+            },
+            {
+                "id": 111428,
+                "name": "Laufen"
+            },
+            {
+                "id": 111429,
+                "name": "Lausen"
+            },
+            {
+                "id": 111430,
+                "name": "Liesberg"
+            },
+            {
+                "id": 111431,
+                "name": "Liestal"
+            },
+            {
+                "id": 111432,
+                "name": "Münchenstein"
+            },
+            {
+                "id": 111433,
+                "name": "Muttenz"
+            },
+            {
+                "id": 111434,
+                "name": "Oberdorf"
+            },
+            {
+                "id": 111435,
+                "name": "Oberwil"
+            },
+            {
+                "id": 111436,
+                "name": "Ormalingen"
+            },
+            {
+                "id": 111437,
+                "name": "Pfeffingen"
+            },
+            {
+                "id": 111438,
+                "name": "Pratteln"
+            },
+            {
+                "id": 111439,
+                "name": "Reigoldswil"
+            },
+            {
+                "id": 111440,
+                "name": "Röschenz"
+            },
+            {
+                "id": 111441,
+                "name": "Schönenbuch"
+            },
+            {
+                "id": 111442,
+                "name": "Seltisberg"
+            },
+            {
+                "id": 111443,
+                "name": "Sissach"
+            },
+            {
+                "id": 111444,
+                "name": "Therwil"
+            },
+            {
+                "id": 111445,
+                "name": "Wahlen"
+            },
+            {
+                "id": 111446,
+                "name": "Waldenburg"
+            },
+            {
+                "id": 111447,
+                "name": "Zunzgen"
+            },
+            {
+                "id": 111448,
+                "name": "Zwingen"
+            }
+        ]
+    },
+    {
+        "id": 3925,
+        "name": "Basel-Stadt",
+        "cities": [
+            {
+                "id": 111449,
+                "name": "Basel"
+            },
+            {
+                "id": 111450,
+                "name": "Grossbasel"
+            },
+            {
+                "id": 111451,
+                "name": "Wettsteinquartier"
+            },
+            {
+                "id": 111452,
+                "name": "Riehen"
+            },
+            {
+                "id": 111453,
+                "name": "Klein-Basel"
+            },
+            {
+                "id": 111454,
+                "name": "Bettingen"
+            },
+            {
+                "id": 111455,
+                "name": "Kleinhüningen"
+            },
+            {
+                "id": 111456,
+                "name": "Bruderholz"
+            },
+            {
+                "id": 111457,
+                "name": "Sankt Chrischona"
+            }
+        ]
+    },
+    {
+        "id": 3926,
+        "name": "canton of Bern",
+        "cities": [
+            {
+                "id": 111458,
+                "name": "Aarberg"
+            },
+            {
+                "id": 111459,
+                "name": "Aarwangen"
+            },
+            {
+                "id": 111460,
+                "name": "Adelboden"
+            },
+            {
+                "id": 111461,
+                "name": "Aeschi b. Spiez"
+            },
+            {
+                "id": 111462,
+                "name": "Arch"
+            },
+            {
+                "id": 111463,
+                "name": "Attiswil"
+            },
+            {
+                "id": 111464,
+                "name": "Bäriswil"
+            },
+            {
+                "id": 111465,
+                "name": "Bätterkinden"
+            },
+            {
+                "id": 111466,
+                "name": "Beatenberg"
+            },
+            {
+                "id": 111467,
+                "name": "Bellmund"
+            },
+            {
+                "id": 111468,
+                "name": "Belp"
+            },
+            {
+                "id": 111469,
+                "name": "Bern"
+            },
+            {
+                "id": 111470,
+                "name": "Bern-Mittelland District"
+            },
+            {
+                "id": 111471,
+                "name": "Bévilard"
+            },
+            {
+                "id": 111472,
+                "name": "Biel Bienne"
+            },
+            {
+                "id": 111473,
+                "name": "Biel Bienne District"
+            },
+            {
+                "id": 111474,
+                "name": "Biglen"
+            },
+            {
+                "id": 111475,
+                "name": "Blumenstein"
+            },
+            {
+                "id": 111476,
+                "name": "Bolligen"
+            },
+            {
+                "id": 111477,
+                "name": "Boltigen"
+            },
+            {
+                "id": 111478,
+                "name": "Bönigen"
+            },
+            {
+                "id": 111479,
+                "name": "Bowil"
+            },
+            {
+                "id": 111480,
+                "name": "Brienz"
+            },
+            {
+                "id": 111481,
+                "name": "Brügg"
+            },
+            {
+                "id": 111482,
+                "name": "Buchholterberg"
+            },
+            {
+                "id": 111483,
+                "name": "Burgdorf"
+            },
+            {
+                "id": 111484,
+                "name": "Burgistein"
+            },
+            {
+                "id": 111485,
+                "name": "Corgémont"
+            },
+            {
+                "id": 111486,
+                "name": "Court"
+            },
+            {
+                "id": 111487,
+                "name": "Courtelary"
+            },
+            {
+                "id": 111488,
+                "name": "Därligen"
+            },
+            {
+                "id": 111489,
+                "name": "Diemtigen"
+            },
+            {
+                "id": 111490,
+                "name": "Dürrenroth"
+            },
+            {
+                "id": 111491,
+                "name": "Eggiwil"
+            },
+            {
+                "id": 111492,
+                "name": "Emmental District"
+            },
+            {
+                "id": 111493,
+                "name": "Eriswil"
+            },
+            {
+                "id": 111494,
+                "name": "Erlach"
+            },
+            {
+                "id": 111495,
+                "name": "Erlenbach im Simmental"
+            },
+            {
+                "id": 111496,
+                "name": "Ersigen"
+            },
+            {
+                "id": 111497,
+                "name": "Evilard"
+            },
+            {
+                "id": 111498,
+                "name": "Ferenbalm"
+            },
+            {
+                "id": 111499,
+                "name": "Fraubrunnen"
+            },
+            {
+                "id": 111500,
+                "name": "Frauenkappelen"
+            },
+            {
+                "id": 111501,
+                "name": "Frutigen"
+            },
+            {
+                "id": 111502,
+                "name": "Frutigen-Niedersimmental District"
+            },
+            {
+                "id": 111503,
+                "name": "Grindelwald"
+            },
+            {
+                "id": 111504,
+                "name": "Grossaffoltern"
+            },
+            {
+                "id": 111505,
+                "name": "Gstaad"
+            },
+            {
+                "id": 111506,
+                "name": "Guggisberg"
+            },
+            {
+                "id": 111507,
+                "name": "Heimberg"
+            },
+            {
+                "id": 111508,
+                "name": "Heimiswil"
+            },
+            {
+                "id": 111509,
+                "name": "Hermiswil"
+            },
+            {
+                "id": 111510,
+                "name": "Herzogenbuchsee"
+            },
+            {
+                "id": 111511,
+                "name": "Hilterfingen"
+            },
+            {
+                "id": 111512,
+                "name": "Hindelbank"
+            },
+            {
+                "id": 111513,
+                "name": "Huttwil"
+            },
+            {
+                "id": 111514,
+                "name": "Ins"
+            },
+            {
+                "id": 111515,
+                "name": "Interlaken"
+            },
+            {
+                "id": 111516,
+                "name": "Interlaken-Oberhasli District"
+            },
+            {
+                "id": 111517,
+                "name": "Jegenstorf"
+            },
+            {
+                "id": 111518,
+                "name": "Jura bernois"
+            },
+            {
+                "id": 111519,
+                "name": "Kallnach"
+            },
+            {
+                "id": 111520,
+                "name": "Kandersteg"
+            },
+            {
+                "id": 111521,
+                "name": "Kappelen"
+            },
+            {
+                "id": 111522,
+                "name": "Kehrsatz"
+            },
+            {
+                "id": 111523,
+                "name": "Kirchberg"
+            },
+            {
+                "id": 111524,
+                "name": "Kirchlindach"
+            },
+            {
+                "id": 111525,
+                "name": "Köniz"
+            },
+            {
+                "id": 111526,
+                "name": "Konolfingen"
+            },
+            {
+                "id": 111527,
+                "name": "Koppigen"
+            },
+            {
+                "id": 111528,
+                "name": "Krauchthal"
+            },
+            {
+                "id": 111529,
+                "name": "La Neuveville"
+            },
+            {
+                "id": 111530,
+                "name": "Langenthal"
+            },
+            {
+                "id": 111531,
+                "name": "Langnau"
+            },
+            {
+                "id": 111532,
+                "name": "Laupen"
+            },
+            {
+                "id": 111533,
+                "name": "Lauperswil"
+            },
+            {
+                "id": 111534,
+                "name": "Lauterbrunnen"
+            },
+            {
+                "id": 111535,
+                "name": "Lengnau"
+            },
+            {
+                "id": 111536,
+                "name": "Lenk"
+            },
+            {
+                "id": 111537,
+                "name": "Leuzigen"
+            },
+            {
+                "id": 111538,
+                "name": "Linden"
+            },
+            {
+                "id": 111539,
+                "name": "Lotzwil"
+            },
+            {
+                "id": 111540,
+                "name": "Lützelflüh"
+            },
+            {
+                "id": 111541,
+                "name": "Lyss"
+            },
+            {
+                "id": 111542,
+                "name": "Lyssach"
+            },
+            {
+                "id": 111543,
+                "name": "Madiswil"
+            },
+            {
+                "id": 111544,
+                "name": "Malleray"
+            },
+            {
+                "id": 111545,
+                "name": "Matten"
+            },
+            {
+                "id": 111546,
+                "name": "Meinisberg"
+            },
+            {
+                "id": 111547,
+                "name": "Meiringen"
+            },
+            {
+                "id": 111548,
+                "name": "Melchnau"
+            },
+            {
+                "id": 111549,
+                "name": "Moutier"
+            },
+            {
+                "id": 111550,
+                "name": "Mühleberg"
+            },
+            {
+                "id": 111551,
+                "name": "Mühlethurnen"
+            },
+            {
+                "id": 111552,
+                "name": "Münchenbuchsee"
+            },
+            {
+                "id": 111553,
+                "name": "Münchenwiler"
+            },
+            {
+                "id": 111554,
+                "name": "Münsingen"
+            },
+            {
+                "id": 111555,
+                "name": "Müntschemier"
+            },
+            {
+                "id": 111556,
+                "name": "Muri"
+            },
+            {
+                "id": 111557,
+                "name": "Nidau"
+            },
+            {
+                "id": 111558,
+                "name": "Niederbipp"
+            },
+            {
+                "id": 111559,
+                "name": "Oberaargau"
+            },
+            {
+                "id": 111560,
+                "name": "Oberbipp"
+            },
+            {
+                "id": 111561,
+                "name": "Oberburg"
+            },
+            {
+                "id": 111562,
+                "name": "Oberdiessbach"
+            },
+            {
+                "id": 111563,
+                "name": "Obersimmental-Saanen District"
+            },
+            {
+                "id": 111564,
+                "name": "Orpund"
+            },
+            {
+                "id": 111565,
+                "name": "Orvin"
+            },
+            {
+                "id": 111566,
+                "name": "Péry"
+            },
+            {
+                "id": 111567,
+                "name": "Pieterlen"
+            },
+            {
+                "id": 111568,
+                "name": "Radelfingen"
+            },
+            {
+                "id": 111569,
+                "name": "Reconvilier"
+            },
+            {
+                "id": 111570,
+                "name": "Riggisberg"
+            },
+            {
+                "id": 111571,
+                "name": "Ringgenberg"
+            },
+            {
+                "id": 111572,
+                "name": "Roggwil"
+            },
+            {
+                "id": 111573,
+                "name": "Rohrbach"
+            },
+            {
+                "id": 111574,
+                "name": "Rubigen"
+            },
+            {
+                "id": 111575,
+                "name": "Rüderswil"
+            },
+            {
+                "id": 111576,
+                "name": "Rüeggisberg"
+            },
+            {
+                "id": 111577,
+                "name": "Rüschegg"
+            },
+            {
+                "id": 111578,
+                "name": "Saanen"
+            },
+            {
+                "id": 111579,
+                "name": "Saint-Imier"
+            },
+            {
+                "id": 111580,
+                "name": "Sankt Stephan"
+            },
+            {
+                "id": 111581,
+                "name": "Schüpfen"
+            },
+            {
+                "id": 111582,
+                "name": "Seeberg"
+            },
+            {
+                "id": 111583,
+                "name": "Seedorf"
+            },
+            {
+                "id": 111584,
+                "name": "Seeland District"
+            },
+            {
+                "id": 111585,
+                "name": "Seftigen"
+            },
+            {
+                "id": 111586,
+                "name": "Signau"
+            },
+            {
+                "id": 111587,
+                "name": "Sigriswil"
+            },
+            {
+                "id": 111588,
+                "name": "Spiez"
+            },
+            {
+                "id": 111589,
+                "name": "Steffisburg"
+            },
+            {
+                "id": 111590,
+                "name": "Stettlen"
+            },
+            {
+                "id": 111591,
+                "name": "Sumiswald"
+            },
+            {
+                "id": 111592,
+                "name": "Täuffelen"
+            },
+            {
+                "id": 111593,
+                "name": "Tavannes"
+            },
+            {
+                "id": 111594,
+                "name": "Thierachern"
+            },
+            {
+                "id": 111595,
+                "name": "Thun"
+            },
+            {
+                "id": 111596,
+                "name": "Thun District"
+            },
+            {
+                "id": 111597,
+                "name": "Toffen"
+            },
+            {
+                "id": 111598,
+                "name": "Trachselwald"
+            },
+            {
+                "id": 111599,
+                "name": "Tramelan"
+            },
+            {
+                "id": 111600,
+                "name": "Trub"
+            },
+            {
+                "id": 111601,
+                "name": "Trubschachen"
+            },
+            {
+                "id": 111602,
+                "name": "Uetendorf"
+            },
+            {
+                "id": 111603,
+                "name": "Unterseen"
+            },
+            {
+                "id": 111604,
+                "name": "Urtenen"
+            },
+            {
+                "id": 111605,
+                "name": "Uttigen"
+            },
+            {
+                "id": 111606,
+                "name": "Utzenstorf"
+            },
+            {
+                "id": 111607,
+                "name": "Vechigen"
+            },
+            {
+                "id": 111608,
+                "name": "Walkringen"
+            },
+            {
+                "id": 111609,
+                "name": "Wangen an der Aare"
+            },
+            {
+                "id": 111610,
+                "name": "Wattenwil"
+            },
+            {
+                "id": 111611,
+                "name": "Wichtrach"
+            },
+            {
+                "id": 111612,
+                "name": "Wiedlisbach"
+            },
+            {
+                "id": 111613,
+                "name": "Wilderswil"
+            },
+            {
+                "id": 111614,
+                "name": "Wimmis"
+            },
+            {
+                "id": 111615,
+                "name": "Wohlen"
+            },
+            {
+                "id": 111616,
+                "name": "Worb"
+            },
+            {
+                "id": 111617,
+                "name": "Worben"
+            },
+            {
+                "id": 111618,
+                "name": "Wynau"
+            },
+            {
+                "id": 111619,
+                "name": "Wynigen"
+            },
+            {
+                "id": 111620,
+                "name": "Wyssachen"
+            },
+            {
+                "id": 111621,
+                "name": "Zäziwil"
+            },
+            {
+                "id": 111622,
+                "name": "Zollikofen"
+            },
+            {
+                "id": 111623,
+                "name": "Zweisimmen"
+            }
+        ]
+    },
+    {
+        "id": 3927,
+        "name": "Canton of Fribourg",
+        "cities": [
+            {
+                "id": 111624,
+                "name": "Alterswil"
+            },
+            {
+                "id": 111625,
+                "name": "Attalens"
+            },
+            {
+                "id": 111626,
+                "name": "Avry-sur-Matran"
+            },
+            {
+                "id": 111627,
+                "name": "Bas-Vully"
+            },
+            {
+                "id": 111628,
+                "name": "Belfaux"
+            },
+            {
+                "id": 111629,
+                "name": "Bösingen"
+            },
+            {
+                "id": 111630,
+                "name": "Broc"
+            },
+            {
+                "id": 111631,
+                "name": "Broye District"
+            },
+            {
+                "id": 111632,
+                "name": "Bulle"
+            },
+            {
+                "id": 111633,
+                "name": "Charmey"
+            },
+            {
+                "id": 111634,
+                "name": "Châtel-Saint-Denis"
+            },
+            {
+                "id": 111635,
+                "name": "Corminboeuf"
+            },
+            {
+                "id": 111636,
+                "name": "Courgevaux"
+            },
+            {
+                "id": 111637,
+                "name": "Cugy"
+            },
+            {
+                "id": 111638,
+                "name": "Domdidier"
+            },
+            {
+                "id": 111639,
+                "name": "Düdingen"
+            },
+            {
+                "id": 111640,
+                "name": "Ecublens"
+            },
+            {
+                "id": 111641,
+                "name": "Ependes"
+            },
+            {
+                "id": 111642,
+                "name": "Estavayer-le-Lac"
+            },
+            {
+                "id": 111643,
+                "name": "Flamatt"
+            },
+            {
+                "id": 111644,
+                "name": "Fribourg"
+            },
+            {
+                "id": 111645,
+                "name": "Giffers"
+            },
+            {
+                "id": 111646,
+                "name": "Givisiez"
+            },
+            {
+                "id": 111647,
+                "name": "Glâne District"
+            },
+            {
+                "id": 111648,
+                "name": "Grolley"
+            },
+            {
+                "id": 111649,
+                "name": "Gruyère District"
+            },
+            {
+                "id": 111650,
+                "name": "Gruyères"
+            },
+            {
+                "id": 111651,
+                "name": "Heitenried"
+            },
+            {
+                "id": 111652,
+                "name": "Kerzers"
+            },
+            {
+                "id": 111653,
+                "name": "La Roche"
+            },
+            {
+                "id": 111654,
+                "name": "La Tour-de-Trême"
+            },
+            {
+                "id": 111655,
+                "name": "Lake District"
+            },
+            {
+                "id": 111656,
+                "name": "Marly"
+            },
+            {
+                "id": 111657,
+                "name": "Marsens"
+            },
+            {
+                "id": 111658,
+                "name": "Mézières"
+            },
+            {
+                "id": 111659,
+                "name": "Murten Morat"
+            },
+            {
+                "id": 111660,
+                "name": "Oberschrot"
+            },
+            {
+                "id": 111661,
+                "name": "Plaffeien"
+            },
+            {
+                "id": 111662,
+                "name": "Praroman"
+            },
+            {
+                "id": 111663,
+                "name": "Rechthalten"
+            },
+            {
+                "id": 111664,
+                "name": "Riaz"
+            },
+            {
+                "id": 111665,
+                "name": "Romont"
+            },
+            {
+                "id": 111666,
+                "name": "Rue"
+            },
+            {
+                "id": 111667,
+                "name": "Sâles"
+            },
+            {
+                "id": 111668,
+                "name": "Sankt Antoni"
+            },
+            {
+                "id": 111669,
+                "name": "Sarine District"
+            },
+            {
+                "id": 111670,
+                "name": "Schmitten"
+            },
+            {
+                "id": 111671,
+                "name": "Sense District"
+            },
+            {
+                "id": 111672,
+                "name": "Tafers"
+            },
+            {
+                "id": 111673,
+                "name": "Treyvaux"
+            },
+            {
+                "id": 111674,
+                "name": "Ueberstorf"
+            },
+            {
+                "id": 111675,
+                "name": "Veveyse District"
+            },
+            {
+                "id": 111676,
+                "name": "Villars-sur-Glâne"
+            },
+            {
+                "id": 111677,
+                "name": "Villaz-Saint-Pierre"
+            },
+            {
+                "id": 111678,
+                "name": "Vuadens"
+            }
+        ]
+    },
+    {
+        "id": 3928,
+        "name": "Canton of Geneva",
+        "cities": [
+            {
+                "id": 111679,
+                "name": "Aire-la-Ville"
+            },
+            {
+                "id": 111680,
+                "name": "Anières"
+            },
+            {
+                "id": 111681,
+                "name": "Bellevue"
+            },
+            {
+                "id": 111682,
+                "name": "Bernex"
+            },
+            {
+                "id": 111683,
+                "name": "Carouge"
+            },
+            {
+                "id": 111684,
+                "name": "Chancy"
+            },
+            {
+                "id": 111685,
+                "name": "Chêne-Bougeries"
+            },
+            {
+                "id": 111686,
+                "name": "Chêne-Bourg"
+            },
+            {
+                "id": 111687,
+                "name": "Confignon"
+            },
+            {
+                "id": 111688,
+                "name": "Corsier"
+            },
+            {
+                "id": 111689,
+                "name": "Dardagny"
+            },
+            {
+                "id": 111690,
+                "name": "Genève"
+            },
+            {
+                "id": 111691,
+                "name": "Jussy"
+            },
+            {
+                "id": 111692,
+                "name": "Lancy"
+            },
+            {
+                "id": 111693,
+                "name": "Le Grand-Saconnex"
+            },
+            {
+                "id": 111694,
+                "name": "Les Avanchets"
+            },
+            {
+                "id": 111695,
+                "name": "Meinier"
+            },
+            {
+                "id": 111696,
+                "name": "Meyrin"
+            },
+            {
+                "id": 111697,
+                "name": "Onex"
+            },
+            {
+                "id": 111698,
+                "name": "Plan-les-Ouates"
+            },
+            {
+                "id": 111699,
+                "name": "Puplinge"
+            },
+            {
+                "id": 111700,
+                "name": "Satigny"
+            },
+            {
+                "id": 111701,
+                "name": "Thônex"
+            },
+            {
+                "id": 111702,
+                "name": "Troinex"
+            },
+            {
+                "id": 111703,
+                "name": "Vandœuvres"
+            },
+            {
+                "id": 111704,
+                "name": "Vernier"
+            },
+            {
+                "id": 111705,
+                "name": "Versoix"
+            },
+            {
+                "id": 111706,
+                "name": "Veyrier"
+            }
+        ]
+    },
+    {
+        "id": 3929,
+        "name": "Canton of Jura",
+        "cities": [
+            {
+                "id": 111707,
+                "name": "Alle"
+            },
+            {
+                "id": 111708,
+                "name": "Bassecourt"
+            },
+            {
+                "id": 111709,
+                "name": "Boncourt"
+            },
+            {
+                "id": 111710,
+                "name": "Courfaivre"
+            },
+            {
+                "id": 111711,
+                "name": "Courgenay"
+            },
+            {
+                "id": 111712,
+                "name": "Courrendlin"
+            },
+            {
+                "id": 111713,
+                "name": "Courroux"
+            },
+            {
+                "id": 111714,
+                "name": "Courtételle"
+            },
+            {
+                "id": 111715,
+                "name": "Delémont"
+            },
+            {
+                "id": 111716,
+                "name": "Delémont District"
+            },
+            {
+                "id": 111717,
+                "name": "Fontenais"
+            },
+            {
+                "id": 111718,
+                "name": "Franches-Montagnes District"
+            },
+            {
+                "id": 111719,
+                "name": "Glovelier"
+            },
+            {
+                "id": 111720,
+                "name": "Le Noirmont"
+            },
+            {
+                "id": 111721,
+                "name": "Les Bois"
+            },
+            {
+                "id": 111722,
+                "name": "Les Breuleux"
+            },
+            {
+                "id": 111723,
+                "name": "Porrentruy"
+            },
+            {
+                "id": 111724,
+                "name": "Porrentruy District"
+            },
+            {
+                "id": 111725,
+                "name": "Saignelégier"
+            },
+            {
+                "id": 111726,
+                "name": "Vicques"
+            }
+        ]
+    },
+    {
+        "id": 3930,
+        "name": "Canton of Lucerne",
+        "cities": [
+            {
+                "id": 111727,
+                "name": "Adligenswil"
+            },
+            {
+                "id": 111728,
+                "name": "Altishofen"
+            },
+            {
+                "id": 111729,
+                "name": "Ballwil"
+            },
+            {
+                "id": 111730,
+                "name": "Beromünster"
+            },
+            {
+                "id": 111731,
+                "name": "Buchrain"
+            },
+            {
+                "id": 111732,
+                "name": "Büron"
+            },
+            {
+                "id": 111733,
+                "name": "Buttisholz"
+            },
+            {
+                "id": 111734,
+                "name": "Dagmersellen"
+            },
+            {
+                "id": 111735,
+                "name": "Ebikon"
+            },
+            {
+                "id": 111736,
+                "name": "Eich"
+            },
+            {
+                "id": 111737,
+                "name": "Emmen"
+            },
+            {
+                "id": 111738,
+                "name": "Entlebuch"
+            },
+            {
+                "id": 111739,
+                "name": "Entlebuch District"
+            },
+            {
+                "id": 111740,
+                "name": "Escholzmatt"
+            },
+            {
+                "id": 111741,
+                "name": "Ettiswil"
+            },
+            {
+                "id": 111742,
+                "name": "Flühli"
+            },
+            {
+                "id": 111743,
+                "name": "Geuensee"
+            },
+            {
+                "id": 111744,
+                "name": "Grosswangen"
+            },
+            {
+                "id": 111745,
+                "name": "Gunzwil"
+            },
+            {
+                "id": 111746,
+                "name": "Hasle"
+            },
+            {
+                "id": 111747,
+                "name": "Hildisrieden"
+            },
+            {
+                "id": 111748,
+                "name": "Hitzkirch"
+            },
+            {
+                "id": 111749,
+                "name": "Hochdorf"
+            },
+            {
+                "id": 111750,
+                "name": "Hochdorf District"
+            },
+            {
+                "id": 111751,
+                "name": "Hohenrain"
+            },
+            {
+                "id": 111752,
+                "name": "Horw"
+            },
+            {
+                "id": 111753,
+                "name": "Inwil"
+            },
+            {
+                "id": 111754,
+                "name": "Knutwil"
+            },
+            {
+                "id": 111755,
+                "name": "Kriens"
+            },
+            {
+                "id": 111756,
+                "name": "Littau"
+            },
+            {
+                "id": 111757,
+                "name": "Lucerne-Land District"
+            },
+            {
+                "id": 111758,
+                "name": "Lucerne-Stadt District"
+            },
+            {
+                "id": 111759,
+                "name": "Luthern"
+            },
+            {
+                "id": 111760,
+                "name": "Luzern"
+            },
+            {
+                "id": 111761,
+                "name": "Malters"
+            },
+            {
+                "id": 111762,
+                "name": "Mauensee"
+            },
+            {
+                "id": 111763,
+                "name": "Meggen"
+            },
+            {
+                "id": 111764,
+                "name": "Meierskappel"
+            },
+            {
+                "id": 111765,
+                "name": "Menznau"
+            },
+            {
+                "id": 111766,
+                "name": "Nebikon"
+            },
+            {
+                "id": 111767,
+                "name": "Neudorf"
+            },
+            {
+                "id": 111768,
+                "name": "Neuenkirch"
+            },
+            {
+                "id": 111769,
+                "name": "Nottwil"
+            },
+            {
+                "id": 111770,
+                "name": "Oberkirch"
+            },
+            {
+                "id": 111771,
+                "name": "Pfaffnau"
+            },
+            {
+                "id": 111772,
+                "name": "Reiden"
+            },
+            {
+                "id": 111773,
+                "name": "Römerswil"
+            },
+            {
+                "id": 111774,
+                "name": "Root"
+            },
+            {
+                "id": 111775,
+                "name": "Ruswil"
+            },
+            {
+                "id": 111776,
+                "name": "Schenkon"
+            },
+            {
+                "id": 111777,
+                "name": "Schötz"
+            },
+            {
+                "id": 111778,
+                "name": "Schüpfheim"
+            },
+            {
+                "id": 111779,
+                "name": "Schwarzenberg"
+            },
+            {
+                "id": 111780,
+                "name": "Sempach"
+            },
+            {
+                "id": 111781,
+                "name": "Sursee"
+            },
+            {
+                "id": 111782,
+                "name": "Sursee District"
+            },
+            {
+                "id": 111783,
+                "name": "Triengen"
+            },
+            {
+                "id": 111784,
+                "name": "Udligenswil"
+            },
+            {
+                "id": 111785,
+                "name": "Vitznau"
+            },
+            {
+                "id": 111786,
+                "name": "Wauwil"
+            },
+            {
+                "id": 111787,
+                "name": "Weggis"
+            },
+            {
+                "id": 111788,
+                "name": "Werthenstein"
+            },
+            {
+                "id": 111789,
+                "name": "Wikon"
+            },
+            {
+                "id": 111790,
+                "name": "Willisau"
+            },
+            {
+                "id": 111791,
+                "name": "Willisau District"
+            },
+            {
+                "id": 111792,
+                "name": "Wolhusen"
+            },
+            {
+                "id": 111793,
+                "name": "Zell"
+            }
+        ]
+    },
+    {
+        "id": 3931,
+        "name": "Canton of Neuchâtel",
+        "cities": [
+            {
+                "id": 111794,
+                "name": "Auvernier"
+            },
+            {
+                "id": 111795,
+                "name": "Bevaix"
+            },
+            {
+                "id": 111796,
+                "name": "Boudry"
+            },
+            {
+                "id": 111797,
+                "name": "Boudry District"
+            },
+            {
+                "id": 111798,
+                "name": "Cernier"
+            },
+            {
+                "id": 111799,
+                "name": "Chézard-Saint-Martin"
+            },
+            {
+                "id": 111800,
+                "name": "Cornaux"
+            },
+            {
+                "id": 111801,
+                "name": "Cortaillod"
+            },
+            {
+                "id": 111802,
+                "name": "Couvet"
+            },
+            {
+                "id": 111803,
+                "name": "Dombresson"
+            },
+            {
+                "id": 111804,
+                "name": "Fleurier"
+            },
+            {
+                "id": 111805,
+                "name": "Fontainemelon"
+            },
+            {
+                "id": 111806,
+                "name": "Gorgier"
+            },
+            {
+                "id": 111807,
+                "name": "Grand-Savagnier"
+            },
+            {
+                "id": 111808,
+                "name": "La Chaux-de-Fonds"
+            },
+            {
+                "id": 111809,
+                "name": "La Chaux-de-Fonds District"
+            },
+            {
+                "id": 111810,
+                "name": "Le Landeron"
+            },
+            {
+                "id": 111811,
+                "name": "Le Locle"
+            },
+            {
+                "id": 111812,
+                "name": "Le Locle District"
+            },
+            {
+                "id": 111813,
+                "name": "Les Brenets"
+            },
+            {
+                "id": 111814,
+                "name": "Les Geneveys-sur-Coffrane"
+            },
+            {
+                "id": 111815,
+                "name": "Les Ponts-de-Martel"
+            },
+            {
+                "id": 111816,
+                "name": "Marin-Epagnier"
+            },
+            {
+                "id": 111817,
+                "name": "Neuchâtel"
+            },
+            {
+                "id": 111818,
+                "name": "Neuchâtel District"
+            },
+            {
+                "id": 111819,
+                "name": "Peseux"
+            },
+            {
+                "id": 111820,
+                "name": "Saint-Aubin-Sauges"
+            },
+            {
+                "id": 111821,
+                "name": "Saint-Blaise"
+            },
+            {
+                "id": 111822,
+                "name": "Travers"
+            },
+            {
+                "id": 111823,
+                "name": "Val-de-Ruz District"
+            },
+            {
+                "id": 111824,
+                "name": "Val-de-Travers District"
+            }
+        ]
+    },
+    {
+        "id": 3932,
+        "name": "Canton of Schaffhausen",
+        "cities": [
+            {
+                "id": 111825,
+                "name": "Beringen"
+            },
+            {
+                "id": 111826,
+                "name": "Bezirk Oberklettgau"
+            },
+            {
+                "id": 111827,
+                "name": "Bezirk Reiat"
+            },
+            {
+                "id": 111828,
+                "name": "Bezirk Schaffhausen"
+            },
+            {
+                "id": 111829,
+                "name": "Bezirk Schleitheim"
+            },
+            {
+                "id": 111830,
+                "name": "Bezirk Stein"
+            },
+            {
+                "id": 111831,
+                "name": "Bezirk Unterklettgau"
+            },
+            {
+                "id": 111832,
+                "name": "Hallau"
+            },
+            {
+                "id": 111833,
+                "name": "Löhningen"
+            },
+            {
+                "id": 111834,
+                "name": "Neuhausen"
+            },
+            {
+                "id": 111835,
+                "name": "Neunkirch"
+            },
+            {
+                "id": 111836,
+                "name": "Ramsen"
+            },
+            {
+                "id": 111837,
+                "name": "Schaffhausen"
+            },
+            {
+                "id": 111838,
+                "name": "Schleitheim"
+            },
+            {
+                "id": 111839,
+                "name": "Stein am Rhein"
+            },
+            {
+                "id": 111840,
+                "name": "Stetten"
+            },
+            {
+                "id": 111841,
+                "name": "Thayngen"
+            },
+            {
+                "id": 111842,
+                "name": "Wilchingen"
+            }
+        ]
+    },
+    {
+        "id": 3933,
+        "name": "Canton of Solothurn",
+        "cities": [
+            {
+                "id": 111843,
+                "name": "Balsthal"
+            },
+            {
+                "id": 111844,
+                "name": "Bettlach"
+            },
+            {
+                "id": 111845,
+                "name": "Bezirk Bucheggberg"
+            },
+            {
+                "id": 111846,
+                "name": "Bezirk Dorneck"
+            },
+            {
+                "id": 111847,
+                "name": "Bezirk Gäu"
+            },
+            {
+                "id": 111848,
+                "name": "Bezirk Gösgen"
+            },
+            {
+                "id": 111849,
+                "name": "Bezirk Lebern"
+            },
+            {
+                "id": 111850,
+                "name": "Bezirk Olten"
+            },
+            {
+                "id": 111851,
+                "name": "Bezirk Solothurn"
+            },
+            {
+                "id": 111852,
+                "name": "Bezirk Thal"
+            },
+            {
+                "id": 111853,
+                "name": "Bezirk Thierstein"
+            },
+            {
+                "id": 111854,
+                "name": "Bezirk Wasseramt"
+            },
+            {
+                "id": 111855,
+                "name": "Biberist"
+            },
+            {
+                "id": 111856,
+                "name": "Breitenbach"
+            },
+            {
+                "id": 111857,
+                "name": "Büsserach"
+            },
+            {
+                "id": 111858,
+                "name": "Deitingen"
+            },
+            {
+                "id": 111859,
+                "name": "Derendingen"
+            },
+            {
+                "id": 111860,
+                "name": "Dornach"
+            },
+            {
+                "id": 111861,
+                "name": "Egerkingen"
+            },
+            {
+                "id": 111862,
+                "name": "Erlinsbach"
+            },
+            {
+                "id": 111863,
+                "name": "Fulenbach"
+            },
+            {
+                "id": 111864,
+                "name": "Gerlafingen"
+            },
+            {
+                "id": 111865,
+                "name": "Grenchen"
+            },
+            {
+                "id": 111866,
+                "name": "Gunzgen"
+            },
+            {
+                "id": 111867,
+                "name": "Hägendorf"
+            },
+            {
+                "id": 111868,
+                "name": "Himmelried"
+            },
+            {
+                "id": 111869,
+                "name": "Hochwald"
+            },
+            {
+                "id": 111870,
+                "name": "Kleinlützel"
+            },
+            {
+                "id": 111871,
+                "name": "Kriegstetten"
+            },
+            {
+                "id": 111872,
+                "name": "Langendorf"
+            },
+            {
+                "id": 111873,
+                "name": "Laupersdorf"
+            },
+            {
+                "id": 111874,
+                "name": "Lostorf"
+            },
+            {
+                "id": 111875,
+                "name": "Luterbach"
+            },
+            {
+                "id": 111876,
+                "name": "Matzendorf"
+            },
+            {
+                "id": 111877,
+                "name": "Messen"
+            },
+            {
+                "id": 111878,
+                "name": "Niedergösgen"
+            },
+            {
+                "id": 111879,
+                "name": "Nunningen"
+            },
+            {
+                "id": 111880,
+                "name": "Oberbuchsiten"
+            },
+            {
+                "id": 111881,
+                "name": "Obergösgen"
+            },
+            {
+                "id": 111882,
+                "name": "Oensingen"
+            },
+            {
+                "id": 111883,
+                "name": "Olten"
+            },
+            {
+                "id": 111884,
+                "name": "Riedholz"
+            },
+            {
+                "id": 111885,
+                "name": "Rodersdorf"
+            },
+            {
+                "id": 111886,
+                "name": "Rohr"
+            },
+            {
+                "id": 111887,
+                "name": "Schönenwerd"
+            },
+            {
+                "id": 111888,
+                "name": "Selzach"
+            },
+            {
+                "id": 111889,
+                "name": "Solothurn"
+            },
+            {
+                "id": 111890,
+                "name": "Subingen"
+            },
+            {
+                "id": 111891,
+                "name": "Trimbach"
+            },
+            {
+                "id": 111892,
+                "name": "Wangen"
+            },
+            {
+                "id": 111893,
+                "name": "Welschenrohr"
+            },
+            {
+                "id": 111894,
+                "name": "Wolfwil"
+            },
+            {
+                "id": 111895,
+                "name": "Zuchwil"
+            }
+        ]
+    },
+    {
+        "id": 3934,
+        "name": "Canton of St. Gallen",
+        "cities": [
+            {
+                "id": 111896,
+                "name": "Altstätten"
+            },
+            {
+                "id": 111897,
+                "name": "Amden"
+            },
+            {
+                "id": 111898,
+                "name": "Andwil"
+            },
+            {
+                "id": 111899,
+                "name": "Au"
+            },
+            {
+                "id": 111900,
+                "name": "Bad Ragaz"
+            },
+            {
+                "id": 111901,
+                "name": "Balgach"
+            },
+            {
+                "id": 111902,
+                "name": "Benken"
+            },
+            {
+                "id": 111903,
+                "name": "Bronschhofen"
+            },
+            {
+                "id": 111904,
+                "name": "Buchs"
+            },
+            {
+                "id": 111905,
+                "name": "Bütschwil"
+            },
+            {
+                "id": 111906,
+                "name": "Degersheim"
+            },
+            {
+                "id": 111907,
+                "name": "Diepoldsau"
+            },
+            {
+                "id": 111908,
+                "name": "Ebnat-Kappel"
+            },
+            {
+                "id": 111909,
+                "name": "Eggersriet"
+            },
+            {
+                "id": 111910,
+                "name": "Eichberg"
+            },
+            {
+                "id": 111911,
+                "name": "Eschenbach"
+            },
+            {
+                "id": 111912,
+                "name": "Flawil"
+            },
+            {
+                "id": 111913,
+                "name": "Flums"
+            },
+            {
+                "id": 111914,
+                "name": "Gams"
+            },
+            {
+                "id": 111915,
+                "name": "Ganterschwil"
+            },
+            {
+                "id": 111916,
+                "name": "Goldach"
+            },
+            {
+                "id": 111917,
+                "name": "Goldingen"
+            },
+            {
+                "id": 111918,
+                "name": "Gommiswald"
+            },
+            {
+                "id": 111919,
+                "name": "Gossau"
+            },
+            {
+                "id": 111920,
+                "name": "Grabs"
+            },
+            {
+                "id": 111921,
+                "name": "Haag (Rheintal)"
+            },
+            {
+                "id": 111922,
+                "name": "Häggenschwil"
+            },
+            {
+                "id": 111923,
+                "name": "Horn"
+            },
+            {
+                "id": 111924,
+                "name": "Jona"
+            },
+            {
+                "id": 111925,
+                "name": "Jonschwil"
+            },
+            {
+                "id": 111926,
+                "name": "Kaltbrunn"
+            },
+            {
+                "id": 111927,
+                "name": "Kirchberg"
+            },
+            {
+                "id": 111928,
+                "name": "Krummenau"
+            },
+            {
+                "id": 111929,
+                "name": "Lichtensteig"
+            },
+            {
+                "id": 111930,
+                "name": "Lütisburg"
+            },
+            {
+                "id": 111931,
+                "name": "Mogelsberg"
+            },
+            {
+                "id": 111932,
+                "name": "Mörschwil"
+            },
+            {
+                "id": 111933,
+                "name": "Mosnang"
+            },
+            {
+                "id": 111934,
+                "name": "Muolen"
+            },
+            {
+                "id": 111935,
+                "name": "Niederbüren"
+            },
+            {
+                "id": 111936,
+                "name": "Niederhelfenschwil"
+            },
+            {
+                "id": 111937,
+                "name": "Oberhelfenschwil"
+            },
+            {
+                "id": 111938,
+                "name": "Oberriet"
+            },
+            {
+                "id": 111939,
+                "name": "Oberuzwil"
+            },
+            {
+                "id": 111940,
+                "name": "Quarten"
+            },
+            {
+                "id": 111941,
+                "name": "Rapperswil"
+            },
+            {
+                "id": 111942,
+                "name": "Rebstein"
+            },
+            {
+                "id": 111943,
+                "name": "Rheineck"
+            },
+            {
+                "id": 111944,
+                "name": "Rorschach"
+            },
+            {
+                "id": 111945,
+                "name": "Rüthi"
+            },
+            {
+                "id": 111946,
+                "name": "Sankt Gallen"
+            },
+            {
+                "id": 111947,
+                "name": "Sankt Gallenkappel"
+            },
+            {
+                "id": 111948,
+                "name": "Sankt Margrethen"
+            },
+            {
+                "id": 111949,
+                "name": "Sankt Peterzell"
+            },
+            {
+                "id": 111950,
+                "name": "Sargans"
+            },
+            {
+                "id": 111951,
+                "name": "Schänis"
+            },
+            {
+                "id": 111952,
+                "name": "Schmerikon"
+            },
+            {
+                "id": 111953,
+                "name": "Sennwald"
+            },
+            {
+                "id": 111954,
+                "name": "Sevelen"
+            },
+            {
+                "id": 111955,
+                "name": "Thal"
+            },
+            {
+                "id": 111956,
+                "name": "Uznach"
+            },
+            {
+                "id": 111957,
+                "name": "Uzwil"
+            },
+            {
+                "id": 111958,
+                "name": "Wahlkreis Rheintal"
+            },
+            {
+                "id": 111959,
+                "name": "Wahlkreis Rorschach"
+            },
+            {
+                "id": 111960,
+                "name": "Wahlkreis Sarganserland"
+            },
+            {
+                "id": 111961,
+                "name": "Wahlkreis See-Gaster"
+            },
+            {
+                "id": 111962,
+                "name": "Wahlkreis St. Gallen"
+            },
+            {
+                "id": 111963,
+                "name": "Wahlkreis Toggenburg"
+            },
+            {
+                "id": 111964,
+                "name": "Wahlkreis Werdenberg"
+            },
+            {
+                "id": 111965,
+                "name": "Wahlkreis Wil"
+            },
+            {
+                "id": 111966,
+                "name": "Waldkirch"
+            },
+            {
+                "id": 111967,
+                "name": "Walenstadt"
+            },
+            {
+                "id": 111968,
+                "name": "Wattwil"
+            },
+            {
+                "id": 111969,
+                "name": "Weesen"
+            },
+            {
+                "id": 111970,
+                "name": "Wil"
+            },
+            {
+                "id": 111971,
+                "name": "Wildhaus"
+            },
+            {
+                "id": 111972,
+                "name": "Wittenbach"
+            },
+            {
+                "id": 111973,
+                "name": "Zuzwil"
+            }
+        ]
+    },
+    {
+        "id": 3935,
+        "name": "Canton of Valais",
+        "cities": [
+            {
+                "id": 111974,
+                "name": "Ardon"
+            },
+            {
+                "id": 111975,
+                "name": "Ayent"
+            },
+            {
+                "id": 111976,
+                "name": "Bagnes"
+            },
+            {
+                "id": 111977,
+                "name": "Baltschieder"
+            },
+            {
+                "id": 111978,
+                "name": "Basse-Nendaz"
+            },
+            {
+                "id": 111979,
+                "name": "Brig"
+            },
+            {
+                "id": 111980,
+                "name": "Brig District"
+            },
+            {
+                "id": 111981,
+                "name": "Chalais"
+            },
+            {
+                "id": 111982,
+                "name": "Chamoson"
+            },
+            {
+                "id": 111983,
+                "name": "Champéry"
+            },
+            {
+                "id": 111984,
+                "name": "Charrat"
+            },
+            {
+                "id": 111985,
+                "name": "Chermignon-d’en Haut"
+            },
+            {
+                "id": 111986,
+                "name": "Chippis"
+            },
+            {
+                "id": 111987,
+                "name": "Collombey"
+            },
+            {
+                "id": 111988,
+                "name": "Conthey"
+            },
+            {
+                "id": 111989,
+                "name": "Conthey District"
+            },
+            {
+                "id": 111990,
+                "name": "Entremont District"
+            },
+            {
+                "id": 111991,
+                "name": "Evionnaz"
+            },
+            {
+                "id": 111992,
+                "name": "Evolène"
+            },
+            {
+                "id": 111993,
+                "name": "Fiesch"
+            },
+            {
+                "id": 111994,
+                "name": "Fully"
+            },
+            {
+                "id": 111995,
+                "name": "Gampel"
+            },
+            {
+                "id": 111996,
+                "name": "Goms District"
+            },
+            {
+                "id": 111997,
+                "name": "Grächen"
+            },
+            {
+                "id": 111998,
+                "name": "Grimisuat"
+            },
+            {
+                "id": 111999,
+                "name": "Grône"
+            },
+            {
+                "id": 112000,
+                "name": "Hérémence"
+            },
+            {
+                "id": 112001,
+                "name": "Hérens District"
+            },
+            {
+                "id": 112002,
+                "name": "Lens"
+            },
+            {
+                "id": 112003,
+                "name": "Leuk"
+            },
+            {
+                "id": 112004,
+                "name": "Leuk District"
+            },
+            {
+                "id": 112005,
+                "name": "Leukerbad"
+            },
+            {
+                "id": 112006,
+                "name": "Leytron"
+            },
+            {
+                "id": 112007,
+                "name": "Martigny District"
+            },
+            {
+                "id": 112008,
+                "name": "Martigny-Combe"
+            },
+            {
+                "id": 112009,
+                "name": "Martigny-Ville"
+            },
+            {
+                "id": 112010,
+                "name": "Montana"
+            },
+            {
+                "id": 112011,
+                "name": "Monthey"
+            },
+            {
+                "id": 112012,
+                "name": "Monthey District"
+            },
+            {
+                "id": 112013,
+                "name": "Naters"
+            },
+            {
+                "id": 112014,
+                "name": "Orsières"
+            },
+            {
+                "id": 112015,
+                "name": "Randogne"
+            },
+            {
+                "id": 112016,
+                "name": "Raron"
+            },
+            {
+                "id": 112017,
+                "name": "Raron District"
+            },
+            {
+                "id": 112018,
+                "name": "Riddes"
+            },
+            {
+                "id": 112019,
+                "name": "Saas-Fee"
+            },
+            {
+                "id": 112020,
+                "name": "Saas-Grund"
+            },
+            {
+                "id": 112021,
+                "name": "Saillon"
+            },
+            {
+                "id": 112022,
+                "name": "Saint-Léonard"
+            },
+            {
+                "id": 112023,
+                "name": "Saint-Maurice"
+            },
+            {
+                "id": 112024,
+                "name": "Saint-Maurice District"
+            },
+            {
+                "id": 112025,
+                "name": "Salgesch"
+            },
+            {
+                "id": 112026,
+                "name": "Salvan"
+            },
+            {
+                "id": 112027,
+                "name": "Sankt Niklaus"
+            },
+            {
+                "id": 112028,
+                "name": "Savièse"
+            },
+            {
+                "id": 112029,
+                "name": "Saxon"
+            },
+            {
+                "id": 112030,
+                "name": "Sierre"
+            },
+            {
+                "id": 112031,
+                "name": "Sierre District"
+            },
+            {
+                "id": 112032,
+                "name": "Sion District"
+            },
+            {
+                "id": 112033,
+                "name": "Sitten"
+            },
+            {
+                "id": 112034,
+                "name": "Stalden"
+            },
+            {
+                "id": 112035,
+                "name": "Tanay"
+            },
+            {
+                "id": 112036,
+                "name": "Troistorrents"
+            },
+            {
+                "id": 112037,
+                "name": "Turtmann"
+            },
+            {
+                "id": 112038,
+                "name": "Varen"
+            },
+            {
+                "id": 112039,
+                "name": "Verbier"
+            },
+            {
+                "id": 112040,
+                "name": "Vernayaz"
+            },
+            {
+                "id": 112041,
+                "name": "Vétroz"
+            },
+            {
+                "id": 112042,
+                "name": "Vex"
+            },
+            {
+                "id": 112043,
+                "name": "Vionnaz"
+            },
+            {
+                "id": 112044,
+                "name": "Visp"
+            },
+            {
+                "id": 112045,
+                "name": "Visp District"
+            },
+            {
+                "id": 112046,
+                "name": "Visperterminen"
+            },
+            {
+                "id": 112047,
+                "name": "Vouvry"
+            },
+            {
+                "id": 112048,
+                "name": "Zermatt"
+            }
+        ]
+    },
+    {
+        "id": 3936,
+        "name": "Canton of Vaud",
+        "cities": [
+            {
+                "id": 112049,
+                "name": "Aigle"
+            },
+            {
+                "id": 112050,
+                "name": "Aigle District"
+            },
+            {
+                "id": 112051,
+                "name": "Apples"
+            },
+            {
+                "id": 112052,
+                "name": "Arzier"
+            },
+            {
+                "id": 112053,
+                "name": "Aubonne"
+            },
+            {
+                "id": 112054,
+                "name": "Avenches"
+            },
+            {
+                "id": 112055,
+                "name": "Ballens"
+            },
+            {
+                "id": 112056,
+                "name": "Bavois"
+            },
+            {
+                "id": 112057,
+                "name": "Begnins"
+            },
+            {
+                "id": 112058,
+                "name": "Belmont-sur-Lausanne"
+            },
+            {
+                "id": 112059,
+                "name": "Berolle"
+            },
+            {
+                "id": 112060,
+                "name": "Bex"
+            },
+            {
+                "id": 112061,
+                "name": "Bière"
+            },
+            {
+                "id": 112062,
+                "name": "Blécherette"
+            },
+            {
+                "id": 112063,
+                "name": "Blonay"
+            },
+            {
+                "id": 112064,
+                "name": "Bottens"
+            },
+            {
+                "id": 112065,
+                "name": "Broye-Vully District"
+            },
+            {
+                "id": 112066,
+                "name": "Bussigny"
+            },
+            {
+                "id": 112067,
+                "name": "Caux"
+            },
+            {
+                "id": 112068,
+                "name": "Chardonne"
+            },
+            {
+                "id": 112069,
+                "name": "Château-d'Oex"
+            },
+            {
+                "id": 112070,
+                "name": "Chavannes"
+            },
+            {
+                "id": 112071,
+                "name": "Chavannes-le-Veyron"
+            },
+            {
+                "id": 112072,
+                "name": "Chavornay"
+            },
+            {
+                "id": 112073,
+                "name": "Cheseaux"
+            },
+            {
+                "id": 112074,
+                "name": "Chevilly"
+            },
+            {
+                "id": 112075,
+                "name": "Chexbres"
+            },
+            {
+                "id": 112076,
+                "name": "Colombier"
+            },
+            {
+                "id": 112077,
+                "name": "Coppet"
+            },
+            {
+                "id": 112078,
+                "name": "Cossonay"
+            },
+            {
+                "id": 112079,
+                "name": "Crissier"
+            },
+            {
+                "id": 112080,
+                "name": "Cuarnens"
+            },
+            {
+                "id": 112081,
+                "name": "Cully"
+            },
+            {
+                "id": 112082,
+                "name": "Echallens"
+            },
+            {
+                "id": 112083,
+                "name": "Ecublens"
+            },
+            {
+                "id": 112084,
+                "name": "Epalinges"
+            },
+            {
+                "id": 112085,
+                "name": "Ferreyres"
+            },
+            {
+                "id": 112086,
+                "name": "Founex"
+            },
+            {
+                "id": 112087,
+                "name": "Froideville"
+            },
+            {
+                "id": 112088,
+                "name": "Genolier"
+            },
+            {
+                "id": 112089,
+                "name": "Gimel"
+            },
+            {
+                "id": 112090,
+                "name": "Gland"
+            },
+            {
+                "id": 112091,
+                "name": "Grancy"
+            },
+            {
+                "id": 112092,
+                "name": "Grandson"
+            },
+            {
+                "id": 112093,
+                "name": "Gros-de-Vaud District"
+            },
+            {
+                "id": 112094,
+                "name": "Gryon"
+            },
+            {
+                "id": 112095,
+                "name": "Jongny"
+            },
+            {
+                "id": 112096,
+                "name": "Jura-Nord vaudois District"
+            },
+            {
+                "id": 112097,
+                "name": "La Sarraz"
+            },
+            {
+                "id": 112098,
+                "name": "La Tour-de-Peilz"
+            },
+            {
+                "id": 112099,
+                "name": "Lausanne"
+            },
+            {
+                "id": 112100,
+                "name": "Lausanne District"
+            },
+            {
+                "id": 112101,
+                "name": "Lavaux-Oron District"
+            },
+            {
+                "id": 112102,
+                "name": "Le Chenit"
+            },
+            {
+                "id": 112103,
+                "name": "Le Mont-sur-Lausanne"
+            },
+            {
+                "id": 112104,
+                "name": "Le Vaud"
+            },
+            {
+                "id": 112105,
+                "name": "Leysin"
+            },
+            {
+                "id": 112106,
+                "name": "Lucens"
+            },
+            {
+                "id": 112107,
+                "name": "Lutry"
+            },
+            {
+                "id": 112108,
+                "name": "Mauraz"
+            },
+            {
+                "id": 112109,
+                "name": "Mollens"
+            },
+            {
+                "id": 112110,
+                "name": "Montagny"
+            },
+            {
+                "id": 112111,
+                "name": "Montreux"
+            },
+            {
+                "id": 112112,
+                "name": "Morges"
+            },
+            {
+                "id": 112113,
+                "name": "Morges District"
+            },
+            {
+                "id": 112114,
+                "name": "Moudon"
+            },
+            {
+                "id": 112115,
+                "name": "Nyon"
+            },
+            {
+                "id": 112116,
+                "name": "Nyon District"
+            },
+            {
+                "id": 112117,
+                "name": "Ollon"
+            },
+            {
+                "id": 112118,
+                "name": "Orbe"
+            },
+            {
+                "id": 112119,
+                "name": "Oron-la-Ville"
+            },
+            {
+                "id": 112120,
+                "name": "Ouest Lausannois District"
+            },
+            {
+                "id": 112121,
+                "name": "Pailly"
+            },
+            {
+                "id": 112122,
+                "name": "Palézieux"
+            },
+            {
+                "id": 112123,
+                "name": "Pampigny"
+            },
+            {
+                "id": 112124,
+                "name": "Paudex"
+            },
+            {
+                "id": 112125,
+                "name": "Payerne"
+            },
+            {
+                "id": 112126,
+                "name": "Penthalaz"
+            },
+            {
+                "id": 112127,
+                "name": "Penthéréaz"
+            },
+            {
+                "id": 112128,
+                "name": "Perroy"
+            },
+            {
+                "id": 112129,
+                "name": "Pompaples"
+            },
+            {
+                "id": 112130,
+                "name": "Prangins"
+            },
+            {
+                "id": 112131,
+                "name": "Préverenges"
+            },
+            {
+                "id": 112132,
+                "name": "Prilly"
+            },
+            {
+                "id": 112133,
+                "name": "Puidoux"
+            },
+            {
+                "id": 112134,
+                "name": "Pully"
+            },
+            {
+                "id": 112135,
+                "name": "Renens"
+            },
+            {
+                "id": 112136,
+                "name": "Riviera-Pays-d'Enhaut District"
+            },
+            {
+                "id": 112137,
+                "name": "Rolle"
+            },
+            {
+                "id": 112138,
+                "name": "Romanel-sur-Lausanne"
+            },
+            {
+                "id": 112139,
+                "name": "Saint-Cergue"
+            },
+            {
+                "id": 112140,
+                "name": "Saint-Livres"
+            },
+            {
+                "id": 112141,
+                "name": "Saint-Prex"
+            },
+            {
+                "id": 112142,
+                "name": "Sainte-Croix"
+            },
+            {
+                "id": 112143,
+                "name": "Saubraz"
+            },
+            {
+                "id": 112144,
+                "name": "Savigny"
+            },
+            {
+                "id": 112145,
+                "name": "Sottens"
+            },
+            {
+                "id": 112146,
+                "name": "Trélex"
+            },
+            {
+                "id": 112147,
+                "name": "Vallorbe"
+            },
+            {
+                "id": 112148,
+                "name": "Vevey"
+            },
+            {
+                "id": 112149,
+                "name": "Villars-sur-Ollon"
+            },
+            {
+                "id": 112150,
+                "name": "Villeneuve"
+            },
+            {
+                "id": 112151,
+                "name": "Vuarrens"
+            },
+            {
+                "id": 112152,
+                "name": "Yverdon-les-Bains"
+            },
+            {
+                "id": 112153,
+                "name": "Yvonand"
+            }
+        ]
+    },
+    {
+        "id": 3937,
+        "name": "Canton of Zug",
+        "cities": [
+            {
+                "id": 112154,
+                "name": "Baar"
+            },
+            {
+                "id": 112155,
+                "name": "Cham"
+            },
+            {
+                "id": 112156,
+                "name": "Hünenberg"
+            },
+            {
+                "id": 112157,
+                "name": "Menzingen"
+            },
+            {
+                "id": 112158,
+                "name": "Rotkreuz"
+            },
+            {
+                "id": 112159,
+                "name": "Steinhausen"
+            },
+            {
+                "id": 112160,
+                "name": "Unterägeri"
+            },
+            {
+                "id": 112161,
+                "name": "Walchwil"
+            },
+            {
+                "id": 112162,
+                "name": "Zug"
+            }
+        ]
+    },
+    {
+        "id": 3938,
+        "name": "canton of Zürich",
+        "cities": [
+            {
+                "id": 112163,
+                "name": "Adliswil"
+            },
+            {
+                "id": 112164,
+                "name": "Adliswil  Adliswil (Stadtkern)"
+            },
+            {
+                "id": 112165,
+                "name": "Adliswil  Hündli-Zopf"
+            },
+            {
+                "id": 112166,
+                "name": "Adliswil  Oberleimbach"
+            },
+            {
+                "id": 112167,
+                "name": "Adliswil  Sonnenberg"
+            },
+            {
+                "id": 112168,
+                "name": "Adliswil  Sood"
+            },
+            {
+                "id": 112169,
+                "name": "Adliswil  Tal"
+            },
+            {
+                "id": 112170,
+                "name": "Aesch"
+            },
+            {
+                "id": 112171,
+                "name": "Affoltern  Hasenbüel"
+            },
+            {
+                "id": 112172,
+                "name": "Affoltern  Oberdorf"
+            },
+            {
+                "id": 112173,
+                "name": "Affoltern  Sonnenberg"
+            },
+            {
+                "id": 112174,
+                "name": "Affoltern  Unterdorf"
+            },
+            {
+                "id": 112175,
+                "name": "Affoltern am Albis"
+            },
+            {
+                "id": 112176,
+                "name": "Andelfingen"
+            },
+            {
+                "id": 112177,
+                "name": "Au"
+            },
+            {
+                "id": 112178,
+                "name": "Au  Mittel-Dorf"
+            },
+            {
+                "id": 112179,
+                "name": "Au  Unter-Dorf"
+            },
+            {
+                "id": 112180,
+                "name": "Bachenbülach"
+            },
+            {
+                "id": 112181,
+                "name": "Bäretswil"
+            },
+            {
+                "id": 112182,
+                "name": "Bassersdorf"
+            },
+            {
+                "id": 112183,
+                "name": "Bauma"
+            },
+            {
+                "id": 112184,
+                "name": "Benglen"
+            },
+            {
+                "id": 112185,
+                "name": "Bezirk Affoltern"
+            },
+            {
+                "id": 112186,
+                "name": "Bezirk Andelfingen"
+            },
+            {
+                "id": 112187,
+                "name": "Bezirk Bülach"
+            },
+            {
+                "id": 112188,
+                "name": "Bezirk Dielsdorf"
+            },
+            {
+                "id": 112189,
+                "name": "Bezirk Dietikon"
+            },
+            {
+                "id": 112190,
+                "name": "Bezirk Hinwil"
+            },
+            {
+                "id": 112191,
+                "name": "Bezirk Horgen"
+            },
+            {
+                "id": 112192,
+                "name": "Bezirk Meilen"
+            },
+            {
+                "id": 112193,
+                "name": "Bezirk Pfäffikon"
+            },
+            {
+                "id": 112194,
+                "name": "Bezirk Uster"
+            },
+            {
+                "id": 112195,
+                "name": "Bezirk Winterthur"
+            },
+            {
+                "id": 112196,
+                "name": "Bezirk Zürich"
+            },
+            {
+                "id": 112197,
+                "name": "Binz"
+            },
+            {
+                "id": 112198,
+                "name": "Binzikon"
+            },
+            {
+                "id": 112199,
+                "name": "Birchwil"
+            },
+            {
+                "id": 112200,
+                "name": "Birmensdorf"
+            },
+            {
+                "id": 112201,
+                "name": "Bonstetten"
+            },
+            {
+                "id": 112202,
+                "name": "Brütten"
+            },
+            {
+                "id": 112203,
+                "name": "Brüttisellen"
+            },
+            {
+                "id": 112204,
+                "name": "Bubikon"
+            },
+            {
+                "id": 112205,
+                "name": "Bülach"
+            },
+            {
+                "id": 112206,
+                "name": "Bülach  Gstückt"
+            },
+            {
+                "id": 112207,
+                "name": "Bülach  Seematt"
+            },
+            {
+                "id": 112208,
+                "name": "Bülach  Soligänter"
+            },
+            {
+                "id": 112209,
+                "name": "Dachsen"
+            },
+            {
+                "id": 112210,
+                "name": "Dällikon  Dällikon (Dorf)"
+            },
+            {
+                "id": 112211,
+                "name": "Dänikon"
+            },
+            {
+                "id": 112212,
+                "name": "Dielsdorf"
+            },
+            {
+                "id": 112213,
+                "name": "Dietikon"
+            },
+            {
+                "id": 112214,
+                "name": "Dietikon  Almend"
+            },
+            {
+                "id": 112215,
+                "name": "Dietikon  Guggenbühl"
+            },
+            {
+                "id": 112216,
+                "name": "Dietikon  Hofacker"
+            },
+            {
+                "id": 112217,
+                "name": "Dietikon  Kreuzacker"
+            },
+            {
+                "id": 112218,
+                "name": "Dietikon  Oberdorf"
+            },
+            {
+                "id": 112219,
+                "name": "Dietikon  Schönenwerd"
+            },
+            {
+                "id": 112220,
+                "name": "Dietikon  Vorstadt"
+            },
+            {
+                "id": 112221,
+                "name": "Dietlikon  Dietlikon (Dorf)"
+            },
+            {
+                "id": 112222,
+                "name": "Dietlikon  Eichwiesen"
+            },
+            {
+                "id": 112223,
+                "name": "Dorf"
+            },
+            {
+                "id": 112224,
+                "name": "Dübendorf"
+            },
+            {
+                "id": 112225,
+                "name": "Dübendorf  Kunklerstrasse"
+            },
+            {
+                "id": 112226,
+                "name": "Dübendorf  Sonnenberg"
+            },
+            {
+                "id": 112227,
+                "name": "Dübendorf  Vogelquartier"
+            },
+            {
+                "id": 112228,
+                "name": "Dübendorf  Wasserfurren"
+            },
+            {
+                "id": 112229,
+                "name": "Dürnten"
+            },
+            {
+                "id": 112230,
+                "name": "Ebmatingen"
+            },
+            {
+                "id": 112231,
+                "name": "Effretikon"
+            },
+            {
+                "id": 112232,
+                "name": "Effretikon  Rappenhalde-Bannhalde"
+            },
+            {
+                "id": 112233,
+                "name": "Effretikon  Rikon"
+            },
+            {
+                "id": 112234,
+                "name": "Effretikon  Watt"
+            },
+            {
+                "id": 112235,
+                "name": "Egg"
+            },
+            {
+                "id": 112236,
+                "name": "Elgg"
+            },
+            {
+                "id": 112237,
+                "name": "Elgg  Städtchen und Umgebung"
+            },
+            {
+                "id": 112238,
+                "name": "Elsau-Räterschen"
+            },
+            {
+                "id": 112239,
+                "name": "Elsau-Räterschen  Räterschen"
+            },
+            {
+                "id": 112240,
+                "name": "Embrach"
+            },
+            {
+                "id": 112241,
+                "name": "Embrach  Embrach (Dorfkern)"
+            },
+            {
+                "id": 112242,
+                "name": "Embrach  Kellersacker"
+            },
+            {
+                "id": 112243,
+                "name": "Erlenbach"
+            },
+            {
+                "id": 112244,
+                "name": "Erlenbach  links des Dorfbachs oberhalb Bahnlinie"
+            },
+            {
+                "id": 112245,
+                "name": "Erlenbach  rechts des Dorfbachs oberhalb Bahnlinie"
+            },
+            {
+                "id": 112246,
+                "name": "Esslingen"
+            },
+            {
+                "id": 112247,
+                "name": "Fällanden"
+            },
+            {
+                "id": 112248,
+                "name": "Fehraltorf"
+            },
+            {
+                "id": 112249,
+                "name": "Feldmeilen"
+            },
+            {
+                "id": 112250,
+                "name": "Feuerthalen"
+            },
+            {
+                "id": 112251,
+                "name": "Flurlingen"
+            },
+            {
+                "id": 112252,
+                "name": "Freienstein"
+            },
+            {
+                "id": 112253,
+                "name": "Gattikon"
+            },
+            {
+                "id": 112254,
+                "name": "Geroldswil"
+            },
+            {
+                "id": 112255,
+                "name": "Glattbrugg"
+            },
+            {
+                "id": 112256,
+                "name": "Glattbrugg  RohrPlatten-Balsberg"
+            },
+            {
+                "id": 112257,
+                "name": "Glattbrugg  Wydacker Bettacker Lättenwiesen"
+            },
+            {
+                "id": 112258,
+                "name": "Glattfelden"
+            },
+            {
+                "id": 112259,
+                "name": "Gockhausen"
+            },
+            {
+                "id": 112260,
+                "name": "Gossau"
+            },
+            {
+                "id": 112261,
+                "name": "Greifensee"
+            },
+            {
+                "id": 112262,
+                "name": "Greifensee  Müllerwis  Seilerwis"
+            },
+            {
+                "id": 112263,
+                "name": "Greifensee  Pfisterhölzli"
+            },
+            {
+                "id": 112264,
+                "name": "Grossacker Opfikon"
+            },
+            {
+                "id": 112265,
+                "name": "Grüt"
+            },
+            {
+                "id": 112266,
+                "name": "Gutenswil"
+            },
+            {
+                "id": 112267,
+                "name": "Hadlikon"
+            },
+            {
+                "id": 112268,
+                "name": "Hausen am Albis  Hausen (Dorf)"
+            },
+            {
+                "id": 112269,
+                "name": "Hedingen"
+            },
+            {
+                "id": 112270,
+                "name": "Hegnau"
+            },
+            {
+                "id": 112271,
+                "name": "Hegnau  Dammboden-Grindel"
+            },
+            {
+                "id": 112272,
+                "name": "Hegnau  Sunnebüel-Eich"
+            },
+            {
+                "id": 112273,
+                "name": "Henggart"
+            },
+            {
+                "id": 112274,
+                "name": "Herrliberg"
+            },
+            {
+                "id": 112275,
+                "name": "Hettlingen"
+            },
+            {
+                "id": 112276,
+                "name": "Hinteregg"
+            },
+            {
+                "id": 112277,
+                "name": "Hinwil"
+            },
+            {
+                "id": 112278,
+                "name": "Hittnau  Hittnau (Dorf)"
+            },
+            {
+                "id": 112279,
+                "name": "Hochfelden"
+            },
+            {
+                "id": 112280,
+                "name": "Hofstetten"
+            },
+            {
+                "id": 112281,
+                "name": "Hombrechtikon"
+            },
+            {
+                "id": 112282,
+                "name": "Horgen"
+            },
+            {
+                "id": 112283,
+                "name": "Horgen  Allmend"
+            },
+            {
+                "id": 112284,
+                "name": "Horgen  Horgen (Dorfkern)"
+            },
+            {
+                "id": 112285,
+                "name": "Horgen  Oberdorf"
+            },
+            {
+                "id": 112286,
+                "name": "Horgen  Scheller-Stockerstrasse"
+            },
+            {
+                "id": 112287,
+                "name": "Höri"
+            },
+            {
+                "id": 112288,
+                "name": "Illnau"
+            },
+            {
+                "id": 112289,
+                "name": "Illnau  Unter-Illnau"
+            },
+            {
+                "id": 112290,
+                "name": "Kilchberg"
+            },
+            {
+                "id": 112291,
+                "name": "Kilchberg  Bächler-Stocken"
+            },
+            {
+                "id": 112292,
+                "name": "Kilchberg  Kilchberg (Dorfkern)"
+            },
+            {
+                "id": 112293,
+                "name": "Kindhausen  Kindhausen (Dorf)"
+            },
+            {
+                "id": 112294,
+                "name": "Kleinandelfingen"
+            },
+            {
+                "id": 112295,
+                "name": "Kloten"
+            },
+            {
+                "id": 112296,
+                "name": "Kloten  Balsberg"
+            },
+            {
+                "id": 112297,
+                "name": "Kloten  Freienberg (Chanzler-Chlini Chaseren)"
+            },
+            {
+                "id": 112298,
+                "name": "Kloten  Geissberg"
+            },
+            {
+                "id": 112299,
+                "name": "Kloten  Holberg"
+            },
+            {
+                "id": 112300,
+                "name": "Kloten  Horainli"
+            },
+            {
+                "id": 112301,
+                "name": "Kloten  Hostrass"
+            },
+            {
+                "id": 112302,
+                "name": "Kloten  Kloten (Zentrum)"
+            },
+            {
+                "id": 112303,
+                "name": "Kloten  Rütlen"
+            },
+            {
+                "id": 112304,
+                "name": "Kloten  Spitz"
+            },
+            {
+                "id": 112305,
+                "name": "Knonau"
+            },
+            {
+                "id": 112306,
+                "name": "Kollbrunn"
+            },
+            {
+                "id": 112307,
+                "name": "Kollbrunn  Kollbrunn (Dorfkern)"
+            },
+            {
+                "id": 112308,
+                "name": "Küsnacht"
+            },
+            {
+                "id": 112309,
+                "name": "Küsnacht  Dorf"
+            },
+            {
+                "id": 112310,
+                "name": "Küsnacht  Goldbach"
+            },
+            {
+                "id": 112311,
+                "name": "Küsnacht  Heslibach"
+            },
+            {
+                "id": 112312,
+                "name": "Küsnacht  Itschnach"
+            },
+            {
+                "id": 112313,
+                "name": "Küsnacht  Schiedhalden"
+            },
+            {
+                "id": 112314,
+                "name": "Langnau  Langnau (Dorf)"
+            },
+            {
+                "id": 112315,
+                "name": "Langnau  Vitaquartier"
+            },
+            {
+                "id": 112316,
+                "name": "Langnau am Albis"
+            },
+            {
+                "id": 112317,
+                "name": "Männedorf"
+            },
+            {
+                "id": 112318,
+                "name": "Männedorf  Ausserfeld"
+            },
+            {
+                "id": 112319,
+                "name": "Männedorf  Dorfkern"
+            },
+            {
+                "id": 112320,
+                "name": "Marthalen"
+            },
+            {
+                "id": 112321,
+                "name": "Mattenbach (Kreis 7)"
+            },
+            {
+                "id": 112322,
+                "name": "Mattenbach (Kreis 7)  Deutweg"
+            },
+            {
+                "id": 112323,
+                "name": "Mattenbach (Kreis 7)  Endliker"
+            },
+            {
+                "id": 112324,
+                "name": "Mattenbach (Kreis 7)  Gutschick"
+            },
+            {
+                "id": 112325,
+                "name": "Meilen"
+            },
+            {
+                "id": 112326,
+                "name": "Mettmenstetten"
+            },
+            {
+                "id": 112327,
+                "name": "Mönchaltorf"
+            },
+            {
+                "id": 112328,
+                "name": "Mönchaltorf  Dorf"
+            },
+            {
+                "id": 112329,
+                "name": "Mühlehalde"
+            },
+            {
+                "id": 112330,
+                "name": "Nänikon"
+            },
+            {
+                "id": 112331,
+                "name": "Nänikon  Nänikon (Dorfkern)"
+            },
+            {
+                "id": 112332,
+                "name": "Neerach"
+            },
+            {
+                "id": 112333,
+                "name": "Neftenbach  Dorf Neftenbach"
+            },
+            {
+                "id": 112334,
+                "name": "Niederglatt"
+            },
+            {
+                "id": 112335,
+                "name": "Niederglatt  Niederglatt (Dorfkern)"
+            },
+            {
+                "id": 112336,
+                "name": "Niederhasli"
+            },
+            {
+                "id": 112337,
+                "name": "Nürensdorf"
+            },
+            {
+                "id": 112338,
+                "name": "Oberengstringen"
+            },
+            {
+                "id": 112339,
+                "name": "Oberengstringen  Rauchacher"
+            },
+            {
+                "id": 112340,
+                "name": "Oberengstringen  Sonnenberg"
+            },
+            {
+                "id": 112341,
+                "name": "Oberengstringen  Zentrum"
+            },
+            {
+                "id": 112342,
+                "name": "Oberglatt"
+            },
+            {
+                "id": 112343,
+                "name": "Oberglatt  Bahnhofquartier"
+            },
+            {
+                "id": 112344,
+                "name": "Oberglatt  Oberglatt (Dorfkern)"
+            },
+            {
+                "id": 112345,
+                "name": "Obermeilen"
+            },
+            {
+                "id": 112346,
+                "name": "Oberrieden"
+            },
+            {
+                "id": 112347,
+                "name": "Oberrieden  Berg"
+            },
+            {
+                "id": 112348,
+                "name": "Oberrieden  Mitte"
+            },
+            {
+                "id": 112349,
+                "name": "Oberwinterthur (Kreis 2)"
+            },
+            {
+                "id": 112350,
+                "name": "Oberwinterthur (Kreis 2)  Guggenbühl"
+            },
+            {
+                "id": 112351,
+                "name": "Oberwinterthur (Kreis 2)  Hegi"
+            },
+            {
+                "id": 112352,
+                "name": "Oberwinterthur (Kreis 2)  Talacker"
+            },
+            {
+                "id": 112353,
+                "name": "Oberwinterthur (Kreis 2)  Zinzikon"
+            },
+            {
+                "id": 112354,
+                "name": "Obfelden"
+            },
+            {
+                "id": 112355,
+                "name": "Obfelden  Oberlunnern"
+            },
+            {
+                "id": 112356,
+                "name": "Obfelden  Toussen"
+            },
+            {
+                "id": 112357,
+                "name": "Oetwil"
+            },
+            {
+                "id": 112358,
+                "name": "Opfikon"
+            },
+            {
+                "id": 112359,
+                "name": "Otelfingen"
+            },
+            {
+                "id": 112360,
+                "name": "Ottenbach"
+            },
+            {
+                "id": 112361,
+                "name": "Pfaffhausen"
+            },
+            {
+                "id": 112362,
+                "name": "Pfäffikon"
+            },
+            {
+                "id": 112363,
+                "name": "Pfäffikon  Irgenhausen"
+            },
+            {
+                "id": 112364,
+                "name": "Pfäffikon  Pfäffikon (Dorfkern)"
+            },
+            {
+                "id": 112365,
+                "name": "Pfungen"
+            },
+            {
+                "id": 112366,
+                "name": "Rafz"
+            },
+            {
+                "id": 112367,
+                "name": "Regensdorf"
+            },
+            {
+                "id": 112368,
+                "name": "Regensdorf  Feldblumen-Riedthofstrasse"
+            },
+            {
+                "id": 112369,
+                "name": "Regensdorf  Hofacher-Geeren"
+            },
+            {
+                "id": 112370,
+                "name": "Regensdorf  Obstgarten"
+            },
+            {
+                "id": 112371,
+                "name": "Richterswil"
+            },
+            {
+                "id": 112372,
+                "name": "Richterswil  Burghalde"
+            },
+            {
+                "id": 112373,
+                "name": "Richterswil  Dorfkern"
+            },
+            {
+                "id": 112374,
+                "name": "Richterswil  Richterswil (Dorfkern)"
+            },
+            {
+                "id": 112375,
+                "name": "Rorbas"
+            },
+            {
+                "id": 112376,
+                "name": "Rümlang"
+            },
+            {
+                "id": 112377,
+                "name": "Rümlang  Rümlang (Dorfkern)"
+            },
+            {
+                "id": 112378,
+                "name": "Rüschlikon"
+            },
+            {
+                "id": 112379,
+                "name": "Russikon"
+            },
+            {
+                "id": 112380,
+                "name": "Rüti"
+            },
+            {
+                "id": 112381,
+                "name": "Rüti  Dorfzentrum, Südl. Teil"
+            },
+            {
+                "id": 112382,
+                "name": "Rüti  Oberdorf"
+            },
+            {
+                "id": 112383,
+                "name": "Rüti  Westlicher Dorfteil"
+            },
+            {
+                "id": 112384,
+                "name": "Samstagern"
+            },
+            {
+                "id": 112385,
+                "name": "Schachen"
+            },
+            {
+                "id": 112386,
+                "name": "Schlieren"
+            },
+            {
+                "id": 112387,
+                "name": "Schlieren  Boden"
+            },
+            {
+                "id": 112388,
+                "name": "Schlieren  Engstingerquartier"
+            },
+            {
+                "id": 112389,
+                "name": "Schlieren  Freiestrasse"
+            },
+            {
+                "id": 112390,
+                "name": "Schlieren  Kamp"
+            },
+            {
+                "id": 112391,
+                "name": "Schlieren  Spital"
+            },
+            {
+                "id": 112392,
+                "name": "Schlieren  Zentrum"
+            },
+            {
+                "id": 112393,
+                "name": "Schwerzenbach"
+            },
+            {
+                "id": 112394,
+                "name": "Schwerzenbach  Blatten"
+            },
+            {
+                "id": 112395,
+                "name": "Schwerzenbach  Chimli"
+            },
+            {
+                "id": 112396,
+                "name": "Seen (Kreis 3)"
+            },
+            {
+                "id": 112397,
+                "name": "Seen (Kreis 3)  Büelwiesen"
+            },
+            {
+                "id": 112398,
+                "name": "Seen (Kreis 3)  Ganzenbühl"
+            },
+            {
+                "id": 112399,
+                "name": "Seen (Kreis 3)  Oberseen"
+            },
+            {
+                "id": 112400,
+                "name": "Seen (Kreis 3)  Waldegg"
+            },
+            {
+                "id": 112401,
+                "name": "Seen (Kreis 3)  Waser"
+            },
+            {
+                "id": 112402,
+                "name": "Seglingen"
+            },
+            {
+                "id": 112403,
+                "name": "Sellenbüren"
+            },
+            {
+                "id": 112404,
+                "name": "Seuzach  Seuzach (Dorf)"
+            },
+            {
+                "id": 112405,
+                "name": "Seuzach Dorf"
+            },
+            {
+                "id": 112406,
+                "name": "Seuzach Dorf  Breite-Weid"
+            },
+            {
+                "id": 112407,
+                "name": "Sonnhalde"
+            },
+            {
+                "id": 112408,
+                "name": "Stadt Winterthur (Kreis 1)"
+            },
+            {
+                "id": 112409,
+                "name": "Stadt Winterthur (Kreis 1)  Altstadt"
+            },
+            {
+                "id": 112410,
+                "name": "Stadt Winterthur (Kreis 1)  Brühlberg"
+            },
+            {
+                "id": 112411,
+                "name": "Stadt Winterthur (Kreis 1)  Heiligberg"
+            },
+            {
+                "id": 112412,
+                "name": "Stadt Winterthur (Kreis 1)  Lind"
+            },
+            {
+                "id": 112413,
+                "name": "Stadt Winterthur (Kreis 1)  Neuwiesen"
+            },
+            {
+                "id": 112414,
+                "name": "Stadt Winterthur (Kreis 1)  Tössfeld"
+            },
+            {
+                "id": 112415,
+                "name": "Stäfa"
+            },
+            {
+                "id": 112416,
+                "name": "Steinmaur"
+            },
+            {
+                "id": 112417,
+                "name": "Sulz"
+            },
+            {
+                "id": 112418,
+                "name": "Tagelswangen"
+            },
+            {
+                "id": 112419,
+                "name": "Tann"
+            },
+            {
+                "id": 112420,
+                "name": "Tann  Tann (Dorfkern)"
+            },
+            {
+                "id": 112421,
+                "name": "Thalwil"
+            },
+            {
+                "id": 112422,
+                "name": "Thalwil  Berg"
+            },
+            {
+                "id": 112423,
+                "name": "Thalwil  Dorfkern"
+            },
+            {
+                "id": 112424,
+                "name": "Thalwil  Nord"
+            },
+            {
+                "id": 112425,
+                "name": "Thalwil  See"
+            },
+            {
+                "id": 112426,
+                "name": "Thalwil  Süd"
+            },
+            {
+                "id": 112427,
+                "name": "Töss (Kreis 4)"
+            },
+            {
+                "id": 112428,
+                "name": "Töss (Kreis 4)  Eichliacker"
+            },
+            {
+                "id": 112429,
+                "name": "Töss (Kreis 4)  Schlosstal"
+            },
+            {
+                "id": 112430,
+                "name": "Töss (Kreis 4)  Vorder-Dättnau"
+            },
+            {
+                "id": 112431,
+                "name": "Turbenthal"
+            },
+            {
+                "id": 112432,
+                "name": "Uerikon"
+            },
+            {
+                "id": 112433,
+                "name": "Uetikon"
+            },
+            {
+                "id": 112434,
+                "name": "Uetikon  Grossdorf"
+            },
+            {
+                "id": 112435,
+                "name": "Uhwiesen"
+            },
+            {
+                "id": 112436,
+                "name": "Uitikon"
+            },
+            {
+                "id": 112437,
+                "name": "Unterengstringen"
+            },
+            {
+                "id": 112438,
+                "name": "Urdorf"
+            },
+            {
+                "id": 112439,
+                "name": "Urdorf  Bodenfeld"
+            },
+            {
+                "id": 112440,
+                "name": "Urdorf  Moos"
+            },
+            {
+                "id": 112441,
+                "name": "Urdorf  Oberurdorf"
+            },
+            {
+                "id": 112442,
+                "name": "Uster"
+            },
+            {
+                "id": 112443,
+                "name": "Uster  Gschwader"
+            },
+            {
+                "id": 112444,
+                "name": "Uster  Kirch-Uster"
+            },
+            {
+                "id": 112445,
+                "name": "Uster  Nieder-Uster"
+            },
+            {
+                "id": 112446,
+                "name": "Uster  Nossikon"
+            },
+            {
+                "id": 112447,
+                "name": "Uster  Ober-Uster"
+            },
+            {
+                "id": 112448,
+                "name": "Veltheim (Kreis 5)"
+            },
+            {
+                "id": 112449,
+                "name": "Veltheim (Kreis 5)  Blumenau"
+            },
+            {
+                "id": 112450,
+                "name": "Veltheim (Kreis 5)  Rosenberg"
+            },
+            {
+                "id": 112451,
+                "name": "Volketswil  Volketswil (Dorf)"
+            },
+            {
+                "id": 112452,
+                "name": "Wädenswil"
+            },
+            {
+                "id": 112453,
+                "name": "Wädenswil  Boller-Giessen"
+            },
+            {
+                "id": 112454,
+                "name": "Wädenswil  Büelen"
+            },
+            {
+                "id": 112455,
+                "name": "Wädenswil  Dorf (Wädenswil)"
+            },
+            {
+                "id": 112456,
+                "name": "Wädenswil  Eichweid"
+            },
+            {
+                "id": 112457,
+                "name": "Wädenswil  Hangenmoos"
+            },
+            {
+                "id": 112458,
+                "name": "Wädenswil  Leihof-Mühlebach"
+            },
+            {
+                "id": 112459,
+                "name": "Wädenswil  Untermosen-Fuhr"
+            },
+            {
+                "id": 112460,
+                "name": "Wald"
+            },
+            {
+                "id": 112461,
+                "name": "Wallisellen"
+            },
+            {
+                "id": 112462,
+                "name": "Wallisellen  Rieden"
+            },
+            {
+                "id": 112463,
+                "name": "Wallisellen  Wallisellen-Ost"
+            },
+            {
+                "id": 112464,
+                "name": "Wallisellen  Wallisellen-West"
+            },
+            {
+                "id": 112465,
+                "name": "Wangen"
+            },
+            {
+                "id": 112466,
+                "name": "Weiningen"
+            },
+            {
+                "id": 112467,
+                "name": "Weisslingen"
+            },
+            {
+                "id": 112468,
+                "name": "Wettswil  Ausser-Dorf"
+            },
+            {
+                "id": 112469,
+                "name": "Wettswil  Wettswil (Dorf)"
+            },
+            {
+                "id": 112470,
+                "name": "Wetzikon"
+            },
+            {
+                "id": 112471,
+                "name": "Wetzikon  Kempten"
+            },
+            {
+                "id": 112472,
+                "name": "Wetzikon  Ober-Wetzikon"
+            },
+            {
+                "id": 112473,
+                "name": "Wetzikon  Robenhausen"
+            },
+            {
+                "id": 112474,
+                "name": "Wetzikon  Unter-Wetzikon"
+            },
+            {
+                "id": 112475,
+                "name": "Wiesendangen  Wiesendangen (Dorf)"
+            },
+            {
+                "id": 112476,
+                "name": "Wila"
+            },
+            {
+                "id": 112477,
+                "name": "Winterthur"
+            },
+            {
+                "id": 112478,
+                "name": "Wolfhausen"
+            },
+            {
+                "id": 112479,
+                "name": "Wülflingen (Kreis 6)"
+            },
+            {
+                "id": 112480,
+                "name": "Wülflingen (Kreis 6)  Härti"
+            },
+            {
+                "id": 112481,
+                "name": "Wülflingen (Kreis 6)  Lindenplatz"
+            },
+            {
+                "id": 112482,
+                "name": "Wülflingen (Kreis 6)  Niederfeld"
+            },
+            {
+                "id": 112483,
+                "name": "Wülflingen (Kreis 6)  Oberfeld"
+            },
+            {
+                "id": 112484,
+                "name": "Zollikerberg"
+            },
+            {
+                "id": 112485,
+                "name": "Zollikon"
+            },
+            {
+                "id": 112486,
+                "name": "Zumikon"
+            },
+            {
+                "id": 112487,
+                "name": "Zürich"
+            },
+            {
+                "id": 112488,
+                "name": "Zürich (Kreis 1)"
+            },
+            {
+                "id": 112489,
+                "name": "Zürich (Kreis 1)  City"
+            },
+            {
+                "id": 112490,
+                "name": "Zürich (Kreis 1)  Lindenhof"
+            },
+            {
+                "id": 112491,
+                "name": "Zürich (Kreis 1)  Rathaus"
+            },
+            {
+                "id": 112492,
+                "name": "Zürich (Kreis 10)"
+            },
+            {
+                "id": 112493,
+                "name": "Zürich (Kreis 10)  Höngg"
+            },
+            {
+                "id": 112494,
+                "name": "Zürich (Kreis 10)  Rütihof"
+            },
+            {
+                "id": 112495,
+                "name": "Zürich (Kreis 10)  Wipkingen"
+            },
+            {
+                "id": 112496,
+                "name": "Zürich (Kreis 11)"
+            },
+            {
+                "id": 112497,
+                "name": "Zürich (Kreis 11)  Affoltern"
+            },
+            {
+                "id": 112498,
+                "name": "Zürich (Kreis 11)  Oerlikon"
+            },
+            {
+                "id": 112499,
+                "name": "Zürich (Kreis 11)  Schwandenholz"
+            },
+            {
+                "id": 112500,
+                "name": "Zürich (Kreis 11)  Seebach"
+            },
+            {
+                "id": 112501,
+                "name": "Zürich (Kreis 12)"
+            },
+            {
+                "id": 112502,
+                "name": "Zürich (Kreis 12)  Auzelg"
+            },
+            {
+                "id": 112503,
+                "name": "Zürich (Kreis 12)  Hirzenbach"
+            },
+            {
+                "id": 112504,
+                "name": "Zürich (Kreis 12)  Saatlen"
+            },
+            {
+                "id": 112505,
+                "name": "Zürich (Kreis 12)  Schwamendingen-Mitte"
+            },
+            {
+                "id": 112506,
+                "name": "Zürich (Kreis 2)"
+            },
+            {
+                "id": 112507,
+                "name": "Zürich (Kreis 2)  Enge"
+            },
+            {
+                "id": 112508,
+                "name": "Zürich (Kreis 2)  Mittel-Leimbach"
+            },
+            {
+                "id": 112509,
+                "name": "Zürich (Kreis 2)  Unter-Leimbach"
+            },
+            {
+                "id": 112510,
+                "name": "Zürich (Kreis 2)  Wollishofen"
+            },
+            {
+                "id": 112511,
+                "name": "Zürich (Kreis 3)"
+            },
+            {
+                "id": 112512,
+                "name": "Zürich (Kreis 3)  Alt-Wiedikon"
+            },
+            {
+                "id": 112513,
+                "name": "Zürich (Kreis 3)  Friesenberg"
+            },
+            {
+                "id": 112514,
+                "name": "Zürich (Kreis 3)  Sihlfeld"
+            },
+            {
+                "id": 112515,
+                "name": "Zürich (Kreis 4)  Aussersihl"
+            },
+            {
+                "id": 112516,
+                "name": "Zürich (Kreis 4)  Hard"
+            },
+            {
+                "id": 112517,
+                "name": "Zürich (Kreis 4) Langstrasse"
+            },
+            {
+                "id": 112518,
+                "name": "Zürich (Kreis 4) Werd"
+            },
+            {
+                "id": 112519,
+                "name": "Zürich (Kreis 5)"
+            },
+            {
+                "id": 112520,
+                "name": "Zürich (Kreis 5) Escher-Wyss"
+            },
+            {
+                "id": 112521,
+                "name": "Zürich (Kreis 5) Gewerbeschule"
+            },
+            {
+                "id": 112522,
+                "name": "Zürich (Kreis 6)"
+            },
+            {
+                "id": 112523,
+                "name": "Zürich (Kreis 6)  Oberstrass"
+            },
+            {
+                "id": 112524,
+                "name": "Zürich (Kreis 6)  Unterstrass"
+            },
+            {
+                "id": 112525,
+                "name": "Zürich (Kreis 7)"
+            },
+            {
+                "id": 112526,
+                "name": "Zürich (Kreis 7)  Fluntern"
+            },
+            {
+                "id": 112527,
+                "name": "Zürich (Kreis 7)  Hirslanden"
+            },
+            {
+                "id": 112528,
+                "name": "Zürich (Kreis 7)  Hottingen"
+            },
+            {
+                "id": 112529,
+                "name": "Zürich (Kreis 7)  Witikon"
+            },
+            {
+                "id": 112530,
+                "name": "Zürich (Kreis 8)"
+            },
+            {
+                "id": 112531,
+                "name": "Zürich (Kreis 8)  Mühlebach"
+            },
+            {
+                "id": 112532,
+                "name": "Zürich (Kreis 8)  Seefeld"
+            },
+            {
+                "id": 112533,
+                "name": "Zürich (Kreis 8)  Weinegg"
+            },
+            {
+                "id": 112534,
+                "name": "Zürich (Kreis 9)"
+            },
+            {
+                "id": 112535,
+                "name": "Zürich (Kreis 9)  Albisrieden"
+            },
+            {
+                "id": 112536,
+                "name": "Zürich (Kreis 9)  Altstetten"
+            }
+        ]
+    },
+    {
+        "id": 3939,
+        "name": "Glarus",
+        "cities": [
+            {
+                "id": 112537,
+                "name": "Bilten"
+            },
+            {
+                "id": 112538,
+                "name": "Ennenda"
+            },
+            {
+                "id": 112539,
+                "name": "Glarus"
+            },
+            {
+                "id": 112540,
+                "name": "Linthal"
+            },
+            {
+                "id": 112541,
+                "name": "Luchsingen"
+            },
+            {
+                "id": 112542,
+                "name": "Mollis"
+            },
+            {
+                "id": 112543,
+                "name": "Näfels"
+            },
+            {
+                "id": 112544,
+                "name": "Netstal"
+            },
+            {
+                "id": 112545,
+                "name": "Niederurnen"
+            },
+            {
+                "id": 112546,
+                "name": "Oberurnen"
+            },
+            {
+                "id": 112547,
+                "name": "Schwanden"
+            }
+        ]
+    },
+    {
+        "id": 3940,
+        "name": "Graubünden",
+        "cities": [
+            {
+                "id": 112548,
+                "name": "Arosa"
+            },
+            {
+                "id": 112549,
+                "name": "Arvigo"
+            },
+            {
+                "id": 112550,
+                "name": "Bonaduz"
+            },
+            {
+                "id": 112551,
+                "name": "Breíl"
+            },
+            {
+                "id": 112552,
+                "name": "Brusio"
+            },
+            {
+                "id": 112553,
+                "name": "Buseno"
+            },
+            {
+                "id": 112554,
+                "name": "Cauco"
+            },
+            {
+                "id": 112555,
+                "name": "Cazis"
+            },
+            {
+                "id": 112556,
+                "name": "Celerina"
+            },
+            {
+                "id": 112557,
+                "name": "Chur"
+            },
+            {
+                "id": 112558,
+                "name": "Churwalden"
+            },
+            {
+                "id": 112559,
+                "name": "Davos"
+            },
+            {
+                "id": 112560,
+                "name": "Disentis"
+            },
+            {
+                "id": 112561,
+                "name": "Domat"
+            },
+            {
+                "id": 112562,
+                "name": "Felsberg"
+            },
+            {
+                "id": 112563,
+                "name": "Flims"
+            },
+            {
+                "id": 112564,
+                "name": "Grüsch"
+            },
+            {
+                "id": 112565,
+                "name": "Hinterrhein"
+            },
+            {
+                "id": 112566,
+                "name": "Igis"
+            },
+            {
+                "id": 112567,
+                "name": "Ilanz"
+            },
+            {
+                "id": 112568,
+                "name": "Jenaz"
+            },
+            {
+                "id": 112569,
+                "name": "Klosters Serneus"
+            },
+            {
+                "id": 112570,
+                "name": "La Punt Chamues-ch"
+            },
+            {
+                "id": 112571,
+                "name": "Laax"
+            },
+            {
+                "id": 112572,
+                "name": "Landquart"
+            },
+            {
+                "id": 112573,
+                "name": "Lenzerheide"
+            },
+            {
+                "id": 112574,
+                "name": "Luzein"
+            },
+            {
+                "id": 112575,
+                "name": "Maienfeld"
+            },
+            {
+                "id": 112576,
+                "name": "Malans"
+            },
+            {
+                "id": 112577,
+                "name": "Mesocco"
+            },
+            {
+                "id": 112578,
+                "name": "Pontresina"
+            },
+            {
+                "id": 112579,
+                "name": "Poschiavo"
+            },
+            {
+                "id": 112580,
+                "name": "Region Albula"
+            },
+            {
+                "id": 112581,
+                "name": "Region Bernina"
+            },
+            {
+                "id": 112582,
+                "name": "Region Engiadina Bassa  Val Müstair"
+            },
+            {
+                "id": 112583,
+                "name": "Region Imboden"
+            },
+            {
+                "id": 112584,
+                "name": "Region Landquart"
+            },
+            {
+                "id": 112585,
+                "name": "Region Maloja"
+            },
+            {
+                "id": 112586,
+                "name": "Region Moesa"
+            },
+            {
+                "id": 112587,
+                "name": "Region Plessur"
+            },
+            {
+                "id": 112588,
+                "name": "Region Prättigau  Davos"
+            },
+            {
+                "id": 112589,
+                "name": "Region Surselva"
+            },
+            {
+                "id": 112590,
+                "name": "Region Viamala"
+            },
+            {
+                "id": 112591,
+                "name": "Rhäzüns"
+            },
+            {
+                "id": 112592,
+                "name": "Samedan"
+            },
+            {
+                "id": 112593,
+                "name": "Scharans"
+            },
+            {
+                "id": 112594,
+                "name": "Schiers"
+            },
+            {
+                "id": 112595,
+                "name": "Scuol"
+            },
+            {
+                "id": 112596,
+                "name": "Silvaplana"
+            },
+            {
+                "id": 112597,
+                "name": "St. Moritz"
+            },
+            {
+                "id": 112598,
+                "name": "Tamins"
+            },
+            {
+                "id": 112599,
+                "name": "Thusis"
+            },
+            {
+                "id": 112600,
+                "name": "Tiefencastel"
+            },
+            {
+                "id": 112601,
+                "name": "Trimmis"
+            },
+            {
+                "id": 112602,
+                "name": "Trun"
+            },
+            {
+                "id": 112603,
+                "name": "Untervaz"
+            },
+            {
+                "id": 112604,
+                "name": "Vals Platz"
+            },
+            {
+                "id": 112605,
+                "name": "Zernez"
+            },
+            {
+                "id": 112606,
+                "name": "Zizers"
+            },
+            {
+                "id": 112607,
+                "name": "Zuoz"
+            }
+        ]
+    },
+    {
+        "id": 3941,
+        "name": "Nidwalden",
+        "cities": [
+            {
+                "id": 112608,
+                "name": "Beckenried"
+            },
+            {
+                "id": 112609,
+                "name": "Buochs"
+            },
+            {
+                "id": 112610,
+                "name": "Dallenwil"
+            },
+            {
+                "id": 112611,
+                "name": "Emmetten"
+            },
+            {
+                "id": 112612,
+                "name": "Ennetbürgen"
+            },
+            {
+                "id": 112613,
+                "name": "Hergiswil"
+            },
+            {
+                "id": 112614,
+                "name": "Stans"
+            },
+            {
+                "id": 112615,
+                "name": "Stansstad"
+            },
+            {
+                "id": 112616,
+                "name": "Wolfenschiessen"
+            }
+        ]
+    },
+    {
+        "id": 3942,
+        "name": "Obwalden",
+        "cities": [
+            {
+                "id": 112617,
+                "name": "Alpnach"
+            },
+            {
+                "id": 112618,
+                "name": "Engelberg"
+            },
+            {
+                "id": 112619,
+                "name": "Giswil"
+            },
+            {
+                "id": 112620,
+                "name": "Kerns"
+            },
+            {
+                "id": 112621,
+                "name": "Lungern"
+            },
+            {
+                "id": 112622,
+                "name": "Sachseln"
+            },
+            {
+                "id": 112623,
+                "name": "Sarnen"
+            }
+        ]
+    },
+    {
+        "id": 3943,
+        "name": "Schwyz",
+        "cities": [
+            {
+                "id": 112624,
+                "name": "Altendorf"
+            },
+            {
+                "id": 112625,
+                "name": "Arth"
+            },
+            {
+                "id": 112626,
+                "name": "Bäch"
+            },
+            {
+                "id": 112627,
+                "name": "Bezirk Einsiedeln"
+            },
+            {
+                "id": 112628,
+                "name": "Bezirk Gersau"
+            },
+            {
+                "id": 112629,
+                "name": "Bezirk Höfe"
+            },
+            {
+                "id": 112630,
+                "name": "Bezirk Küssnacht"
+            },
+            {
+                "id": 112631,
+                "name": "Bezirk March"
+            },
+            {
+                "id": 112632,
+                "name": "Bezirk Schwyz"
+            },
+            {
+                "id": 112633,
+                "name": "Einsiedeln"
+            },
+            {
+                "id": 112634,
+                "name": "Feusisberg"
+            },
+            {
+                "id": 112635,
+                "name": "Freienbach"
+            },
+            {
+                "id": 112636,
+                "name": "Gersau"
+            },
+            {
+                "id": 112637,
+                "name": "Goldau"
+            },
+            {
+                "id": 112638,
+                "name": "Ibach"
+            },
+            {
+                "id": 112639,
+                "name": "Ingenbohl"
+            },
+            {
+                "id": 112640,
+                "name": "Küssnacht"
+            },
+            {
+                "id": 112641,
+                "name": "Lachen"
+            },
+            {
+                "id": 112642,
+                "name": "Muotathal"
+            },
+            {
+                "id": 112643,
+                "name": "Pfäffikon"
+            },
+            {
+                "id": 112644,
+                "name": "Reichenburg"
+            },
+            {
+                "id": 112645,
+                "name": "Rothenthurm"
+            },
+            {
+                "id": 112646,
+                "name": "Sattel"
+            },
+            {
+                "id": 112647,
+                "name": "Schindellegi"
+            },
+            {
+                "id": 112648,
+                "name": "Schübelbach"
+            },
+            {
+                "id": 112649,
+                "name": "Schwyz"
+            },
+            {
+                "id": 112650,
+                "name": "Siebnen"
+            },
+            {
+                "id": 112651,
+                "name": "Steinen"
+            },
+            {
+                "id": 112652,
+                "name": "Tuggen"
+            },
+            {
+                "id": 112653,
+                "name": "Unteriberg"
+            },
+            {
+                "id": 112654,
+                "name": "Vorderthal"
+            },
+            {
+                "id": 112655,
+                "name": "Wollerau"
+            }
+        ]
+    },
+    {
+        "id": 3944,
+        "name": "Thurgau",
+        "cities": [
+            {
+                "id": 112656,
+                "name": "Aadorf"
+            },
+            {
+                "id": 112657,
+                "name": "Affeltrangen"
+            },
+            {
+                "id": 112658,
+                "name": "Altnau"
+            },
+            {
+                "id": 112659,
+                "name": "Amriswil"
+            },
+            {
+                "id": 112660,
+                "name": "Arbon"
+            },
+            {
+                "id": 112661,
+                "name": "Arbon District"
+            },
+            {
+                "id": 112662,
+                "name": "Berg"
+            },
+            {
+                "id": 112663,
+                "name": "Bottighofen"
+            },
+            {
+                "id": 112664,
+                "name": "Bürglen"
+            },
+            {
+                "id": 112665,
+                "name": "Diessenhofen"
+            },
+            {
+                "id": 112666,
+                "name": "Egnach"
+            },
+            {
+                "id": 112667,
+                "name": "Erlen"
+            },
+            {
+                "id": 112668,
+                "name": "Ermatingen"
+            },
+            {
+                "id": 112669,
+                "name": "Eschenz"
+            },
+            {
+                "id": 112670,
+                "name": "Eschlikon"
+            },
+            {
+                "id": 112671,
+                "name": "Fischingen"
+            },
+            {
+                "id": 112672,
+                "name": "Frauenfeld"
+            },
+            {
+                "id": 112673,
+                "name": "Frauenfeld District"
+            },
+            {
+                "id": 112674,
+                "name": "Gachnang"
+            },
+            {
+                "id": 112675,
+                "name": "Gottlieben"
+            },
+            {
+                "id": 112676,
+                "name": "Güttingen"
+            },
+            {
+                "id": 112677,
+                "name": "Homburg"
+            },
+            {
+                "id": 112678,
+                "name": "Hüttwilen"
+            },
+            {
+                "id": 112679,
+                "name": "Kreuzlingen"
+            },
+            {
+                "id": 112680,
+                "name": "Kreuzlingen District"
+            },
+            {
+                "id": 112681,
+                "name": "Langrickenbach"
+            },
+            {
+                "id": 112682,
+                "name": "Märstetten-Dorf"
+            },
+            {
+                "id": 112683,
+                "name": "Matzingen"
+            },
+            {
+                "id": 112684,
+                "name": "Müllheim"
+            },
+            {
+                "id": 112685,
+                "name": "Münchwilen"
+            },
+            {
+                "id": 112686,
+                "name": "Münchwilen District"
+            },
+            {
+                "id": 112687,
+                "name": "Münsterlingen"
+            },
+            {
+                "id": 112688,
+                "name": "Pfyn"
+            },
+            {
+                "id": 112689,
+                "name": "Rickenbach bei Wil"
+            },
+            {
+                "id": 112690,
+                "name": "Roggwil"
+            },
+            {
+                "id": 112691,
+                "name": "Romanshorn"
+            },
+            {
+                "id": 112692,
+                "name": "Salmsach"
+            },
+            {
+                "id": 112693,
+                "name": "Sirnach"
+            },
+            {
+                "id": 112694,
+                "name": "Steckborn"
+            },
+            {
+                "id": 112695,
+                "name": "Stettfurt"
+            },
+            {
+                "id": 112696,
+                "name": "Sulgen"
+            },
+            {
+                "id": 112697,
+                "name": "Tägerwilen"
+            },
+            {
+                "id": 112698,
+                "name": "Thundorf"
+            },
+            {
+                "id": 112699,
+                "name": "Uttwil"
+            },
+            {
+                "id": 112700,
+                "name": "Wagenhausen"
+            },
+            {
+                "id": 112701,
+                "name": "Wängi"
+            },
+            {
+                "id": 112702,
+                "name": "Weinfelden"
+            },
+            {
+                "id": 112703,
+                "name": "Weinfelden District"
+            },
+            {
+                "id": 112704,
+                "name": "Wigoltingen"
+            }
+        ]
+    },
+    {
+        "id": 3945,
+        "name": "Ticino",
+        "cities": [
+            {
+                "id": 112705,
+                "name": "Acquarossa"
+            },
+            {
+                "id": 112706,
+                "name": "Agno"
+            },
+            {
+                "id": 112707,
+                "name": "Airolo"
+            },
+            {
+                "id": 112708,
+                "name": "Arzo"
+            },
+            {
+                "id": 112709,
+                "name": "Ascona"
+            },
+            {
+                "id": 112710,
+                "name": "Balerna"
+            },
+            {
+                "id": 112711,
+                "name": "Bellinzona"
+            },
+            {
+                "id": 112712,
+                "name": "Bellinzona District"
+            },
+            {
+                "id": 112713,
+                "name": "Biasca"
+            },
+            {
+                "id": 112714,
+                "name": "Bioggio"
+            },
+            {
+                "id": 112715,
+                "name": "Blenio District"
+            },
+            {
+                "id": 112716,
+                "name": "Bodio"
+            },
+            {
+                "id": 112717,
+                "name": "Brissago"
+            },
+            {
+                "id": 112718,
+                "name": "Cadempino"
+            },
+            {
+                "id": 112719,
+                "name": "Cadenazzo"
+            },
+            {
+                "id": 112720,
+                "name": "Cadro"
+            },
+            {
+                "id": 112721,
+                "name": "Camorino"
+            },
+            {
+                "id": 112722,
+                "name": "Canobbio"
+            },
+            {
+                "id": 112723,
+                "name": "Caslano"
+            },
+            {
+                "id": 112724,
+                "name": "Castel San Pietro"
+            },
+            {
+                "id": 112725,
+                "name": "Cevio"
+            },
+            {
+                "id": 112726,
+                "name": "Chiasso"
+            },
+            {
+                "id": 112727,
+                "name": "Claro"
+            },
+            {
+                "id": 112728,
+                "name": "Comano"
+            },
+            {
+                "id": 112729,
+                "name": "Cugnasco"
+            },
+            {
+                "id": 112730,
+                "name": "Faido"
+            },
+            {
+                "id": 112731,
+                "name": "Giubiasco"
+            },
+            {
+                "id": 112732,
+                "name": "Gordola"
+            },
+            {
+                "id": 112733,
+                "name": "Gravesano"
+            },
+            {
+                "id": 112734,
+                "name": "Lavertezzo"
+            },
+            {
+                "id": 112735,
+                "name": "Leventina District"
+            },
+            {
+                "id": 112736,
+                "name": "Ligornetto"
+            },
+            {
+                "id": 112737,
+                "name": "Locarno"
+            },
+            {
+                "id": 112738,
+                "name": "Locarno District"
+            },
+            {
+                "id": 112739,
+                "name": "Lodrino"
+            },
+            {
+                "id": 112740,
+                "name": "Losone"
+            },
+            {
+                "id": 112741,
+                "name": "Lugano"
+            },
+            {
+                "id": 112742,
+                "name": "Lugano District"
+            },
+            {
+                "id": 112743,
+                "name": "Lumino"
+            },
+            {
+                "id": 112744,
+                "name": "Magadino"
+            },
+            {
+                "id": 112745,
+                "name": "Malvaglia"
+            },
+            {
+                "id": 112746,
+                "name": "Massagno"
+            },
+            {
+                "id": 112747,
+                "name": "Melano"
+            },
+            {
+                "id": 112748,
+                "name": "Melide"
+            },
+            {
+                "id": 112749,
+                "name": "Mendrisio"
+            },
+            {
+                "id": 112750,
+                "name": "Mendrisio District"
+            },
+            {
+                "id": 112751,
+                "name": "Minusio"
+            },
+            {
+                "id": 112752,
+                "name": "Montagnola"
+            },
+            {
+                "id": 112753,
+                "name": "Monte Carasso"
+            },
+            {
+                "id": 112754,
+                "name": "Morbio Inferiore"
+            },
+            {
+                "id": 112755,
+                "name": "Muralto"
+            },
+            {
+                "id": 112756,
+                "name": "Novazzano"
+            },
+            {
+                "id": 112757,
+                "name": "Pregassona"
+            },
+            {
+                "id": 112758,
+                "name": "Pura"
+            },
+            {
+                "id": 112759,
+                "name": "Riva San Vitale"
+            },
+            {
+                "id": 112760,
+                "name": "Riviera District"
+            },
+            {
+                "id": 112761,
+                "name": "Sementina"
+            },
+            {
+                "id": 112762,
+                "name": "Sorengo"
+            },
+            {
+                "id": 112763,
+                "name": "Stabio"
+            },
+            {
+                "id": 112764,
+                "name": "Tesserete"
+            },
+            {
+                "id": 112765,
+                "name": "Vallemaggia District"
+            },
+            {
+                "id": 112766,
+                "name": "Verscio"
+            },
+            {
+                "id": 112767,
+                "name": "Viganello"
+            }
+        ]
+    },
+    {
+        "id": 3946,
+        "name": "Uri",
+        "cities": [
+            {
+                "id": 112768,
+                "name": "Altdorf"
+            },
+            {
+                "id": 112769,
+                "name": "Andermatt"
+            },
+            {
+                "id": 112770,
+                "name": "Attinghausen"
+            },
+            {
+                "id": 112771,
+                "name": "Bauen"
+            },
+            {
+                "id": 112772,
+                "name": "Bürglen"
+            },
+            {
+                "id": 112773,
+                "name": "Erstfeld"
+            },
+            {
+                "id": 112774,
+                "name": "Flüelen"
+            },
+            {
+                "id": 112775,
+                "name": "Schattdorf"
+            },
+            {
+                "id": 112776,
+                "name": "Seedorf"
+            },
+            {
+                "id": 112777,
+                "name": "Silenen"
+            }
+        ]
+    }
+]

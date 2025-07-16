@@ -1,0 +1,65 @@
+[
+    {
+        "id": 4482,
+        "name": "Malampa",
+        "cities": [
+            {
+                "id": 138319,
+                "name": "Lakatoro"
+            },
+            {
+                "id": 138320,
+                "name": "Norsup"
+            }
+        ]
+    },
+    {
+        "id": 4483,
+        "name": "Penama",
+        "cities": []
+    },
+    {
+        "id": 4484,
+        "name": "Sanma",
+        "cities": [
+            {
+                "id": 138321,
+                "name": "Luganville"
+            },
+            {
+                "id": 138322,
+                "name": "Port-Olry"
+            }
+        ]
+    },
+    {
+        "id": 4485,
+        "name": "Shefa",
+        "cities": [
+            {
+                "id": 138323,
+                "name": "Port-Vila"
+            }
+        ]
+    },
+    {
+        "id": 4486,
+        "name": "Tafea",
+        "cities": [
+            {
+                "id": 138324,
+                "name": "Isangel"
+            }
+        ]
+    },
+    {
+        "id": 4487,
+        "name": "Torba",
+        "cities": [
+            {
+                "id": 138325,
+                "name": "Sola"
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+[
+    {
+        "id": 4230,
+        "name": "Funafuti",
+        "cities": [
+            {
+                "id": 116674,
+                "name": "Alapi Village"
+            },
+            {
+                "id": 116675,
+                "name": "Fakaifou Village"
+            },
+            {
+                "id": 116676,
+                "name": "Funafuti"
+            }
+        ]
+    },
+    {
+        "id": 4231,
+        "name": "Nanumanga",
+        "cities": [
+            {
+                "id": 116677,
+                "name": "Toga Village"
+            }
+        ]
+    },
+    {
+        "id": 4232,
+        "name": "Nanumea",
+        "cities": []
+    },
+    {
+        "id": 4233,
+        "name": "Niutao Island Council",
+        "cities": [
+            {
+                "id": 116678,
+                "name": "Kulia Village"
+            },
+            {
+                "id": 116679,
+                "name": "Niulakita"
+            }
+        ]
+    },
+    {
+        "id": 4234,
+        "name": "Nui",
+        "cities": [
+            {
+                "id": 116680,
+                "name": "Tanrake Village"
+            }
+        ]
+    },
+    {
+        "id": 4235,
+        "name": "Nukufetau",
+        "cities": [
+            {
+                "id": 116681,
+                "name": "Savave Village"
+            }
+        ]
+    },
+    {
+        "id": 4236,
+        "name": "Nukulaelae",
+        "cities": []
+    },
+    {
+        "id": 4237,
+        "name": "Vaitupu",
+        "cities": [
+            {
+                "id": 116682,
+                "name": "Asau Village"
+            }
+        ]
+    }
+]

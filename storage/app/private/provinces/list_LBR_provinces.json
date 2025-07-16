@@ -1,0 +1,164 @@
+[
+    {
+        "id": 2215,
+        "name": "Bomi County",
+        "cities": [
+            {
+                "id": 64018,
+                "name": "Tubmanburg"
+            }
+        ]
+    },
+    {
+        "id": 2216,
+        "name": "Bong County",
+        "cities": [
+            {
+                "id": 64019,
+                "name": "Gbarnga"
+            }
+        ]
+    },
+    {
+        "id": 2217,
+        "name": "Gbarpolu County",
+        "cities": [
+            {
+                "id": 64020,
+                "name": "Bopolu"
+            }
+        ]
+    },
+    {
+        "id": 2218,
+        "name": "Grand Bassa County",
+        "cities": [
+            {
+                "id": 64021,
+                "name": "Buchanan"
+            }
+        ]
+    },
+    {
+        "id": 2219,
+        "name": "Grand Cape Mount County",
+        "cities": [
+            {
+                "id": 64022,
+                "name": "Robertsport"
+            }
+        ]
+    },
+    {
+        "id": 2220,
+        "name": "Grand Gedeh County",
+        "cities": [
+            {
+                "id": 64023,
+                "name": "Zwedru"
+            }
+        ]
+    },
+    {
+        "id": 2221,
+        "name": "Grand Kru County",
+        "cities": [
+            {
+                "id": 64024,
+                "name": "Barclayville"
+            }
+        ]
+    },
+    {
+        "id": 2222,
+        "name": "Lofa County",
+        "cities": [
+            {
+                "id": 64025,
+                "name": "Voinjama"
+            }
+        ]
+    },
+    {
+        "id": 2223,
+        "name": "Margibi County",
+        "cities": [
+            {
+                "id": 64026,
+                "name": "Kakata"
+            }
+        ]
+    },
+    {
+        "id": 2224,
+        "name": "Maryland County",
+        "cities": [
+            {
+                "id": 64027,
+                "name": "Harper"
+            }
+        ]
+    },
+    {
+        "id": 2225,
+        "name": "Montserrado County",
+        "cities": [
+            {
+                "id": 64028,
+                "name": "Bensonville"
+            },
+            {
+                "id": 64029,
+                "name": "Monrovia"
+            }
+        ]
+    },
+    {
+        "id": 2226,
+        "name": "Nimba",
+        "cities": [
+            {
+                "id": 64030,
+                "name": "Ganta"
+            },
+            {
+                "id": 64031,
+                "name": "New Yekepa"
+            },
+            {
+                "id": 64032,
+                "name": "Sanniquellie"
+            }
+        ]
+    },
+    {
+        "id": 2227,
+        "name": "River Cess County",
+        "cities": [
+            {
+                "id": 64033,
+                "name": "Cestos City"
+            }
+        ]
+    },
+    {
+        "id": 2228,
+        "name": "River Gee County",
+        "cities": [
+            {
+                "id": 64034,
+                "name": "Fish Town"
+            }
+        ]
+    },
+    {
+        "id": 2229,
+        "name": "Sinoe County",
+        "cities": [
+            {
+                "id": 64035,
+                "name": "Greenville"
+            }
+        ]
+    }
+]

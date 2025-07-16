@@ -1,0 +1,648 @@
+[
+    {
+        "id": 1225,
+        "name": "Addis Ababa",
+        "cities": [
+            {
+                "id": 24382,
+                "name": "Addis Ababa"
+            }
+        ]
+    },
+    {
+        "id": 1226,
+        "name": "Afar Region",
+        "cities": [
+            {
+                "id": 24383,
+                "name": "Administrative Zone 2"
+            },
+            {
+                "id": 24384,
+                "name": "Administrative Zone 3"
+            },
+            {
+                "id": 24385,
+                "name": "Asaita"
+            },
+            {
+                "id": 24386,
+                "name": "Āwash"
+            },
+            {
+                "id": 24387,
+                "name": "Dubti"
+            },
+            {
+                "id": 24388,
+                "name": "Gewanē"
+            },
+            {
+                "id": 24389,
+                "name": "Semera"
+            }
+        ]
+    },
+    {
+        "id": 1227,
+        "name": "Amhara Region",
+        "cities": [
+            {
+                "id": 24390,
+                "name": "Abomsa"
+            },
+            {
+                "id": 24391,
+                "name": "Addiet Canna"
+            },
+            {
+                "id": 24392,
+                "name": "Ādīs Zemen"
+            },
+            {
+                "id": 24393,
+                "name": "Bahir Dar"
+            },
+            {
+                "id": 24394,
+                "name": "Batī"
+            },
+            {
+                "id": 24395,
+                "name": "Bichena"
+            },
+            {
+                "id": 24396,
+                "name": "Burē"
+            },
+            {
+                "id": 24397,
+                "name": "Dabat"
+            },
+            {
+                "id": 24398,
+                "name": "Debark’"
+            },
+            {
+                "id": 24399,
+                "name": "Debre Birhan"
+            },
+            {
+                "id": 24400,
+                "name": "Debre Mark’os"
+            },
+            {
+                "id": 24401,
+                "name": "Debre Sīna"
+            },
+            {
+                "id": 24402,
+                "name": "Debre Tabor"
+            },
+            {
+                "id": 24403,
+                "name": "Debre Werk’"
+            },
+            {
+                "id": 24404,
+                "name": "Dejen"
+            },
+            {
+                "id": 24405,
+                "name": "Desē"
+            },
+            {
+                "id": 24406,
+                "name": "Finote Selam"
+            },
+            {
+                "id": 24407,
+                "name": "Gondar"
+            },
+            {
+                "id": 24408,
+                "name": "Kemisē"
+            },
+            {
+                "id": 24409,
+                "name": "Kombolcha"
+            },
+            {
+                "id": 24410,
+                "name": "Lalībela"
+            },
+            {
+                "id": 24411,
+                "name": "North Shewa Zone"
+            },
+            {
+                "id": 24412,
+                "name": "North Wollo Zone"
+            },
+            {
+                "id": 24413,
+                "name": "Robīt"
+            },
+            {
+                "id": 24414,
+                "name": "South Gondar Zone"
+            },
+            {
+                "id": 24415,
+                "name": "South Wollo Zone"
+            },
+            {
+                "id": 24416,
+                "name": "Wag Hemra Zone"
+            },
+            {
+                "id": 24417,
+                "name": "Were Īlu"
+            },
+            {
+                "id": 24418,
+                "name": "Werota"
+            }
+        ]
+    },
+    {
+        "id": 1228,
+        "name": "Benishangul-Gumuz Region",
+        "cities": [
+            {
+                "id": 24419,
+                "name": "Āsosa"
+            },
+            {
+                "id": 24420,
+                "name": "Asosa"
+            },
+            {
+                "id": 24421,
+                "name": "Metekel"
+            }
+        ]
+    },
+    {
+        "id": 1229,
+        "name": "Dire Dawa",
+        "cities": [
+            {
+                "id": 24422,
+                "name": "Dire Dawa"
+            }
+        ]
+    },
+    {
+        "id": 1230,
+        "name": "Gambela Region",
+        "cities": [
+            {
+                "id": 24423,
+                "name": "Administrative Zone 1"
+            },
+            {
+                "id": 24424,
+                "name": "Gambēla"
+            }
+        ]
+    },
+    {
+        "id": 1231,
+        "name": "Harari Region",
+        "cities": [
+            {
+                "id": 24425,
+                "name": "Harar"
+            }
+        ]
+    },
+    {
+        "id": 1232,
+        "name": "Oromia Region",
+        "cities": [
+            {
+                "id": 24426,
+                "name": "Ādīs ‘Alem"
+            },
+            {
+                "id": 24427,
+                "name": "Āgaro"
+            },
+            {
+                "id": 24428,
+                "name": "Arsi Zone"
+            },
+            {
+                "id": 24429,
+                "name": "Āsasa"
+            },
+            {
+                "id": 24430,
+                "name": "Āsbe Teferī"
+            },
+            {
+                "id": 24431,
+                "name": "Bedelē"
+            },
+            {
+                "id": 24432,
+                "name": "Bedēsa"
+            },
+            {
+                "id": 24433,
+                "name": "Bishoftu"
+            },
+            {
+                "id": 24434,
+                "name": "Deder"
+            },
+            {
+                "id": 24435,
+                "name": "Dembī Dolo"
+            },
+            {
+                "id": 24436,
+                "name": "Dodola"
+            },
+            {
+                "id": 24437,
+                "name": "East Harerghe Zone"
+            },
+            {
+                "id": 24438,
+                "name": "East Shewa Zone"
+            },
+            {
+                "id": 24439,
+                "name": "East Wellega Zone"
+            },
+            {
+                "id": 24440,
+                "name": "Fichē"
+            },
+            {
+                "id": 24441,
+                "name": "Gebre Guracha"
+            },
+            {
+                "id": 24442,
+                "name": "Gēdo"
+            },
+            {
+                "id": 24443,
+                "name": "Gelemso"
+            },
+            {
+                "id": 24444,
+                "name": "Genet"
+            },
+            {
+                "id": 24445,
+                "name": "Gimbi"
+            },
+            {
+                "id": 24446,
+                "name": "Ginir"
+            },
+            {
+                "id": 24447,
+                "name": "Goba"
+            },
+            {
+                "id": 24448,
+                "name": "Gorē"
+            },
+            {
+                "id": 24449,
+                "name": "Guji Zone"
+            },
+            {
+                "id": 24450,
+                "name": "Hāgere Hiywet"
+            },
+            {
+                "id": 24451,
+                "name": "Hagere Maryam"
+            },
+            {
+                "id": 24452,
+                "name": "Hīrna"
+            },
+            {
+                "id": 24453,
+                "name": "Huruta"
+            },
+            {
+                "id": 24454,
+                "name": "Illubabor Zone"
+            },
+            {
+                "id": 24455,
+                "name": "Jimma"
+            },
+            {
+                "id": 24456,
+                "name": "Jimma Zone"
+            },
+            {
+                "id": 24457,
+                "name": "Kibre Mengist"
+            },
+            {
+                "id": 24458,
+                "name": "Kofelē"
+            },
+            {
+                "id": 24459,
+                "name": "Mēga"
+            },
+            {
+                "id": 24460,
+                "name": "Mendī"
+            },
+            {
+                "id": 24461,
+                "name": "Metahāra"
+            },
+            {
+                "id": 24462,
+                "name": "Metu"
+            },
+            {
+                "id": 24463,
+                "name": "Mojo"
+            },
+            {
+                "id": 24464,
+                "name": "Nazrēt"
+            },
+            {
+                "id": 24465,
+                "name": "Nejo"
+            },
+            {
+                "id": 24466,
+                "name": "North Shewa Zone"
+            },
+            {
+                "id": 24467,
+                "name": "Sebeta"
+            },
+            {
+                "id": 24468,
+                "name": "Sendafa"
+            },
+            {
+                "id": 24469,
+                "name": "Shakiso"
+            },
+            {
+                "id": 24470,
+                "name": "Shambu"
+            },
+            {
+                "id": 24471,
+                "name": "Shashemenē"
+            },
+            {
+                "id": 24472,
+                "name": "Sirre"
+            },
+            {
+                "id": 24473,
+                "name": "Tulu Bolo"
+            },
+            {
+                "id": 24474,
+                "name": "Waliso"
+            },
+            {
+                "id": 24475,
+                "name": "Wenjī"
+            },
+            {
+                "id": 24476,
+                "name": "West Harerghe Zone"
+            },
+            {
+                "id": 24477,
+                "name": "West Wellega Zone"
+            },
+            {
+                "id": 24478,
+                "name": "Yabēlo"
+            },
+            {
+                "id": 24479,
+                "name": "Ziway"
+            }
+        ]
+    },
+    {
+        "id": 1233,
+        "name": "Somali Region",
+        "cities": [
+            {
+                "id": 24480,
+                "name": "Afder Zone"
+            },
+            {
+                "id": 24481,
+                "name": "Degehabur Zone"
+            },
+            {
+                "id": 24482,
+                "name": "Gode Zone"
+            },
+            {
+                "id": 24483,
+                "name": "Jijiga"
+            },
+            {
+                "id": 24484,
+                "name": "Liben zone"
+            },
+            {
+                "id": 24485,
+                "name": "Shinile Zone"
+            }
+        ]
+    },
+    {
+        "id": 1234,
+        "name": "Southern Nations, Nationalities, and Peoples' Region",
+        "cities": [
+            {
+                "id": 24486,
+                "name": "Alaba Special Wereda"
+            },
+            {
+                "id": 24487,
+                "name": "Arba Minch"
+            },
+            {
+                "id": 24488,
+                "name": "Āreka"
+            },
+            {
+                "id": 24489,
+                "name": "Bako"
+            },
+            {
+                "id": 24490,
+                "name": "Bench Maji Zone"
+            },
+            {
+                "id": 24491,
+                "name": "Bodītī"
+            },
+            {
+                "id": 24492,
+                "name": "Bonga"
+            },
+            {
+                "id": 24493,
+                "name": "Butajīra"
+            },
+            {
+                "id": 24494,
+                "name": "Dīla"
+            },
+            {
+                "id": 24495,
+                "name": "Felege Neway"
+            },
+            {
+                "id": 24496,
+                "name": "Gedeo Zone"
+            },
+            {
+                "id": 24497,
+                "name": "Gīdolē"
+            },
+            {
+                "id": 24498,
+                "name": "Guraghe Zone"
+            },
+            {
+                "id": 24499,
+                "name": "Hadiya Zone"
+            },
+            {
+                "id": 24500,
+                "name": "Hāgere Selam"
+            },
+            {
+                "id": 24501,
+                "name": "Hawassa"
+            },
+            {
+                "id": 24502,
+                "name": "Hosa’ina"
+            },
+            {
+                "id": 24503,
+                "name": "Jinka"
+            },
+            {
+                "id": 24504,
+                "name": "K’olīto"
+            },
+            {
+                "id": 24505,
+                "name": "Kembata Alaba Tembaro Zone"
+            },
+            {
+                "id": 24506,
+                "name": "Konso"
+            },
+            {
+                "id": 24507,
+                "name": "Leku"
+            },
+            {
+                "id": 24508,
+                "name": "Lobuni"
+            },
+            {
+                "id": 24509,
+                "name": "Mīzan Teferī"
+            },
+            {
+                "id": 24510,
+                "name": "Sheka Zone"
+            },
+            {
+                "id": 24511,
+                "name": "Sidama Zone"
+            },
+            {
+                "id": 24512,
+                "name": "Sodo"
+            },
+            {
+                "id": 24513,
+                "name": "Tippi"
+            },
+            {
+                "id": 24514,
+                "name": "Turmi"
+            },
+            {
+                "id": 24515,
+                "name": "Wendo"
+            },
+            {
+                "id": 24516,
+                "name": "Wolayita Zone"
+            },
+            {
+                "id": 24517,
+                "name": "Yem"
+            },
+            {
+                "id": 24518,
+                "name": "Yirga ‘Alem"
+            }
+        ]
+    },
+    {
+        "id": 1235,
+        "name": "Tigray Region",
+        "cities": [
+            {
+                "id": 24519,
+                "name": "Ādīgrat"
+            },
+            {
+                "id": 24520,
+                "name": "Axum"
+            },
+            {
+                "id": 24521,
+                "name": "Inda Silasē"
+            },
+            {
+                "id": 24522,
+                "name": "Korem"
+            },
+            {
+                "id": 24523,
+                "name": "Maych’ew"
+            },
+            {
+                "id": 24524,
+                "name": "Mek'ele"
+            },
+            {
+                "id": 24525,
+                "name": "Southeastern Tigray Zone"
+            },
+            {
+                "id": 24526,
+                "name": "Southern Tigray Zone"
+            }
+        ]
+    }
+]

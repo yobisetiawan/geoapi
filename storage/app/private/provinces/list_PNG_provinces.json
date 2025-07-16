@@ -1,0 +1,532 @@
+[
+    {
+        "id": 3033,
+        "name": "Bougainville",
+        "cities": [
+            {
+                "id": 78834,
+                "name": "Arawa"
+            },
+            {
+                "id": 78835,
+                "name": "Central Bougainville"
+            },
+            {
+                "id": 78836,
+                "name": "Kieta"
+            },
+            {
+                "id": 78837,
+                "name": "North Bougainville"
+            },
+            {
+                "id": 78838,
+                "name": "Panguna"
+            },
+            {
+                "id": 78839,
+                "name": "South Bougainville"
+            }
+        ]
+    },
+    {
+        "id": 3034,
+        "name": "Central Province",
+        "cities": [
+            {
+                "id": 78840,
+                "name": "Abau"
+            },
+            {
+                "id": 78841,
+                "name": "Goilala"
+            },
+            {
+                "id": 78842,
+                "name": "Kairuku-Hiri"
+            },
+            {
+                "id": 78843,
+                "name": "Rigo"
+            }
+        ]
+    },
+    {
+        "id": 3035,
+        "name": "Chimbu Province",
+        "cities": [
+            {
+                "id": 78844,
+                "name": "Chuave"
+            },
+            {
+                "id": 78845,
+                "name": "Gumine"
+            },
+            {
+                "id": 78846,
+                "name": "Karimui Nomane"
+            },
+            {
+                "id": 78847,
+                "name": "Kerowagi"
+            },
+            {
+                "id": 78848,
+                "name": "Kundiawa"
+            },
+            {
+                "id": 78849,
+                "name": "Sinasina Yonggamugl"
+            }
+        ]
+    },
+    {
+        "id": 3036,
+        "name": "East New Britain",
+        "cities": [
+            {
+                "id": 78850,
+                "name": "Gazelle"
+            },
+            {
+                "id": 78851,
+                "name": "Kokopo"
+            },
+            {
+                "id": 78852,
+                "name": "Pomio"
+            },
+            {
+                "id": 78853,
+                "name": "Rabaul"
+            }
+        ]
+    },
+    {
+        "id": 3037,
+        "name": "Eastern Highlands Province",
+        "cities": [
+            {
+                "id": 78854,
+                "name": "Daulo"
+            },
+            {
+                "id": 78855,
+                "name": "Goroka"
+            },
+            {
+                "id": 78856,
+                "name": "Henganofi"
+            },
+            {
+                "id": 78857,
+                "name": "Kainantu"
+            },
+            {
+                "id": 78858,
+                "name": "Lufa"
+            },
+            {
+                "id": 78859,
+                "name": "Obura Wonenara"
+            },
+            {
+                "id": 78860,
+                "name": "Okapa"
+            },
+            {
+                "id": 78861,
+                "name": "Unggai Bena"
+            }
+        ]
+    },
+    {
+        "id": 3038,
+        "name": "Enga Province",
+        "cities": [
+            {
+                "id": 78862,
+                "name": "Kandep"
+            },
+            {
+                "id": 78863,
+                "name": "Kompiam Ambum"
+            },
+            {
+                "id": 78864,
+                "name": "Lagaip Porgera"
+            },
+            {
+                "id": 78865,
+                "name": "Porgera"
+            },
+            {
+                "id": 78866,
+                "name": "Wabag"
+            },
+            {
+                "id": 78867,
+                "name": "Wapenamanda"
+            }
+        ]
+    },
+    {
+        "id": 3039,
+        "name": "Gulf",
+        "cities": [
+            {
+                "id": 78868,
+                "name": "Kerema"
+            },
+            {
+                "id": 78869,
+                "name": "Kikori"
+            }
+        ]
+    },
+    {
+        "id": 3040,
+        "name": "Hela",
+        "cities": [
+            {
+                "id": 78870,
+                "name": "Komo Margarima"
+            },
+            {
+                "id": 78871,
+                "name": "Koroba-Lake Kopiago"
+            },
+            {
+                "id": 78872,
+                "name": "Tari"
+            },
+            {
+                "id": 78873,
+                "name": "Tari Pori"
+            }
+        ]
+    },
+    {
+        "id": 3041,
+        "name": "Jiwaka Province",
+        "cities": [
+            {
+                "id": 78874,
+                "name": "Angalimp South Wahgi"
+            },
+            {
+                "id": 78875,
+                "name": "Jimi"
+            },
+            {
+                "id": 78876,
+                "name": "North Wahgi"
+            }
+        ]
+    },
+    {
+        "id": 3042,
+        "name": "Madang Province",
+        "cities": [
+            {
+                "id": 78877,
+                "name": "Bogia"
+            },
+            {
+                "id": 78878,
+                "name": "Madang"
+            },
+            {
+                "id": 78879,
+                "name": "Middle Ramu"
+            },
+            {
+                "id": 78880,
+                "name": "Rai Coast"
+            },
+            {
+                "id": 78881,
+                "name": "Sumkar"
+            },
+            {
+                "id": 78882,
+                "name": "Usino Bundi"
+            }
+        ]
+    },
+    {
+        "id": 3043,
+        "name": "Manus Province",
+        "cities": [
+            {
+                "id": 78883,
+                "name": "Lorengau"
+            },
+            {
+                "id": 78884,
+                "name": "Manus"
+            }
+        ]
+    },
+    {
+        "id": 3044,
+        "name": "Milne Bay Province",
+        "cities": [
+            {
+                "id": 78885,
+                "name": "Alotau"
+            },
+            {
+                "id": 78886,
+                "name": "Esa’ala"
+            },
+            {
+                "id": 78887,
+                "name": "Kiriwina Goodenough"
+            },
+            {
+                "id": 78888,
+                "name": "Samarai"
+            },
+            {
+                "id": 78889,
+                "name": "Samarai Murua"
+            }
+        ]
+    },
+    {
+        "id": 3045,
+        "name": "Morobe Province",
+        "cities": [
+            {
+                "id": 78890,
+                "name": "Bulolo"
+            },
+            {
+                "id": 78891,
+                "name": "Finschhafen"
+            },
+            {
+                "id": 78892,
+                "name": "Huon Gulf"
+            },
+            {
+                "id": 78893,
+                "name": "Kabwum"
+            },
+            {
+                "id": 78894,
+                "name": "Lae"
+            },
+            {
+                "id": 78895,
+                "name": "Markham"
+            },
+            {
+                "id": 78896,
+                "name": "Menyamya"
+            },
+            {
+                "id": 78897,
+                "name": "Nawae"
+            },
+            {
+                "id": 78898,
+                "name": "Tewai Siassi"
+            },
+            {
+                "id": 78899,
+                "name": "Wau"
+            }
+        ]
+    },
+    {
+        "id": 3046,
+        "name": "New Ireland Province",
+        "cities": [
+            {
+                "id": 78900,
+                "name": "Kavieng"
+            },
+            {
+                "id": 78901,
+                "name": "Namatanai"
+            }
+        ]
+    },
+    {
+        "id": 3047,
+        "name": "Oro Province",
+        "cities": [
+            {
+                "id": 78902,
+                "name": "Ijivitari"
+            },
+            {
+                "id": 78903,
+                "name": "Kokoda"
+            },
+            {
+                "id": 78904,
+                "name": "Popondetta"
+            },
+            {
+                "id": 78905,
+                "name": "Sohe"
+            }
+        ]
+    },
+    {
+        "id": 3048,
+        "name": "Port Moresby",
+        "cities": [
+            {
+                "id": 78906,
+                "name": "National Capital District"
+            },
+            {
+                "id": 78907,
+                "name": "Port Moresby"
+            }
+        ]
+    },
+    {
+        "id": 3049,
+        "name": "Sandaun Province",
+        "cities": [
+            {
+                "id": 78908,
+                "name": "Aitape"
+            },
+            {
+                "id": 78909,
+                "name": "Aitape Lumi"
+            },
+            {
+                "id": 78910,
+                "name": "Nuku"
+            },
+            {
+                "id": 78911,
+                "name": "Telefomin"
+            },
+            {
+                "id": 78912,
+                "name": "Vanimo"
+            },
+            {
+                "id": 78913,
+                "name": "Vanimo Green"
+            }
+        ]
+    },
+    {
+        "id": 3050,
+        "name": "Southern Highlands Province",
+        "cities": [
+            {
+                "id": 78914,
+                "name": "Ialibu"
+            },
+            {
+                "id": 78915,
+                "name": "Ialibu Pangia"
+            },
+            {
+                "id": 78916,
+                "name": "Imbonggu"
+            },
+            {
+                "id": 78917,
+                "name": "Kagua Erave"
+            },
+            {
+                "id": 78918,
+                "name": "Mendi"
+            },
+            {
+                "id": 78919,
+                "name": "Nipa Kutubu"
+            }
+        ]
+    },
+    {
+        "id": 3051,
+        "name": "West New Britain Province",
+        "cities": [
+            {
+                "id": 78920,
+                "name": "Kandrian"
+            },
+            {
+                "id": 78921,
+                "name": "Kandrian Gloucester"
+            },
+            {
+                "id": 78922,
+                "name": "Kimbe"
+            },
+            {
+                "id": 78923,
+                "name": "Talasea"
+            }
+        ]
+    },
+    {
+        "id": 3052,
+        "name": "Western Highlands Province",
+        "cities": [
+            {
+                "id": 78924,
+                "name": "Baiyer Mul"
+            },
+            {
+                "id": 78925,
+                "name": "Dei"
+            },
+            {
+                "id": 78926,
+                "name": "Hagen"
+            },
+            {
+                "id": 78927,
+                "name": "Mount Hagen"
+            },
+            {
+                "id": 78928,
+                "name": "Tambul Nebilyer"
+            }
+        ]
+    },
+    {
+        "id": 3053,
+        "name": "Western Province",
+        "cities": [
+            {
+                "id": 78929,
+                "name": "Daru"
+            },
+            {
+                "id": 78930,
+                "name": "Kiunga"
+            },
+            {
+                "id": 78931,
+                "name": "Middle Fly"
+            },
+            {
+                "id": 78932,
+                "name": "Morehead"
+            },
+            {
+                "id": 78933,
+                "name": "North Fly"
+            },
+            {
+                "id": 78934,
+                "name": "South Fly"
+            }
+        ]
+    }
+]

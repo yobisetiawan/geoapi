@@ -1,0 +1,487 @@
+[
+    {
+        "id": 2603,
+        "name": "Agaléga",
+        "cities": [
+            {
+                "id": 64988,
+                "name": "Vingt Cinq"
+            }
+        ]
+    },
+    {
+        "id": 2604,
+        "name": "Beau Bassin-Rose Hill",
+        "cities": []
+    },
+    {
+        "id": 2605,
+        "name": "Cargados Carajos",
+        "cities": [
+            {
+                "id": 64989,
+                "name": "Cargados Carajos"
+            }
+        ]
+    },
+    {
+        "id": 2606,
+        "name": "Curepipe",
+        "cities": []
+    },
+    {
+        "id": 2607,
+        "name": "Flacq District",
+        "cities": [
+            {
+                "id": 64990,
+                "name": "Bel Air Rivière Sèche"
+            },
+            {
+                "id": 64991,
+                "name": "Bon Accueil"
+            },
+            {
+                "id": 64992,
+                "name": "Brisée Verdière"
+            },
+            {
+                "id": 64993,
+                "name": "Camp de Masque"
+            },
+            {
+                "id": 64994,
+                "name": "Camp Ithier"
+            },
+            {
+                "id": 64995,
+                "name": "Centre de Flacq"
+            },
+            {
+                "id": 64996,
+                "name": "Clémencia"
+            },
+            {
+                "id": 64997,
+                "name": "Ecroignard"
+            },
+            {
+                "id": 64998,
+                "name": "Grande Rivière Sud Est"
+            },
+            {
+                "id": 64999,
+                "name": "Lalmatie"
+            },
+            {
+                "id": 65000,
+                "name": "Laventure"
+            },
+            {
+                "id": 65001,
+                "name": "Mare La Chaux"
+            },
+            {
+                "id": 65002,
+                "name": "Olivia"
+            },
+            {
+                "id": 65003,
+                "name": "Poste de Flacq"
+            },
+            {
+                "id": 65004,
+                "name": "Quatre Cocos"
+            },
+            {
+                "id": 65005,
+                "name": "Quatre Soeurs"
+            },
+            {
+                "id": 65006,
+                "name": "Queen Victoria"
+            },
+            {
+                "id": 65007,
+                "name": "Saint Julien"
+            },
+            {
+                "id": 65008,
+                "name": "Sebastopol"
+            }
+        ]
+    },
+    {
+        "id": 2608,
+        "name": "Grand Port District",
+        "cities": [
+            {
+                "id": 65009,
+                "name": "Bambous Virieux"
+            },
+            {
+                "id": 65010,
+                "name": "Beau Vallon"
+            },
+            {
+                "id": 65011,
+                "name": "Bois des Amourettes"
+            },
+            {
+                "id": 65012,
+                "name": "Cluny"
+            },
+            {
+                "id": 65013,
+                "name": "Grand Sable"
+            },
+            {
+                "id": 65014,
+                "name": "Mahébourg"
+            },
+            {
+                "id": 65015,
+                "name": "New Grove"
+            },
+            {
+                "id": 65016,
+                "name": "Nouvelle France"
+            },
+            {
+                "id": 65017,
+                "name": "Plaine Magnien"
+            },
+            {
+                "id": 65018,
+                "name": "Rose Belle"
+            },
+            {
+                "id": 65019,
+                "name": "Saint Hubert"
+            }
+        ]
+    },
+    {
+        "id": 2609,
+        "name": "Moka District",
+        "cities": [
+            {
+                "id": 65020,
+                "name": "Camp Thorel"
+            },
+            {
+                "id": 65021,
+                "name": "Dagotière"
+            },
+            {
+                "id": 65022,
+                "name": "Dubreuil"
+            },
+            {
+                "id": 65023,
+                "name": "Melrose"
+            },
+            {
+                "id": 65024,
+                "name": "Moka"
+            },
+            {
+                "id": 65025,
+                "name": "Pailles"
+            },
+            {
+                "id": 65026,
+                "name": "Providence"
+            },
+            {
+                "id": 65027,
+                "name": "Quartier Militaire"
+            },
+            {
+                "id": 65028,
+                "name": "Saint Pierre"
+            },
+            {
+                "id": 65029,
+                "name": "Verdun"
+            }
+        ]
+    },
+    {
+        "id": 2610,
+        "name": "Pamplemousses District",
+        "cities": [
+            {
+                "id": 65030,
+                "name": "Arsenal"
+            },
+            {
+                "id": 65031,
+                "name": "Calebasses"
+            },
+            {
+                "id": 65032,
+                "name": "Congomah"
+            },
+            {
+                "id": 65033,
+                "name": "Crève Coeur"
+            },
+            {
+                "id": 65034,
+                "name": "Fond du Sac"
+            },
+            {
+                "id": 65035,
+                "name": "Le Hochet"
+            },
+            {
+                "id": 65036,
+                "name": "Long Mountain"
+            },
+            {
+                "id": 65037,
+                "name": "Morcellement Saint André"
+            },
+            {
+                "id": 65038,
+                "name": "Notre Dame"
+            },
+            {
+                "id": 65039,
+                "name": "Pamplemousses"
+            },
+            {
+                "id": 65040,
+                "name": "Plaine des Papayes"
+            },
+            {
+                "id": 65041,
+                "name": "Pointe aux Piments"
+            },
+            {
+                "id": 65042,
+                "name": "Terre Rouge"
+            },
+            {
+                "id": 65043,
+                "name": "Triolet"
+            }
+        ]
+    },
+    {
+        "id": 2611,
+        "name": "Plaines Wilhems District",
+        "cities": [
+            {
+                "id": 65044,
+                "name": "Beau Bassin-Rose Hill"
+            },
+            {
+                "id": 65045,
+                "name": "Curepipe"
+            },
+            {
+                "id": 65046,
+                "name": "Ebene"
+            },
+            {
+                "id": 65047,
+                "name": "Midlands"
+            },
+            {
+                "id": 65048,
+                "name": "Quatre Bornes"
+            },
+            {
+                "id": 65049,
+                "name": "Vacoas"
+            }
+        ]
+    },
+    {
+        "id": 2612,
+        "name": "Port Louis",
+        "cities": []
+    },
+    {
+        "id": 2613,
+        "name": "Port Louis District",
+        "cities": [
+            {
+                "id": 65050,
+                "name": "Port Louis"
+            }
+        ]
+    },
+    {
+        "id": 2614,
+        "name": "Quatre Bornes",
+        "cities": []
+    },
+    {
+        "id": 2615,
+        "name": "Rivière du Rempart District",
+        "cities": [
+            {
+                "id": 65051,
+                "name": "Amaury"
+            },
+            {
+                "id": 65052,
+                "name": "Cap Malheureux"
+            },
+            {
+                "id": 65053,
+                "name": "Cottage"
+            },
+            {
+                "id": 65054,
+                "name": "Espérance Trébuchet"
+            },
+            {
+                "id": 65055,
+                "name": "Goodlands"
+            },
+            {
+                "id": 65056,
+                "name": "Grand Baie"
+            },
+            {
+                "id": 65057,
+                "name": "Grand Gaube"
+            },
+            {
+                "id": 65058,
+                "name": "Mapou"
+            },
+            {
+                "id": 65059,
+                "name": "Petit Raffray"
+            },
+            {
+                "id": 65060,
+                "name": "Piton"
+            },
+            {
+                "id": 65061,
+                "name": "Plaines des Roches"
+            },
+            {
+                "id": 65062,
+                "name": "Rivière du Rempart"
+            },
+            {
+                "id": 65063,
+                "name": "Roche Terre"
+            },
+            {
+                "id": 65064,
+                "name": "Roches Noire"
+            },
+            {
+                "id": 65065,
+                "name": "The Vale"
+            }
+        ]
+    },
+    {
+        "id": 2616,
+        "name": "Rivière Noire District",
+        "cities": [
+            {
+                "id": 65066,
+                "name": "Albion"
+            },
+            {
+                "id": 65067,
+                "name": "Bambous"
+            },
+            {
+                "id": 65068,
+                "name": "Cascavelle"
+            },
+            {
+                "id": 65069,
+                "name": "Flic en Flac"
+            },
+            {
+                "id": 65070,
+                "name": "Grande Rivière Noire"
+            },
+            {
+                "id": 65071,
+                "name": "Gros Cailloux"
+            },
+            {
+                "id": 65072,
+                "name": "Petite Case Noyale"
+            },
+            {
+                "id": 65073,
+                "name": "Petite Rivière"
+            },
+            {
+                "id": 65074,
+                "name": "Tamarin"
+            }
+        ]
+    },
+    {
+        "id": 2617,
+        "name": "Rodrigues",
+        "cities": [
+            {
+                "id": 65075,
+                "name": "Baie aux Huîtres"
+            },
+            {
+                "id": 65076,
+                "name": "Port Mathurin"
+            }
+        ]
+    },
+    {
+        "id": 2618,
+        "name": "Savanne District",
+        "cities": [
+            {
+                "id": 65077,
+                "name": "Camp Diable"
+            },
+            {
+                "id": 65078,
+                "name": "Chamouny"
+            },
+            {
+                "id": 65079,
+                "name": "Chemin Grenier"
+            },
+            {
+                "id": 65080,
+                "name": "Grand Bois"
+            },
+            {
+                "id": 65081,
+                "name": "Rivière des Anguilles"
+            },
+            {
+                "id": 65082,
+                "name": "Saint Aubin"
+            },
+            {
+                "id": 65083,
+                "name": "Souillac"
+            },
+            {
+                "id": 65084,
+                "name": "Surinam"
+            }
+        ]
+    },
+    {
+        "id": 2619,
+        "name": "Vacoas-Phoenix",
+        "cities": []
+    }
+]

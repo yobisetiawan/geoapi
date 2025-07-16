@@ -1,0 +1,112 @@
+[
+    {
+        "id": 2251,
+        "name": "Balzers",
+        "cities": [
+            {
+                "id": 64087,
+                "name": "Balzers"
+            }
+        ]
+    },
+    {
+        "id": 2252,
+        "name": "Eschen",
+        "cities": [
+            {
+                "id": 64088,
+                "name": "Eschen"
+            }
+        ]
+    },
+    {
+        "id": 2253,
+        "name": "Gamprin",
+        "cities": [
+            {
+                "id": 64089,
+                "name": "Gamprin"
+            }
+        ]
+    },
+    {
+        "id": 2254,
+        "name": "Mauren",
+        "cities": [
+            {
+                "id": 64090,
+                "name": "Mauren"
+            }
+        ]
+    },
+    {
+        "id": 2255,
+        "name": "Planken",
+        "cities": [
+            {
+                "id": 64091,
+                "name": "Planken"
+            }
+        ]
+    },
+    {
+        "id": 2256,
+        "name": "Ruggell",
+        "cities": [
+            {
+                "id": 64092,
+                "name": "Ruggell"
+            }
+        ]
+    },
+    {
+        "id": 2257,
+        "name": "Schaan",
+        "cities": [
+            {
+                "id": 64093,
+                "name": "Schaan"
+            }
+        ]
+    },
+    {
+        "id": 2258,
+        "name": "Schellenberg",
+        "cities": [
+            {
+                "id": 64094,
+                "name": "Schellenberg"
+            }
+        ]
+    },
+    {
+        "id": 2259,
+        "name": "Triesen",
+        "cities": [
+            {
+                "id": 64095,
+                "name": "Triesen"
+            }
+        ]
+    },
+    {
+        "id": 2260,
+        "name": "Triesenberg",
+        "cities": [
+            {
+                "id": 64096,
+                "name": "Triesenberg"
+            }
+        ]
+    },
+    {
+        "id": 2261,
+        "name": "Vaduz",
+        "cities": [
+            {
+                "id": 64097,
+                "name": "Vaduz"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2502 @@
+[
+    {
+        "id": 3516,
+        "name": "Ajdovščina Municipality",
+        "cities": [
+            {
+                "id": 102606,
+                "name": "Ajdovščina"
+            },
+            {
+                "id": 102607,
+                "name": "Cirkulane"
+            },
+            {
+                "id": 102608,
+                "name": "Lokavec"
+            }
+        ]
+    },
+    {
+        "id": 3517,
+        "name": "Ankaran Municipality",
+        "cities": [
+            {
+                "id": 102609,
+                "name": "Ankaran"
+            }
+        ]
+    },
+    {
+        "id": 3518,
+        "name": "Beltinci Municipality",
+        "cities": [
+            {
+                "id": 102610,
+                "name": "Beltinci"
+            },
+            {
+                "id": 102611,
+                "name": "Gančani"
+            },
+            {
+                "id": 102612,
+                "name": "Lipovci"
+            },
+            {
+                "id": 102613,
+                "name": "Zgornje Gorje"
+            }
+        ]
+    },
+    {
+        "id": 3519,
+        "name": "Benedikt Municipality",
+        "cities": [
+            {
+                "id": 102614,
+                "name": "Benedikt"
+            }
+        ]
+    },
+    {
+        "id": 3520,
+        "name": "Bistrica ob Sotli Municipality",
+        "cities": [
+            {
+                "id": 102615,
+                "name": "Bistrica ob Sotli"
+            }
+        ]
+    },
+    {
+        "id": 3521,
+        "name": "Bled Municipality",
+        "cities": [
+            {
+                "id": 102616,
+                "name": "Bled"
+            },
+            {
+                "id": 102617,
+                "name": "Kostanjevica na Krki"
+            },
+            {
+                "id": 102618,
+                "name": "Zasip"
+            }
+        ]
+    },
+    {
+        "id": 3522,
+        "name": "Bloke Municipality",
+        "cities": [
+            {
+                "id": 102619,
+                "name": "Nova Vas"
+            }
+        ]
+    },
+    {
+        "id": 3523,
+        "name": "Bohinj Municipality",
+        "cities": [
+            {
+                "id": 102620,
+                "name": "Bohinjska Bistrica"
+            },
+            {
+                "id": 102621,
+                "name": "Dragomer"
+            },
+            {
+                "id": 102622,
+                "name": "Log pri Brezovici"
+            }
+        ]
+    },
+    {
+        "id": 3524,
+        "name": "Borovnica Municipality",
+        "cities": [
+            {
+                "id": 102623,
+                "name": "Borovnica"
+            },
+            {
+                "id": 102624,
+                "name": "Makole"
+            }
+        ]
+    },
+    {
+        "id": 3525,
+        "name": "Bovec Municipality",
+        "cities": [
+            {
+                "id": 102625,
+                "name": "Bovec"
+            },
+            {
+                "id": 102626,
+                "name": "Mirna"
+            }
+        ]
+    },
+    {
+        "id": 3526,
+        "name": "Braslovče Municipality",
+        "cities": [
+            {
+                "id": 102627,
+                "name": "Braslovče"
+            }
+        ]
+    },
+    {
+        "id": 3527,
+        "name": "Brda Municipality",
+        "cities": [
+            {
+                "id": 102628,
+                "name": "Dobrovo"
+            },
+            {
+                "id": 102629,
+                "name": "Mokronog"
+            }
+        ]
+    },
+    {
+        "id": 3528,
+        "name": "Brežice Municipality",
+        "cities": [
+            {
+                "id": 102630,
+                "name": "Brežice"
+            },
+            {
+                "id": 102631,
+                "name": "Poljčane"
+            }
+        ]
+    },
+    {
+        "id": 3529,
+        "name": "Brezovica Municipality",
+        "cities": [
+            {
+                "id": 102632,
+                "name": "Brezovica pri Ljubljani"
+            },
+            {
+                "id": 102633,
+                "name": "Notranje Gorice"
+            },
+            {
+                "id": 102634,
+                "name": "Opština Ljubljana-Vič-Rudnik"
+            },
+            {
+                "id": 102635,
+                "name": "Rečica ob Savinji"
+            },
+            {
+                "id": 102636,
+                "name": "Vnanje Gorice"
+            }
+        ]
+    },
+    {
+        "id": 3530,
+        "name": "Cankova Municipality",
+        "cities": [
+            {
+                "id": 102637,
+                "name": "Cankova"
+            }
+        ]
+    },
+    {
+        "id": 3531,
+        "name": "Cerklje na Gorenjskem Municipality",
+        "cities": [
+            {
+                "id": 102638,
+                "name": "Cerklje na Gorenjskem"
+            }
+        ]
+    },
+    {
+        "id": 3532,
+        "name": "Cerknica Municipality",
+        "cities": [
+            {
+                "id": 102639,
+                "name": "Cerknica"
+            },
+            {
+                "id": 102640,
+                "name": "Rakek"
+            }
+        ]
+    },
+    {
+        "id": 3533,
+        "name": "Cerkno Municipality",
+        "cities": [
+            {
+                "id": 102641,
+                "name": "Cerkno"
+            }
+        ]
+    },
+    {
+        "id": 3534,
+        "name": "Cerkvenjak Municipality",
+        "cities": [
+            {
+                "id": 102642,
+                "name": "Cerkvenjak"
+            }
+        ]
+    },
+    {
+        "id": 3535,
+        "name": "City Municipality of Celje",
+        "cities": [
+            {
+                "id": 102643,
+                "name": "Celje"
+            },
+            {
+                "id": 102644,
+                "name": "Ljubečna"
+            },
+            {
+                "id": 102645,
+                "name": "Trnovlje pri Celju"
+            }
+        ]
+    },
+    {
+        "id": 3536,
+        "name": "City Municipality of Novo Mesto",
+        "cities": [
+            {
+                "id": 102646,
+                "name": "Novo Mesto"
+            }
+        ]
+    },
+    {
+        "id": 3537,
+        "name": "Črenšovci Municipality",
+        "cities": [
+            {
+                "id": 102647,
+                "name": "Črenšovci"
+            }
+        ]
+    },
+    {
+        "id": 3538,
+        "name": "Črna na Koroškem Municipality",
+        "cities": [
+            {
+                "id": 102648,
+                "name": "Črna na Koroškem"
+            }
+        ]
+    },
+    {
+        "id": 3539,
+        "name": "Črnomelj Municipality",
+        "cities": [
+            {
+                "id": 102649,
+                "name": "Črnomelj"
+            }
+        ]
+    },
+    {
+        "id": 3540,
+        "name": "Destrnik Municipality",
+        "cities": [
+            {
+                "id": 102650,
+                "name": "Destrnik"
+            }
+        ]
+    },
+    {
+        "id": 3541,
+        "name": "Divača Municipality",
+        "cities": [
+            {
+                "id": 102651,
+                "name": "Divača"
+            }
+        ]
+    },
+    {
+        "id": 3542,
+        "name": "Dobje Municipality",
+        "cities": [
+            {
+                "id": 102652,
+                "name": "Dobje pri Planini"
+            }
+        ]
+    },
+    {
+        "id": 3543,
+        "name": "Dobrepolje Municipality",
+        "cities": [
+            {
+                "id": 102653,
+                "name": "Videm"
+            }
+        ]
+    },
+    {
+        "id": 3544,
+        "name": "Dobrna Municipality",
+        "cities": [
+            {
+                "id": 102654,
+                "name": "Dobrna"
+            }
+        ]
+    },
+    {
+        "id": 3545,
+        "name": "Dobrova–Polhov Gradec Municipality",
+        "cities": [
+            {
+                "id": 102655,
+                "name": "Dobrova"
+            }
+        ]
+    },
+    {
+        "id": 3546,
+        "name": "Dobrovnik Municipality",
+        "cities": [
+            {
+                "id": 102656,
+                "name": "Dobrovnik"
+            }
+        ]
+    },
+    {
+        "id": 3547,
+        "name": "Dol pri Ljubljani Municipality",
+        "cities": [
+            {
+                "id": 102657,
+                "name": "Dol pri Ljubljani"
+            }
+        ]
+    },
+    {
+        "id": 3548,
+        "name": "Dolenjske Toplice Municipality",
+        "cities": [
+            {
+                "id": 102658,
+                "name": "Dolenjske Toplice"
+            }
+        ]
+    },
+    {
+        "id": 3549,
+        "name": "Domžale Municipality",
+        "cities": [
+            {
+                "id": 102659,
+                "name": "Dob"
+            },
+            {
+                "id": 102660,
+                "name": "Domžale"
+            },
+            {
+                "id": 102661,
+                "name": "Radomlje"
+            },
+            {
+                "id": 102662,
+                "name": "Vir"
+            }
+        ]
+    },
+    {
+        "id": 3550,
+        "name": "Dornava Municipality",
+        "cities": [
+            {
+                "id": 102663,
+                "name": "Dornava"
+            }
+        ]
+    },
+    {
+        "id": 3551,
+        "name": "Dravograd Municipality",
+        "cities": [
+            {
+                "id": 102664,
+                "name": "Dravograd"
+            }
+        ]
+    },
+    {
+        "id": 3552,
+        "name": "Duplek Municipality",
+        "cities": [
+            {
+                "id": 102665,
+                "name": "Spodnji Duplek"
+            },
+            {
+                "id": 102666,
+                "name": "Zgornji Duplek"
+            }
+        ]
+    },
+    {
+        "id": 3553,
+        "name": "Gorenja Vas–Poljane Municipality",
+        "cities": [
+            {
+                "id": 102667,
+                "name": "Gorenja Vas"
+            }
+        ]
+    },
+    {
+        "id": 3554,
+        "name": "Gorišnica Municipality",
+        "cities": [
+            {
+                "id": 102668,
+                "name": "Gorišnica"
+            }
+        ]
+    },
+    {
+        "id": 3555,
+        "name": "Gorje Municipality",
+        "cities": []
+    },
+    {
+        "id": 3556,
+        "name": "Gornja Radgona Municipality",
+        "cities": [
+            {
+                "id": 102669,
+                "name": "Gornja Radgona"
+            }
+        ]
+    },
+    {
+        "id": 3557,
+        "name": "Gornji Grad Municipality",
+        "cities": [
+            {
+                "id": 102670,
+                "name": "Gornji Grad"
+            }
+        ]
+    },
+    {
+        "id": 3558,
+        "name": "Gornji Petrovci Municipality",
+        "cities": [
+            {
+                "id": 102671,
+                "name": "Gornji Petrovci"
+            }
+        ]
+    },
+    {
+        "id": 3559,
+        "name": "Grad Municipality",
+        "cities": [
+            {
+                "id": 102672,
+                "name": "Grad"
+            }
+        ]
+    },
+    {
+        "id": 3560,
+        "name": "Grosuplje Municipality",
+        "cities": [
+            {
+                "id": 102673,
+                "name": "Grosuplje"
+            },
+            {
+                "id": 102674,
+                "name": "Šmarje-Sap"
+            }
+        ]
+    },
+    {
+        "id": 3561,
+        "name": "Hajdina Municipality",
+        "cities": [
+            {
+                "id": 102675,
+                "name": "Spodnja Hajdina"
+            }
+        ]
+    },
+    {
+        "id": 3562,
+        "name": "Hoče–Slivnica Municipality",
+        "cities": [
+            {
+                "id": 102676,
+                "name": "Hotinja Vas"
+            },
+            {
+                "id": 102677,
+                "name": "Radizel"
+            },
+            {
+                "id": 102678,
+                "name": "Rogoza"
+            },
+            {
+                "id": 102679,
+                "name": "Spodnje Hoče"
+            }
+        ]
+    },
+    {
+        "id": 3563,
+        "name": "Hodoš Municipality",
+        "cities": [
+            {
+                "id": 102680,
+                "name": "Hodoš"
+            }
+        ]
+    },
+    {
+        "id": 3564,
+        "name": "Horjul Municipality",
+        "cities": [
+            {
+                "id": 102681,
+                "name": "Horjul"
+            }
+        ]
+    },
+    {
+        "id": 3565,
+        "name": "Hrastnik Municipality",
+        "cities": [
+            {
+                "id": 102682,
+                "name": "Dol pri Hrastniku"
+            },
+            {
+                "id": 102683,
+                "name": "Hrastnik"
+            }
+        ]
+    },
+    {
+        "id": 3566,
+        "name": "Hrpelje–Kozina Municipality",
+        "cities": [
+            {
+                "id": 102684,
+                "name": "Kozina"
+            }
+        ]
+    },
+    {
+        "id": 3567,
+        "name": "Idrija Municipality",
+        "cities": [
+            {
+                "id": 102685,
+                "name": "Idrija"
+            },
+            {
+                "id": 102686,
+                "name": "Spodnja Idrija"
+            }
+        ]
+    },
+    {
+        "id": 3568,
+        "name": "Ig Municipality",
+        "cities": [
+            {
+                "id": 102687,
+                "name": "Ig"
+            }
+        ]
+    },
+    {
+        "id": 3569,
+        "name": "Ivančna Gorica Municipality",
+        "cities": [
+            {
+                "id": 102688,
+                "name": "Ivančna Gorica"
+            },
+            {
+                "id": 102689,
+                "name": "Šentvid pri Stični"
+            }
+        ]
+    },
+    {
+        "id": 3570,
+        "name": "Izola Municipality",
+        "cities": [
+            {
+                "id": 102690,
+                "name": "Izola"
+            },
+            {
+                "id": 102691,
+                "name": "Jagodje"
+            }
+        ]
+    },
+    {
+        "id": 3571,
+        "name": "Jesenice Municipality",
+        "cities": [
+            {
+                "id": 102692,
+                "name": "Hrušica"
+            },
+            {
+                "id": 102693,
+                "name": "Jesenice"
+            },
+            {
+                "id": 102694,
+                "name": "Koroška Bela"
+            },
+            {
+                "id": 102695,
+                "name": "Slovenski Javornik"
+            }
+        ]
+    },
+    {
+        "id": 3572,
+        "name": "Jezersko Municipality",
+        "cities": [
+            {
+                "id": 102696,
+                "name": "Zgornje Jezersko"
+            }
+        ]
+    },
+    {
+        "id": 3573,
+        "name": "Juršinci Municipality",
+        "cities": [
+            {
+                "id": 102697,
+                "name": "Juršinci"
+            }
+        ]
+    },
+    {
+        "id": 3574,
+        "name": "Kamnik Municipality",
+        "cities": [
+            {
+                "id": 102698,
+                "name": "Kamnik"
+            },
+            {
+                "id": 102699,
+                "name": "Mekinje"
+            },
+            {
+                "id": 102700,
+                "name": "Šmarca"
+            }
+        ]
+    },
+    {
+        "id": 3575,
+        "name": "Kanal ob Soči Municipality",
+        "cities": [
+            {
+                "id": 102701,
+                "name": "Deskle"
+            },
+            {
+                "id": 102702,
+                "name": "Kanal"
+            }
+        ]
+    },
+    {
+        "id": 3576,
+        "name": "Kidričevo Municipality",
+        "cities": [
+            {
+                "id": 102703,
+                "name": "Kidričevo"
+            }
+        ]
+    },
+    {
+        "id": 3577,
+        "name": "Kobarid Municipality",
+        "cities": [
+            {
+                "id": 102704,
+                "name": "Kobarid"
+            }
+        ]
+    },
+    {
+        "id": 3578,
+        "name": "Kobilje Municipality",
+        "cities": [
+            {
+                "id": 102705,
+                "name": "Kobilje"
+            }
+        ]
+    },
+    {
+        "id": 3579,
+        "name": "Kočevje Municipality",
+        "cities": [
+            {
+                "id": 102706,
+                "name": "Kočevje"
+            }
+        ]
+    },
+    {
+        "id": 3580,
+        "name": "Komen Municipality",
+        "cities": [
+            {
+                "id": 102707,
+                "name": "Komen"
+            }
+        ]
+    },
+    {
+        "id": 3581,
+        "name": "Komenda Municipality",
+        "cities": [
+            {
+                "id": 102708,
+                "name": "Komenda"
+            },
+            {
+                "id": 102709,
+                "name": "Moste"
+            }
+        ]
+    },
+    {
+        "id": 3582,
+        "name": "Koper City Municipality",
+        "cities": [
+            {
+                "id": 102710,
+                "name": "Dekani"
+            },
+            {
+                "id": 102711,
+                "name": "Hrvatini"
+            },
+            {
+                "id": 102712,
+                "name": "Koper"
+            },
+            {
+                "id": 102713,
+                "name": "Pobegi"
+            },
+            {
+                "id": 102714,
+                "name": "Prade"
+            },
+            {
+                "id": 102715,
+                "name": "Spodnje Škofije"
+            },
+            {
+                "id": 102716,
+                "name": "Sv. Anton"
+            }
+        ]
+    },
+    {
+        "id": 3583,
+        "name": "Kostanjevica na Krki Municipality",
+        "cities": []
+    },
+    {
+        "id": 3584,
+        "name": "Kostel Municipality",
+        "cities": [
+            {
+                "id": 102717,
+                "name": "Kostel"
+            }
+        ]
+    },
+    {
+        "id": 3585,
+        "name": "Kozje Municipality",
+        "cities": [
+            {
+                "id": 102718,
+                "name": "Kozje"
+            }
+        ]
+    },
+    {
+        "id": 3586,
+        "name": "Kranj City Municipality",
+        "cities": [
+            {
+                "id": 102719,
+                "name": "Britof"
+            },
+            {
+                "id": 102720,
+                "name": "Golnik"
+            },
+            {
+                "id": 102721,
+                "name": "Kokrica"
+            },
+            {
+                "id": 102722,
+                "name": "Kranj"
+            },
+            {
+                "id": 102723,
+                "name": "Mlaka pri Kranju"
+            },
+            {
+                "id": 102724,
+                "name": "Zgornje Bitnje"
+            }
+        ]
+    },
+    {
+        "id": 3587,
+        "name": "Kranjska Gora Municipality",
+        "cities": [
+            {
+                "id": 102725,
+                "name": "Kranjska Gora"
+            },
+            {
+                "id": 102726,
+                "name": "Mojstrana"
+            }
+        ]
+    },
+    {
+        "id": 3588,
+        "name": "Križevci Municipality",
+        "cities": [
+            {
+                "id": 102727,
+                "name": "Križevci pri Ljutomeru"
+            }
+        ]
+    },
+    {
+        "id": 3589,
+        "name": "Kungota",
+        "cities": [
+            {
+                "id": 102728,
+                "name": "Zgornja Kungota"
+            }
+        ]
+    },
+    {
+        "id": 3590,
+        "name": "Kuzma Municipality",
+        "cities": [
+            {
+                "id": 102729,
+                "name": "Kuzma"
+            }
+        ]
+    },
+    {
+        "id": 3591,
+        "name": "Laško Municipality",
+        "cities": [
+            {
+                "id": 102730,
+                "name": "Laško"
+            }
+        ]
+    },
+    {
+        "id": 3592,
+        "name": "Lenart Municipality",
+        "cities": [
+            {
+                "id": 102731,
+                "name": "Lenart v Slov. Goricah"
+            }
+        ]
+    },
+    {
+        "id": 3593,
+        "name": "Lendava Municipality",
+        "cities": [
+            {
+                "id": 102732,
+                "name": "Lendava"
+            }
+        ]
+    },
+    {
+        "id": 3594,
+        "name": "Litija Municipality",
+        "cities": [
+            {
+                "id": 102733,
+                "name": "Litija"
+            }
+        ]
+    },
+    {
+        "id": 3595,
+        "name": "Ljubljana City Municipality",
+        "cities": [
+            {
+                "id": 102734,
+                "name": "Dravlje District"
+            },
+            {
+                "id": 102735,
+                "name": "Jarše District"
+            },
+            {
+                "id": 102736,
+                "name": "Ljubljana"
+            },
+            {
+                "id": 102737,
+                "name": "Opčina Ljubljana-Bežigrad"
+            },
+            {
+                "id": 102738,
+                "name": "Opština Ljubljana-Center"
+            },
+            {
+                "id": 102739,
+                "name": "Opština Ljubljana-Moste-Polje"
+            },
+            {
+                "id": 102740,
+                "name": "Rožnik District"
+            },
+            {
+                "id": 102741,
+                "name": "Šentvid District"
+            },
+            {
+                "id": 102742,
+                "name": "Sostro District"
+            },
+            {
+                "id": 102743,
+                "name": "Trnovo District"
+            },
+            {
+                "id": 102744,
+                "name": "Vič District"
+            }
+        ]
+    },
+    {
+        "id": 3596,
+        "name": "Ljubno Municipality",
+        "cities": [
+            {
+                "id": 102745,
+                "name": "Ljubno ob Savinji"
+            }
+        ]
+    },
+    {
+        "id": 3597,
+        "name": "Ljutomer Municipality",
+        "cities": [
+            {
+                "id": 102746,
+                "name": "Ljutomer"
+            }
+        ]
+    },
+    {
+        "id": 3598,
+        "name": "Log–Dragomer Municipality",
+        "cities": []
+    },
+    {
+        "id": 3599,
+        "name": "Logatec Municipality",
+        "cities": [
+            {
+                "id": 102747,
+                "name": "Logatec"
+            }
+        ]
+    },
+    {
+        "id": 3600,
+        "name": "Loška Dolina Municipality",
+        "cities": [
+            {
+                "id": 102748,
+                "name": "Leskova Dolina"
+            }
+        ]
+    },
+    {
+        "id": 3601,
+        "name": "Loški Potok Municipality",
+        "cities": [
+            {
+                "id": 102749,
+                "name": "Hrib-Loški Potok"
+            }
+        ]
+    },
+    {
+        "id": 3602,
+        "name": "Lovrenc na Pohorju Municipality",
+        "cities": [
+            {
+                "id": 102750,
+                "name": "Lovrenc na Pohorju"
+            }
+        ]
+    },
+    {
+        "id": 3603,
+        "name": "Luče Municipality",
+        "cities": [
+            {
+                "id": 102751,
+                "name": "Luče"
+            }
+        ]
+    },
+    {
+        "id": 3604,
+        "name": "Lukovica Municipality",
+        "cities": [
+            {
+                "id": 102752,
+                "name": "Lukovica pri Domžalah"
+            }
+        ]
+    },
+    {
+        "id": 3605,
+        "name": "Majšperk Municipality",
+        "cities": [
+            {
+                "id": 102753,
+                "name": "Majšperk"
+            }
+        ]
+    },
+    {
+        "id": 3606,
+        "name": "Makole Municipality",
+        "cities": []
+    },
+    {
+        "id": 3607,
+        "name": "Maribor City Municipality",
+        "cities": [
+            {
+                "id": 102754,
+                "name": "Bresternica"
+            },
+            {
+                "id": 102755,
+                "name": "Kamnica"
+            },
+            {
+                "id": 102756,
+                "name": "Limbuš"
+            },
+            {
+                "id": 102757,
+                "name": "Maribor"
+            },
+            {
+                "id": 102758,
+                "name": "Pekre"
+            },
+            {
+                "id": 102759,
+                "name": "Razvanje"
+            }
+        ]
+    },
+    {
+        "id": 3608,
+        "name": "Markovci Municipality",
+        "cities": [
+            {
+                "id": 102760,
+                "name": "Markovci"
+            }
+        ]
+    },
+    {
+        "id": 3609,
+        "name": "Medvode Municipality",
+        "cities": [
+            {
+                "id": 102761,
+                "name": "Medvode"
+            },
+            {
+                "id": 102762,
+                "name": "Opština [historical] Ljubljana-Šiška"
+            },
+            {
+                "id": 102763,
+                "name": "Zgornje Pirniče"
+            }
+        ]
+    },
+    {
+        "id": 3610,
+        "name": "Mengeš Municipality",
+        "cities": [
+            {
+                "id": 102764,
+                "name": "Mengeš"
+            },
+            {
+                "id": 102765,
+                "name": "Preserje pri Radomljah"
+            }
+        ]
+    },
+    {
+        "id": 3611,
+        "name": "Metlika Municipality",
+        "cities": [
+            {
+                "id": 102766,
+                "name": "Metlika"
+            }
+        ]
+    },
+    {
+        "id": 3612,
+        "name": "Mežica Municipality",
+        "cities": [
+            {
+                "id": 102767,
+                "name": "Mežica"
+            }
+        ]
+    },
+    {
+        "id": 3613,
+        "name": "Miklavž na Dravskem Polju Municipality",
+        "cities": [
+            {
+                "id": 102768,
+                "name": "Miklavž na Dravskem Polju"
+            }
+        ]
+    },
+    {
+        "id": 3614,
+        "name": "Miren–Kostanjevica Municipality",
+        "cities": [
+            {
+                "id": 102769,
+                "name": "Bilje"
+            },
+            {
+                "id": 102770,
+                "name": "Miren"
+            }
+        ]
+    },
+    {
+        "id": 3615,
+        "name": "Mirna Municipality",
+        "cities": []
+    },
+    {
+        "id": 3616,
+        "name": "Mirna Peč Municipality",
+        "cities": [
+            {
+                "id": 102771,
+                "name": "Mirna Peč"
+            }
+        ]
+    },
+    {
+        "id": 3617,
+        "name": "Mislinja Municipality",
+        "cities": [
+            {
+                "id": 102772,
+                "name": "Mislinja"
+            }
+        ]
+    },
+    {
+        "id": 3618,
+        "name": "Mokronog–Trebelno Municipality",
+        "cities": []
+    },
+    {
+        "id": 3619,
+        "name": "Moravče Municipality",
+        "cities": [
+            {
+                "id": 102773,
+                "name": "Moravče"
+            }
+        ]
+    },
+    {
+        "id": 3620,
+        "name": "Moravske Toplice Municipality",
+        "cities": [
+            {
+                "id": 102774,
+                "name": "Moravske Toplice"
+            }
+        ]
+    },
+    {
+        "id": 3621,
+        "name": "Mozirje Municipality",
+        "cities": [
+            {
+                "id": 102775,
+                "name": "Mozirje"
+            }
+        ]
+    },
+    {
+        "id": 3622,
+        "name": "Municipality of Apače",
+        "cities": [
+            {
+                "id": 102776,
+                "name": "Apače"
+            }
+        ]
+    },
+    {
+        "id": 3623,
+        "name": "Municipality of Cirkulane",
+        "cities": []
+    },
+    {
+        "id": 3624,
+        "name": "Municipality of Ilirska Bistrica",
+        "cities": [
+            {
+                "id": 102777,
+                "name": "Ilirska Bistrica"
+            }
+        ]
+    },
+    {
+        "id": 3625,
+        "name": "Municipality of Krško",
+        "cities": [
+            {
+                "id": 102778,
+                "name": "Krško"
+            },
+            {
+                "id": 102779,
+                "name": "Leskovec pri Krškem"
+            },
+            {
+                "id": 102780,
+                "name": "Senovo"
+            }
+        ]
+    },
+    {
+        "id": 3626,
+        "name": "Municipality of Škofljica",
+        "cities": [
+            {
+                "id": 102781,
+                "name": "Lavrica"
+            },
+            {
+                "id": 102782,
+                "name": "Škofljica"
+            }
+        ]
+    },
+    {
+        "id": 3627,
+        "name": "Murska Sobota City Municipality",
+        "cities": [
+            {
+                "id": 102783,
+                "name": "Bakovci"
+            },
+            {
+                "id": 102784,
+                "name": "Černelavci"
+            },
+            {
+                "id": 102785,
+                "name": "Krog"
+            },
+            {
+                "id": 102786,
+                "name": "Murska Sobota"
+            },
+            {
+                "id": 102787,
+                "name": "Rakičan"
+            }
+        ]
+    },
+    {
+        "id": 3628,
+        "name": "Muta Municipality",
+        "cities": [
+            {
+                "id": 102788,
+                "name": "Muta"
+            }
+        ]
+    },
+    {
+        "id": 3629,
+        "name": "Naklo Municipality",
+        "cities": [
+            {
+                "id": 102789,
+                "name": "Naklo"
+            }
+        ]
+    },
+    {
+        "id": 3630,
+        "name": "Nazarje Municipality",
+        "cities": [
+            {
+                "id": 102790,
+                "name": "Nazarje"
+            }
+        ]
+    },
+    {
+        "id": 3631,
+        "name": "Nova Gorica City Municipality",
+        "cities": [
+            {
+                "id": 102791,
+                "name": "Kromberk"
+            },
+            {
+                "id": 102792,
+                "name": "Nova Gorica"
+            },
+            {
+                "id": 102793,
+                "name": "Prvačina"
+            },
+            {
+                "id": 102794,
+                "name": "Šempas"
+            },
+            {
+                "id": 102795,
+                "name": "Solkan"
+            }
+        ]
+    },
+    {
+        "id": 3632,
+        "name": "Odranci Municipality",
+        "cities": [
+            {
+                "id": 102796,
+                "name": "Odranci"
+            }
+        ]
+    },
+    {
+        "id": 3633,
+        "name": "Oplotnica",
+        "cities": [
+            {
+                "id": 102797,
+                "name": "Oplotnica"
+            }
+        ]
+    },
+    {
+        "id": 3634,
+        "name": "Ormož Municipality",
+        "cities": [
+            {
+                "id": 102798,
+                "name": "Ormož"
+            }
+        ]
+    },
+    {
+        "id": 3635,
+        "name": "Osilnica Municipality",
+        "cities": [
+            {
+                "id": 102799,
+                "name": "Osilnica"
+            }
+        ]
+    },
+    {
+        "id": 3636,
+        "name": "Pesnica Municipality",
+        "cities": [
+            {
+                "id": 102800,
+                "name": "Pesnica pri Mariboru"
+            }
+        ]
+    },
+    {
+        "id": 3637,
+        "name": "Piran Municipality",
+        "cities": [
+            {
+                "id": 102801,
+                "name": "Lucija"
+            },
+            {
+                "id": 102802,
+                "name": "Piran"
+            },
+            {
+                "id": 102803,
+                "name": "Portorož"
+            },
+            {
+                "id": 102804,
+                "name": "Seča"
+            }
+        ]
+    },
+    {
+        "id": 3638,
+        "name": "Pivka Municipality",
+        "cities": [
+            {
+                "id": 102805,
+                "name": "Pivka"
+            }
+        ]
+    },
+    {
+        "id": 3639,
+        "name": "Podčetrtek Municipality",
+        "cities": [
+            {
+                "id": 102806,
+                "name": "Podčetrtek"
+            }
+        ]
+    },
+    {
+        "id": 3640,
+        "name": "Podlehnik Municipality",
+        "cities": [
+            {
+                "id": 102807,
+                "name": "Podlehnik"
+            }
+        ]
+    },
+    {
+        "id": 3641,
+        "name": "Podvelka Municipality",
+        "cities": [
+            {
+                "id": 102808,
+                "name": "Podvelka"
+            }
+        ]
+    },
+    {
+        "id": 3642,
+        "name": "Poljčane Municipality",
+        "cities": []
+    },
+    {
+        "id": 3643,
+        "name": "Polzela Municipality",
+        "cities": [
+            {
+                "id": 102809,
+                "name": "Polzela"
+            }
+        ]
+    },
+    {
+        "id": 3644,
+        "name": "Postojna Municipality",
+        "cities": [
+            {
+                "id": 102810,
+                "name": "Postojna"
+            }
+        ]
+    },
+    {
+        "id": 3645,
+        "name": "Prebold Municipality",
+        "cities": [
+            {
+                "id": 102811,
+                "name": "Prebold"
+            }
+        ]
+    },
+    {
+        "id": 3646,
+        "name": "Preddvor Municipality",
+        "cities": [
+            {
+                "id": 102812,
+                "name": "Preddvor"
+            }
+        ]
+    },
+    {
+        "id": 3647,
+        "name": "Prevalje Municipality",
+        "cities": [
+            {
+                "id": 102813,
+                "name": "Prevalje"
+            }
+        ]
+    },
+    {
+        "id": 3648,
+        "name": "Ptuj City Municipality",
+        "cities": [
+            {
+                "id": 102814,
+                "name": "Ptuj"
+            }
+        ]
+    },
+    {
+        "id": 3649,
+        "name": "Puconci Municipality",
+        "cities": [
+            {
+                "id": 102815,
+                "name": "Puconci"
+            }
+        ]
+    },
+    {
+        "id": 3650,
+        "name": "Rače–Fram Municipality",
+        "cities": [
+            {
+                "id": 102816,
+                "name": "Fram"
+            },
+            {
+                "id": 102817,
+                "name": "Morje"
+            },
+            {
+                "id": 102818,
+                "name": "Rače"
+            }
+        ]
+    },
+    {
+        "id": 3651,
+        "name": "Radeče Municipality",
+        "cities": [
+            {
+                "id": 102819,
+                "name": "Radeče"
+            }
+        ]
+    },
+    {
+        "id": 3652,
+        "name": "Radenci Municipality",
+        "cities": [
+            {
+                "id": 102820,
+                "name": "Radenci"
+            }
+        ]
+    },
+    {
+        "id": 3653,
+        "name": "Radlje ob Dravi Municipality",
+        "cities": [
+            {
+                "id": 102821,
+                "name": "Radlje ob Dravi"
+            }
+        ]
+    },
+    {
+        "id": 3654,
+        "name": "Radovljica Municipality",
+        "cities": [
+            {
+                "id": 102822,
+                "name": "Lesce"
+            },
+            {
+                "id": 102823,
+                "name": "Radovljica"
+            }
+        ]
+    },
+    {
+        "id": 3655,
+        "name": "Ravne na Koroškem Municipality",
+        "cities": [
+            {
+                "id": 102824,
+                "name": "Kotlje"
+            },
+            {
+                "id": 102825,
+                "name": "Ravne na Koroškem"
+            }
+        ]
+    },
+    {
+        "id": 3656,
+        "name": "Razkrižje Municipality",
+        "cities": [
+            {
+                "id": 102826,
+                "name": "Razkrižje"
+            }
+        ]
+    },
+    {
+        "id": 3657,
+        "name": "Rečica ob Savinji Municipality",
+        "cities": []
+    },
+    {
+        "id": 3658,
+        "name": "Renče–Vogrsko Municipality",
+        "cities": [
+            {
+                "id": 102827,
+                "name": "Renče"
+            },
+            {
+                "id": 102828,
+                "name": "Volčja Draga"
+            }
+        ]
+    },
+    {
+        "id": 3659,
+        "name": "Ribnica Municipality",
+        "cities": [
+            {
+                "id": 102829,
+                "name": "Ribnica"
+            }
+        ]
+    },
+    {
+        "id": 3660,
+        "name": "Ribnica na Pohorju Municipality",
+        "cities": [
+            {
+                "id": 102830,
+                "name": "Ribnica na Pohorju"
+            }
+        ]
+    },
+    {
+        "id": 3661,
+        "name": "Rogaška Slatina Municipality",
+        "cities": [
+            {
+                "id": 102831,
+                "name": "Rogaška Slatina"
+            }
+        ]
+    },
+    {
+        "id": 3662,
+        "name": "Rogašovci Municipality",
+        "cities": [
+            {
+                "id": 102832,
+                "name": "Rogašovci"
+            }
+        ]
+    },
+    {
+        "id": 3663,
+        "name": "Rogatec Municipality",
+        "cities": [
+            {
+                "id": 102833,
+                "name": "Rogatec"
+            }
+        ]
+    },
+    {
+        "id": 3664,
+        "name": "Ruše Municipality",
+        "cities": [
+            {
+                "id": 102834,
+                "name": "Bistrica ob Dravi"
+            },
+            {
+                "id": 102835,
+                "name": "Ruše"
+            }
+        ]
+    },
+    {
+        "id": 3665,
+        "name": "Šalovci Municipality",
+        "cities": [
+            {
+                "id": 102836,
+                "name": "Šalovci"
+            }
+        ]
+    },
+    {
+        "id": 3666,
+        "name": "Selnica ob Dravi Municipality",
+        "cities": [
+            {
+                "id": 102837,
+                "name": "Selnica ob Dravi"
+            }
+        ]
+    },
+    {
+        "id": 3667,
+        "name": "Semič Municipality",
+        "cities": [
+            {
+                "id": 102838,
+                "name": "Semič"
+            }
+        ]
+    },
+    {
+        "id": 3668,
+        "name": "Šempeter–Vrtojba Municipality",
+        "cities": [
+            {
+                "id": 102839,
+                "name": "Rožna Dolina"
+            },
+            {
+                "id": 102840,
+                "name": "Šempeter pri Gorici"
+            },
+            {
+                "id": 102841,
+                "name": "Vrtojba"
+            }
+        ]
+    },
+    {
+        "id": 3669,
+        "name": "Šenčur Municipality",
+        "cities": [
+            {
+                "id": 102842,
+                "name": "Hrastje"
+            },
+            {
+                "id": 102843,
+                "name": "Šenčur"
+            }
+        ]
+    },
+    {
+        "id": 3670,
+        "name": "Šentilj Municipality",
+        "cities": [
+            {
+                "id": 102844,
+                "name": "Selnica ob Muri"
+            },
+            {
+                "id": 102845,
+                "name": "Šentilj v Slov. Goricah"
+            }
+        ]
+    },
+    {
+        "id": 3671,
+        "name": "Šentjernej Municipality",
+        "cities": [
+            {
+                "id": 102846,
+                "name": "Šentjernej"
+            }
+        ]
+    },
+    {
+        "id": 3672,
+        "name": "Šentjur Municipality",
+        "cities": [
+            {
+                "id": 102847,
+                "name": "Šentjur"
+            }
+        ]
+    },
+    {
+        "id": 3673,
+        "name": "Šentrupert Municipality",
+        "cities": [
+            {
+                "id": 102848,
+                "name": "Šentrupert"
+            }
+        ]
+    },
+    {
+        "id": 3674,
+        "name": "Sevnica Municipality",
+        "cities": [
+            {
+                "id": 102849,
+                "name": "Sevnica"
+            }
+        ]
+    },
+    {
+        "id": 3675,
+        "name": "Sežana Municipality",
+        "cities": [
+            {
+                "id": 102850,
+                "name": "Sežana"
+            }
+        ]
+    },
+    {
+        "id": 3676,
+        "name": "Škocjan Municipality",
+        "cities": [
+            {
+                "id": 102851,
+                "name": "Škocjan"
+            }
+        ]
+    },
+    {
+        "id": 3677,
+        "name": "Škofja Loka Municipality",
+        "cities": [
+            {
+                "id": 102852,
+                "name": "Škofja Loka"
+            },
+            {
+                "id": 102853,
+                "name": "Sv. Duh"
+            }
+        ]
+    },
+    {
+        "id": 3678,
+        "name": "Slovenj Gradec City Municipality",
+        "cities": [
+            {
+                "id": 102854,
+                "name": "Legen"
+            },
+            {
+                "id": 102855,
+                "name": "Pameče"
+            },
+            {
+                "id": 102856,
+                "name": "Slovenj Gradec"
+            },
+            {
+                "id": 102857,
+                "name": "Šmartno pri Slovenj Gradcu"
+            }
+        ]
+    },
+    {
+        "id": 3679,
+        "name": "Slovenska Bistrica Municipality",
+        "cities": [
+            {
+                "id": 102858,
+                "name": "Pragersko"
+            },
+            {
+                "id": 102859,
+                "name": "Slovenska Bistrica"
+            },
+            {
+                "id": 102860,
+                "name": "Zgornja Polskava"
+            }
+        ]
+    },
+    {
+        "id": 3680,
+        "name": "Slovenske Konjice Municipality",
+        "cities": [
+            {
+                "id": 102861,
+                "name": "Slovenske Konjice"
+            }
+        ]
+    },
+    {
+        "id": 3681,
+        "name": "Šmarje pri Jelšah Municipality",
+        "cities": [
+            {
+                "id": 102862,
+                "name": "Šmarje pri Jelšah"
+            }
+        ]
+    },
+    {
+        "id": 3682,
+        "name": "Šmarješke Toplice Municipality",
+        "cities": [
+            {
+                "id": 102863,
+                "name": "Šmarjeta"
+            }
+        ]
+    },
+    {
+        "id": 3683,
+        "name": "Šmartno ob Paki Municipality",
+        "cities": [
+            {
+                "id": 102864,
+                "name": "Šmartno ob Paki"
+            }
+        ]
+    },
+    {
+        "id": 3684,
+        "name": "Šmartno pri Litiji Municipality",
+        "cities": [
+            {
+                "id": 102865,
+                "name": "Šmartno pri Litiji"
+            }
+        ]
+    },
+    {
+        "id": 3685,
+        "name": "Sodražica Municipality",
+        "cities": [
+            {
+                "id": 102866,
+                "name": "Sodražica"
+            }
+        ]
+    },
+    {
+        "id": 3686,
+        "name": "Solčava Municipality",
+        "cities": [
+            {
+                "id": 102867,
+                "name": "Solčava"
+            }
+        ]
+    },
+    {
+        "id": 3687,
+        "name": "Šoštanj Municipality",
+        "cities": [
+            {
+                "id": 102868,
+                "name": "Ravne"
+            },
+            {
+                "id": 102869,
+                "name": "Šoštanj"
+            },
+            {
+                "id": 102870,
+                "name": "Topolšica"
+            }
+        ]
+    },
+    {
+        "id": 3688,
+        "name": "Središče ob Dravi",
+        "cities": [
+            {
+                "id": 102871,
+                "name": "Središče ob Dravi"
+            }
+        ]
+    },
+    {
+        "id": 3689,
+        "name": "Starše Municipality",
+        "cities": [
+            {
+                "id": 102872,
+                "name": "Starše"
+            }
+        ]
+    },
+    {
+        "id": 3690,
+        "name": "Štore Municipality",
+        "cities": [
+            {
+                "id": 102873,
+                "name": "Štore"
+            }
+        ]
+    },
+    {
+        "id": 3691,
+        "name": "Straža Municipality",
+        "cities": [
+            {
+                "id": 102874,
+                "name": "Straža"
+            }
+        ]
+    },
+    {
+        "id": 3692,
+        "name": "Sveta Ana Municipality",
+        "cities": [
+            {
+                "id": 102875,
+                "name": "Sv. Ana v Slov. Goricah"
+            }
+        ]
+    },
+    {
+        "id": 3693,
+        "name": "Sveta Trojica v Slovenskih Goricah Municipality",
+        "cities": [
+            {
+                "id": 102876,
+                "name": "Sv. Trojica v Slov. Goricah"
+            }
+        ]
+    },
+    {
+        "id": 3694,
+        "name": "Sveti Andraž v Slovenskih Goricah Municipality",
+        "cities": [
+            {
+                "id": 102877,
+                "name": "Vitomarci"
+            }
+        ]
+    },
+    {
+        "id": 3695,
+        "name": "Sveti Jurij ob Ščavnici Municipality",
+        "cities": []
+    },
+    {
+        "id": 3696,
+        "name": "Sveti Jurij v Slovenskih Goricah Municipality",
+        "cities": [
+            {
+                "id": 102878,
+                "name": "Sveti Jurij ob Ščavnici"
+            }
+        ]
+    },
+    {
+        "id": 3697,
+        "name": "Sveti Tomaž Municipality",
+        "cities": [
+            {
+                "id": 102879,
+                "name": "Sveti Tomaž"
+            }
+        ]
+    },
+    {
+        "id": 3698,
+        "name": "Tabor Municipality",
+        "cities": [
+            {
+                "id": 102880,
+                "name": "Tabor"
+            }
+        ]
+    },
+    {
+        "id": 3699,
+        "name": "Tišina Municipality",
+        "cities": [
+            {
+                "id": 102881,
+                "name": "Tišina"
+            }
+        ]
+    },
+    {
+        "id": 3700,
+        "name": "Tolmin Municipality",
+        "cities": [
+            {
+                "id": 102882,
+                "name": "Tolmin"
+            }
+        ]
+    },
+    {
+        "id": 3701,
+        "name": "Trbovlje Municipality",
+        "cities": [
+            {
+                "id": 102883,
+                "name": "Trbovlje"
+            }
+        ]
+    },
+    {
+        "id": 3702,
+        "name": "Trebnje Municipality",
+        "cities": [
+            {
+                "id": 102884,
+                "name": "Trebnje"
+            }
+        ]
+    },
+    {
+        "id": 3703,
+        "name": "Trnovska Vas Municipality",
+        "cities": [
+            {
+                "id": 102885,
+                "name": "Trnovska Vas"
+            }
+        ]
+    },
+    {
+        "id": 3704,
+        "name": "Tržič Municipality",
+        "cities": [
+            {
+                "id": 102886,
+                "name": "Bistrica pri Tržiču"
+            },
+            {
+                "id": 102887,
+                "name": "Tržič"
+            }
+        ]
+    },
+    {
+        "id": 3705,
+        "name": "Trzin Municipality",
+        "cities": [
+            {
+                "id": 102888,
+                "name": "Črnuče District"
+            },
+            {
+                "id": 102889,
+                "name": "Trzin"
+            }
+        ]
+    },
+    {
+        "id": 3706,
+        "name": "Turnišče Municipality",
+        "cities": [
+            {
+                "id": 102890,
+                "name": "Turnišče"
+            }
+        ]
+    },
+    {
+        "id": 3707,
+        "name": "Velika Polana Municipality",
+        "cities": [
+            {
+                "id": 102891,
+                "name": "Velika Polana"
+            }
+        ]
+    },
+    {
+        "id": 3708,
+        "name": "Velike Lašče Municipality",
+        "cities": [
+            {
+                "id": 102892,
+                "name": "Velike Lašče"
+            }
+        ]
+    },
+    {
+        "id": 3709,
+        "name": "Veržej Municipality",
+        "cities": [
+            {
+                "id": 102893,
+                "name": "Veržej"
+            }
+        ]
+    },
+    {
+        "id": 3710,
+        "name": "Videm Municipality",
+        "cities": [
+            {
+                "id": 102894,
+                "name": "Videm pri Ptuju"
+            }
+        ]
+    },
+    {
+        "id": 3711,
+        "name": "Vipava Municipality",
+        "cities": [
+            {
+                "id": 102895,
+                "name": "Vipava"
+            }
+        ]
+    },
+    {
+        "id": 3712,
+        "name": "Vitanje Municipality",
+        "cities": [
+            {
+                "id": 102896,
+                "name": "Vitanje"
+            }
+        ]
+    },
+    {
+        "id": 3713,
+        "name": "Vodice Municipality",
+        "cities": [
+            {
+                "id": 102897,
+                "name": "Vodice"
+            }
+        ]
+    },
+    {
+        "id": 3714,
+        "name": "Vojnik Municipality",
+        "cities": [
+            {
+                "id": 102898,
+                "name": "Vojnik"
+            }
+        ]
+    },
+    {
+        "id": 3715,
+        "name": "Vransko Municipality",
+        "cities": [
+            {
+                "id": 102899,
+                "name": "Vransko"
+            }
+        ]
+    },
+    {
+        "id": 3716,
+        "name": "Vrhnika Municipality",
+        "cities": [
+            {
+                "id": 102900,
+                "name": "Verd"
+            },
+            {
+                "id": 102901,
+                "name": "Vrhnika"
+            }
+        ]
+    },
+    {
+        "id": 3717,
+        "name": "Vuzenica Municipality",
+        "cities": [
+            {
+                "id": 102902,
+                "name": "Vuzenica"
+            }
+        ]
+    },
+    {
+        "id": 3718,
+        "name": "Zagorje ob Savi Municipality",
+        "cities": [
+            {
+                "id": 102903,
+                "name": "Izlake"
+            },
+            {
+                "id": 102904,
+                "name": "Kisovec"
+            },
+            {
+                "id": 102905,
+                "name": "Zagorje ob Savi"
+            }
+        ]
+    },
+    {
+        "id": 3719,
+        "name": "Žalec Municipality",
+        "cities": [
+            {
+                "id": 102906,
+                "name": "Gotovlje"
+            },
+            {
+                "id": 102907,
+                "name": "Šempeter v Savinj. Dolini"
+            },
+            {
+                "id": 102908,
+                "name": "Zabukovica"
+            },
+            {
+                "id": 102909,
+                "name": "Žalec"
+            }
+        ]
+    },
+    {
+        "id": 3720,
+        "name": "Zavrč Municipality",
+        "cities": [
+            {
+                "id": 102910,
+                "name": "Zavrč"
+            }
+        ]
+    },
+    {
+        "id": 3721,
+        "name": "Železniki Municipality",
+        "cities": [
+            {
+                "id": 102911,
+                "name": "Železniki"
+            }
+        ]
+    },
+    {
+        "id": 3722,
+        "name": "Žetale Municipality",
+        "cities": [
+            {
+                "id": 102912,
+                "name": "Žetale"
+            }
+        ]
+    },
+    {
+        "id": 3723,
+        "name": "Žiri Municipality",
+        "cities": [
+            {
+                "id": 102913,
+                "name": "Žiri"
+            }
+        ]
+    },
+    {
+        "id": 3724,
+        "name": "Žirovnica Municipality",
+        "cities": [
+            {
+                "id": 102914,
+                "name": "Žirovnica"
+            }
+        ]
+    },
+    {
+        "id": 3725,
+        "name": "Zreče Municipality",
+        "cities": [
+            {
+                "id": 102915,
+                "name": "Zreče"
+            }
+        ]
+    },
+    {
+        "id": 3726,
+        "name": "Žužemberk Municipality",
+        "cities": [
+            {
+                "id": 102916,
+                "name": "Žužemberk"
+            }
+        ]
+    }
+]

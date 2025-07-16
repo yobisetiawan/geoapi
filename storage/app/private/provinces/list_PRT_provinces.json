@@ -1,0 +1,5402 @@
+[
+    {
+        "id": 3209,
+        "name": "Aveiro District",
+        "cities": [
+            {
+                "id": 86877,
+                "name": "Aguada de Cima"
+            },
+            {
+                "id": 86878,
+                "name": "Águeda"
+            },
+            {
+                "id": 86879,
+                "name": "Albergaria-a-Velha"
+            },
+            {
+                "id": 86880,
+                "name": "Anadia"
+            },
+            {
+                "id": 86881,
+                "name": "Aradas"
+            },
+            {
+                "id": 86882,
+                "name": "Arcos"
+            },
+            {
+                "id": 86883,
+                "name": "Argoncilhe"
+            },
+            {
+                "id": 86884,
+                "name": "Arouca"
+            },
+            {
+                "id": 86885,
+                "name": "Arrifana"
+            },
+            {
+                "id": 86886,
+                "name": "Avanca"
+            },
+            {
+                "id": 86887,
+                "name": "Aveiro"
+            },
+            {
+                "id": 86888,
+                "name": "Beduido"
+            },
+            {
+                "id": 86889,
+                "name": "Branca"
+            },
+            {
+                "id": 86890,
+                "name": "Castelo de Paiva"
+            },
+            {
+                "id": 86891,
+                "name": "Cortegaça"
+            },
+            {
+                "id": 86892,
+                "name": "Cucujães"
+            },
+            {
+                "id": 86893,
+                "name": "Eixo"
+            },
+            {
+                "id": 86894,
+                "name": "Esgueira"
+            },
+            {
+                "id": 86895,
+                "name": "Esmoriz"
+            },
+            {
+                "id": 86896,
+                "name": "Espargo"
+            },
+            {
+                "id": 86897,
+                "name": "Espinho"
+            },
+            {
+                "id": 86898,
+                "name": "Estarreja"
+            },
+            {
+                "id": 86899,
+                "name": "Feira"
+            },
+            {
+                "id": 86900,
+                "name": "Fiães"
+            },
+            {
+                "id": 86901,
+                "name": "Gafanha da Encarnação"
+            },
+            {
+                "id": 86902,
+                "name": "Gafanha da Nazaré"
+            },
+            {
+                "id": 86903,
+                "name": "Ílhavo"
+            },
+            {
+                "id": 86904,
+                "name": "Lamas"
+            },
+            {
+                "id": 86905,
+                "name": "Lobão"
+            },
+            {
+                "id": 86906,
+                "name": "Lourosa"
+            },
+            {
+                "id": 86907,
+                "name": "Luso"
+            },
+            {
+                "id": 86908,
+                "name": "Macieira de Cambra"
+            },
+            {
+                "id": 86909,
+                "name": "Mealhada"
+            },
+            {
+                "id": 86910,
+                "name": "Milheirós de Poiares"
+            },
+            {
+                "id": 86911,
+                "name": "Mosteirô"
+            },
+            {
+                "id": 86912,
+                "name": "Murtosa"
+            },
+            {
+                "id": 86913,
+                "name": "Nogueira da Regedoura"
+            },
+            {
+                "id": 86914,
+                "name": "Oiã"
+            },
+            {
+                "id": 86915,
+                "name": "Oliveira de Azemeis"
+            },
+            {
+                "id": 86916,
+                "name": "Oliveira de Azeméis"
+            },
+            {
+                "id": 86917,
+                "name": "Oliveira do Bairro"
+            },
+            {
+                "id": 86918,
+                "name": "Oliveirinha"
+            },
+            {
+                "id": 86919,
+                "name": "Ovar"
+            },
+            {
+                "id": 86920,
+                "name": "Paços de Brandão"
+            },
+            {
+                "id": 86921,
+                "name": "Pampilhosa do Botão"
+            },
+            {
+                "id": 86922,
+                "name": "Pardilhó"
+            },
+            {
+                "id": 86923,
+                "name": "Rio Meão"
+            },
+            {
+                "id": 86924,
+                "name": "Salreu"
+            },
+            {
+                "id": 86925,
+                "name": "Sanfins"
+            },
+            {
+                "id": 86926,
+                "name": "Sangalhos"
+            },
+            {
+                "id": 86927,
+                "name": "Santa Maria da Feira"
+            },
+            {
+                "id": 86928,
+                "name": "São João"
+            },
+            {
+                "id": 86929,
+                "name": "São João da Madeira"
+            },
+            {
+                "id": 86930,
+                "name": "São João de Ver"
+            },
+            {
+                "id": 86931,
+                "name": "São Roque"
+            },
+            {
+                "id": 86932,
+                "name": "Sever do Vouga"
+            },
+            {
+                "id": 86933,
+                "name": "Silvalde"
+            },
+            {
+                "id": 86934,
+                "name": "Souto"
+            },
+            {
+                "id": 86935,
+                "name": "Vagos"
+            },
+            {
+                "id": 86936,
+                "name": "Vale de Cambra"
+            },
+            {
+                "id": 86937,
+                "name": "Válega"
+            },
+            {
+                "id": 86938,
+                "name": "Valongo"
+            },
+            {
+                "id": 86939,
+                "name": "Vila Chã"
+            }
+        ]
+    },
+    {
+        "id": 3210,
+        "name": "Azores",
+        "cities": [
+            {
+                "id": 86940,
+                "name": "Água de Pau"
+            },
+            {
+                "id": 86941,
+                "name": "Angra do Heroísmo"
+            },
+            {
+                "id": 86942,
+                "name": "Angústias"
+            },
+            {
+                "id": 86943,
+                "name": "Arrifes"
+            },
+            {
+                "id": 86944,
+                "name": "Biscoitos"
+            },
+            {
+                "id": 86945,
+                "name": "Cabouco"
+            },
+            {
+                "id": 86946,
+                "name": "Cais do Pico"
+            },
+            {
+                "id": 86947,
+                "name": "Calheta"
+            },
+            {
+                "id": 86948,
+                "name": "Calheta de São Jorge"
+            },
+            {
+                "id": 86949,
+                "name": "Castelo Branco"
+            },
+            {
+                "id": 86950,
+                "name": "Corvo"
+            },
+            {
+                "id": 86951,
+                "name": "Fajã de Baixo"
+            },
+            {
+                "id": 86952,
+                "name": "Fenais da Ajuda"
+            },
+            {
+                "id": 86953,
+                "name": "Fenais da Luz"
+            },
+            {
+                "id": 86954,
+                "name": "Feteira"
+            },
+            {
+                "id": 86955,
+                "name": "Fonte Bastardo"
+            },
+            {
+                "id": 86956,
+                "name": "Furnas"
+            },
+            {
+                "id": 86957,
+                "name": "Horta"
+            },
+            {
+                "id": 86958,
+                "name": "Lagoa"
+            },
+            {
+                "id": 86959,
+                "name": "Lajes"
+            },
+            {
+                "id": 86960,
+                "name": "Lajes das Flores"
+            },
+            {
+                "id": 86961,
+                "name": "Lajes do Pico"
+            },
+            {
+                "id": 86962,
+                "name": "Madalena"
+            },
+            {
+                "id": 86963,
+                "name": "Maia"
+            },
+            {
+                "id": 86964,
+                "name": "Mosteiros"
+            },
+            {
+                "id": 86965,
+                "name": "Nordeste"
+            },
+            {
+                "id": 86966,
+                "name": "Ponta Delgada"
+            },
+            {
+                "id": 86967,
+                "name": "Ponta Garça"
+            },
+            {
+                "id": 86968,
+                "name": "Porto Judeu"
+            },
+            {
+                "id": 86969,
+                "name": "Porto Martins"
+            },
+            {
+                "id": 86970,
+                "name": "Povoação"
+            },
+            {
+                "id": 86971,
+                "name": "Praia da Vitória"
+            },
+            {
+                "id": 86972,
+                "name": "Rabo de Peixe"
+            },
+            {
+                "id": 86973,
+                "name": "Relva"
+            },
+            {
+                "id": 86974,
+                "name": "Ribeira Grande"
+            },
+            {
+                "id": 86975,
+                "name": "Ribeira Seca"
+            },
+            {
+                "id": 86976,
+                "name": "Ribeirinha"
+            },
+            {
+                "id": 86977,
+                "name": "Rosto de Cão"
+            },
+            {
+                "id": 86978,
+                "name": "Santa Bárbara"
+            },
+            {
+                "id": 86979,
+                "name": "Santa Cruz da Graciosa"
+            },
+            {
+                "id": 86980,
+                "name": "Santa Cruz das Flores"
+            },
+            {
+                "id": 86981,
+                "name": "São Bartolomeu"
+            },
+            {
+                "id": 86982,
+                "name": "São Mateus"
+            },
+            {
+                "id": 86983,
+                "name": "São Roque"
+            },
+            {
+                "id": 86984,
+                "name": "São Roque do Pico"
+            },
+            {
+                "id": 86985,
+                "name": "São Sebastião"
+            },
+            {
+                "id": 86986,
+                "name": "São Vicente"
+            },
+            {
+                "id": 86987,
+                "name": "Senhora do Rosário"
+            },
+            {
+                "id": 86988,
+                "name": "Velas"
+            },
+            {
+                "id": 86989,
+                "name": "Vila do Porto"
+            },
+            {
+                "id": 86990,
+                "name": "Vila Franca do Campo"
+            }
+        ]
+    },
+    {
+        "id": 3211,
+        "name": "Beja District",
+        "cities": [
+            {
+                "id": 86991,
+                "name": "Aldeia Nova de São Bento"
+            },
+            {
+                "id": 86992,
+                "name": "Aljustrel"
+            },
+            {
+                "id": 86993,
+                "name": "Almodôvar"
+            },
+            {
+                "id": 86994,
+                "name": "Almograve"
+            },
+            {
+                "id": 86995,
+                "name": "Alvito"
+            },
+            {
+                "id": 86996,
+                "name": "Barrancos"
+            },
+            {
+                "id": 86997,
+                "name": "Beja"
+            },
+            {
+                "id": 86998,
+                "name": "Beringel"
+            },
+            {
+                "id": 86999,
+                "name": "Boavista dos Pinheiros"
+            },
+            {
+                "id": 87000,
+                "name": "Cabeça Gorda"
+            },
+            {
+                "id": 87001,
+                "name": "Castro Verde"
+            },
+            {
+                "id": 87002,
+                "name": "Cuba"
+            },
+            {
+                "id": 87003,
+                "name": "Ferreira do Alentejo"
+            },
+            {
+                "id": 87004,
+                "name": "Mértola"
+            },
+            {
+                "id": 87005,
+                "name": "Minas de São Domingos"
+            },
+            {
+                "id": 87006,
+                "name": "Moura"
+            },
+            {
+                "id": 87007,
+                "name": "Neves"
+            },
+            {
+                "id": 87008,
+                "name": "Odemira"
+            },
+            {
+                "id": 87009,
+                "name": "Ourique"
+            },
+            {
+                "id": 87010,
+                "name": "Penedo Gordo"
+            },
+            {
+                "id": 87011,
+                "name": "Salvada"
+            },
+            {
+                "id": 87012,
+                "name": "São Luis"
+            },
+            {
+                "id": 87013,
+                "name": "São Teotónio"
+            },
+            {
+                "id": 87014,
+                "name": "Serpa"
+            },
+            {
+                "id": 87015,
+                "name": "Vidigueira"
+            },
+            {
+                "id": 87016,
+                "name": "Vila Nova de Milfontes"
+            },
+            {
+                "id": 87017,
+                "name": "Zambujeira do Mar"
+            }
+        ]
+    },
+    {
+        "id": 3212,
+        "name": "Braga District",
+        "cities": [
+            {
+                "id": 87018,
+                "name": "Adaúfe"
+            },
+            {
+                "id": 87019,
+                "name": "Amares"
+            },
+            {
+                "id": 87020,
+                "name": "Apúlia"
+            },
+            {
+                "id": 87021,
+                "name": "Apúlia e Fão"
+            },
+            {
+                "id": 87022,
+                "name": "Arcos"
+            },
+            {
+                "id": 87023,
+                "name": "Arões"
+            },
+            {
+                "id": 87024,
+                "name": "Aveleda"
+            },
+            {
+                "id": 87025,
+                "name": "Barcelos"
+            },
+            {
+                "id": 87026,
+                "name": "Barqueiros"
+            },
+            {
+                "id": 87027,
+                "name": "Braga"
+            },
+            {
+                "id": 87028,
+                "name": "Brito"
+            },
+            {
+                "id": 87029,
+                "name": "Cabeceiras de Basto"
+            },
+            {
+                "id": 87030,
+                "name": "Caldas das Taipas"
+            },
+            {
+                "id": 87031,
+                "name": "Caldas de Vizela"
+            },
+            {
+                "id": 87032,
+                "name": "Caldelas"
+            },
+            {
+                "id": 87033,
+                "name": "Calendário"
+            },
+            {
+                "id": 87034,
+                "name": "Candoso"
+            },
+            {
+                "id": 87035,
+                "name": "Celorico de Basto"
+            },
+            {
+                "id": 87036,
+                "name": "Chavão"
+            },
+            {
+                "id": 87037,
+                "name": "Cristelo"
+            },
+            {
+                "id": 87038,
+                "name": "Esporões"
+            },
+            {
+                "id": 87039,
+                "name": "Esposende"
+            },
+            {
+                "id": 87040,
+                "name": "Fafe"
+            },
+            {
+                "id": 87041,
+                "name": "Faria"
+            },
+            {
+                "id": 87042,
+                "name": "Ferreiros"
+            },
+            {
+                "id": 87043,
+                "name": "Fradelos"
+            },
+            {
+                "id": 87044,
+                "name": "Frossos"
+            },
+            {
+                "id": 87045,
+                "name": "Galegos"
+            },
+            {
+                "id": 87046,
+                "name": "Gandra"
+            },
+            {
+                "id": 87047,
+                "name": "Gondizalves"
+            },
+            {
+                "id": 87048,
+                "name": "Gueral"
+            },
+            {
+                "id": 87049,
+                "name": "Guimarães"
+            },
+            {
+                "id": 87050,
+                "name": "Guisande"
+            },
+            {
+                "id": 87051,
+                "name": "Joane"
+            },
+            {
+                "id": 87052,
+                "name": "Lago"
+            },
+            {
+                "id": 87053,
+                "name": "Lordelo"
+            },
+            {
+                "id": 87054,
+                "name": "Macieira de Rates"
+            },
+            {
+                "id": 87055,
+                "name": "Marinhas"
+            },
+            {
+                "id": 87056,
+                "name": "Mariz"
+            },
+            {
+                "id": 87057,
+                "name": "Merelim"
+            },
+            {
+                "id": 87058,
+                "name": "Moreira de Conegos"
+            },
+            {
+                "id": 87059,
+                "name": "Negreiros"
+            },
+            {
+                "id": 87060,
+                "name": "Oliveira"
+            },
+            {
+                "id": 87061,
+                "name": "Perelhal"
+            },
+            {
+                "id": 87062,
+                "name": "Ponte"
+            },
+            {
+                "id": 87063,
+                "name": "Póvoa de Lanhoso"
+            },
+            {
+                "id": 87064,
+                "name": "Prado"
+            },
+            {
+                "id": 87065,
+                "name": "Real"
+            },
+            {
+                "id": 87066,
+                "name": "Refojos de Basto"
+            },
+            {
+                "id": 87067,
+                "name": "Rendufe"
+            },
+            {
+                "id": 87068,
+                "name": "Riba de Ave"
+            },
+            {
+                "id": 87069,
+                "name": "Ribeirão"
+            },
+            {
+                "id": 87070,
+                "name": "Ronfe"
+            },
+            {
+                "id": 87071,
+                "name": "Sande"
+            },
+            {
+                "id": 87072,
+                "name": "Selho"
+            },
+            {
+                "id": 87073,
+                "name": "Semelhe"
+            },
+            {
+                "id": 87074,
+                "name": "Serzedelo"
+            },
+            {
+                "id": 87075,
+                "name": "Serzedo"
+            },
+            {
+                "id": 87076,
+                "name": "Tebosa"
+            },
+            {
+                "id": 87077,
+                "name": "Terras de Bouro"
+            },
+            {
+                "id": 87078,
+                "name": "Urgeses"
+            },
+            {
+                "id": 87079,
+                "name": "Várzea"
+            },
+            {
+                "id": 87080,
+                "name": "Vieira do Minho"
+            },
+            {
+                "id": 87081,
+                "name": "Vila Cova"
+            },
+            {
+                "id": 87082,
+                "name": "Vila Frescainha"
+            },
+            {
+                "id": 87083,
+                "name": "Vila Nova de Famalicão"
+            },
+            {
+                "id": 87084,
+                "name": "Vila Seca"
+            },
+            {
+                "id": 87085,
+                "name": "Vila Verde"
+            },
+            {
+                "id": 87086,
+                "name": "Vilaça"
+            },
+            {
+                "id": 87087,
+                "name": "Vilar de Figos"
+            },
+            {
+                "id": 87088,
+                "name": "Vizela"
+            }
+        ]
+    },
+    {
+        "id": 3213,
+        "name": "Bragança District",
+        "cities": [
+            {
+                "id": 87089,
+                "name": "Alfândega da Fé"
+            },
+            {
+                "id": 87090,
+                "name": "Belver"
+            },
+            {
+                "id": 87091,
+                "name": "Bragança Municipality"
+            },
+            {
+                "id": 87092,
+                "name": "Carrazeda de Anciães"
+            },
+            {
+                "id": 87093,
+                "name": "Carrazeda de Ansiães"
+            },
+            {
+                "id": 87094,
+                "name": "Freixo de Espada à Cinta"
+            },
+            {
+                "id": 87095,
+                "name": "Macedo de Cavaleiros"
+            },
+            {
+                "id": 87096,
+                "name": "Miranda do Douro"
+            },
+            {
+                "id": 87097,
+                "name": "Mirandela"
+            },
+            {
+                "id": 87098,
+                "name": "Mogadouro"
+            },
+            {
+                "id": 87099,
+                "name": "Samil"
+            },
+            {
+                "id": 87100,
+                "name": "Sendim"
+            },
+            {
+                "id": 87101,
+                "name": "Torre de Moncorvo"
+            },
+            {
+                "id": 87102,
+                "name": "Vila Flor"
+            },
+            {
+                "id": 87103,
+                "name": "Vimioso"
+            },
+            {
+                "id": 87104,
+                "name": "Vinhais"
+            }
+        ]
+    },
+    {
+        "id": 3214,
+        "name": "Castelo Branco District",
+        "cities": [
+            {
+                "id": 87105,
+                "name": "Aldeia de Joanes"
+            },
+            {
+                "id": 87106,
+                "name": "Belmonte"
+            },
+            {
+                "id": 87107,
+                "name": "Castelo Branco"
+            },
+            {
+                "id": 87108,
+                "name": "Covilhã"
+            },
+            {
+                "id": 87109,
+                "name": "Fundão"
+            },
+            {
+                "id": 87110,
+                "name": "Idanha-A-Nova"
+            },
+            {
+                "id": 87111,
+                "name": "Oleiros"
+            },
+            {
+                "id": 87112,
+                "name": "Penamacor"
+            },
+            {
+                "id": 87113,
+                "name": "Proença-a-Nova"
+            },
+            {
+                "id": 87114,
+                "name": "Sertã"
+            },
+            {
+                "id": 87115,
+                "name": "Teixoso"
+            },
+            {
+                "id": 87116,
+                "name": "Vila de Rei"
+            },
+            {
+                "id": 87117,
+                "name": "Vila Velha de Ródão"
+            }
+        ]
+    },
+    {
+        "id": 3215,
+        "name": "Coimbra District",
+        "cities": [
+            {
+                "id": 87118,
+                "name": "Alfarelos"
+            },
+            {
+                "id": 87119,
+                "name": "Alhadas"
+            },
+            {
+                "id": 87120,
+                "name": "Ançã"
+            },
+            {
+                "id": 87121,
+                "name": "Arazede"
+            },
+            {
+                "id": 87122,
+                "name": "Arganil"
+            },
+            {
+                "id": 87123,
+                "name": "Assafarge"
+            },
+            {
+                "id": 87124,
+                "name": "Buarcos"
+            },
+            {
+                "id": 87125,
+                "name": "Cantanhede"
+            },
+            {
+                "id": 87126,
+                "name": "Carapinheira"
+            },
+            {
+                "id": 87127,
+                "name": "Coimbra"
+            },
+            {
+                "id": 87128,
+                "name": "Condeixa-a-Nova"
+            },
+            {
+                "id": 87129,
+                "name": "Figueira da Foz"
+            },
+            {
+                "id": 87130,
+                "name": "Góis"
+            },
+            {
+                "id": 87131,
+                "name": "Lavos"
+            },
+            {
+                "id": 87132,
+                "name": "Lorvão"
+            },
+            {
+                "id": 87133,
+                "name": "Lousã"
+            },
+            {
+                "id": 87134,
+                "name": "Mira"
+            },
+            {
+                "id": 87135,
+                "name": "Miranda do Corvo"
+            },
+            {
+                "id": 87136,
+                "name": "Montemor-o-Velho"
+            },
+            {
+                "id": 87137,
+                "name": "Oliveira do Hospital"
+            },
+            {
+                "id": 87138,
+                "name": "Oliveira do Mondego"
+            },
+            {
+                "id": 87139,
+                "name": "Pampilhosa da Serra"
+            },
+            {
+                "id": 87140,
+                "name": "Penacova"
+            },
+            {
+                "id": 87141,
+                "name": "Penela"
+            },
+            {
+                "id": 87142,
+                "name": "Poiares"
+            },
+            {
+                "id": 87143,
+                "name": "Santa Clara"
+            },
+            {
+                "id": 87144,
+                "name": "Santo António dos Olivais"
+            },
+            {
+                "id": 87145,
+                "name": "São Pedro de Alva"
+            },
+            {
+                "id": 87146,
+                "name": "Soure"
+            },
+            {
+                "id": 87147,
+                "name": "Tábua"
+            },
+            {
+                "id": 87148,
+                "name": "Tavarede"
+            },
+            {
+                "id": 87149,
+                "name": "Tocha"
+            },
+            {
+                "id": 87150,
+                "name": "Travanca"
+            },
+            {
+                "id": 87151,
+                "name": "Vila Nova de Poiares"
+            }
+        ]
+    },
+    {
+        "id": 3216,
+        "name": "Évora District",
+        "cities": [
+            {
+                "id": 87152,
+                "name": "Alandroal"
+            },
+            {
+                "id": 87153,
+                "name": "Arraiolos"
+            },
+            {
+                "id": 87154,
+                "name": "Borba"
+            },
+            {
+                "id": 87155,
+                "name": "Estremoz"
+            },
+            {
+                "id": 87156,
+                "name": "Évora"
+            },
+            {
+                "id": 87157,
+                "name": "Montemor-o-Novo"
+            },
+            {
+                "id": 87158,
+                "name": "Mora"
+            },
+            {
+                "id": 87159,
+                "name": "Mourão"
+            },
+            {
+                "id": 87160,
+                "name": "Portel"
+            },
+            {
+                "id": 87161,
+                "name": "Redondo"
+            },
+            {
+                "id": 87162,
+                "name": "Reguengos de Monsaraz"
+            },
+            {
+                "id": 87163,
+                "name": "Vendas Novas"
+            },
+            {
+                "id": 87164,
+                "name": "Viana do Alentejo"
+            },
+            {
+                "id": 87165,
+                "name": "Vila Viçosa"
+            }
+        ]
+    },
+    {
+        "id": 3217,
+        "name": "Faro District",
+        "cities": [
+            {
+                "id": 87166,
+                "name": "Albufeira"
+            },
+            {
+                "id": 87167,
+                "name": "Alcantarilha"
+            },
+            {
+                "id": 87168,
+                "name": "Alcoutim"
+            },
+            {
+                "id": 87169,
+                "name": "Algoz"
+            },
+            {
+                "id": 87170,
+                "name": "Aljezur"
+            },
+            {
+                "id": 87171,
+                "name": "Almancil"
+            },
+            {
+                "id": 87172,
+                "name": "Altura"
+            },
+            {
+                "id": 87173,
+                "name": "Alvor"
+            },
+            {
+                "id": 87174,
+                "name": "Armação de Pêra"
+            },
+            {
+                "id": 87175,
+                "name": "Bensafrim"
+            },
+            {
+                "id": 87176,
+                "name": "Boliqueime"
+            },
+            {
+                "id": 87177,
+                "name": "Cabanas de Tavira"
+            },
+            {
+                "id": 87178,
+                "name": "Carvoeiro"
+            },
+            {
+                "id": 87179,
+                "name": "Castro Marim"
+            },
+            {
+                "id": 87180,
+                "name": "Conceição"
+            },
+            {
+                "id": 87181,
+                "name": "Estói"
+            },
+            {
+                "id": 87182,
+                "name": "Estômbar"
+            },
+            {
+                "id": 87183,
+                "name": "Faro"
+            },
+            {
+                "id": 87184,
+                "name": "Ferragudo"
+            },
+            {
+                "id": 87185,
+                "name": "Ferreiras"
+            },
+            {
+                "id": 87186,
+                "name": "Fuzeta"
+            },
+            {
+                "id": 87187,
+                "name": "Guia"
+            },
+            {
+                "id": 87188,
+                "name": "Lagoa"
+            },
+            {
+                "id": 87189,
+                "name": "Lagos"
+            },
+            {
+                "id": 87190,
+                "name": "Laranjeiro"
+            },
+            {
+                "id": 87191,
+                "name": "Loulé"
+            },
+            {
+                "id": 87192,
+                "name": "Luz"
+            },
+            {
+                "id": 87193,
+                "name": "Manta Rota"
+            },
+            {
+                "id": 87194,
+                "name": "Marmelete"
+            },
+            {
+                "id": 87195,
+                "name": "Mexilhoeira Grande"
+            },
+            {
+                "id": 87196,
+                "name": "Moncarapacho"
+            },
+            {
+                "id": 87197,
+                "name": "Monchique"
+            },
+            {
+                "id": 87198,
+                "name": "Monte Gordo"
+            },
+            {
+                "id": 87199,
+                "name": "Olhão"
+            },
+            {
+                "id": 87200,
+                "name": "Olhos de Água"
+            },
+            {
+                "id": 87201,
+                "name": "Paderne"
+            },
+            {
+                "id": 87202,
+                "name": "Parchal"
+            },
+            {
+                "id": 87203,
+                "name": "Pêra"
+            },
+            {
+                "id": 87204,
+                "name": "Porches"
+            },
+            {
+                "id": 87205,
+                "name": "Portimão"
+            },
+            {
+                "id": 87206,
+                "name": "Quarteira"
+            },
+            {
+                "id": 87207,
+                "name": "Sagres"
+            },
+            {
+                "id": 87208,
+                "name": "Santa Bárbara de Nexe"
+            },
+            {
+                "id": 87209,
+                "name": "Santa Luzia"
+            },
+            {
+                "id": 87210,
+                "name": "São Bartolomeu de Messines"
+            },
+            {
+                "id": 87211,
+                "name": "São Brás de Alportel"
+            },
+            {
+                "id": 87212,
+                "name": "São Marcos da Serra"
+            },
+            {
+                "id": 87213,
+                "name": "Senhora da Luz"
+            },
+            {
+                "id": 87214,
+                "name": "Silves"
+            },
+            {
+                "id": 87215,
+                "name": "Tavira"
+            },
+            {
+                "id": 87216,
+                "name": "Tunes"
+            },
+            {
+                "id": 87217,
+                "name": "Vila do Bispo"
+            },
+            {
+                "id": 87218,
+                "name": "Vila Nova De Cacela"
+            },
+            {
+                "id": 87219,
+                "name": "Vila Real de Santo António"
+            },
+            {
+                "id": 87220,
+                "name": "Vilamoura"
+            }
+        ]
+    },
+    {
+        "id": 3218,
+        "name": "Guarda District",
+        "cities": [
+            {
+                "id": 87221,
+                "name": "Abrigada"
+            },
+            {
+                "id": 87222,
+                "name": "Açores"
+            },
+            {
+                "id": 87223,
+                "name": "Adão"
+            },
+            {
+                "id": 87224,
+                "name": "Agualva"
+            },
+            {
+                "id": 87225,
+                "name": "Águas Belas"
+            },
+            {
+                "id": 87226,
+                "name": "Aguiar da Beira"
+            },
+            {
+                "id": 87227,
+                "name": "Ajuda"
+            },
+            {
+                "id": 87228,
+                "name": "Albardo"
+            },
+            {
+                "id": 87229,
+                "name": "Alcabideche"
+            },
+            {
+                "id": 87230,
+                "name": "Alcains"
+            },
+            {
+                "id": 87231,
+                "name": "Alcântara"
+            },
+            {
+                "id": 87232,
+                "name": "Alcoentre"
+            },
+            {
+                "id": 87233,
+                "name": "Aldeia da Ponte"
+            },
+            {
+                "id": 87234,
+                "name": "Aldeia da Ribeira"
+            },
+            {
+                "id": 87235,
+                "name": "Aldeia de Santo António"
+            },
+            {
+                "id": 87236,
+                "name": "Aldeia do Bispo"
+            },
+            {
+                "id": 87237,
+                "name": "Aldeia Galega da Merceana"
+            },
+            {
+                "id": 87238,
+                "name": "Aldeia Gavinha"
+            },
+            {
+                "id": 87239,
+                "name": "Aldeia Nova, Miranda do Douro"
+            },
+            {
+                "id": 87240,
+                "name": "Aldeia Velha"
+            },
+            {
+                "id": 87241,
+                "name": "Aldeia Viçosa"
+            },
+            {
+                "id": 87242,
+                "name": "Aldeias"
+            },
+            {
+                "id": 87243,
+                "name": "Alenquer"
+            },
+            {
+                "id": 87244,
+                "name": "Alfaiates"
+            },
+            {
+                "id": 87245,
+                "name": "Alfornelos"
+            },
+            {
+                "id": 87246,
+                "name": "Alfragide"
+            },
+            {
+                "id": 87247,
+                "name": "Algés"
+            },
+            {
+                "id": 87248,
+                "name": "Algodres"
+            },
+            {
+                "id": 87249,
+                "name": "Alguber"
+            },
+            {
+                "id": 87250,
+                "name": "Algueirão"
+            },
+            {
+                "id": 87251,
+                "name": "Algueirão–Mem Martins"
+            },
+            {
+                "id": 87252,
+                "name": "Alhandra"
+            },
+            {
+                "id": 87253,
+                "name": "Almargem"
+            },
+            {
+                "id": 87254,
+                "name": "Almargem do Bispo"
+            },
+            {
+                "id": 87255,
+                "name": "Almeida"
+            },
+            {
+                "id": 87256,
+                "name": "Almendra"
+            },
+            {
+                "id": 87257,
+                "name": "Almofala"
+            },
+            {
+                "id": 87258,
+                "name": "Alto do Pina"
+            },
+            {
+                "id": 87259,
+                "name": "Alvalade"
+            },
+            {
+                "id": 87260,
+                "name": "Alvendre"
+            },
+            {
+                "id": 87261,
+                "name": "Alverca da Beira"
+            },
+            {
+                "id": 87262,
+                "name": "Alverca do Ribatejo"
+            },
+            {
+                "id": 87263,
+                "name": "Alvoco da Serra"
+            },
+            {
+                "id": 87264,
+                "name": "Amadora"
+            },
+            {
+                "id": 87265,
+                "name": "Ameixoeira"
+            },
+            {
+                "id": 87266,
+                "name": "Amoreira"
+            },
+            {
+                "id": 87267,
+                "name": "Anjos"
+            },
+            {
+                "id": 87268,
+                "name": "Apelação"
+            },
+            {
+                "id": 87269,
+                "name": "Arcozelo"
+            },
+            {
+                "id": 87270,
+                "name": "Arranhó"
+            },
+            {
+                "id": 87271,
+                "name": "Arrifana"
+            },
+            {
+                "id": 87272,
+                "name": "Arruda Dos Vinhos"
+            },
+            {
+                "id": 87273,
+                "name": "Atalaia"
+            },
+            {
+                "id": 87274,
+                "name": "Aveiras de Baixo"
+            },
+            {
+                "id": 87275,
+                "name": "Aveiras de Cima"
+            },
+            {
+                "id": 87276,
+                "name": "Avelãs da Ribeira"
+            },
+            {
+                "id": 87277,
+                "name": "Aveloso"
+            },
+            {
+                "id": 87278,
+                "name": "Azambuja"
+            },
+            {
+                "id": 87279,
+                "name": "Azambuja (town)"
+            },
+            {
+                "id": 87280,
+                "name": "Azenhas do Mar"
+            },
+            {
+                "id": 87281,
+                "name": "Azevo"
+            },
+            {
+                "id": 87282,
+                "name": "Azueira"
+            },
+            {
+                "id": 87283,
+                "name": "Baraçal"
+            },
+            {
+                "id": 87284,
+                "name": "Barcarena"
+            },
+            {
+                "id": 87285,
+                "name": "Barreira"
+            },
+            {
+                "id": 87286,
+                "name": "Beato"
+            },
+            {
+                "id": 87287,
+                "name": "Belas"
+            },
+            {
+                "id": 87288,
+                "name": "Bendada"
+            },
+            {
+                "id": 87289,
+                "name": "Benespera"
+            },
+            {
+                "id": 87290,
+                "name": "Benfica"
+            },
+            {
+                "id": 87291,
+                "name": "Bismula"
+            },
+            {
+                "id": 87292,
+                "name": "Bobadela"
+            },
+            {
+                "id": 87293,
+                "name": "Bouça Cova"
+            },
+            {
+                "id": 87294,
+                "name": "Brandoa"
+            },
+            {
+                "id": 87295,
+                "name": "Bucelas"
+            },
+            {
+                "id": 87296,
+                "name": "Buraca"
+            },
+            {
+                "id": 87297,
+                "name": "Cabanas de Torres"
+            },
+            {
+                "id": 87298,
+                "name": "Cabeça"
+            },
+            {
+                "id": 87299,
+                "name": "Cacem"
+            },
+            {
+                "id": 87300,
+                "name": "Cachoeiras"
+            },
+            {
+                "id": 87301,
+                "name": "Cadafais"
+            },
+            {
+                "id": 87302,
+                "name": "Cadafaz"
+            },
+            {
+                "id": 87303,
+                "name": "Cadaval"
+            },
+            {
+                "id": 87304,
+                "name": "Calhandriz"
+            },
+            {
+                "id": 87305,
+                "name": "Camarate"
+            },
+            {
+                "id": 87306,
+                "name": "Campelos"
+            },
+            {
+                "id": 87307,
+                "name": "Campo Grande"
+            },
+            {
+                "id": 87308,
+                "name": "Campolide"
+            },
+            {
+                "id": 87309,
+                "name": "Caneças"
+            },
+            {
+                "id": 87310,
+                "name": "Carapito"
+            },
+            {
+                "id": 87311,
+                "name": "Carcavelos"
+            },
+            {
+                "id": 87312,
+                "name": "Cardosas"
+            },
+            {
+                "id": 87313,
+                "name": "Carmões"
+            },
+            {
+                "id": 87314,
+                "name": "Carnaxide"
+            },
+            {
+                "id": 87315,
+                "name": "Carnicães"
+            },
+            {
+                "id": 87316,
+                "name": "Carnide"
+            },
+            {
+                "id": 87317,
+                "name": "Carnota"
+            },
+            {
+                "id": 87318,
+                "name": "Carragozela"
+            },
+            {
+                "id": 87319,
+                "name": "Carrapichana"
+            },
+            {
+                "id": 87320,
+                "name": "Carregado"
+            },
+            {
+                "id": 87321,
+                "name": "Carvalhal"
+            },
+            {
+                "id": 87322,
+                "name": "Carvoeira"
+            },
+            {
+                "id": 87323,
+                "name": "Casal de Cambra"
+            },
+            {
+                "id": 87324,
+                "name": "Casal de Cinza"
+            },
+            {
+                "id": 87325,
+                "name": "Casal Vasco"
+            },
+            {
+                "id": 87326,
+                "name": "Casas do Soeiro"
+            },
+            {
+                "id": 87327,
+                "name": "Cascais"
+            },
+            {
+                "id": 87328,
+                "name": "Castanheira"
+            },
+            {
+                "id": 87329,
+                "name": "Castanheira do Ribatejo"
+            },
+            {
+                "id": 87330,
+                "name": "Casteição"
+            },
+            {
+                "id": 87331,
+                "name": "Casteleiro"
+            },
+            {
+                "id": 87332,
+                "name": "Castelo (Lisbon)"
+            },
+            {
+                "id": 87333,
+                "name": "Castelo Bom"
+            },
+            {
+                "id": 87334,
+                "name": "Castelo Melhor"
+            },
+            {
+                "id": 87335,
+                "name": "Castelo Rodrigo"
+            },
+            {
+                "id": 87336,
+                "name": "Cativelos"
+            },
+            {
+                "id": 87337,
+                "name": "Cavadoude"
+            },
+            {
+                "id": 87338,
+                "name": "Caxias"
+            },
+            {
+                "id": 87339,
+                "name": "Cedovim"
+            },
+            {
+                "id": 87340,
+                "name": "Celorico da Beira"
+            },
+            {
+                "id": 87341,
+                "name": "Cercal"
+            },
+            {
+                "id": 87342,
+                "name": "Cerdeira"
+            },
+            {
+                "id": 87343,
+                "name": "Cerejo"
+            },
+            {
+                "id": 87344,
+                "name": "Charneca"
+            },
+            {
+                "id": 87345,
+                "name": "Chãs"
+            },
+            {
+                "id": 87346,
+                "name": "Cheleiros"
+            },
+            {
+                "id": 87347,
+                "name": "Codesseiro"
+            },
+            {
+                "id": 87348,
+                "name": "Cogula"
+            },
+            {
+                "id": 87349,
+                "name": "Colares"
+            },
+            {
+                "id": 87350,
+                "name": "Coração de Jesus"
+            },
+            {
+                "id": 87351,
+                "name": "Coriscada"
+            },
+            {
+                "id": 87352,
+                "name": "Cortiçada"
+            },
+            {
+                "id": 87353,
+                "name": "Cortiçô"
+            },
+            {
+                "id": 87354,
+                "name": "Cortiçô da Serra"
+            },
+            {
+                "id": 87355,
+                "name": "Coruche"
+            },
+            {
+                "id": 87356,
+                "name": "Corujeira"
+            },
+            {
+                "id": 87357,
+                "name": "Cótimos"
+            },
+            {
+                "id": 87358,
+                "name": "Cruz Quebrada - Dafundo"
+            },
+            {
+                "id": 87359,
+                "name": "Custoias"
+            },
+            {
+                "id": 87360,
+                "name": "Damaia"
+            },
+            {
+                "id": 87361,
+                "name": "Dois Portos"
+            },
+            {
+                "id": 87362,
+                "name": "Dornelas"
+            },
+            {
+                "id": 87363,
+                "name": "Eirado"
+            },
+            {
+                "id": 87364,
+                "name": "Encarnação"
+            },
+            {
+                "id": 87365,
+                "name": "Enxara do Bispo"
+            },
+            {
+                "id": 87366,
+                "name": "Ericeira"
+            },
+            {
+                "id": 87367,
+                "name": "Ervas Tenras"
+            },
+            {
+                "id": 87368,
+                "name": "Ervedosa"
+            },
+            {
+                "id": 87369,
+                "name": "Escalhão"
+            },
+            {
+                "id": 87370,
+                "name": "Estoril"
+            },
+            {
+                "id": 87371,
+                "name": "Faia"
+            },
+            {
+                "id": 87372,
+                "name": "Falagueira"
+            },
+            {
+                "id": 87373,
+                "name": "Famalicão"
+            },
+            {
+                "id": 87374,
+                "name": "Famões"
+            },
+            {
+                "id": 87375,
+                "name": "Fanhões"
+            },
+            {
+                "id": 87376,
+                "name": "Fernão Joanes"
+            },
+            {
+                "id": 87377,
+                "name": "Fiães"
+            },
+            {
+                "id": 87378,
+                "name": "Figueira de Castelo Rodrigo"
+            },
+            {
+                "id": 87379,
+                "name": "Figueira do Guincho"
+            },
+            {
+                "id": 87380,
+                "name": "Figueiró da Granja"
+            },
+            {
+                "id": 87381,
+                "name": "Figueiró da Serra"
+            },
+            {
+                "id": 87382,
+                "name": "Figueiros"
+            },
+            {
+                "id": 87383,
+                "name": "Fóios"
+            },
+            {
+                "id": 87384,
+                "name": "Folgosinho"
+            },
+            {
+                "id": 87385,
+                "name": "Folhadosa"
+            },
+            {
+                "id": 87386,
+                "name": "Fontanelas"
+            },
+            {
+                "id": 87387,
+                "name": "Fonte Longa"
+            },
+            {
+                "id": 87388,
+                "name": "Forninhos"
+            },
+            {
+                "id": 87389,
+                "name": "Forno Telheiro"
+            },
+            {
+                "id": 87390,
+                "name": "Fornos de Algodres"
+            },
+            {
+                "id": 87391,
+                "name": "Forte da Casa"
+            },
+            {
+                "id": 87392,
+                "name": "Freches"
+            },
+            {
+                "id": 87393,
+                "name": "Freineda"
+            },
+            {
+                "id": 87394,
+                "name": "Freiria"
+            },
+            {
+                "id": 87395,
+                "name": "Freixeda do Torrão"
+            },
+            {
+                "id": 87396,
+                "name": "Freixedas"
+            },
+            {
+                "id": 87397,
+                "name": "Freixo"
+            },
+            {
+                "id": 87398,
+                "name": "Freixo de Numão"
+            },
+            {
+                "id": 87399,
+                "name": "Frielas"
+            },
+            {
+                "id": 87400,
+                "name": "Gagos"
+            },
+            {
+                "id": 87401,
+                "name": "Girabolhos"
+            },
+            {
+                "id": 87402,
+                "name": "Gonçalo"
+            },
+            {
+                "id": 87403,
+                "name": "Gonçalo Bocas"
+            },
+            {
+                "id": 87404,
+                "name": "Gouveia"
+            },
+            {
+                "id": 87405,
+                "name": "Graça"
+            },
+            {
+                "id": 87406,
+                "name": "Gradil"
+            },
+            {
+                "id": 87407,
+                "name": "Gradiz"
+            },
+            {
+                "id": 87408,
+                "name": "Granja"
+            },
+            {
+                "id": 87409,
+                "name": "Guarda"
+            },
+            {
+                "id": 87410,
+                "name": "Guilheiro"
+            },
+            {
+                "id": 87411,
+                "name": "Horta"
+            },
+            {
+                "id": 87412,
+                "name": "Igreja Nova"
+            },
+            {
+                "id": 87413,
+                "name": "Infias"
+            },
+            {
+                "id": 87414,
+                "name": "Jarmelo São Miguel"
+            },
+            {
+                "id": 87415,
+                "name": "Jarmelo São Pedro"
+            },
+            {
+                "id": 87416,
+                "name": "João Antão"
+            },
+            {
+                "id": 87417,
+                "name": "Junça"
+            },
+            {
+                "id": 87418,
+                "name": "Juncais"
+            },
+            {
+                "id": 87419,
+                "name": "Lagarinhos"
+            },
+            {
+                "id": 87420,
+                "name": "Lajeosa"
+            },
+            {
+                "id": 87421,
+                "name": "Lajeosa do Mondego"
+            },
+            {
+                "id": 87422,
+                "name": "Lajes"
+            },
+            {
+                "id": 87423,
+                "name": "Lamas"
+            },
+            {
+                "id": 87424,
+                "name": "Lamegal"
+            },
+            {
+                "id": 87425,
+                "name": "Lameiras"
+            },
+            {
+                "id": 87426,
+                "name": "Lapa"
+            },
+            {
+                "id": 87427,
+                "name": "Lapa Dos Dinheiros"
+            },
+            {
+                "id": 87428,
+                "name": "Leomil"
+            },
+            {
+                "id": 87429,
+                "name": "Linda-a-Velha"
+            },
+            {
+                "id": 87430,
+                "name": "Linhares (Celorico da Beira)"
+            },
+            {
+                "id": 87431,
+                "name": "Lisbon"
+            },
+            {
+                "id": 87432,
+                "name": "Longroiva"
+            },
+            {
+                "id": 87433,
+                "name": "Loriga"
+            },
+            {
+                "id": 87434,
+                "name": "Loures"
+            },
+            {
+                "id": 87435,
+                "name": "Lourinhã"
+            },
+            {
+                "id": 87436,
+                "name": "Lousa"
+            },
+            {
+                "id": 87437,
+                "name": "Lumiar"
+            },
+            {
+                "id": 87438,
+                "name": "Maçainhas"
+            },
+            {
+                "id": 87439,
+                "name": "Maçal do Chão"
+            },
+            {
+                "id": 87440,
+                "name": "Maceira"
+            },
+            {
+                "id": 87441,
+                "name": "Maçussa"
+            },
+            {
+                "id": 87442,
+                "name": "Madalena"
+            },
+            {
+                "id": 87443,
+                "name": "Mafra"
+            },
+            {
+                "id": 87444,
+                "name": "Malcata"
+            },
+            {
+                "id": 87445,
+                "name": "Malhada Sorda"
+            },
+            {
+                "id": 87446,
+                "name": "Malpartida"
+            },
+            {
+                "id": 87447,
+                "name": "Malveira"
+            },
+            {
+                "id": 87448,
+                "name": "Mangualde da Serra"
+            },
+            {
+                "id": 87449,
+                "name": "Manigoto"
+            },
+            {
+                "id": 87450,
+                "name": "Manique do Intendente"
+            },
+            {
+                "id": 87451,
+                "name": "Manteigas"
+            },
+            {
+                "id": 87452,
+                "name": "Manteigas (São Pedro)"
+            },
+            {
+                "id": 87453,
+                "name": "Marialva"
+            },
+            {
+                "id": 87454,
+                "name": "Marmeleiro"
+            },
+            {
+                "id": 87455,
+                "name": "Marteleira"
+            },
+            {
+                "id": 87456,
+                "name": "Mártires"
+            },
+            {
+                "id": 87457,
+                "name": "Marvila"
+            },
+            {
+                "id": 87458,
+                "name": "Massamá"
+            },
+            {
+                "id": 87459,
+                "name": "Mata de Lobos"
+            },
+            {
+                "id": 87460,
+                "name": "Matacães"
+            },
+            {
+                "id": 87461,
+                "name": "Matança"
+            },
+            {
+                "id": 87462,
+                "name": "Maxial"
+            },
+            {
+                "id": 87463,
+                "name": "Meca"
+            },
+            {
+                "id": 87464,
+                "name": "Mêda"
+            },
+            {
+                "id": 87465,
+                "name": "Meios"
+            },
+            {
+                "id": 87466,
+                "name": "Melo"
+            },
+            {
+                "id": 87467,
+                "name": "Mem Martins"
+            },
+            {
+                "id": 87468,
+                "name": "Mercês"
+            },
+            {
+                "id": 87469,
+                "name": "Mesquitela"
+            },
+            {
+                "id": 87470,
+                "name": "Milharado"
+            },
+            {
+                "id": 87471,
+                "name": "Mina"
+            },
+            {
+                "id": 87472,
+                "name": "Minhocal"
+            },
+            {
+                "id": 87473,
+                "name": "Mira-Sintra"
+            },
+            {
+                "id": 87474,
+                "name": "Miragaia"
+            },
+            {
+                "id": 87475,
+                "name": "Miuzela"
+            },
+            {
+                "id": 87476,
+                "name": "Mizarela"
+            },
+            {
+                "id": 87477,
+                "name": "Moimenta da Serra"
+            },
+            {
+                "id": 87478,
+                "name": "Moimentinha"
+            },
+            {
+                "id": 87479,
+                "name": "Moita"
+            },
+            {
+                "id": 87480,
+                "name": "Moita dos Ferreiros"
+            },
+            {
+                "id": 87481,
+                "name": "Moledo"
+            },
+            {
+                "id": 87482,
+                "name": "Monte Abraão"
+            },
+            {
+                "id": 87483,
+                "name": "Monte Estoril"
+            },
+            {
+                "id": 87484,
+                "name": "Monte Redondo"
+            },
+            {
+                "id": 87485,
+                "name": "Montelavar"
+            },
+            {
+                "id": 87486,
+                "name": "Moreira de Rei"
+            },
+            {
+                "id": 87487,
+                "name": "Mós"
+            },
+            {
+                "id": 87488,
+                "name": "Moscavide"
+            },
+            {
+                "id": 87489,
+                "name": "Murça"
+            },
+            {
+                "id": 87490,
+                "name": "Muxagata"
+            },
+            {
+                "id": 87491,
+                "name": "Nabais"
+            },
+            {
+                "id": 87492,
+                "name": "Nave"
+            },
+            {
+                "id": 87493,
+                "name": "Nave de Haver"
+            },
+            {
+                "id": 87494,
+                "name": "Nespereira"
+            },
+            {
+                "id": 87495,
+                "name": "Nossa Senhora de Fátima"
+            },
+            {
+                "id": 87496,
+                "name": "Numão"
+            },
+            {
+                "id": 87497,
+                "name": "Odivelas"
+            },
+            {
+                "id": 87498,
+                "name": "Odivelas Municipality"
+            },
+            {
+                "id": 87499,
+                "name": "Oeiras"
+            },
+            {
+                "id": 87500,
+                "name": "Oeiras e São Julião da Barra"
+            },
+            {
+                "id": 87501,
+                "name": "Olhalvo"
+            },
+            {
+                "id": 87502,
+                "name": "Olival de Basto"
+            },
+            {
+                "id": 87503,
+                "name": "Olival do Basto"
+            },
+            {
+                "id": 87504,
+                "name": "Ota"
+            },
+            {
+                "id": 87505,
+                "name": "Outeiro da Cabeça"
+            },
+            {
+                "id": 87506,
+                "name": "Outeiro de Gatos"
+            },
+            {
+                "id": 87507,
+                "name": "Paço de Arcos"
+            },
+            {
+                "id": 87508,
+                "name": "Paços da Serra"
+            },
+            {
+                "id": 87509,
+                "name": "Painho"
+            },
+            {
+                "id": 87510,
+                "name": "Pala"
+            },
+            {
+                "id": 87511,
+                "name": "Palhais"
+            },
+            {
+                "id": 87512,
+                "name": "Panoias de Cima"
+            },
+            {
+                "id": 87513,
+                "name": "Parada"
+            },
+            {
+                "id": 87514,
+                "name": "Paranhos"
+            },
+            {
+                "id": 87515,
+                "name": "Parede"
+            },
+            {
+                "id": 87516,
+                "name": "Pega"
+            },
+            {
+                "id": 87517,
+                "name": "Pena"
+            },
+            {
+                "id": 87518,
+                "name": "Pena Lobo"
+            },
+            {
+                "id": 87519,
+                "name": "Pena Verde"
+            },
+            {
+                "id": 87520,
+                "name": "Penha de Águia"
+            },
+            {
+                "id": 87521,
+                "name": "Penha de França"
+            },
+            {
+                "id": 87522,
+                "name": "Pêra do Moço"
+            },
+            {
+                "id": 87523,
+                "name": "Peral"
+            },
+            {
+                "id": 87524,
+                "name": "Pereiro"
+            },
+            {
+                "id": 87525,
+                "name": "Pereiro de Palhacana"
+            },
+            {
+                "id": 87526,
+                "name": "Pêro Moniz"
+            },
+            {
+                "id": 87527,
+                "name": "Pero Pinheiro"
+            },
+            {
+                "id": 87528,
+                "name": "Peva"
+            },
+            {
+                "id": 87529,
+                "name": "Pinhanços"
+            },
+            {
+                "id": 87530,
+                "name": "Pinheiro"
+            },
+            {
+                "id": 87531,
+                "name": "Pinhel"
+            },
+            {
+                "id": 87532,
+                "name": "Pínzio"
+            },
+            {
+                "id": 87533,
+                "name": "Poço do Canto"
+            },
+            {
+                "id": 87534,
+                "name": "Pomares"
+            },
+            {
+                "id": 87535,
+                "name": "Ponte do Rol"
+            },
+            {
+                "id": 87536,
+                "name": "Pontinha"
+            },
+            {
+                "id": 87537,
+                "name": "Portela"
+            },
+            {
+                "id": 87538,
+                "name": "Porto da Carne"
+            },
+            {
+                "id": 87539,
+                "name": "Porto Salvo"
+            },
+            {
+                "id": 87540,
+                "name": "Pousada"
+            },
+            {
+                "id": 87541,
+                "name": "Pousafoles do Bispo"
+            },
+            {
+                "id": 87542,
+                "name": "Póvoa de Santa Iria"
+            },
+            {
+                "id": 87543,
+                "name": "Póvoa de Santo Adrião"
+            },
+            {
+                "id": 87544,
+                "name": "Póvoa do Concelho"
+            },
+            {
+                "id": 87545,
+                "name": "Prados"
+            },
+            {
+                "id": 87546,
+                "name": "Prazeres"
+            },
+            {
+                "id": 87547,
+                "name": "Prior Velho"
+            },
+            {
+                "id": 87548,
+                "name": "Prova"
+            },
+            {
+                "id": 87549,
+                "name": "Quadrazais"
+            },
+            {
+                "id": 87550,
+                "name": "Queijas"
+            },
+            {
+                "id": 87551,
+                "name": "Queiriz"
+            },
+            {
+                "id": 87552,
+                "name": "Queluz"
+            },
+            {
+                "id": 87553,
+                "name": "Quintã de Pêro Martins"
+            },
+            {
+                "id": 87554,
+                "name": "Quintas de São Bartolomeu"
+            },
+            {
+                "id": 87555,
+                "name": "Rabaçal"
+            },
+            {
+                "id": 87556,
+                "name": "Ramada"
+            },
+            {
+                "id": 87557,
+                "name": "Ramalhal"
+            },
+            {
+                "id": 87558,
+                "name": "Ramela"
+            },
+            {
+                "id": 87559,
+                "name": "Ranhados"
+            },
+            {
+                "id": 87560,
+                "name": "Rapa"
+            },
+            {
+                "id": 87561,
+                "name": "Rapoula do Côa"
+            },
+            {
+                "id": 87562,
+                "name": "Ratoeira"
+            },
+            {
+                "id": 87563,
+                "name": "Reboleira"
+            },
+            {
+                "id": 87564,
+                "name": "Reboleiro"
+            },
+            {
+                "id": 87565,
+                "name": "Rebolosa"
+            },
+            {
+                "id": 87566,
+                "name": "Reguengo Grande"
+            },
+            {
+                "id": 87567,
+                "name": "Reigada"
+            },
+            {
+                "id": 87568,
+                "name": "Rendo"
+            },
+            {
+                "id": 87569,
+                "name": "Ribafria"
+            },
+            {
+                "id": 87570,
+                "name": "Ribamar"
+            },
+            {
+                "id": 87571,
+                "name": "Ribamondego"
+            },
+            {
+                "id": 87572,
+                "name": "Ribeira Dos Carinhos"
+            },
+            {
+                "id": 87573,
+                "name": "Rio de Mel"
+            },
+            {
+                "id": 87574,
+                "name": "Rio de Mouro"
+            },
+            {
+                "id": 87575,
+                "name": "Rio Torto"
+            },
+            {
+                "id": 87576,
+                "name": "Rochoso"
+            },
+            {
+                "id": 87577,
+                "name": "Runa"
+            },
+            {
+                "id": 87578,
+                "name": "Ruvina"
+            },
+            {
+                "id": 87579,
+                "name": "Sabugal"
+            },
+            {
+                "id": 87580,
+                "name": "Sabugueiro"
+            },
+            {
+                "id": 87581,
+                "name": "Sacavém"
+            },
+            {
+                "id": 87582,
+                "name": "Sacramento"
+            },
+            {
+                "id": 87583,
+                "name": "Safurdão"
+            },
+            {
+                "id": 87584,
+                "name": "Salgueirais"
+            },
+            {
+                "id": 87585,
+                "name": "Sameice"
+            },
+            {
+                "id": 87586,
+                "name": "Sameiro"
+            },
+            {
+                "id": 87587,
+                "name": "Sandomil"
+            },
+            {
+                "id": 87588,
+                "name": "Santa Bárbara"
+            },
+            {
+                "id": 87589,
+                "name": "Santa Catarina"
+            },
+            {
+                "id": 87590,
+                "name": "Santa Comba"
+            },
+            {
+                "id": 87591,
+                "name": "Santa Engrácia"
+            },
+            {
+                "id": 87592,
+                "name": "Santa Eufémia"
+            },
+            {
+                "id": 87593,
+                "name": "Santa Eulália"
+            },
+            {
+                "id": 87594,
+                "name": "Santa Iria da Azóia"
+            },
+            {
+                "id": 87595,
+                "name": "Santa Iria de Azoia"
+            },
+            {
+                "id": 87596,
+                "name": "Santa Isabel"
+            },
+            {
+                "id": 87597,
+                "name": "Santa Justa"
+            },
+            {
+                "id": 87598,
+                "name": "Santa Maria"
+            },
+            {
+                "id": 87599,
+                "name": "Santa Maria de Belém"
+            },
+            {
+                "id": 87600,
+                "name": "Santa Maria do Castelo e São Miguel"
+            },
+            {
+                "id": 87601,
+                "name": "Santa Maria dos Olivais"
+            },
+            {
+                "id": 87602,
+                "name": "Santa Maria e São Miguel"
+            },
+            {
+                "id": 87603,
+                "name": "Santa Marinha"
+            },
+            {
+                "id": 87604,
+                "name": "Santana da Azinha"
+            },
+            {
+                "id": 87605,
+                "name": "Santiago"
+            },
+            {
+                "id": 87606,
+                "name": "Santiago dos Velhos"
+            },
+            {
+                "id": 87607,
+                "name": "Santo Antão do Tojal"
+            },
+            {
+                "id": 87608,
+                "name": "Santo António dos Cavaleiros"
+            },
+            {
+                "id": 87609,
+                "name": "Santo Condestável"
+            },
+            {
+                "id": 87610,
+                "name": "Santo Estêvão"
+            },
+            {
+                "id": 87611,
+                "name": "Santo Estêvão das Galés"
+            },
+            {
+                "id": 87612,
+                "name": "Santo Isidoro"
+            },
+            {
+                "id": 87613,
+                "name": "Santo Quintino"
+            },
+            {
+                "id": 87614,
+                "name": "Santos-o-Velho"
+            },
+            {
+                "id": 87615,
+                "name": "São Bartolomeu"
+            },
+            {
+                "id": 87616,
+                "name": "São Bartolomeu dos Galegos"
+            },
+            {
+                "id": 87617,
+                "name": "São Brás"
+            },
+            {
+                "id": 87618,
+                "name": "São Cristóvão e São Lourenço"
+            },
+            {
+                "id": 87619,
+                "name": "São Domingos de Benfica"
+            },
+            {
+                "id": 87620,
+                "name": "São Domingos de Rana"
+            },
+            {
+                "id": 87621,
+                "name": "São Francisco Xavier"
+            },
+            {
+                "id": 87622,
+                "name": "São João"
+            },
+            {
+                "id": 87623,
+                "name": "São João da Talha"
+            },
+            {
+                "id": 87624,
+                "name": "São João das Lampas"
+            },
+            {
+                "id": 87625,
+                "name": "São João de Brito"
+            },
+            {
+                "id": 87626,
+                "name": "São João de Deus"
+            },
+            {
+                "id": 87627,
+                "name": "São João Dos Montes"
+            },
+            {
+                "id": 87628,
+                "name": "São Jorge de Arroios"
+            },
+            {
+                "id": 87629,
+                "name": "São José"
+            },
+            {
+                "id": 87630,
+                "name": "São Julião"
+            },
+            {
+                "id": 87631,
+                "name": "São Julião do Tojal"
+            },
+            {
+                "id": 87632,
+                "name": "São Mamede"
+            },
+            {
+                "id": 87633,
+                "name": "São Marcos"
+            },
+            {
+                "id": 87634,
+                "name": "São Martinho"
+            },
+            {
+                "id": 87635,
+                "name": "São Miguel"
+            },
+            {
+                "id": 87636,
+                "name": "São Miguel da Guarda"
+            },
+            {
+                "id": 87637,
+                "name": "São Miguel de Alcainça"
+            },
+            {
+                "id": 87638,
+                "name": "São Nicolau"
+            },
+            {
+                "id": 87639,
+                "name": "São Paio"
+            },
+            {
+                "id": 87640,
+                "name": "São Paulo"
+            },
+            {
+                "id": 87641,
+                "name": "São Pedro"
+            },
+            {
+                "id": 87642,
+                "name": "São Pedro da Cadeira"
+            },
+            {
+                "id": 87643,
+                "name": "São Pedro de Penaferrim"
+            },
+            {
+                "id": 87644,
+                "name": "São Pedro de Rio Seco"
+            },
+            {
+                "id": 87645,
+                "name": "São Romão"
+            },
+            {
+                "id": 87646,
+                "name": "São Sebastião da Pedreira"
+            },
+            {
+                "id": 87647,
+                "name": "São Vicente"
+            },
+            {
+                "id": 87648,
+                "name": "São Vicente de Fora"
+            },
+            {
+                "id": 87649,
+                "name": "Sapataria"
+            },
+            {
+                "id": 87650,
+                "name": "Sazes da Beira"
+            },
+            {
+                "id": 87651,
+                "name": "Sé"
+            },
+            {
+                "id": 87652,
+                "name": "Sebadelhe"
+            },
+            {
+                "id": 87653,
+                "name": "Sebadelhe da Serra"
+            },
+            {
+                "id": 87654,
+                "name": "Seia"
+            },
+            {
+                "id": 87655,
+                "name": "Seixas"
+            },
+            {
+                "id": 87656,
+                "name": "Seixo do Côa"
+            },
+            {
+                "id": 87657,
+                "name": "Sequeira"
+            },
+            {
+                "id": 87658,
+                "name": "Sequeiros"
+            },
+            {
+                "id": 87659,
+                "name": "Silveira"
+            },
+            {
+                "id": 87660,
+                "name": "Sintra"
+            },
+            {
+                "id": 87661,
+                "name": "Sintra (town)"
+            },
+            {
+                "id": 87662,
+                "name": "Sobral da Abelheira"
+            },
+            {
+                "id": 87663,
+                "name": "Sobral da Serra"
+            },
+            {
+                "id": 87664,
+                "name": "Sobral de Monte Agraço"
+            },
+            {
+                "id": 87665,
+                "name": "Sobral Pichorro"
+            },
+            {
+                "id": 87666,
+                "name": "Sobralinho"
+            },
+            {
+                "id": 87667,
+                "name": "Socorro"
+            },
+            {
+                "id": 87668,
+                "name": "Sortelha"
+            },
+            {
+                "id": 87669,
+                "name": "Souro Pires"
+            },
+            {
+                "id": 87670,
+                "name": "Souto"
+            },
+            {
+                "id": 87671,
+                "name": "Souto de Aguiar da Beira"
+            },
+            {
+                "id": 87672,
+                "name": "Souto Maior"
+            },
+            {
+                "id": 87673,
+                "name": "Tamanhos"
+            },
+            {
+                "id": 87674,
+                "name": "Teixeira"
+            },
+            {
+                "id": 87675,
+                "name": "Terrenho"
+            },
+            {
+                "id": 87676,
+                "name": "Terrugem"
+            },
+            {
+                "id": 87677,
+                "name": "Torre do Terrenho"
+            },
+            {
+                "id": 87678,
+                "name": "Torres"
+            },
+            {
+                "id": 87679,
+                "name": "Torres Vedras"
+            },
+            {
+                "id": 87680,
+                "name": "Torrozelo"
+            },
+            {
+                "id": 87681,
+                "name": "Touça"
+            },
+            {
+                "id": 87682,
+                "name": "Tourais"
+            },
+            {
+                "id": 87683,
+                "name": "Trancoso"
+            },
+            {
+                "id": 87684,
+                "name": "Travancinha"
+            },
+            {
+                "id": 87685,
+                "name": "Triana"
+            },
+            {
+                "id": 87686,
+                "name": "Trinta"
+            },
+            {
+                "id": 87687,
+                "name": "Turcifal"
+            },
+            {
+                "id": 87688,
+                "name": "Unhos"
+            },
+            {
+                "id": 87689,
+                "name": "Valbom"
+            },
+            {
+                "id": 87690,
+                "name": "Valdujo"
+            },
+            {
+                "id": 87691,
+                "name": "Vale da Mula"
+            },
+            {
+                "id": 87692,
+                "name": "Vale de Amoreira"
+            },
+            {
+                "id": 87693,
+                "name": "Vale de Azares"
+            },
+            {
+                "id": 87694,
+                "name": "Vale de Espinho"
+            },
+            {
+                "id": 87695,
+                "name": "Vale de Estrela"
+            },
+            {
+                "id": 87696,
+                "name": "Vale do Paraíso"
+            },
+            {
+                "id": 87697,
+                "name": "Vale do Seixo"
+            },
+            {
+                "id": 87698,
+                "name": "Vale Flor"
+            },
+            {
+                "id": 87699,
+                "name": "Valezim"
+            },
+            {
+                "id": 87700,
+                "name": "Valhelhas"
+            },
+            {
+                "id": 87701,
+                "name": "Valverde"
+            },
+            {
+                "id": 87702,
+                "name": "Várzea de Meruge"
+            },
+            {
+                "id": 87703,
+                "name": "Vascoveiro"
+            },
+            {
+                "id": 87704,
+                "name": "Vela"
+            },
+            {
+                "id": 87705,
+                "name": "Velosa"
+            },
+            {
+                "id": 87706,
+                "name": "Venda do Pinheiro"
+            },
+            {
+                "id": 87707,
+                "name": "Venda Nova"
+            },
+            {
+                "id": 87708,
+                "name": "Venteira"
+            },
+            {
+                "id": 87709,
+                "name": "Ventosa"
+            },
+            {
+                "id": 87710,
+                "name": "Vermelha"
+            },
+            {
+                "id": 87711,
+                "name": "Vermiosa"
+            },
+            {
+                "id": 87712,
+                "name": "Vialonga"
+            },
+            {
+                "id": 87713,
+                "name": "Vide"
+            },
+            {
+                "id": 87714,
+                "name": "Vide Entre Vinhas"
+            },
+            {
+                "id": 87715,
+                "name": "Videmonte"
+            },
+            {
+                "id": 87716,
+                "name": "Vila Boa"
+            },
+            {
+                "id": 87717,
+                "name": "Vila Boa do Mondego"
+            },
+            {
+                "id": 87718,
+                "name": "Vila Cortês da Serra"
+            },
+            {
+                "id": 87719,
+                "name": "Vila Cortês do Mondego"
+            },
+            {
+                "id": 87720,
+                "name": "Vila Cova à Coelheira"
+            },
+            {
+                "id": 87721,
+                "name": "Vila do Touro"
+            },
+            {
+                "id": 87722,
+                "name": "Vila Fernando"
+            },
+            {
+                "id": 87723,
+                "name": "Vila Franca da Serra"
+            },
+            {
+                "id": 87724,
+                "name": "Vila Franca das Naves"
+            },
+            {
+                "id": 87725,
+                "name": "Vila Franca de Xira"
+            },
+            {
+                "id": 87726,
+                "name": "Vila Franca do Deão"
+            },
+            {
+                "id": 87727,
+                "name": "Vila Franca do Rosário"
+            },
+            {
+                "id": 87728,
+                "name": "Vila Garcia"
+            },
+            {
+                "id": 87729,
+                "name": "Vila Nova da Rainha"
+            },
+            {
+                "id": 87730,
+                "name": "Vila Nova de Foz Côa"
+            },
+            {
+                "id": 87731,
+                "name": "Vila Nova de São Pedro"
+            },
+            {
+                "id": 87732,
+                "name": "Vila Nova de Tazem"
+            },
+            {
+                "id": 87733,
+                "name": "Vila Ruiva"
+            },
+            {
+                "id": 87734,
+                "name": "Vila Soeiro do Chão"
+            },
+            {
+                "id": 87735,
+                "name": "Vila Verde"
+            },
+            {
+                "id": 87736,
+                "name": "Vila Verde dos Francos"
+            },
+            {
+                "id": 87737,
+                "name": "Vilar"
+            },
+            {
+                "id": 87738,
+                "name": "Vilar de Amargo"
+            },
+            {
+                "id": 87739,
+                "name": "Vilar Formoso"
+            },
+            {
+                "id": 87740,
+                "name": "Vilar Maior"
+            },
+            {
+                "id": 87741,
+                "name": "Vilar Torpim"
+            },
+            {
+                "id": 87742,
+                "name": "Vilares"
+            },
+            {
+                "id": 87743,
+                "name": "Vimeiro"
+            },
+            {
+                "id": 87744,
+                "name": "Vinhó"
+            }
+        ]
+    },
+    {
+        "id": 3219,
+        "name": "Leiria District",
+        "cities": [
+            {
+                "id": 87745,
+                "name": "A dos Francos"
+            },
+            {
+                "id": 87746,
+                "name": "Alcobaça"
+            },
+            {
+                "id": 87747,
+                "name": "Alfeizerão"
+            },
+            {
+                "id": 87748,
+                "name": "Aljubarrota"
+            },
+            {
+                "id": 87749,
+                "name": "Alvaiázere"
+            },
+            {
+                "id": 87750,
+                "name": "Alvorninha"
+            },
+            {
+                "id": 87751,
+                "name": "Amor"
+            },
+            {
+                "id": 87752,
+                "name": "Ansião"
+            },
+            {
+                "id": 87753,
+                "name": "Atouguia da Baleia"
+            },
+            {
+                "id": 87754,
+                "name": "Batalha"
+            },
+            {
+                "id": 87755,
+                "name": "Benedita"
+            },
+            {
+                "id": 87756,
+                "name": "Bombarral"
+            },
+            {
+                "id": 87757,
+                "name": "Caldas da Rainha"
+            },
+            {
+                "id": 87758,
+                "name": "Caranguejeira"
+            },
+            {
+                "id": 87759,
+                "name": "Castanheira de Pêra"
+            },
+            {
+                "id": 87760,
+                "name": "Cela"
+            },
+            {
+                "id": 87761,
+                "name": "Famalicão"
+            },
+            {
+                "id": 87762,
+                "name": "Ferrel"
+            },
+            {
+                "id": 87763,
+                "name": "Figueiró Dos Vinhos"
+            },
+            {
+                "id": 87764,
+                "name": "Foz do Arelho"
+            },
+            {
+                "id": 87765,
+                "name": "Leiria"
+            },
+            {
+                "id": 87766,
+                "name": "Louriçal"
+            },
+            {
+                "id": 87767,
+                "name": "Maceira"
+            },
+            {
+                "id": 87768,
+                "name": "Marinha Grande"
+            },
+            {
+                "id": 87769,
+                "name": "Mira"
+            },
+            {
+                "id": 87770,
+                "name": "Monte Real"
+            },
+            {
+                "id": 87771,
+                "name": "Monte Redondo"
+            },
+            {
+                "id": 87772,
+                "name": "Nadadouro"
+            },
+            {
+                "id": 87773,
+                "name": "Nazaré"
+            },
+            {
+                "id": 87774,
+                "name": "Óbidos"
+            },
+            {
+                "id": 87775,
+                "name": "Pataias"
+            },
+            {
+                "id": 87776,
+                "name": "Pedrógão Grande"
+            },
+            {
+                "id": 87777,
+                "name": "Peniche"
+            },
+            {
+                "id": 87778,
+                "name": "Pombal"
+            },
+            {
+                "id": 87779,
+                "name": "Porto de Mós"
+            },
+            {
+                "id": 87780,
+                "name": "Salir de Matos"
+            },
+            {
+                "id": 87781,
+                "name": "Santa Catarina da Serra"
+            },
+            {
+                "id": 87782,
+                "name": "São Martinho do Porto"
+            },
+            {
+                "id": 87783,
+                "name": "Serra de El-Rei"
+            },
+            {
+                "id": 87784,
+                "name": "Souto da Carpalhosa"
+            },
+            {
+                "id": 87785,
+                "name": "Turquel"
+            },
+            {
+                "id": 87786,
+                "name": "Valado de Frades"
+            },
+            {
+                "id": 87787,
+                "name": "Vestiaria"
+            },
+            {
+                "id": 87788,
+                "name": "Vidais"
+            },
+            {
+                "id": 87789,
+                "name": "Vieira de Leiria"
+            }
+        ]
+    },
+    {
+        "id": 3220,
+        "name": "Lisbon District",
+        "cities": [
+            {
+                "id": 87790,
+                "name": "A dos Cunhados"
+            },
+            {
+                "id": 87791,
+                "name": "Abrigada"
+            },
+            {
+                "id": 87792,
+                "name": "Alcabideche"
+            },
+            {
+                "id": 87793,
+                "name": "Alcoentre"
+            },
+            {
+                "id": 87794,
+                "name": "Alenquer"
+            },
+            {
+                "id": 87795,
+                "name": "Alfragide"
+            },
+            {
+                "id": 87796,
+                "name": "Algés"
+            },
+            {
+                "id": 87797,
+                "name": "Algueirão"
+            },
+            {
+                "id": 87798,
+                "name": "Alhandra"
+            },
+            {
+                "id": 87799,
+                "name": "Almargem"
+            },
+            {
+                "id": 87800,
+                "name": "Alvalade"
+            },
+            {
+                "id": 87801,
+                "name": "Amadora"
+            },
+            {
+                "id": 87802,
+                "name": "Apelação"
+            },
+            {
+                "id": 87803,
+                "name": "Arranhó"
+            },
+            {
+                "id": 87804,
+                "name": "Arruda dos Vinhos"
+            },
+            {
+                "id": 87805,
+                "name": "Aveiras de Cima"
+            },
+            {
+                "id": 87806,
+                "name": "Azambuja"
+            },
+            {
+                "id": 87807,
+                "name": "Barcarena"
+            },
+            {
+                "id": 87808,
+                "name": "Beato António"
+            },
+            {
+                "id": 87809,
+                "name": "Belas"
+            },
+            {
+                "id": 87810,
+                "name": "Benfica"
+            },
+            {
+                "id": 87811,
+                "name": "Bobadela"
+            },
+            {
+                "id": 87812,
+                "name": "Bucelas"
+            },
+            {
+                "id": 87813,
+                "name": "Cabanas de Torres"
+            },
+            {
+                "id": 87814,
+                "name": "Cacém"
+            },
+            {
+                "id": 87815,
+                "name": "Cadafais"
+            },
+            {
+                "id": 87816,
+                "name": "Cadaval"
+            },
+            {
+                "id": 87817,
+                "name": "Camarate"
+            },
+            {
+                "id": 87818,
+                "name": "Campelos"
+            },
+            {
+                "id": 87819,
+                "name": "Caneças"
+            },
+            {
+                "id": 87820,
+                "name": "Carcavelos"
+            },
+            {
+                "id": 87821,
+                "name": "Carnaxide"
+            },
+            {
+                "id": 87822,
+                "name": "Carregado"
+            },
+            {
+                "id": 87823,
+                "name": "Cascais"
+            },
+            {
+                "id": 87824,
+                "name": "Castanheira do Ribatejo"
+            },
+            {
+                "id": 87825,
+                "name": "Caxias"
+            },
+            {
+                "id": 87826,
+                "name": "Charneca"
+            },
+            {
+                "id": 87827,
+                "name": "Colares"
+            },
+            {
+                "id": 87828,
+                "name": "Ericeira"
+            },
+            {
+                "id": 87829,
+                "name": "Estoril"
+            },
+            {
+                "id": 87830,
+                "name": "Famões"
+            },
+            {
+                "id": 87831,
+                "name": "Fontanelas"
+            },
+            {
+                "id": 87832,
+                "name": "Linda-a-Velha"
+            },
+            {
+                "id": 87833,
+                "name": "Lisbon"
+            },
+            {
+                "id": 87834,
+                "name": "Loures"
+            },
+            {
+                "id": 87835,
+                "name": "Lourinhã"
+            },
+            {
+                "id": 87836,
+                "name": "Mafra"
+            },
+            {
+                "id": 87837,
+                "name": "Malveira"
+            },
+            {
+                "id": 87838,
+                "name": "Massamá"
+            },
+            {
+                "id": 87839,
+                "name": "Meca"
+            },
+            {
+                "id": 87840,
+                "name": "Mem Martins"
+            },
+            {
+                "id": 87841,
+                "name": "Milharado"
+            },
+            {
+                "id": 87842,
+                "name": "Moita dos Ferreiros"
+            },
+            {
+                "id": 87843,
+                "name": "Monte Estoril"
+            },
+            {
+                "id": 87844,
+                "name": "Moscavide e Portela"
+            },
+            {
+                "id": 87845,
+                "name": "Odivelas"
+            },
+            {
+                "id": 87846,
+                "name": "Oeiras"
+            },
+            {
+                "id": 87847,
+                "name": "Olivais"
+            },
+            {
+                "id": 87848,
+                "name": "Olival do Basto"
+            },
+            {
+                "id": 87849,
+                "name": "Ota"
+            },
+            {
+                "id": 87850,
+                "name": "Paço de Arcos"
+            },
+            {
+                "id": 87851,
+                "name": "Parede"
+            },
+            {
+                "id": 87852,
+                "name": "Pero Pinheiro"
+            },
+            {
+                "id": 87853,
+                "name": "Pontinha"
+            },
+            {
+                "id": 87854,
+                "name": "Porto Salvo"
+            },
+            {
+                "id": 87855,
+                "name": "Póvoa de Santa Iria"
+            },
+            {
+                "id": 87856,
+                "name": "Póvoa de Santo Adrião"
+            },
+            {
+                "id": 87857,
+                "name": "Prior Velho"
+            },
+            {
+                "id": 87858,
+                "name": "Queijas"
+            },
+            {
+                "id": 87859,
+                "name": "Queluz"
+            },
+            {
+                "id": 87860,
+                "name": "Ramada"
+            },
+            {
+                "id": 87861,
+                "name": "Rio de Mouro"
+            },
+            {
+                "id": 87862,
+                "name": "Sacavém"
+            },
+            {
+                "id": 87863,
+                "name": "Santa Iria da Azóia"
+            },
+            {
+                "id": 87864,
+                "name": "Santo Antão do Tojal"
+            },
+            {
+                "id": 87865,
+                "name": "Santo Isidoro"
+            },
+            {
+                "id": 87866,
+                "name": "Santos-o-Velho"
+            },
+            {
+                "id": 87867,
+                "name": "São Bartolomeu"
+            },
+            {
+                "id": 87868,
+                "name": "São Domingos de Rana"
+            },
+            {
+                "id": 87869,
+                "name": "São João da Talha"
+            },
+            {
+                "id": 87870,
+                "name": "São João das Lampas"
+            },
+            {
+                "id": 87871,
+                "name": "São João dos Montes"
+            },
+            {
+                "id": 87872,
+                "name": "São Pedro da Cadeira"
+            },
+            {
+                "id": 87873,
+                "name": "Silveira"
+            },
+            {
+                "id": 87874,
+                "name": "Sintra"
+            },
+            {
+                "id": 87875,
+                "name": "Sobral de Monte Agraço"
+            },
+            {
+                "id": 87876,
+                "name": "Sobralinho"
+            },
+            {
+                "id": 87877,
+                "name": "Terrugem"
+            },
+            {
+                "id": 87878,
+                "name": "Torres Vedras"
+            },
+            {
+                "id": 87879,
+                "name": "Unhos"
+            },
+            {
+                "id": 87880,
+                "name": "Venda do Pinheiro"
+            },
+            {
+                "id": 87881,
+                "name": "Ventosa"
+            },
+            {
+                "id": 87882,
+                "name": "Vialonga"
+            },
+            {
+                "id": 87883,
+                "name": "Vila Franca de Xira"
+            },
+            {
+                "id": 87884,
+                "name": "Vila Verde"
+            },
+            {
+                "id": 87885,
+                "name": "Vimeiro"
+            }
+        ]
+    },
+    {
+        "id": 3221,
+        "name": "Madeira",
+        "cities": [
+            {
+                "id": 87886,
+                "name": "Água de Pena"
+            },
+            {
+                "id": 87887,
+                "name": "Arco da Calheta"
+            },
+            {
+                "id": 87888,
+                "name": "Boaventura"
+            },
+            {
+                "id": 87889,
+                "name": "Calheta"
+            },
+            {
+                "id": 87890,
+                "name": "Camacha"
+            },
+            {
+                "id": 87891,
+                "name": "Câmara de Lobos"
+            },
+            {
+                "id": 87892,
+                "name": "Campanário"
+            },
+            {
+                "id": 87893,
+                "name": "Canhas"
+            },
+            {
+                "id": 87894,
+                "name": "Caniçal"
+            },
+            {
+                "id": 87895,
+                "name": "Caniço"
+            },
+            {
+                "id": 87896,
+                "name": "Curral das Freiras"
+            },
+            {
+                "id": 87897,
+                "name": "Estreito da Calheta"
+            },
+            {
+                "id": 87898,
+                "name": "Faial"
+            },
+            {
+                "id": 87899,
+                "name": "Fajã da Ovelha"
+            },
+            {
+                "id": 87900,
+                "name": "Funchal"
+            },
+            {
+                "id": 87901,
+                "name": "Machico"
+            },
+            {
+                "id": 87902,
+                "name": "Nossa Senhora do Monte"
+            },
+            {
+                "id": 87903,
+                "name": "Ponta do Sol"
+            },
+            {
+                "id": 87904,
+                "name": "Porto da Cruz"
+            },
+            {
+                "id": 87905,
+                "name": "Porto Moniz"
+            },
+            {
+                "id": 87906,
+                "name": "Porto Santo"
+            },
+            {
+                "id": 87907,
+                "name": "Ribeira Brava"
+            },
+            {
+                "id": 87908,
+                "name": "Santa Cruz"
+            },
+            {
+                "id": 87909,
+                "name": "Santana"
+            },
+            {
+                "id": 87910,
+                "name": "São Jorge"
+            },
+            {
+                "id": 87911,
+                "name": "São Martinho"
+            },
+            {
+                "id": 87912,
+                "name": "São Roque"
+            },
+            {
+                "id": 87913,
+                "name": "São Vicente"
+            }
+        ]
+    },
+    {
+        "id": 3222,
+        "name": "Portalegre District",
+        "cities": [
+            {
+                "id": 87914,
+                "name": "Alter do Chão"
+            },
+            {
+                "id": 87915,
+                "name": "Arronches"
+            },
+            {
+                "id": 87916,
+                "name": "Atalaia"
+            },
+            {
+                "id": 87917,
+                "name": "Avis"
+            },
+            {
+                "id": 87918,
+                "name": "Campo Maior"
+            },
+            {
+                "id": 87919,
+                "name": "Castelo de Vide"
+            },
+            {
+                "id": 87920,
+                "name": "Crato"
+            },
+            {
+                "id": 87921,
+                "name": "Elvas"
+            },
+            {
+                "id": 87922,
+                "name": "Fronteira"
+            },
+            {
+                "id": 87923,
+                "name": "Gavião"
+            },
+            {
+                "id": 87924,
+                "name": "Marvão"
+            },
+            {
+                "id": 87925,
+                "name": "Monforte"
+            },
+            {
+                "id": 87926,
+                "name": "Montargil"
+            },
+            {
+                "id": 87927,
+                "name": "Nisa"
+            },
+            {
+                "id": 87928,
+                "name": "Ponte de Sor"
+            },
+            {
+                "id": 87929,
+                "name": "Portalegre"
+            },
+            {
+                "id": 87930,
+                "name": "Santo André"
+            },
+            {
+                "id": 87931,
+                "name": "Sousel"
+            },
+            {
+                "id": 87932,
+                "name": "Vale da Amoreira"
+            }
+        ]
+    },
+    {
+        "id": 3223,
+        "name": "Porto District",
+        "cities": [
+            {
+                "id": 87933,
+                "name": "Água Longa"
+            },
+            {
+                "id": 87934,
+                "name": "Águas Santas"
+            },
+            {
+                "id": 87935,
+                "name": "Aguçadoura"
+            },
+            {
+                "id": 87936,
+                "name": "Alfena"
+            },
+            {
+                "id": 87937,
+                "name": "Alpendurada"
+            },
+            {
+                "id": 87938,
+                "name": "Amarante"
+            },
+            {
+                "id": 87939,
+                "name": "Amorim"
+            },
+            {
+                "id": 87940,
+                "name": "Anta"
+            },
+            {
+                "id": 87941,
+                "name": "Arcozelo"
+            },
+            {
+                "id": 87942,
+                "name": "Argivai"
+            },
+            {
+                "id": 87943,
+                "name": "Árvore"
+            },
+            {
+                "id": 87944,
+                "name": "Aver-o-Mar"
+            },
+            {
+                "id": 87945,
+                "name": "Aves"
+            },
+            {
+                "id": 87946,
+                "name": "Avintes"
+            },
+            {
+                "id": 87947,
+                "name": "Azenha"
+            },
+            {
+                "id": 87948,
+                "name": "Baguim do Monte"
+            },
+            {
+                "id": 87949,
+                "name": "Baião"
+            },
+            {
+                "id": 87950,
+                "name": "Balazar"
+            },
+            {
+                "id": 87951,
+                "name": "Baltar"
+            },
+            {
+                "id": 87952,
+                "name": "Barrosas"
+            },
+            {
+                "id": 87953,
+                "name": "Beiriz de Baixo"
+            },
+            {
+                "id": 87954,
+                "name": "Bougado"
+            },
+            {
+                "id": 87955,
+                "name": "Campo"
+            },
+            {
+                "id": 87956,
+                "name": "Canelas"
+            },
+            {
+                "id": 87957,
+                "name": "Canidelo"
+            },
+            {
+                "id": 87958,
+                "name": "Carvalhosa"
+            },
+            {
+                "id": 87959,
+                "name": "Castelões de Cepeda"
+            },
+            {
+                "id": 87960,
+                "name": "Ermesinde"
+            },
+            {
+                "id": 87961,
+                "name": "Estela"
+            },
+            {
+                "id": 87962,
+                "name": "Fânzeres"
+            },
+            {
+                "id": 87963,
+                "name": "Felgueiras"
+            },
+            {
+                "id": 87964,
+                "name": "Ferreira"
+            },
+            {
+                "id": 87965,
+                "name": "Figueiró"
+            },
+            {
+                "id": 87966,
+                "name": "Foz do Douro"
+            },
+            {
+                "id": 87967,
+                "name": "Foz do Sousa"
+            },
+            {
+                "id": 87968,
+                "name": "Frazão"
+            },
+            {
+                "id": 87969,
+                "name": "Freamunde"
+            },
+            {
+                "id": 87970,
+                "name": "Gandra"
+            },
+            {
+                "id": 87971,
+                "name": "Gemunde"
+            },
+            {
+                "id": 87972,
+                "name": "Gondomar"
+            },
+            {
+                "id": 87973,
+                "name": "Grijó"
+            },
+            {
+                "id": 87974,
+                "name": "Guifões"
+            },
+            {
+                "id": 87975,
+                "name": "Gulpilhares"
+            },
+            {
+                "id": 87976,
+                "name": "Jovim"
+            },
+            {
+                "id": 87977,
+                "name": "Lavra"
+            },
+            {
+                "id": 87978,
+                "name": "Leça da Palmeira"
+            },
+            {
+                "id": 87979,
+                "name": "Leça do Bailio"
+            },
+            {
+                "id": 87980,
+                "name": "Lordelo"
+            },
+            {
+                "id": 87981,
+                "name": "Lousada"
+            },
+            {
+                "id": 87982,
+                "name": "Lustosa"
+            },
+            {
+                "id": 87983,
+                "name": "Madalena"
+            },
+            {
+                "id": 87984,
+                "name": "Maia"
+            },
+            {
+                "id": 87985,
+                "name": "Marco de Canaveses"
+            },
+            {
+                "id": 87986,
+                "name": "Marco de Canavezes"
+            },
+            {
+                "id": 87987,
+                "name": "Margaride"
+            },
+            {
+                "id": 87988,
+                "name": "Matosinhos"
+            },
+            {
+                "id": 87989,
+                "name": "Meinedo"
+            },
+            {
+                "id": 87990,
+                "name": "Melres"
+            },
+            {
+                "id": 87991,
+                "name": "Milheirós"
+            },
+            {
+                "id": 87992,
+                "name": "Mindelo"
+            },
+            {
+                "id": 87993,
+                "name": "Moreira"
+            },
+            {
+                "id": 87994,
+                "name": "Negrelos"
+            },
+            {
+                "id": 87995,
+                "name": "Nogueira"
+            },
+            {
+                "id": 87996,
+                "name": "Olival"
+            },
+            {
+                "id": 87997,
+                "name": "Oliveira do Douro"
+            },
+            {
+                "id": 87998,
+                "name": "Paços de Ferreira"
+            },
+            {
+                "id": 87999,
+                "name": "Paredes"
+            },
+            {
+                "id": 88000,
+                "name": "Pedroso"
+            },
+            {
+                "id": 88001,
+                "name": "Pedrouços"
+            },
+            {
+                "id": 88002,
+                "name": "Penafiel"
+            },
+            {
+                "id": 88003,
+                "name": "Perafita"
+            },
+            {
+                "id": 88004,
+                "name": "Perozinho"
+            },
+            {
+                "id": 88005,
+                "name": "Porto"
+            },
+            {
+                "id": 88006,
+                "name": "Póvoa de Varzim"
+            },
+            {
+                "id": 88007,
+                "name": "Rebordões"
+            },
+            {
+                "id": 88008,
+                "name": "Rebordosa"
+            },
+            {
+                "id": 88009,
+                "name": "Recarei"
+            },
+            {
+                "id": 88010,
+                "name": "Rio Mau"
+            },
+            {
+                "id": 88011,
+                "name": "Rio Tinto"
+            },
+            {
+                "id": 88012,
+                "name": "Sandim"
+            },
+            {
+                "id": 88013,
+                "name": "Santa Cruz do Bispo"
+            },
+            {
+                "id": 88014,
+                "name": "Santo Izidoro"
+            },
+            {
+                "id": 88015,
+                "name": "Santo Tirso"
+            },
+            {
+                "id": 88016,
+                "name": "São Félix da Marinha"
+            },
+            {
+                "id": 88017,
+                "name": "São Mamede de Infesta"
+            },
+            {
+                "id": 88018,
+                "name": "São Miguel do Couto"
+            },
+            {
+                "id": 88019,
+                "name": "São Pedro da Cova"
+            },
+            {
+                "id": 88020,
+                "name": "São Romão do Coronado"
+            },
+            {
+                "id": 88021,
+                "name": "Senhora da Hora"
+            },
+            {
+                "id": 88022,
+                "name": "Sermonde"
+            },
+            {
+                "id": 88023,
+                "name": "Seroa"
+            },
+            {
+                "id": 88024,
+                "name": "Serzedo"
+            },
+            {
+                "id": 88025,
+                "name": "Sobrado"
+            },
+            {
+                "id": 88026,
+                "name": "Telões"
+            },
+            {
+                "id": 88027,
+                "name": "Trofa"
+            },
+            {
+                "id": 88028,
+                "name": "Vairão"
+            },
+            {
+                "id": 88029,
+                "name": "Valadares"
+            },
+            {
+                "id": 88030,
+                "name": "Valbom"
+            },
+            {
+                "id": 88031,
+                "name": "Valongo"
+            },
+            {
+                "id": 88032,
+                "name": "Vila do Conde"
+            },
+            {
+                "id": 88033,
+                "name": "Vila Meã"
+            },
+            {
+                "id": 88034,
+                "name": "Vila Nova da Telha"
+            },
+            {
+                "id": 88035,
+                "name": "Vila Nova de Gaia"
+            },
+            {
+                "id": 88036,
+                "name": "Vilar de Andorinho"
+            },
+            {
+                "id": 88037,
+                "name": "Vilar do Paraíso"
+            },
+            {
+                "id": 88038,
+                "name": "Vilarinho"
+            },
+            {
+                "id": 88039,
+                "name": "Vizela"
+            }
+        ]
+    },
+    {
+        "id": 3224,
+        "name": "Santarém District",
+        "cities": [
+            {
+                "id": 88040,
+                "name": "Abrantes"
+            },
+            {
+                "id": 88041,
+                "name": "Alcanede"
+            },
+            {
+                "id": 88042,
+                "name": "Alcanena"
+            },
+            {
+                "id": 88043,
+                "name": "Alcanhões"
+            },
+            {
+                "id": 88044,
+                "name": "Alferrarede"
+            },
+            {
+                "id": 88045,
+                "name": "Almeirim"
+            },
+            {
+                "id": 88046,
+                "name": "Alpiarça"
+            },
+            {
+                "id": 88047,
+                "name": "Amiães de Baixo"
+            },
+            {
+                "id": 88048,
+                "name": "Azinhaga"
+            },
+            {
+                "id": 88049,
+                "name": "Bemfica"
+            },
+            {
+                "id": 88050,
+                "name": "Benavente"
+            },
+            {
+                "id": 88051,
+                "name": "Cartaxo"
+            },
+            {
+                "id": 88052,
+                "name": "Chamusca"
+            },
+            {
+                "id": 88053,
+                "name": "Constância"
+            },
+            {
+                "id": 88054,
+                "name": "Coruche"
+            },
+            {
+                "id": 88055,
+                "name": "Entroncamento"
+            },
+            {
+                "id": 88056,
+                "name": "Fátima"
+            },
+            {
+                "id": 88057,
+                "name": "Fazendas de Almeirim"
+            },
+            {
+                "id": 88058,
+                "name": "Ferreira do Zêzere"
+            },
+            {
+                "id": 88059,
+                "name": "Golegã"
+            },
+            {
+                "id": 88060,
+                "name": "Mação"
+            },
+            {
+                "id": 88061,
+                "name": "Madalena"
+            },
+            {
+                "id": 88062,
+                "name": "Marinhais"
+            },
+            {
+                "id": 88063,
+                "name": "Minde"
+            },
+            {
+                "id": 88064,
+                "name": "Monsanto"
+            },
+            {
+                "id": 88065,
+                "name": "Montalvinho"
+            },
+            {
+                "id": 88066,
+                "name": "Montalvo"
+            },
+            {
+                "id": 88067,
+                "name": "Ourém"
+            },
+            {
+                "id": 88068,
+                "name": "Paialvo"
+            },
+            {
+                "id": 88069,
+                "name": "Pego"
+            },
+            {
+                "id": 88070,
+                "name": "Pinheiro Grande"
+            },
+            {
+                "id": 88071,
+                "name": "Poceirão"
+            },
+            {
+                "id": 88072,
+                "name": "Pontével"
+            },
+            {
+                "id": 88073,
+                "name": "Praia do Ribatejo"
+            },
+            {
+                "id": 88074,
+                "name": "Riachos"
+            },
+            {
+                "id": 88075,
+                "name": "Rio Maior"
+            },
+            {
+                "id": 88076,
+                "name": "Salvaterra de Magos"
+            },
+            {
+                "id": 88077,
+                "name": "Samora Correia"
+            },
+            {
+                "id": 88078,
+                "name": "Santa Margarida da Coutada"
+            },
+            {
+                "id": 88079,
+                "name": "Santarém"
+            },
+            {
+                "id": 88080,
+                "name": "São Miguel de Rio Torto"
+            },
+            {
+                "id": 88081,
+                "name": "São Vicente do Paul"
+            },
+            {
+                "id": 88082,
+                "name": "Sardoal"
+            },
+            {
+                "id": 88083,
+                "name": "Tomar"
+            },
+            {
+                "id": 88084,
+                "name": "Torres Novas"
+            },
+            {
+                "id": 88085,
+                "name": "Tramagal"
+            },
+            {
+                "id": 88086,
+                "name": "Vale de Figueira"
+            },
+            {
+                "id": 88087,
+                "name": "Vale de Santarém"
+            },
+            {
+                "id": 88088,
+                "name": "Vila Chã de Ourique"
+            },
+            {
+                "id": 88089,
+                "name": "Vila Nova da Barquinha"
+            }
+        ]
+    },
+    {
+        "id": 3225,
+        "name": "Setúbal District",
+        "cities": [
+            {
+                "id": 88090,
+                "name": "Alcácer do Sal"
+            },
+            {
+                "id": 88091,
+                "name": "Alcochete"
+            },
+            {
+                "id": 88092,
+                "name": "Aldeia de Paio Pires"
+            },
+            {
+                "id": 88093,
+                "name": "Alhos Vedros"
+            },
+            {
+                "id": 88094,
+                "name": "Almada"
+            },
+            {
+                "id": 88095,
+                "name": "Amora"
+            },
+            {
+                "id": 88096,
+                "name": "Arrentela"
+            },
+            {
+                "id": 88097,
+                "name": "Azeitão"
+            },
+            {
+                "id": 88098,
+                "name": "Barreiro"
+            },
+            {
+                "id": 88099,
+                "name": "Cacilhas"
+            },
+            {
+                "id": 88100,
+                "name": "Caparica"
+            },
+            {
+                "id": 88101,
+                "name": "Cercal"
+            },
+            {
+                "id": 88102,
+                "name": "Charneca de Caparica"
+            },
+            {
+                "id": 88103,
+                "name": "Comporta"
+            },
+            {
+                "id": 88104,
+                "name": "Corroios"
+            },
+            {
+                "id": 88105,
+                "name": "Costa de Caparica"
+            },
+            {
+                "id": 88106,
+                "name": "Grândola"
+            },
+            {
+                "id": 88107,
+                "name": "Laranjeira"
+            },
+            {
+                "id": 88108,
+                "name": "Lavradio"
+            },
+            {
+                "id": 88109,
+                "name": "Moita"
+            },
+            {
+                "id": 88110,
+                "name": "Montijo"
+            },
+            {
+                "id": 88111,
+                "name": "Palmela"
+            },
+            {
+                "id": 88112,
+                "name": "Piedade"
+            },
+            {
+                "id": 88113,
+                "name": "Pinhal Novo"
+            },
+            {
+                "id": 88114,
+                "name": "Porto Covo"
+            },
+            {
+                "id": 88115,
+                "name": "Pragal"
+            },
+            {
+                "id": 88116,
+                "name": "Quinta do Anjo"
+            },
+            {
+                "id": 88117,
+                "name": "Quinta Do Conde"
+            },
+            {
+                "id": 88118,
+                "name": "Rosairinho"
+            },
+            {
+                "id": 88119,
+                "name": "Samouco"
+            },
+            {
+                "id": 88120,
+                "name": "Santiago do Cacém"
+            },
+            {
+                "id": 88121,
+                "name": "Santo André"
+            },
+            {
+                "id": 88122,
+                "name": "Santo António da Charneca"
+            },
+            {
+                "id": 88123,
+                "name": "Sarilhos Pequenos"
+            },
+            {
+                "id": 88124,
+                "name": "Seixal"
+            },
+            {
+                "id": 88125,
+                "name": "Sesimbra"
+            },
+            {
+                "id": 88126,
+                "name": "Setúbal"
+            },
+            {
+                "id": 88127,
+                "name": "Sines"
+            },
+            {
+                "id": 88128,
+                "name": "Sobreda"
+            },
+            {
+                "id": 88129,
+                "name": "Trafaria"
+            }
+        ]
+    },
+    {
+        "id": 3226,
+        "name": "Viana do Castelo District",
+        "cities": [
+            {
+                "id": 88130,
+                "name": "Arcos de Valdevez"
+            },
+            {
+                "id": 88131,
+                "name": "Areosa"
+            },
+            {
+                "id": 88132,
+                "name": "Caminha"
+            },
+            {
+                "id": 88133,
+                "name": "Darque"
+            },
+            {
+                "id": 88134,
+                "name": "Meadela"
+            },
+            {
+                "id": 88135,
+                "name": "Melgaço"
+            },
+            {
+                "id": 88136,
+                "name": "Monção"
+            },
+            {
+                "id": 88137,
+                "name": "Mozelos"
+            },
+            {
+                "id": 88138,
+                "name": "Paredes de Coura"
+            },
+            {
+                "id": 88139,
+                "name": "Ponte da Barca"
+            },
+            {
+                "id": 88140,
+                "name": "Ponte de Lima"
+            },
+            {
+                "id": 88141,
+                "name": "Valença"
+            },
+            {
+                "id": 88142,
+                "name": "Valenza"
+            },
+            {
+                "id": 88143,
+                "name": "Viana do Castelo"
+            },
+            {
+                "id": 88144,
+                "name": "Vila Praia de Âncora"
+            }
+        ]
+    },
+    {
+        "id": 3227,
+        "name": "Vila Real District",
+        "cities": [
+            {
+                "id": 88145,
+                "name": "Alijó"
+            },
+            {
+                "id": 88146,
+                "name": "Boticas"
+            },
+            {
+                "id": 88147,
+                "name": "Chaves"
+            },
+            {
+                "id": 88148,
+                "name": "Favaios"
+            },
+            {
+                "id": 88149,
+                "name": "Godim"
+            },
+            {
+                "id": 88150,
+                "name": "Mesão Frio"
+            },
+            {
+                "id": 88151,
+                "name": "Mondim de Basto"
+            },
+            {
+                "id": 88152,
+                "name": "Montalegre"
+            },
+            {
+                "id": 88153,
+                "name": "Murça"
+            },
+            {
+                "id": 88154,
+                "name": "Peso da Régua"
+            },
+            {
+                "id": 88155,
+                "name": "Ribeira de Pena"
+            },
+            {
+                "id": 88156,
+                "name": "Sabrosa"
+            },
+            {
+                "id": 88157,
+                "name": "Santa Cruz"
+            },
+            {
+                "id": 88158,
+                "name": "Santa Marta de Penaguião"
+            },
+            {
+                "id": 88159,
+                "name": "Sobreira"
+            },
+            {
+                "id": 88160,
+                "name": "Valpaços"
+            },
+            {
+                "id": 88161,
+                "name": "Vila Pouca de Aguiar"
+            },
+            {
+                "id": 88162,
+                "name": "Vila Real"
+            },
+            {
+                "id": 88163,
+                "name": "Vilela"
+            }
+        ]
+    },
+    {
+        "id": 3228,
+        "name": "Viseu District",
+        "cities": [
+            {
+                "id": 88164,
+                "name": "Abraveses"
+            },
+            {
+                "id": 88165,
+                "name": "Armamar"
+            },
+            {
+                "id": 88166,
+                "name": "Cabanas de Viriato"
+            },
+            {
+                "id": 88167,
+                "name": "Campo"
+            },
+            {
+                "id": 88168,
+                "name": "Campo de Besteiros"
+            },
+            {
+                "id": 88169,
+                "name": "Canas de Senhorim"
+            },
+            {
+                "id": 88170,
+                "name": "Carregal do Sal"
+            },
+            {
+                "id": 88171,
+                "name": "Castro Daire"
+            },
+            {
+                "id": 88172,
+                "name": "Cinfães"
+            },
+            {
+                "id": 88173,
+                "name": "Ervedosa do Douro"
+            },
+            {
+                "id": 88174,
+                "name": "Lamego"
+            },
+            {
+                "id": 88175,
+                "name": "Mangualde"
+            },
+            {
+                "id": 88176,
+                "name": "Moimenta da Beira"
+            },
+            {
+                "id": 88177,
+                "name": "Mortágua"
+            },
+            {
+                "id": 88178,
+                "name": "Nelas"
+            },
+            {
+                "id": 88179,
+                "name": "Oliveira de Frades"
+            },
+            {
+                "id": 88180,
+                "name": "Penalva do Castelo"
+            },
+            {
+                "id": 88181,
+                "name": "Penedono"
+            },
+            {
+                "id": 88182,
+                "name": "Resende"
+            },
+            {
+                "id": 88183,
+                "name": "Rio de Loba"
+            },
+            {
+                "id": 88184,
+                "name": "Santa Comba Dão"
+            },
+            {
+                "id": 88185,
+                "name": "São João da Pesqueira"
+            },
+            {
+                "id": 88186,
+                "name": "São João de Areias"
+            },
+            {
+                "id": 88187,
+                "name": "São Pedro do Sul"
+            },
+            {
+                "id": 88188,
+                "name": "Sátão"
+            },
+            {
+                "id": 88189,
+                "name": "Sernancelhe"
+            },
+            {
+                "id": 88190,
+                "name": "Tabuaço"
+            },
+            {
+                "id": 88191,
+                "name": "Tarouca"
+            },
+            {
+                "id": 88192,
+                "name": "Tondela"
+            },
+            {
+                "id": 88193,
+                "name": "Treixedo"
+            },
+            {
+                "id": 88194,
+                "name": "Vila Nova de Paiva"
+            },
+            {
+                "id": 88195,
+                "name": "Viseu"
+            },
+            {
+                "id": 88196,
+                "name": "Vouzela"
+            }
+        ]
+    }
+]

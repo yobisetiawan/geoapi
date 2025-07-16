@@ -1,0 +1,177 @@
+[
+    {
+        "id": 629,
+        "name": "Bubanza Province",
+        "cities": [
+            {
+                "id": 16431,
+                "name": "Bubanza"
+            }
+        ]
+    },
+    {
+        "id": 630,
+        "name": "Bujumbura Mairie Province",
+        "cities": [
+            {
+                "id": 16432,
+                "name": "Bujumbura"
+            }
+        ]
+    },
+    {
+        "id": 631,
+        "name": "Bujumbura Rural Province",
+        "cities": []
+    },
+    {
+        "id": 632,
+        "name": "Bururi Province",
+        "cities": [
+            {
+                "id": 16433,
+                "name": "Bururi"
+            }
+        ]
+    },
+    {
+        "id": 633,
+        "name": "Cankuzo Province",
+        "cities": [
+            {
+                "id": 16434,
+                "name": "Cankuzo"
+            }
+        ]
+    },
+    {
+        "id": 634,
+        "name": "Cibitoke Province",
+        "cities": [
+            {
+                "id": 16435,
+                "name": "Cibitoke"
+            }
+        ]
+    },
+    {
+        "id": 635,
+        "name": "Gitega Province",
+        "cities": [
+            {
+                "id": 16436,
+                "name": "Gitega"
+            }
+        ]
+    },
+    {
+        "id": 636,
+        "name": "Karuzi Province",
+        "cities": [
+            {
+                "id": 16437,
+                "name": "Karuzi"
+            }
+        ]
+    },
+    {
+        "id": 637,
+        "name": "Kayanza Province",
+        "cities": [
+            {
+                "id": 16438,
+                "name": "Kayanza"
+            }
+        ]
+    },
+    {
+        "id": 638,
+        "name": "Kirundo Province",
+        "cities": [
+            {
+                "id": 16439,
+                "name": "Kirundo"
+            }
+        ]
+    },
+    {
+        "id": 639,
+        "name": "Makamba Province",
+        "cities": [
+            {
+                "id": 16440,
+                "name": "Makamba"
+            }
+        ]
+    },
+    {
+        "id": 640,
+        "name": "Muramvya Province",
+        "cities": [
+            {
+                "id": 16441,
+                "name": "Muramvya"
+            }
+        ]
+    },
+    {
+        "id": 641,
+        "name": "Muyinga Province",
+        "cities": [
+            {
+                "id": 16442,
+                "name": "Muyinga"
+            }
+        ]
+    },
+    {
+        "id": 642,
+        "name": "Mwaro Province",
+        "cities": [
+            {
+                "id": 16443,
+                "name": "Mwaro"
+            }
+        ]
+    },
+    {
+        "id": 643,
+        "name": "Ngozi Province",
+        "cities": [
+            {
+                "id": 16444,
+                "name": "Ngozi"
+            }
+        ]
+    },
+    {
+        "id": 644,
+        "name": "Rumonge Province",
+        "cities": [
+            {
+                "id": 16445,
+                "name": "Rumonge"
+            }
+        ]
+    },
+    {
+        "id": 645,
+        "name": "Rutana Province",
+        "cities": [
+            {
+                "id": 16446,
+                "name": "Rutana"
+            }
+        ]
+    },
+    {
+        "id": 646,
+        "name": "Ruyigi Province",
+        "cities": [
+            {
+                "id": 16447,
+                "name": "Ruyigi"
+            }
+        ]
+    }
+]

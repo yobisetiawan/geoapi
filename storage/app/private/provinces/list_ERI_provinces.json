@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1204,
+        "name": "Anseba Region",
+        "cities": [
+            {
+                "id": 24209,
+                "name": "Keren"
+            }
+        ]
+    },
+    {
+        "id": 1205,
+        "name": "Debub Region",
+        "cities": [
+            {
+                "id": 24210,
+                "name": "Adi Keyh"
+            },
+            {
+                "id": 24211,
+                "name": "Dek’emhāre"
+            },
+            {
+                "id": 24212,
+                "name": "Mendefera"
+            }
+        ]
+    },
+    {
+        "id": 1206,
+        "name": "Gash-Barka Region",
+        "cities": [
+            {
+                "id": 24213,
+                "name": "Ak’ordat"
+            },
+            {
+                "id": 24214,
+                "name": "Barentu"
+            },
+            {
+                "id": 24215,
+                "name": "Teseney"
+            }
+        ]
+    },
+    {
+        "id": 1207,
+        "name": "Maekel Region",
+        "cities": [
+            {
+                "id": 24216,
+                "name": "Asmara"
+            }
+        ]
+    },
+    {
+        "id": 1208,
+        "name": "Northern Red Sea Region",
+        "cities": [
+            {
+                "id": 24217,
+                "name": "Massawa"
+            }
+        ]
+    },
+    {
+        "id": 1209,
+        "name": "Southern Red Sea Region",
+        "cities": [
+            {
+                "id": 24218,
+                "name": "Assab"
+            },
+            {
+                "id": 24219,
+                "name": "Edd"
+            }
+        ]
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "id": 4104,
+        "name": "Arima",
+        "cities": [
+            {
+                "id": 114557,
+                "name": "Arima"
+            }
+        ]
+    },
+    {
+        "id": 4105,
+        "name": "Chaguanas",
+        "cities": [
+            {
+                "id": 114558,
+                "name": "Chaguanas"
+            },
+            {
+                "id": 114559,
+                "name": "Ward of Chaguanas"
+            }
+        ]
+    },
+    {
+        "id": 4106,
+        "name": "Couva-Tabaquite-Talparo Regional Corporation",
+        "cities": [
+            {
+                "id": 114560,
+                "name": "Couva"
+            },
+            {
+                "id": 114561,
+                "name": "Tabaquite"
+            }
+        ]
+    },
+    {
+        "id": 4107,
+        "name": "Diego Martin Regional Corporation",
+        "cities": [
+            {
+                "id": 114562,
+                "name": "Petit Valley"
+            },
+            {
+                "id": 114563,
+                "name": "Ward of Diego Martin"
+            }
+        ]
+    },
+    {
+        "id": 4108,
+        "name": "Eastern Tobago",
+        "cities": [
+            {
+                "id": 114564,
+                "name": "Scarborough"
+            }
+        ]
+    },
+    {
+        "id": 4109,
+        "name": "Penal-Debe Regional Corporation",
+        "cities": [
+            {
+                "id": 114565,
+                "name": "Debe"
+            },
+            {
+                "id": 114566,
+                "name": "Peñal"
+            }
+        ]
+    },
+    {
+        "id": 4110,
+        "name": "Point Fortin",
+        "cities": [
+            {
+                "id": 114567,
+                "name": "Point Fortin"
+            }
+        ]
+    },
+    {
+        "id": 4111,
+        "name": "Port of Spain",
+        "cities": [
+            {
+                "id": 114568,
+                "name": "Mucurapo"
+            },
+            {
+                "id": 114569,
+                "name": "Port of Spain"
+            }
+        ]
+    },
+    {
+        "id": 4112,
+        "name": "Princes Town Regional Corporation",
+        "cities": [
+            {
+                "id": 114570,
+                "name": "Princes Town"
+            }
+        ]
+    },
+    {
+        "id": 4113,
+        "name": "Rio Claro-Mayaro Regional Corporation",
+        "cities": []
+    },
+    {
+        "id": 4114,
+        "name": "San Fernando",
+        "cities": [
+            {
+                "id": 114571,
+                "name": "Marabella"
+            },
+            {
+                "id": 114572,
+                "name": "Mon Repos"
+            },
+            {
+                "id": 114573,
+                "name": "San Fernando"
+            }
+        ]
+    },
+    {
+        "id": 4115,
+        "name": "San Juan-Laventille Regional Corporation",
+        "cities": [
+            {
+                "id": 114574,
+                "name": "Laventille"
+            }
+        ]
+    },
+    {
+        "id": 4116,
+        "name": "Sangre Grande Regional Corporation",
+        "cities": [
+            {
+                "id": 114575,
+                "name": "Sangre Grande"
+            }
+        ]
+    },
+    {
+        "id": 4117,
+        "name": "Siparia Regional Corporation",
+        "cities": [
+            {
+                "id": 114576,
+                "name": "Siparia"
+            },
+            {
+                "id": 114577,
+                "name": "Ward of Siparia"
+            }
+        ]
+    },
+    {
+        "id": 4118,
+        "name": "Tunapuna-Piarco Regional Corporation",
+        "cities": [
+            {
+                "id": 114578,
+                "name": "Arouca"
+            },
+            {
+                "id": 114579,
+                "name": "Paradise"
+            },
+            {
+                "id": 114580,
+                "name": "Tunapuna"
+            }
+        ]
+    },
+    {
+        "id": 4119,
+        "name": "Western Tobago",
+        "cities": [
+            {
+                "id": 114581,
+                "name": "Rio Claro"
+            }
+        ]
+    }
+]

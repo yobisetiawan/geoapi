@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1411,
+        "name": "Carriacou and Petite Martinique",
+        "cities": [
+            {
+                "id": 42300,
+                "name": "Hillsborough"
+            }
+        ]
+    },
+    {
+        "id": 1412,
+        "name": "Saint Andrew Parish",
+        "cities": [
+            {
+                "id": 42301,
+                "name": "Grenville"
+            }
+        ]
+    },
+    {
+        "id": 1413,
+        "name": "Saint David Parish",
+        "cities": [
+            {
+                "id": 42302,
+                "name": "Saint David’s"
+            }
+        ]
+    },
+    {
+        "id": 1414,
+        "name": "Saint George Parish",
+        "cities": [
+            {
+                "id": 42303,
+                "name": "Saint George's"
+            }
+        ]
+    },
+    {
+        "id": 1415,
+        "name": "Saint John Parish",
+        "cities": [
+            {
+                "id": 42304,
+                "name": "Gouyave"
+            }
+        ]
+    },
+    {
+        "id": 1416,
+        "name": "Saint Mark Parish",
+        "cities": [
+            {
+                "id": 42305,
+                "name": "Victoria"
+            }
+        ]
+    },
+    {
+        "id": 1417,
+        "name": "Saint Patrick Parish",
+        "cities": [
+            {
+                "id": 42306,
+                "name": "Sauteurs"
+            }
+        ]
+    }
+]

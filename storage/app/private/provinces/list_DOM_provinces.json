@@ -1,0 +1,1016 @@
+[
+    {
+        "id": 1089,
+        "name": "Azua Province",
+        "cities": [
+            {
+                "id": 23588,
+                "name": "Azua"
+            },
+            {
+                "id": 23589,
+                "name": "El Guayabal"
+            },
+            {
+                "id": 23590,
+                "name": "Estebanía"
+            },
+            {
+                "id": 23591,
+                "name": "Las Charcas"
+            },
+            {
+                "id": 23592,
+                "name": "Padre Las Casas"
+            },
+            {
+                "id": 23593,
+                "name": "Palmar de Ocoa"
+            },
+            {
+                "id": 23594,
+                "name": "Peralta"
+            },
+            {
+                "id": 23595,
+                "name": "Pueblo Viejo"
+            },
+            {
+                "id": 23596,
+                "name": "Sabana Yegua"
+            },
+            {
+                "id": 23597,
+                "name": "Tábara Arriba"
+            },
+            {
+                "id": 23598,
+                "name": "Villarpando"
+            },
+            {
+                "id": 23599,
+                "name": "Yayas de Viajama"
+            }
+        ]
+    },
+    {
+        "id": 1090,
+        "name": "Baoruco Province",
+        "cities": [
+            {
+                "id": 23600,
+                "name": "El Palmar"
+            },
+            {
+                "id": 23601,
+                "name": "Galván"
+            },
+            {
+                "id": 23602,
+                "name": "La Uvilla"
+            },
+            {
+                "id": 23603,
+                "name": "Los Ríos"
+            },
+            {
+                "id": 23604,
+                "name": "Neiba"
+            },
+            {
+                "id": 23605,
+                "name": "Tamayo"
+            },
+            {
+                "id": 23606,
+                "name": "Villa Jaragua"
+            }
+        ]
+    },
+    {
+        "id": 1091,
+        "name": "Barahona Province",
+        "cities": [
+            {
+                "id": 23607,
+                "name": "Cabral"
+            },
+            {
+                "id": 23608,
+                "name": "Cachón"
+            },
+            {
+                "id": 23609,
+                "name": "Canoa"
+            },
+            {
+                "id": 23610,
+                "name": "El Peñón"
+            },
+            {
+                "id": 23611,
+                "name": "Enriquillo"
+            },
+            {
+                "id": 23612,
+                "name": "Fundación"
+            },
+            {
+                "id": 23613,
+                "name": "Jaquimeyes"
+            },
+            {
+                "id": 23614,
+                "name": "La Ciénaga"
+            },
+            {
+                "id": 23615,
+                "name": "Las Salinas"
+            },
+            {
+                "id": 23616,
+                "name": "Paraíso"
+            },
+            {
+                "id": 23617,
+                "name": "Pescadería"
+            },
+            {
+                "id": 23618,
+                "name": "Polo"
+            },
+            {
+                "id": 23619,
+                "name": "Santa Cruz de Barahona"
+            },
+            {
+                "id": 23620,
+                "name": "Vicente Noble"
+            }
+        ]
+    },
+    {
+        "id": 1092,
+        "name": "Dajabón Province",
+        "cities": [
+            {
+                "id": 23621,
+                "name": "Dajabón"
+            },
+            {
+                "id": 23622,
+                "name": "El Pino"
+            },
+            {
+                "id": 23623,
+                "name": "Loma de Cabrera"
+            },
+            {
+                "id": 23624,
+                "name": "Partido"
+            },
+            {
+                "id": 23625,
+                "name": "Restauración"
+            }
+        ]
+    },
+    {
+        "id": 1093,
+        "name": "Distrito Nacional",
+        "cities": [
+            {
+                "id": 23626,
+                "name": "Bella Vista"
+            },
+            {
+                "id": 23627,
+                "name": "Ciudad Nueva"
+            },
+            {
+                "id": 23628,
+                "name": "Cristo Rey"
+            },
+            {
+                "id": 23629,
+                "name": "Ensanche Luperón"
+            },
+            {
+                "id": 23630,
+                "name": "La Agustina"
+            },
+            {
+                "id": 23631,
+                "name": "La Julia"
+            },
+            {
+                "id": 23632,
+                "name": "San Carlos"
+            },
+            {
+                "id": 23633,
+                "name": "Santo Domingo"
+            },
+            {
+                "id": 23634,
+                "name": "Villa Consuelo"
+            },
+            {
+                "id": 23635,
+                "name": "Villa Francisca"
+            }
+        ]
+    },
+    {
+        "id": 1094,
+        "name": "Duarte Province",
+        "cities": [
+            {
+                "id": 23636,
+                "name": "Agua Santa del Yuna"
+            },
+            {
+                "id": 23637,
+                "name": "Arenoso"
+            },
+            {
+                "id": 23638,
+                "name": "Castillo"
+            },
+            {
+                "id": 23639,
+                "name": "Hostos"
+            },
+            {
+                "id": 23640,
+                "name": "Las Guáranas"
+            },
+            {
+                "id": 23641,
+                "name": "Pimentel"
+            },
+            {
+                "id": 23642,
+                "name": "San Francisco de Macorís"
+            },
+            {
+                "id": 23643,
+                "name": "Villa Riva"
+            }
+        ]
+    },
+    {
+        "id": 1095,
+        "name": "El Seibo Province",
+        "cities": [
+            {
+                "id": 23644,
+                "name": "Miches"
+            },
+            {
+                "id": 23645,
+                "name": "Pedro Sánchez"
+            },
+            {
+                "id": 23646,
+                "name": "Santa Cruz de El Seibo"
+            }
+        ]
+    },
+    {
+        "id": 1096,
+        "name": "Espaillat Province",
+        "cities": [
+            {
+                "id": 23647,
+                "name": "Cayetano Germosén"
+            },
+            {
+                "id": 23648,
+                "name": "Gaspar Hernández"
+            },
+            {
+                "id": 23649,
+                "name": "Jamao al Norte"
+            },
+            {
+                "id": 23650,
+                "name": "Joba Arriba"
+            },
+            {
+                "id": 23651,
+                "name": "Juan López Abajo"
+            },
+            {
+                "id": 23652,
+                "name": "Moca"
+            },
+            {
+                "id": 23653,
+                "name": "San Víctor Arriba"
+            },
+            {
+                "id": 23654,
+                "name": "Veragua Arriba"
+            }
+        ]
+    },
+    {
+        "id": 1097,
+        "name": "Hato Mayor Province",
+        "cities": [
+            {
+                "id": 23655,
+                "name": "El Valle"
+            },
+            {
+                "id": 23656,
+                "name": "Guayabo Dulce"
+            },
+            {
+                "id": 23657,
+                "name": "Hato Mayor del Rey"
+            },
+            {
+                "id": 23658,
+                "name": "Sabana de la Mar"
+            }
+        ]
+    },
+    {
+        "id": 1098,
+        "name": "Hermanas Mirabal Province",
+        "cities": [
+            {
+                "id": 23659,
+                "name": "Salcedo"
+            },
+            {
+                "id": 23660,
+                "name": "Salsipuedes"
+            },
+            {
+                "id": 23661,
+                "name": "Tenares"
+            },
+            {
+                "id": 23662,
+                "name": "Villa Tapia"
+            }
+        ]
+    },
+    {
+        "id": 1099,
+        "name": "Independencia",
+        "cities": [
+            {
+                "id": 23663,
+                "name": "Cristóbal"
+            },
+            {
+                "id": 23664,
+                "name": "Duvergé"
+            },
+            {
+                "id": 23665,
+                "name": "Guayabal"
+            },
+            {
+                "id": 23666,
+                "name": "Jimaní"
+            },
+            {
+                "id": 23667,
+                "name": "La Descubierta"
+            },
+            {
+                "id": 23668,
+                "name": "Mella"
+            },
+            {
+                "id": 23669,
+                "name": "Postrer Río"
+            }
+        ]
+    },
+    {
+        "id": 1100,
+        "name": "La Altagracia Province",
+        "cities": [
+            {
+                "id": 23670,
+                "name": "Boca de Yuma"
+            },
+            {
+                "id": 23671,
+                "name": "Higüey"
+            },
+            {
+                "id": 23672,
+                "name": "Otra Banda"
+            },
+            {
+                "id": 23673,
+                "name": "Punta Cana"
+            },
+            {
+                "id": 23674,
+                "name": "Salvaleón de Higüey"
+            },
+            {
+                "id": 23675,
+                "name": "San Rafael del Yuma"
+            }
+        ]
+    },
+    {
+        "id": 1101,
+        "name": "La Romana Province",
+        "cities": [
+            {
+                "id": 23676,
+                "name": "Guaymate"
+            },
+            {
+                "id": 23677,
+                "name": "La Romana"
+            }
+        ]
+    },
+    {
+        "id": 1102,
+        "name": "La Vega Province",
+        "cities": [
+            {
+                "id": 23678,
+                "name": "Concepción de La Vega"
+            },
+            {
+                "id": 23679,
+                "name": "Constanza"
+            },
+            {
+                "id": 23680,
+                "name": "Jarabacoa"
+            },
+            {
+                "id": 23681,
+                "name": "Jima Abajo"
+            },
+            {
+                "id": 23682,
+                "name": "Rincón"
+            },
+            {
+                "id": 23683,
+                "name": "Río Verde Arriba"
+            },
+            {
+                "id": 23684,
+                "name": "Tireo Arriba"
+            }
+        ]
+    },
+    {
+        "id": 1103,
+        "name": "María Trinidad Sánchez Province",
+        "cities": [
+            {
+                "id": 23685,
+                "name": "Arroyo Salado"
+            },
+            {
+                "id": 23686,
+                "name": "Cabrera"
+            },
+            {
+                "id": 23687,
+                "name": "El Factor"
+            },
+            {
+                "id": 23688,
+                "name": "La Entrada"
+            },
+            {
+                "id": 23689,
+                "name": "Nagua"
+            },
+            {
+                "id": 23690,
+                "name": "Río San Juan"
+            }
+        ]
+    },
+    {
+        "id": 1104,
+        "name": "Monseñor Nouel Province",
+        "cities": [
+            {
+                "id": 23691,
+                "name": "Bonao"
+            },
+            {
+                "id": 23692,
+                "name": "Juan Adrián"
+            },
+            {
+                "id": 23693,
+                "name": "Maimón"
+            },
+            {
+                "id": 23694,
+                "name": "Piedra Blanca"
+            },
+            {
+                "id": 23695,
+                "name": "Sabana del Puerto"
+            }
+        ]
+    },
+    {
+        "id": 1105,
+        "name": "Monte Cristi Province",
+        "cities": [
+            {
+                "id": 23696,
+                "name": "Cana Chapetón"
+            },
+            {
+                "id": 23697,
+                "name": "Castañuelas"
+            },
+            {
+                "id": 23698,
+                "name": "Guayubín"
+            },
+            {
+                "id": 23699,
+                "name": "Hatillo Palma"
+            },
+            {
+                "id": 23700,
+                "name": "Las Matas de Santa Cruz"
+            },
+            {
+                "id": 23701,
+                "name": "Monte Cristi"
+            },
+            {
+                "id": 23702,
+                "name": "Pepillo Salcedo"
+            },
+            {
+                "id": 23703,
+                "name": "San Fernando de Monte Cristi"
+            },
+            {
+                "id": 23704,
+                "name": "Villa Elisa"
+            },
+            {
+                "id": 23705,
+                "name": "Villa Vásquez"
+            }
+        ]
+    },
+    {
+        "id": 1106,
+        "name": "Monte Plata Province",
+        "cities": [
+            {
+                "id": 23706,
+                "name": "Bayaguana"
+            },
+            {
+                "id": 23707,
+                "name": "Don Juan"
+            },
+            {
+                "id": 23708,
+                "name": "Esperalvillo"
+            },
+            {
+                "id": 23709,
+                "name": "Gonzalo"
+            },
+            {
+                "id": 23710,
+                "name": "Los Botados"
+            },
+            {
+                "id": 23711,
+                "name": "Majagual"
+            },
+            {
+                "id": 23712,
+                "name": "Monte Plata"
+            },
+            {
+                "id": 23713,
+                "name": "Sabana Grande de Boyá"
+            },
+            {
+                "id": 23714,
+                "name": "Yamasá"
+            }
+        ]
+    },
+    {
+        "id": 1107,
+        "name": "Pedernales Province",
+        "cities": [
+            {
+                "id": 23715,
+                "name": "Juancho"
+            },
+            {
+                "id": 23716,
+                "name": "Oviedo"
+            },
+            {
+                "id": 23717,
+                "name": "Pedernales"
+            }
+        ]
+    },
+    {
+        "id": 1108,
+        "name": "Peravia Province",
+        "cities": [
+            {
+                "id": 23718,
+                "name": "Baní"
+            },
+            {
+                "id": 23719,
+                "name": "Matanzas"
+            },
+            {
+                "id": 23720,
+                "name": "Nizao"
+            },
+            {
+                "id": 23721,
+                "name": "Paya"
+            },
+            {
+                "id": 23722,
+                "name": "Pizarrete"
+            },
+            {
+                "id": 23723,
+                "name": "Sabana Buey"
+            }
+        ]
+    },
+    {
+        "id": 1109,
+        "name": "Puerto Plata Province",
+        "cities": [
+            {
+                "id": 23724,
+                "name": "Altamira"
+            },
+            {
+                "id": 23725,
+                "name": "Cabarete"
+            },
+            {
+                "id": 23726,
+                "name": "Estero Hondo"
+            },
+            {
+                "id": 23727,
+                "name": "Guananico"
+            },
+            {
+                "id": 23728,
+                "name": "Imbert"
+            },
+            {
+                "id": 23729,
+                "name": "Los Hidalgos"
+            },
+            {
+                "id": 23730,
+                "name": "Luperón"
+            },
+            {
+                "id": 23731,
+                "name": "Monte Llano"
+            },
+            {
+                "id": 23732,
+                "name": "Puerto Plata"
+            },
+            {
+                "id": 23733,
+                "name": "Río Grande"
+            },
+            {
+                "id": 23734,
+                "name": "Sosúa"
+            },
+            {
+                "id": 23735,
+                "name": "Villa Isabela"
+            }
+        ]
+    },
+    {
+        "id": 1110,
+        "name": "Samaná Province",
+        "cities": [
+            {
+                "id": 23736,
+                "name": "Las Terrenas"
+            },
+            {
+                "id": 23737,
+                "name": "Samaná"
+            },
+            {
+                "id": 23738,
+                "name": "Sánchez"
+            }
+        ]
+    },
+    {
+        "id": 1111,
+        "name": "San Cristóbal Province",
+        "cities": [
+            {
+                "id": 23739,
+                "name": "Bajos de Haina"
+            },
+            {
+                "id": 23740,
+                "name": "Cambita Garabitos"
+            },
+            {
+                "id": 23741,
+                "name": "El Cacao"
+            },
+            {
+                "id": 23742,
+                "name": "El Carril"
+            },
+            {
+                "id": 23743,
+                "name": "Sabana Grande de Palenque"
+            },
+            {
+                "id": 23744,
+                "name": "San Cristóbal"
+            },
+            {
+                "id": 23745,
+                "name": "San Gregorio de Nigua"
+            },
+            {
+                "id": 23746,
+                "name": "Villa Altagracia"
+            },
+            {
+                "id": 23747,
+                "name": "Yaguate"
+            }
+        ]
+    },
+    {
+        "id": 1112,
+        "name": "San José de Ocoa Province",
+        "cities": [
+            {
+                "id": 23748,
+                "name": "San José de Ocoa"
+            }
+        ]
+    },
+    {
+        "id": 1113,
+        "name": "San Juan Province",
+        "cities": [
+            {
+                "id": 23749,
+                "name": "Bohechío"
+            },
+            {
+                "id": 23750,
+                "name": "Cercado Abajo"
+            },
+            {
+                "id": 23751,
+                "name": "El Cercado"
+            },
+            {
+                "id": 23752,
+                "name": "Juan de Herrera"
+            },
+            {
+                "id": 23753,
+                "name": "Las Matas de Farfán"
+            },
+            {
+                "id": 23754,
+                "name": "Matayaya"
+            },
+            {
+                "id": 23755,
+                "name": "Pedro Corto"
+            },
+            {
+                "id": 23756,
+                "name": "San Juan de la Maguana"
+            },
+            {
+                "id": 23757,
+                "name": "Vallejuelo"
+            }
+        ]
+    },
+    {
+        "id": 1114,
+        "name": "San Pedro de Macorís",
+        "cities": [
+            {
+                "id": 23758,
+                "name": "El Puerto"
+            },
+            {
+                "id": 23759,
+                "name": "Los Llanos"
+            },
+            {
+                "id": 23760,
+                "name": "Quisqueya"
+            },
+            {
+                "id": 23761,
+                "name": "Ramón Santana"
+            },
+            {
+                "id": 23762,
+                "name": "San Pedro de Macorís"
+            }
+        ]
+    },
+    {
+        "id": 1115,
+        "name": "Sánchez Ramírez Province",
+        "cities": [
+            {
+                "id": 23763,
+                "name": "Cevicos"
+            },
+            {
+                "id": 23764,
+                "name": "Cotuí"
+            },
+            {
+                "id": 23765,
+                "name": "Fantino"
+            }
+        ]
+    },
+    {
+        "id": 1116,
+        "name": "Santiago Province",
+        "cities": [
+            {
+                "id": 23766,
+                "name": "Baitoa"
+            },
+            {
+                "id": 23767,
+                "name": "Bisonó"
+            },
+            {
+                "id": 23768,
+                "name": "Juncalito Abajo"
+            },
+            {
+                "id": 23769,
+                "name": "La Canela"
+            },
+            {
+                "id": 23770,
+                "name": "Licey al Medio"
+            },
+            {
+                "id": 23771,
+                "name": "Palmar Arriba"
+            },
+            {
+                "id": 23772,
+                "name": "Pedro García"
+            },
+            {
+                "id": 23773,
+                "name": "Sabana Iglesia"
+            },
+            {
+                "id": 23774,
+                "name": "San José de Las Matas"
+            },
+            {
+                "id": 23775,
+                "name": "Santiago de los Caballeros"
+            },
+            {
+                "id": 23776,
+                "name": "Santo Tomás de Jánico"
+            },
+            {
+                "id": 23777,
+                "name": "Tamboril"
+            },
+            {
+                "id": 23778,
+                "name": "Villa Bisonó"
+            },
+            {
+                "id": 23779,
+                "name": "Villa González"
+            }
+        ]
+    },
+    {
+        "id": 1117,
+        "name": "Santiago Rodríguez Province",
+        "cities": [
+            {
+                "id": 23780,
+                "name": "Monción"
+            },
+            {
+                "id": 23781,
+                "name": "Sabaneta"
+            },
+            {
+                "id": 23782,
+                "name": "San Ignacio de Sabaneta"
+            }
+        ]
+    },
+    {
+        "id": 1118,
+        "name": "Santo Domingo Province",
+        "cities": [
+            {
+                "id": 23783,
+                "name": "Boca Chica"
+            },
+            {
+                "id": 23784,
+                "name": "Santo Domingo Este"
+            },
+            {
+                "id": 23785,
+                "name": "Santo Domingo Oeste"
+            }
+        ]
+    },
+    {
+        "id": 1119,
+        "name": "Valverde Province",
+        "cities": [
+            {
+                "id": 23786,
+                "name": "Amina"
+            },
+            {
+                "id": 23787,
+                "name": "Esperanza"
+            },
+            {
+                "id": 23788,
+                "name": "Guatapanal"
+            },
+            {
+                "id": 23789,
+                "name": "Jaibón"
+            },
+            {
+                "id": 23790,
+                "name": "Jicomé"
+            },
+            {
+                "id": 23791,
+                "name": "La Caya"
+            },
+            {
+                "id": 23792,
+                "name": "Laguna Salada"
+            },
+            {
+                "id": 23793,
+                "name": "Maizal"
+            },
+            {
+                "id": 23794,
+                "name": "Mao"
+            }
+        ]
+    }
+]

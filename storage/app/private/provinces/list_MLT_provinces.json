@@ -1,0 +1,667 @@
+[
+    {
+        "id": 2519,
+        "name": "Attard",
+        "cities": [
+            {
+                "id": 64905,
+                "name": "Attard"
+            }
+        ]
+    },
+    {
+        "id": 2520,
+        "name": "Balzan",
+        "cities": [
+            {
+                "id": 64906,
+                "name": "Balzan"
+            }
+        ]
+    },
+    {
+        "id": 2521,
+        "name": "Birgu",
+        "cities": [
+            {
+                "id": 64907,
+                "name": "Vittoriosa"
+            }
+        ]
+    },
+    {
+        "id": 2522,
+        "name": "Birkirkara",
+        "cities": [
+            {
+                "id": 64908,
+                "name": "Birkirkara"
+            }
+        ]
+    },
+    {
+        "id": 2523,
+        "name": "Birżebbuġa",
+        "cities": [
+            {
+                "id": 64909,
+                "name": "Birżebbuġa"
+            }
+        ]
+    },
+    {
+        "id": 2524,
+        "name": "Cospicua",
+        "cities": [
+            {
+                "id": 64910,
+                "name": "Cospicua"
+            }
+        ]
+    },
+    {
+        "id": 2525,
+        "name": "Dingli",
+        "cities": [
+            {
+                "id": 64911,
+                "name": "Dingli"
+            }
+        ]
+    },
+    {
+        "id": 2526,
+        "name": "Fgura",
+        "cities": [
+            {
+                "id": 64912,
+                "name": "Fgura"
+            }
+        ]
+    },
+    {
+        "id": 2527,
+        "name": "Floriana",
+        "cities": [
+            {
+                "id": 64913,
+                "name": "Floriana"
+            }
+        ]
+    },
+    {
+        "id": 2528,
+        "name": "Fontana",
+        "cities": [
+            {
+                "id": 64914,
+                "name": "Fontana"
+            }
+        ]
+    },
+    {
+        "id": 2529,
+        "name": "Għajnsielem",
+        "cities": [
+            {
+                "id": 64915,
+                "name": "Għajnsielem"
+            },
+            {
+                "id": 64916,
+                "name": "Hal Gharghur"
+            }
+        ]
+    },
+    {
+        "id": 2530,
+        "name": "Għarb",
+        "cities": []
+    },
+    {
+        "id": 2531,
+        "name": "Għargħur",
+        "cities": [
+            {
+                "id": 64917,
+                "name": "Għaxaq"
+            }
+        ]
+    },
+    {
+        "id": 2532,
+        "name": "Għasri",
+        "cities": [
+            {
+                "id": 64918,
+                "name": "Gudja"
+            }
+        ]
+    },
+    {
+        "id": 2533,
+        "name": "Għaxaq",
+        "cities": [
+            {
+                "id": 64919,
+                "name": "Gżira"
+            }
+        ]
+    },
+    {
+        "id": 2534,
+        "name": "Gudja",
+        "cities": []
+    },
+    {
+        "id": 2535,
+        "name": "Gżira",
+        "cities": [
+            {
+                "id": 64920,
+                "name": "Għarb"
+            }
+        ]
+    },
+    {
+        "id": 2536,
+        "name": "Ħamrun",
+        "cities": [
+            {
+                "id": 64921,
+                "name": "Ħamrun"
+            }
+        ]
+    },
+    {
+        "id": 2537,
+        "name": "Iklin",
+        "cities": [
+            {
+                "id": 64922,
+                "name": "L-Iklin"
+            }
+        ]
+    },
+    {
+        "id": 2538,
+        "name": "Kalkara",
+        "cities": [
+            {
+                "id": 64923,
+                "name": "Imġarr"
+            },
+            {
+                "id": 64924,
+                "name": "Mġarr"
+            }
+        ]
+    },
+    {
+        "id": 2539,
+        "name": "Kerċem",
+        "cities": [
+            {
+                "id": 64925,
+                "name": "Mqabba"
+            }
+        ]
+    },
+    {
+        "id": 2540,
+        "name": "Kirkop",
+        "cities": [
+            {
+                "id": 64926,
+                "name": "Imsida"
+            },
+            {
+                "id": 64927,
+                "name": "Kirkop"
+            }
+        ]
+    },
+    {
+        "id": 2541,
+        "name": "Lija",
+        "cities": [
+            {
+                "id": 64928,
+                "name": "Imtarfa"
+            },
+            {
+                "id": 64929,
+                "name": "Lija"
+            }
+        ]
+    },
+    {
+        "id": 2542,
+        "name": "Luqa",
+        "cities": [
+            {
+                "id": 64930,
+                "name": "Luqa"
+            },
+            {
+                "id": 64931,
+                "name": "Senglea"
+            }
+        ]
+    },
+    {
+        "id": 2543,
+        "name": "Marsa",
+        "cities": [
+            {
+                "id": 64932,
+                "name": "Kalkara"
+            }
+        ]
+    },
+    {
+        "id": 2544,
+        "name": "Marsaskala",
+        "cities": [
+            {
+                "id": 64933,
+                "name": "Kerċem"
+            },
+            {
+                "id": 64934,
+                "name": "Marsaskala"
+            }
+        ]
+    },
+    {
+        "id": 2545,
+        "name": "Marsaxlokk",
+        "cities": [
+            {
+                "id": 64935,
+                "name": "Marsaxlokk"
+            }
+        ]
+    },
+    {
+        "id": 2546,
+        "name": "Mdina",
+        "cities": []
+    },
+    {
+        "id": 2547,
+        "name": "Mellieħa",
+        "cities": []
+    },
+    {
+        "id": 2548,
+        "name": "Mġarr",
+        "cities": [
+            {
+                "id": 64936,
+                "name": "Marsa"
+            }
+        ]
+    },
+    {
+        "id": 2549,
+        "name": "Mosta",
+        "cities": []
+    },
+    {
+        "id": 2550,
+        "name": "Mqabba",
+        "cities": []
+    },
+    {
+        "id": 2551,
+        "name": "Msida",
+        "cities": [
+            {
+                "id": 64937,
+                "name": "Mellieħa"
+            }
+        ]
+    },
+    {
+        "id": 2552,
+        "name": "Mtarfa",
+        "cities": []
+    },
+    {
+        "id": 2553,
+        "name": "Munxar",
+        "cities": [
+            {
+                "id": 64938,
+                "name": "Munxar"
+            }
+        ]
+    },
+    {
+        "id": 2554,
+        "name": "Nadur",
+        "cities": [
+            {
+                "id": 64939,
+                "name": "Nadur"
+            }
+        ]
+    },
+    {
+        "id": 2555,
+        "name": "Naxxar",
+        "cities": [
+            {
+                "id": 64940,
+                "name": "Naxxar"
+            }
+        ]
+    },
+    {
+        "id": 2556,
+        "name": "Paola",
+        "cities": [
+            {
+                "id": 64941,
+                "name": "Paola"
+            }
+        ]
+    },
+    {
+        "id": 2557,
+        "name": "Pembroke",
+        "cities": [
+            {
+                "id": 64942,
+                "name": "Pembroke"
+            }
+        ]
+    },
+    {
+        "id": 2558,
+        "name": "Pietà",
+        "cities": [
+            {
+                "id": 64943,
+                "name": "Pietà"
+            }
+        ]
+    },
+    {
+        "id": 2559,
+        "name": "Qala",
+        "cities": [
+            {
+                "id": 64944,
+                "name": "Qala"
+            }
+        ]
+    },
+    {
+        "id": 2560,
+        "name": "Qormi",
+        "cities": [
+            {
+                "id": 64945,
+                "name": "Qormi"
+            }
+        ]
+    },
+    {
+        "id": 2561,
+        "name": "Qrendi",
+        "cities": [
+            {
+                "id": 64946,
+                "name": "Qrendi"
+            }
+        ]
+    },
+    {
+        "id": 2562,
+        "name": "Rabat",
+        "cities": []
+    },
+    {
+        "id": 2563,
+        "name": "Saint Lawrence",
+        "cities": [
+            {
+                "id": 64947,
+                "name": "San Lawrenz"
+            }
+        ]
+    },
+    {
+        "id": 2564,
+        "name": "San Ġwann",
+        "cities": [
+            {
+                "id": 64948,
+                "name": "San Ġiljan"
+            }
+        ]
+    },
+    {
+        "id": 2565,
+        "name": "Sannat",
+        "cities": [
+            {
+                "id": 64949,
+                "name": "San Pawl il-Baħar"
+            },
+            {
+                "id": 64950,
+                "name": "Sannat"
+            }
+        ]
+    },
+    {
+        "id": 2566,
+        "name": "Santa Luċija",
+        "cities": [
+            {
+                "id": 64951,
+                "name": "Santa Venera"
+            }
+        ]
+    },
+    {
+        "id": 2567,
+        "name": "Santa Venera",
+        "cities": []
+    },
+    {
+        "id": 2568,
+        "name": "Senglea",
+        "cities": [
+            {
+                "id": 64952,
+                "name": "Imdina"
+            }
+        ]
+    },
+    {
+        "id": 2569,
+        "name": "Siġġiewi",
+        "cities": [
+            {
+                "id": 64953,
+                "name": "Siġġiewi"
+            }
+        ]
+    },
+    {
+        "id": 2570,
+        "name": "Sliema",
+        "cities": [
+            {
+                "id": 64954,
+                "name": "Sliema"
+            }
+        ]
+    },
+    {
+        "id": 2571,
+        "name": "St. Julian's",
+        "cities": [
+            {
+                "id": 64955,
+                "name": "Saint John"
+            }
+        ]
+    },
+    {
+        "id": 2572,
+        "name": "St. Paul's Bay",
+        "cities": [
+            {
+                "id": 64956,
+                "name": "Mosta"
+            },
+            {
+                "id": 64957,
+                "name": "Saint Lucia"
+            },
+            {
+                "id": 64958,
+                "name": "Santa Luċija"
+            }
+        ]
+    },
+    {
+        "id": 2573,
+        "name": "Swieqi",
+        "cities": [
+            {
+                "id": 64959,
+                "name": "Swieqi"
+            }
+        ]
+    },
+    {
+        "id": 2574,
+        "name": "Ta' Xbiex",
+        "cities": [
+            {
+                "id": 64960,
+                "name": "Ta’ Xbiex"
+            }
+        ]
+    },
+    {
+        "id": 2575,
+        "name": "Tarxien",
+        "cities": [
+            {
+                "id": 64961,
+                "name": "Tarxien"
+            }
+        ]
+    },
+    {
+        "id": 2576,
+        "name": "Valletta",
+        "cities": [
+            {
+                "id": 64962,
+                "name": "Valletta"
+            }
+        ]
+    },
+    {
+        "id": 2577,
+        "name": "Victoria",
+        "cities": [
+            {
+                "id": 64963,
+                "name": "Rabat"
+            },
+            {
+                "id": 64964,
+                "name": "Victoria"
+            }
+        ]
+    },
+    {
+        "id": 2578,
+        "name": "Xagħra",
+        "cities": [
+            {
+                "id": 64965,
+                "name": "Xagħra"
+            }
+        ]
+    },
+    {
+        "id": 2579,
+        "name": "Xewkija",
+        "cities": [
+            {
+                "id": 64966,
+                "name": "Xewkija"
+            }
+        ]
+    },
+    {
+        "id": 2580,
+        "name": "Xgħajra",
+        "cities": [
+            {
+                "id": 64967,
+                "name": "Xgħajra"
+            }
+        ]
+    },
+    {
+        "id": 2581,
+        "name": "Żabbar",
+        "cities": [
+            {
+                "id": 64968,
+                "name": "Żabbar"
+            }
+        ]
+    },
+    {
+        "id": 2582,
+        "name": "Żebbuġ Gozo",
+        "cities": [
+            {
+                "id": 64969,
+                "name": "Haz-Zebbug"
+            }
+        ]
+    },
+    {
+        "id": 2583,
+        "name": "Żebbuġ Malta",
+        "cities": [
+            {
+                "id": 64970,
+                "name": "Żebbuġ"
+            }
+        ]
+    },
+    {
+        "id": 2584,
+        "name": "Żejtun",
+        "cities": [
+            {
+                "id": 64971,
+                "name": "Żejtun"
+            }
+        ]
+    },
+    {
+        "id": 2585,
+        "name": "Żurrieq",
+        "cities": [
+            {
+                "id": 64972,
+                "name": "Żurrieq"
+            }
+        ]
+    }
+]

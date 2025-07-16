@@ -1,0 +1,296 @@
+[
+    {
+        "id": 135,
+        "name": "Bengo Province",
+        "cities": [
+            {
+                "id": 486,
+                "name": "Caxito"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Benguela Province",
+        "cities": [
+            {
+                "id": 487,
+                "name": "Benguela"
+            },
+            {
+                "id": 488,
+                "name": "Catumbela"
+            },
+            {
+                "id": 489,
+                "name": "Lobito"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "name": "Bié Province",
+        "cities": [
+            {
+                "id": 490,
+                "name": "Camacupa"
+            },
+            {
+                "id": 491,
+                "name": "Catabola"
+            },
+            {
+                "id": 492,
+                "name": "Chissamba"
+            },
+            {
+                "id": 493,
+                "name": "Cuito"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Cabinda Province",
+        "cities": [
+            {
+                "id": 494,
+                "name": "Cabinda"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "name": "Cuando Cubango Province",
+        "cities": [
+            {
+                "id": 495,
+                "name": "Menongue"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "Cuanza Norte Province",
+        "cities": [
+            {
+                "id": 496,
+                "name": "Camabatela"
+            },
+            {
+                "id": 497,
+                "name": "N’dalatando"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "name": "Cuanza Sul",
+        "cities": [
+            {
+                "id": 498,
+                "name": "Quibala"
+            },
+            {
+                "id": 499,
+                "name": "Sumbe"
+            },
+            {
+                "id": 500,
+                "name": "Uacu Cungo"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "name": "Cunene Province",
+        "cities": [
+            {
+                "id": 501,
+                "name": "Ondjiva"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "name": "Huambo Province",
+        "cities": [
+            {
+                "id": 502,
+                "name": "Caála"
+            },
+            {
+                "id": 503,
+                "name": "Chela"
+            },
+            {
+                "id": 504,
+                "name": "Huambo"
+            },
+            {
+                "id": 505,
+                "name": "Longonjo"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "name": "Huíla Province",
+        "cities": [
+            {
+                "id": 506,
+                "name": "Caconda"
+            },
+            {
+                "id": 507,
+                "name": "Caluquembe"
+            },
+            {
+                "id": 508,
+                "name": "Chibia"
+            },
+            {
+                "id": 509,
+                "name": "Chicomba"
+            },
+            {
+                "id": 510,
+                "name": "Chipindo"
+            },
+            {
+                "id": 511,
+                "name": "Cuvango"
+            },
+            {
+                "id": 512,
+                "name": "Gambos"
+            },
+            {
+                "id": 513,
+                "name": "Humpata"
+            },
+            {
+                "id": 514,
+                "name": "Jamba"
+            },
+            {
+                "id": 515,
+                "name": "Lubango"
+            },
+            {
+                "id": 516,
+                "name": "Matala"
+            },
+            {
+                "id": 517,
+                "name": "Quilengues"
+            },
+            {
+                "id": 518,
+                "name": "Quipungo"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "Luanda Province",
+        "cities": [
+            {
+                "id": 519,
+                "name": "Belas"
+            },
+            {
+                "id": 520,
+                "name": "Icolo e Bengo"
+            },
+            {
+                "id": 521,
+                "name": "Luanda"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "Lunda Norte Province",
+        "cities": [
+            {
+                "id": 522,
+                "name": "Lucapa"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "Lunda Sul Province",
+        "cities": [
+            {
+                "id": 523,
+                "name": "Cazaji"
+            },
+            {
+                "id": 524,
+                "name": "Saurimo"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "name": "Malanje Province",
+        "cities": [
+            {
+                "id": 525,
+                "name": "Malanje"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "name": "Moxico Province",
+        "cities": [
+            {
+                "id": 526,
+                "name": "Léua"
+            },
+            {
+                "id": 527,
+                "name": "Luau"
+            },
+            {
+                "id": 528,
+                "name": "Luena"
+            },
+            {
+                "id": 529,
+                "name": "Lumeje"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "name": "Uíge Province",
+        "cities": [
+            {
+                "id": 530,
+                "name": "Uíge"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "name": "Zaire Province",
+        "cities": [
+            {
+                "id": 531,
+                "name": "Mbanza Congo"
+            },
+            {
+                "id": 532,
+                "name": "N'zeto"
+            },
+            {
+                "id": 533,
+                "name": "Soio"
+            }
+        ]
+    }
+]

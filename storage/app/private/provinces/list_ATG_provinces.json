@@ -1,0 +1,84 @@
+[
+    {
+        "id": 152,
+        "name": "Barbuda",
+        "cities": [
+            {
+                "id": 534,
+                "name": "Codrington"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "name": "Redonda",
+        "cities": []
+    },
+    {
+        "id": 154,
+        "name": "Saint George Parish",
+        "cities": [
+            {
+                "id": 535,
+                "name": "Piggotts"
+            }
+        ]
+    },
+    {
+        "id": 155,
+        "name": "Saint John Parish",
+        "cities": [
+            {
+                "id": 536,
+                "name": "Potters Village"
+            },
+            {
+                "id": 537,
+                "name": "Saint John’s"
+            }
+        ]
+    },
+    {
+        "id": 156,
+        "name": "Saint Mary Parish",
+        "cities": [
+            {
+                "id": 538,
+                "name": "Bolands"
+            }
+        ]
+    },
+    {
+        "id": 157,
+        "name": "Saint Paul Parish",
+        "cities": [
+            {
+                "id": 539,
+                "name": "Falmouth"
+            },
+            {
+                "id": 540,
+                "name": "Liberta"
+            }
+        ]
+    },
+    {
+        "id": 158,
+        "name": "Saint Peter Parish",
+        "cities": [
+            {
+                "id": 541,
+                "name": "All Saints"
+            },
+            {
+                "id": 542,
+                "name": "Parham"
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "name": "Saint Philip Parish",
+        "cities": []
+    }
+]

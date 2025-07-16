@@ -1,0 +1,172 @@
+[
+    {
+        "id": 2007,
+        "name": "Gilbert Islands",
+        "cities": [
+            {
+                "id": 63274,
+                "name": "Abaiang"
+            },
+            {
+                "id": 63275,
+                "name": "Abemama"
+            },
+            {
+                "id": 63276,
+                "name": "Ambo Village"
+            },
+            {
+                "id": 63277,
+                "name": "Aranuka"
+            },
+            {
+                "id": 63278,
+                "name": "Arorae"
+            },
+            {
+                "id": 63279,
+                "name": "Bairiki Village"
+            },
+            {
+                "id": 63280,
+                "name": "Banaba"
+            },
+            {
+                "id": 63281,
+                "name": "Banraeaba Village"
+            },
+            {
+                "id": 63282,
+                "name": "Beru"
+            },
+            {
+                "id": 63283,
+                "name": "Betio Village"
+            },
+            {
+                "id": 63284,
+                "name": "Bikenibeu Village"
+            },
+            {
+                "id": 63285,
+                "name": "Bonriki Village"
+            },
+            {
+                "id": 63286,
+                "name": "Buota Village"
+            },
+            {
+                "id": 63287,
+                "name": "Butaritari"
+            },
+            {
+                "id": 63288,
+                "name": "Eita Village"
+            },
+            {
+                "id": 63289,
+                "name": "Kuria"
+            },
+            {
+                "id": 63290,
+                "name": "Maiana"
+            },
+            {
+                "id": 63291,
+                "name": "Makin"
+            },
+            {
+                "id": 63292,
+                "name": "Makin Village"
+            },
+            {
+                "id": 63293,
+                "name": "Marakei"
+            },
+            {
+                "id": 63294,
+                "name": "Nawerewere Village"
+            },
+            {
+                "id": 63295,
+                "name": "Nikunau"
+            },
+            {
+                "id": 63296,
+                "name": "Nonouti"
+            },
+            {
+                "id": 63297,
+                "name": "Onotoa"
+            },
+            {
+                "id": 63298,
+                "name": "Rawannawi Village"
+            },
+            {
+                "id": 63299,
+                "name": "Tabiteuea"
+            },
+            {
+                "id": 63300,
+                "name": "Tamana"
+            },
+            {
+                "id": 63301,
+                "name": "Tarawa"
+            },
+            {
+                "id": 63302,
+                "name": "Teaoraereke Village"
+            },
+            {
+                "id": 63303,
+                "name": "Temaiku Village"
+            }
+        ]
+    },
+    {
+        "id": 2008,
+        "name": "Line Islands",
+        "cities": [
+            {
+                "id": 63304,
+                "name": "Banana Village"
+            },
+            {
+                "id": 63305,
+                "name": "Kiritimati"
+            },
+            {
+                "id": 63306,
+                "name": "London Village"
+            },
+            {
+                "id": 63307,
+                "name": "Napari Village"
+            },
+            {
+                "id": 63308,
+                "name": "Tabuaeran"
+            },
+            {
+                "id": 63309,
+                "name": "Tabwakea Village"
+            },
+            {
+                "id": 63310,
+                "name": "Teraina"
+            }
+        ]
+    },
+    {
+        "id": 2009,
+        "name": "Phoenix Islands",
+        "cities": [
+            {
+                "id": 63311,
+                "name": "Kanton"
+            }
+        ]
+    }
+]

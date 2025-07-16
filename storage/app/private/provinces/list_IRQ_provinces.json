@@ -1,0 +1,438 @@
+[
+    {
+        "id": 1683,
+        "name": "Al Anbar Governorate",
+        "cities": [
+            {
+                "id": 49869,
+                "name": "‘Anah"
+            },
+            {
+                "id": 49870,
+                "name": "‘Anat al Qadīmah"
+            },
+            {
+                "id": 49871,
+                "name": "Al Fallūjah"
+            },
+            {
+                "id": 49872,
+                "name": "Ar Ruţbah"
+            },
+            {
+                "id": 49873,
+                "name": "Ḩadīthah"
+            },
+            {
+                "id": 49874,
+                "name": "Hīt"
+            },
+            {
+                "id": 49875,
+                "name": "Hīt District"
+            },
+            {
+                "id": 49876,
+                "name": "Ramadi"
+            },
+            {
+                "id": 49877,
+                "name": "Rāwah"
+            }
+        ]
+    },
+    {
+        "id": 1684,
+        "name": "Al Muthanna Governorate",
+        "cities": [
+            {
+                "id": 49878,
+                "name": "Ar Rumaythah"
+            },
+            {
+                "id": 49879,
+                "name": "As Samawah"
+            }
+        ]
+    },
+    {
+        "id": 1685,
+        "name": "Al-Qādisiyyah Governorate",
+        "cities": [
+            {
+                "id": 49880,
+                "name": "‘Afak"
+            },
+            {
+                "id": 49881,
+                "name": "Ad Dīwānīyah"
+            },
+            {
+                "id": 49882,
+                "name": "Ash Shāmīyah"
+            },
+            {
+                "id": 49883,
+                "name": "Nāḩiyat ash Shināfīyah"
+            },
+            {
+                "id": 49884,
+                "name": "Nahiyat Ghammas"
+            }
+        ]
+    },
+    {
+        "id": 1686,
+        "name": "Babylon Governorate",
+        "cities": [
+            {
+                "id": 49885,
+                "name": "Al Ḩillah"
+            },
+            {
+                "id": 49886,
+                "name": "Al Musayyib"
+            },
+            {
+                "id": 49887,
+                "name": "Imam Qasim"
+            },
+            {
+                "id": 49888,
+                "name": "Nāḩīyat Saddat al Hindīyah"
+            }
+        ]
+    },
+    {
+        "id": 1687,
+        "name": "Baghdad Governorate",
+        "cities": [
+            {
+                "id": 49889,
+                "name": "Abu Ghraib District"
+            },
+            {
+                "id": 49890,
+                "name": "Abū Ghurayb"
+            },
+            {
+                "id": 49891,
+                "name": "Baghdad"
+            }
+        ]
+    },
+    {
+        "id": 1688,
+        "name": "Basra Governorate",
+        "cities": [
+            {
+                "id": 49892,
+                "name": "Al Başrah al Qadīmah"
+            },
+            {
+                "id": 49893,
+                "name": "Al Fāw"
+            },
+            {
+                "id": 49894,
+                "name": "Al Hārithah"
+            },
+            {
+                "id": 49895,
+                "name": "Az Zubayr"
+            },
+            {
+                "id": 49896,
+                "name": "Basrah"
+            },
+            {
+                "id": 49897,
+                "name": "Umm Qaşr"
+            }
+        ]
+    },
+    {
+        "id": 1689,
+        "name": "Dhi Qar Governorate",
+        "cities": [
+            {
+                "id": 49898,
+                "name": "Ash Shaţrah"
+            },
+            {
+                "id": 49899,
+                "name": "Nāḩiyat al Fuhūd"
+            },
+            {
+                "id": 49900,
+                "name": "Nasiriyah"
+            }
+        ]
+    },
+    {
+        "id": 1690,
+        "name": "Diyala Governorate",
+        "cities": [
+            {
+                "id": 49901,
+                "name": "Al Miqdādīyah"
+            },
+            {
+                "id": 49902,
+                "name": "Baladrūz"
+            },
+            {
+                "id": 49903,
+                "name": "Baqubah"
+            },
+            {
+                "id": 49904,
+                "name": "Khāliş"
+            },
+            {
+                "id": 49905,
+                "name": "Kifrī"
+            },
+            {
+                "id": 49906,
+                "name": "Mandalī"
+            },
+            {
+                "id": 49907,
+                "name": "Qaḑā’ Kifrī"
+            }
+        ]
+    },
+    {
+        "id": 1691,
+        "name": "Dohuk Governorate",
+        "cities": [
+            {
+                "id": 49908,
+                "name": "Al ‘Amādīyah"
+            },
+            {
+                "id": 49909,
+                "name": "Batifa"
+            },
+            {
+                "id": 49910,
+                "name": "Dihok"
+            },
+            {
+                "id": 49911,
+                "name": "Sīnah"
+            },
+            {
+                "id": 49912,
+                "name": "Zaxo"
+            }
+        ]
+    },
+    {
+        "id": 1692,
+        "name": "Erbil Governorate",
+        "cities": [
+            {
+                "id": 49913,
+                "name": "Arbil"
+            },
+            {
+                "id": 49914,
+                "name": "Erbil"
+            },
+            {
+                "id": 49915,
+                "name": "Koysinceq"
+            },
+            {
+                "id": 49916,
+                "name": "Ruwāndiz"
+            },
+            {
+                "id": 49917,
+                "name": "Shaqlāwah"
+            },
+            {
+                "id": 49918,
+                "name": "Soran"
+            }
+        ]
+    },
+    {
+        "id": 1693,
+        "name": "Karbala Governorate",
+        "cities": [
+            {
+                "id": 49919,
+                "name": "Al Hindīyah"
+            },
+            {
+                "id": 49920,
+                "name": "Karbala"
+            }
+        ]
+    },
+    {
+        "id": 1694,
+        "name": "Kirkuk Governorate",
+        "cities": [
+            {
+                "id": 49921,
+                "name": "Kirkuk"
+            }
+        ]
+    },
+    {
+        "id": 1695,
+        "name": "Maysan Governorate",
+        "cities": [
+            {
+                "id": 49922,
+                "name": "‘Alī al Gharbī"
+            },
+            {
+                "id": 49923,
+                "name": "Al ‘Amārah"
+            },
+            {
+                "id": 49924,
+                "name": "Al-Mejar Al-Kabi District"
+            }
+        ]
+    },
+    {
+        "id": 1696,
+        "name": "Najaf Governorate",
+        "cities": [
+            {
+                "id": 49925,
+                "name": "Al Mishkhāb"
+            },
+            {
+                "id": 49926,
+                "name": "Kufa"
+            },
+            {
+                "id": 49927,
+                "name": "Najaf"
+            }
+        ]
+    },
+    {
+        "id": 1697,
+        "name": "Nineveh Governorate",
+        "cities": [
+            {
+                "id": 49928,
+                "name": "‘Aqrah"
+            },
+            {
+                "id": 49929,
+                "name": "Al Mawşil al Jadīdah"
+            },
+            {
+                "id": 49930,
+                "name": "Al-Hamdaniya"
+            },
+            {
+                "id": 49931,
+                "name": "Ash Shaykhān"
+            },
+            {
+                "id": 49932,
+                "name": "Mosul"
+            },
+            {
+                "id": 49933,
+                "name": "Sinjar"
+            },
+            {
+                "id": 49934,
+                "name": "Sinjār"
+            },
+            {
+                "id": 49935,
+                "name": "Tall ‘Afar"
+            },
+            {
+                "id": 49936,
+                "name": "Tallkayf"
+            }
+        ]
+    },
+    {
+        "id": 1698,
+        "name": "Saladin Governorate",
+        "cities": [
+            {
+                "id": 49937,
+                "name": "Ad Dujayl"
+            },
+            {
+                "id": 49938,
+                "name": "Balad"
+            },
+            {
+                "id": 49939,
+                "name": "Bayjī"
+            },
+            {
+                "id": 49940,
+                "name": "Sāmarrā’"
+            },
+            {
+                "id": 49941,
+                "name": "Tikrīt"
+            },
+            {
+                "id": 49942,
+                "name": "Tozkhurmato"
+            }
+        ]
+    },
+    {
+        "id": 1699,
+        "name": "Sulaymaniyah Governorate",
+        "cities": [
+            {
+                "id": 49943,
+                "name": "As Sulaymānīyah"
+            },
+            {
+                "id": 49944,
+                "name": "Baynjiwayn"
+            },
+            {
+                "id": 49945,
+                "name": "Ḩalabjah"
+            },
+            {
+                "id": 49946,
+                "name": "Jamjamāl"
+            }
+        ]
+    },
+    {
+        "id": 1700,
+        "name": "Wasit Governorate",
+        "cities": [
+            {
+                "id": 49947,
+                "name": "Al ‘Azīzīyah"
+            },
+            {
+                "id": 49948,
+                "name": "Al Ḩayy"
+            },
+            {
+                "id": 49949,
+                "name": "Al Kūt"
+            },
+            {
+                "id": 49950,
+                "name": "Aş Şuwayrah"
+            }
+        ]
+    }
+]

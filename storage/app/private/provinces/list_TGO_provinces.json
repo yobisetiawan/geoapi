@@ -1,0 +1,120 @@
+[
+    {
+        "id": 4094,
+        "name": "Centrale Region",
+        "cities": [
+            {
+                "id": 114527,
+                "name": "Sokodé"
+            },
+            {
+                "id": 114528,
+                "name": "Sotouboua"
+            },
+            {
+                "id": 114529,
+                "name": "Tchamba"
+            }
+        ]
+    },
+    {
+        "id": 4095,
+        "name": "Kara Region",
+        "cities": [
+            {
+                "id": 114530,
+                "name": "Bafilo"
+            },
+            {
+                "id": 114531,
+                "name": "Bassar"
+            },
+            {
+                "id": 114532,
+                "name": "Kandé"
+            },
+            {
+                "id": 114533,
+                "name": "Kara"
+            },
+            {
+                "id": 114534,
+                "name": "Niamtougou"
+            },
+            {
+                "id": 114535,
+                "name": "Pagouda"
+            },
+            {
+                "id": 114536,
+                "name": "Préfecture de Bassar"
+            }
+        ]
+    },
+    {
+        "id": 4096,
+        "name": "Maritime",
+        "cities": [
+            {
+                "id": 114537,
+                "name": "Aného"
+            },
+            {
+                "id": 114538,
+                "name": "Lomé"
+            },
+            {
+                "id": 114539,
+                "name": "Tabligbo"
+            },
+            {
+                "id": 114540,
+                "name": "Tsévié"
+            },
+            {
+                "id": 114541,
+                "name": "Vogan"
+            }
+        ]
+    },
+    {
+        "id": 4097,
+        "name": "Plateaux Region",
+        "cities": [
+            {
+                "id": 114542,
+                "name": "Amlamé"
+            },
+            {
+                "id": 114543,
+                "name": "Atakpamé"
+            },
+            {
+                "id": 114544,
+                "name": "Badou"
+            },
+            {
+                "id": 114545,
+                "name": "Kpalimé"
+            },
+            {
+                "id": 114546,
+                "name": "Notsé"
+            }
+        ]
+    },
+    {
+        "id": 4098,
+        "name": "Savanes Region",
+        "cities": [
+            {
+                "id": 114547,
+                "name": "Dapaong"
+            },
+            {
+                "id": 114548,
+                "name": "Sansanné-Mango"
+            }
+        ]
+    }
+]

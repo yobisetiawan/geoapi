@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1120,
+        "name": "Aileu municipality",
+        "cities": [
+            {
+                "id": 23795,
+                "name": "Aileu"
+            },
+            {
+                "id": 23796,
+                "name": "Lequidoe"
+            },
+            {
+                "id": 23797,
+                "name": "Remexio"
+            }
+        ]
+    },
+    {
+        "id": 1121,
+        "name": "Ainaro Municipality",
+        "cities": [
+            {
+                "id": 23798,
+                "name": "Ainaro"
+            },
+            {
+                "id": 23799,
+                "name": "Hato-Udo"
+            }
+        ]
+    },
+    {
+        "id": 1122,
+        "name": "Baucau Municipality",
+        "cities": [
+            {
+                "id": 23800,
+                "name": "Baguia"
+            },
+            {
+                "id": 23801,
+                "name": "Baucau"
+            },
+            {
+                "id": 23802,
+                "name": "Baukau"
+            },
+            {
+                "id": 23803,
+                "name": "Laga"
+            },
+            {
+                "id": 23804,
+                "name": "Quelicai"
+            },
+            {
+                "id": 23805,
+                "name": "Vemasse"
+            },
+            {
+                "id": 23806,
+                "name": "Venilale"
+            }
+        ]
+    },
+    {
+        "id": 1123,
+        "name": "Bobonaro Municipality",
+        "cities": [
+            {
+                "id": 23807,
+                "name": "Maliana"
+            }
+        ]
+    },
+    {
+        "id": 1124,
+        "name": "Cova Lima Municipality",
+        "cities": [
+            {
+                "id": 23808,
+                "name": "Fatumean"
+            },
+            {
+                "id": 23809,
+                "name": "Fohorem"
+            },
+            {
+                "id": 23810,
+                "name": "Maucatar"
+            },
+            {
+                "id": 23811,
+                "name": "Suai"
+            },
+            {
+                "id": 23812,
+                "name": "Tilomar"
+            }
+        ]
+    },
+    {
+        "id": 1125,
+        "name": "Dili municipality",
+        "cities": [
+            {
+                "id": 23813,
+                "name": "Atauro Island"
+            },
+            {
+                "id": 23814,
+                "name": "Cristo Rei"
+            },
+            {
+                "id": 23815,
+                "name": "Dili"
+            },
+            {
+                "id": 23816,
+                "name": "Metinaro"
+            }
+        ]
+    },
+    {
+        "id": 1126,
+        "name": "Ermera District",
+        "cities": [
+            {
+                "id": 23817,
+                "name": "Ermera Villa"
+            },
+            {
+                "id": 23818,
+                "name": "Gleno"
+            },
+            {
+                "id": 23819,
+                "name": "Hatulia"
+            },
+            {
+                "id": 23820,
+                "name": "Letefoho"
+            },
+            {
+                "id": 23821,
+                "name": "Railaco"
+            }
+        ]
+    },
+    {
+        "id": 1127,
+        "name": "Lautém Municipality",
+        "cities": [
+            {
+                "id": 23822,
+                "name": "Iliomar"
+            },
+            {
+                "id": 23823,
+                "name": "Lautem"
+            },
+            {
+                "id": 23824,
+                "name": "Lospalos"
+            },
+            {
+                "id": 23825,
+                "name": "Luro"
+            },
+            {
+                "id": 23826,
+                "name": "Tutuala"
+            }
+        ]
+    },
+    {
+        "id": 1128,
+        "name": "Liquiçá Municipality",
+        "cities": [
+            {
+                "id": 23827,
+                "name": "Bazartete"
+            },
+            {
+                "id": 23828,
+                "name": "Likisá"
+            },
+            {
+                "id": 23829,
+                "name": "Maubara"
+            }
+        ]
+    },
+    {
+        "id": 1129,
+        "name": "Manatuto District",
+        "cities": [
+            {
+                "id": 23830,
+                "name": "Barique"
+            },
+            {
+                "id": 23831,
+                "name": "Laclo"
+            },
+            {
+                "id": 23832,
+                "name": "Laclubar"
+            },
+            {
+                "id": 23833,
+                "name": "Manatuto"
+            },
+            {
+                "id": 23834,
+                "name": "Manatutu"
+            },
+            {
+                "id": 23835,
+                "name": "Soibada"
+            }
+        ]
+    },
+    {
+        "id": 1130,
+        "name": "Manufahi Municipality",
+        "cities": [
+            {
+                "id": 23836,
+                "name": "Alas"
+            },
+            {
+                "id": 23837,
+                "name": "Fatuberliu"
+            },
+            {
+                "id": 23838,
+                "name": "Same"
+            },
+            {
+                "id": 23839,
+                "name": "Turiscai"
+            }
+        ]
+    },
+    {
+        "id": 1131,
+        "name": "Viqueque Municipality",
+        "cities": [
+            {
+                "id": 23840,
+                "name": "Lacluta"
+            },
+            {
+                "id": 23841,
+                "name": "Ossu"
+            },
+            {
+                "id": 23842,
+                "name": "Uatocarabau"
+            },
+            {
+                "id": 23843,
+                "name": "Uatolari"
+            },
+            {
+                "id": 23844,
+                "name": "Viqueque"
+            }
+        ]
+    }
+]

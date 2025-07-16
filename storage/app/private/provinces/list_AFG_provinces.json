@@ -1,0 +1,568 @@
+[
+    {
+        "id": 1,
+        "name": "Badakhshan",
+        "cities": [
+            {
+                "id": 1,
+                "name": "Ashkāsham"
+            },
+            {
+                "id": 2,
+                "name": "Fayzabad"
+            },
+            {
+                "id": 3,
+                "name": "Jurm"
+            },
+            {
+                "id": 4,
+                "name": "Khandūd"
+            },
+            {
+                "id": 5,
+                "name": "Rāghistān"
+            },
+            {
+                "id": 6,
+                "name": "Wākhān"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Badghis",
+        "cities": [
+            {
+                "id": 7,
+                "name": "Ghormach"
+            },
+            {
+                "id": 8,
+                "name": "Qala i Naw"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Baghlan",
+        "cities": [
+            {
+                "id": 9,
+                "name": "Baghlān"
+            },
+            {
+                "id": 10,
+                "name": "Ḩukūmatī Dahanah-ye Ghōrī"
+            },
+            {
+                "id": 11,
+                "name": "Nahrīn"
+            },
+            {
+                "id": 12,
+                "name": "Pul-e Khumrī"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Balkh",
+        "cities": [
+            {
+                "id": 13,
+                "name": "Balkh"
+            },
+            {
+                "id": 14,
+                "name": "Dowlatābād"
+            },
+            {
+                "id": 15,
+                "name": "Khulm"
+            },
+            {
+                "id": 16,
+                "name": "Lab-Sar"
+            },
+            {
+                "id": 17,
+                "name": "Mazār-e Sharīf"
+            },
+            {
+                "id": 18,
+                "name": "Qarchī Gak"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Bamyan",
+        "cities": [
+            {
+                "id": 19,
+                "name": "Bāmyān"
+            },
+            {
+                "id": 20,
+                "name": "Panjāb"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Daykundi",
+        "cities": [
+            {
+                "id": 21,
+                "name": "Nīlī"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Farah",
+        "cities": [
+            {
+                "id": 22,
+                "name": "Farah"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Faryab",
+        "cities": [
+            {
+                "id": 23,
+                "name": "Andkhoy"
+            },
+            {
+                "id": 24,
+                "name": "Maymana"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Ghazni",
+        "cities": [
+            {
+                "id": 25,
+                "name": "Ghazni"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Ghōr",
+        "cities": [
+            {
+                "id": 26,
+                "name": "Fayrōz Kōh"
+            },
+            {
+                "id": 27,
+                "name": "Shahrak"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Helmand",
+        "cities": [
+            {
+                "id": 28,
+                "name": "‘Alāqahdārī Dīshū"
+            },
+            {
+                "id": 29,
+                "name": "Gereshk"
+            },
+            {
+                "id": 30,
+                "name": "Lashkar Gāh"
+            },
+            {
+                "id": 31,
+                "name": "Markaz-e Ḩukūmat-e Darwēshān"
+            },
+            {
+                "id": 32,
+                "name": "Sangīn"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Herat",
+        "cities": [
+            {
+                "id": 33,
+                "name": "Chahār Burj"
+            },
+            {
+                "id": 34,
+                "name": "Ghōriyān"
+            },
+            {
+                "id": 35,
+                "name": "Herāt"
+            },
+            {
+                "id": 36,
+                "name": "Kafir Qala"
+            },
+            {
+                "id": 37,
+                "name": "Karukh"
+            },
+            {
+                "id": 38,
+                "name": "Kuhsān"
+            },
+            {
+                "id": 39,
+                "name": "Kushk"
+            },
+            {
+                "id": 40,
+                "name": "Qarah Bāgh"
+            },
+            {
+                "id": 41,
+                "name": "Shīnḏanḏ"
+            },
+            {
+                "id": 42,
+                "name": "Tīr Pul"
+            },
+            {
+                "id": 43,
+                "name": "Zindah Jān"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Jowzjan",
+        "cities": [
+            {
+                "id": 44,
+                "name": "Āqchah"
+            },
+            {
+                "id": 45,
+                "name": "Darzāb"
+            },
+            {
+                "id": 46,
+                "name": "Qarqīn"
+            },
+            {
+                "id": 47,
+                "name": "Shibirghān"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Kabul",
+        "cities": [
+            {
+                "id": 48,
+                "name": "Kabul"
+            },
+            {
+                "id": 49,
+                "name": "Mīr Bachah Kōṯ"
+            },
+            {
+                "id": 50,
+                "name": "Paghmān"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Kandahar",
+        "cities": [
+            {
+                "id": 51,
+                "name": "Kandahār"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Kapisa",
+        "cities": [
+            {
+                "id": 52,
+                "name": "Sidqābād"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Khost",
+        "cities": [
+            {
+                "id": 53,
+                "name": "Khōst"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Kunar",
+        "cities": [
+            {
+                "id": 54,
+                "name": "Asadabad"
+            },
+            {
+                "id": 55,
+                "name": "Āsmār"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Kunduz Province",
+        "cities": [
+            {
+                "id": 56,
+                "name": "Dasht-e Archī"
+            },
+            {
+                "id": 57,
+                "name": "Imām Şāḩib"
+            },
+            {
+                "id": 58,
+                "name": "Khanabad"
+            },
+            {
+                "id": 59,
+                "name": "Kunduz"
+            },
+            {
+                "id": 60,
+                "name": "Qarāwul"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Laghman",
+        "cities": [
+            {
+                "id": 61,
+                "name": "Mehtar Lām"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Logar",
+        "cities": [
+            {
+                "id": 62,
+                "name": "Baraki Barak"
+            },
+            {
+                "id": 63,
+                "name": "Ḩukūmatī Azrah"
+            },
+            {
+                "id": 64,
+                "name": "Pul-e ‘Alam"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Nangarhar",
+        "cities": [
+            {
+                "id": 65,
+                "name": "Bāsawul"
+            },
+            {
+                "id": 66,
+                "name": "Jalālābād"
+            },
+            {
+                "id": 67,
+                "name": "Markaz-e Woluswalī-ye Āchīn"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Nimruz",
+        "cities": [
+            {
+                "id": 68,
+                "name": "Khāsh"
+            },
+            {
+                "id": 69,
+                "name": "Mīrābād"
+            },
+            {
+                "id": 70,
+                "name": "Rūdbār"
+            },
+            {
+                "id": 71,
+                "name": "Zaranj"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Nuristan",
+        "cities": [
+            {
+                "id": 72,
+                "name": "Pārūn"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Paktia",
+        "cities": [
+            {
+                "id": 73,
+                "name": "Gardez"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Paktika",
+        "cities": [
+            {
+                "id": 74,
+                "name": "Saṟōbī"
+            },
+            {
+                "id": 75,
+                "name": "Zaṟah Sharan"
+            },
+            {
+                "id": 76,
+                "name": "Zarghūn Shahr"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Panjshir",
+        "cities": [
+            {
+                "id": 77,
+                "name": "Bāzārak"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Parwan",
+        "cities": [
+            {
+                "id": 78,
+                "name": "Charikar"
+            },
+            {
+                "id": 79,
+                "name": "Jabal os Saraj"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Samangan",
+        "cities": [
+            {
+                "id": 80,
+                "name": "Aībak"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Sar-e Pol",
+        "cities": [
+            {
+                "id": 81,
+                "name": "Chīras"
+            },
+            {
+                "id": 82,
+                "name": "Larkird"
+            },
+            {
+                "id": 83,
+                "name": "Qal‘ah-ye Shahr"
+            },
+            {
+                "id": 84,
+                "name": "Sang-e Chārak"
+            },
+            {
+                "id": 85,
+                "name": "Sar-e Pul"
+            },
+            {
+                "id": 86,
+                "name": "Tagāw-Bāy"
+            },
+            {
+                "id": 87,
+                "name": "Tukzār"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "Takhar",
+        "cities": [
+            {
+                "id": 88,
+                "name": "Ārt Khwājah"
+            },
+            {
+                "id": 89,
+                "name": "Taloqan"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Urozgan",
+        "cities": [
+            {
+                "id": 90,
+                "name": "Tarinkot"
+            },
+            {
+                "id": 91,
+                "name": "Uruzgān"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "Zabul",
+        "cities": [
+            {
+                "id": 92,
+                "name": "Qalāt"
+            }
+        ]
+    }
+]

@@ -1,0 +1,305 @@
+[
+    {
+        "id": 287,
+        "name": "Acklins",
+        "cities": []
+    },
+    {
+        "id": 288,
+        "name": "Acklins and Crooked Islands",
+        "cities": []
+    },
+    {
+        "id": 289,
+        "name": "Berry Islands",
+        "cities": []
+    },
+    {
+        "id": 290,
+        "name": "Bimini",
+        "cities": [
+            {
+                "id": 8517,
+                "name": "Alice Town"
+            }
+        ]
+    },
+    {
+        "id": 291,
+        "name": "Black Point",
+        "cities": []
+    },
+    {
+        "id": 292,
+        "name": "Cat Island",
+        "cities": [
+            {
+                "id": 8518,
+                "name": "Arthur’s Town"
+            }
+        ]
+    },
+    {
+        "id": 293,
+        "name": "Central Abaco",
+        "cities": [
+            {
+                "id": 8519,
+                "name": "Marsh Harbour"
+            }
+        ]
+    },
+    {
+        "id": 294,
+        "name": "Central Andros",
+        "cities": []
+    },
+    {
+        "id": 295,
+        "name": "Central Eleuthera",
+        "cities": []
+    },
+    {
+        "id": 296,
+        "name": "Crooked Island",
+        "cities": [
+            {
+                "id": 8520,
+                "name": "Colonel Hill"
+            }
+        ]
+    },
+    {
+        "id": 297,
+        "name": "East Grand Bahama",
+        "cities": [
+            {
+                "id": 8521,
+                "name": "High Rock"
+            }
+        ]
+    },
+    {
+        "id": 298,
+        "name": "Exuma",
+        "cities": [
+            {
+                "id": 8522,
+                "name": "George Town"
+            }
+        ]
+    },
+    {
+        "id": 299,
+        "name": "Freeport",
+        "cities": [
+            {
+                "id": 8523,
+                "name": "Freeport"
+            },
+            {
+                "id": 8524,
+                "name": "Lucaya"
+            }
+        ]
+    },
+    {
+        "id": 300,
+        "name": "Fresh Creek",
+        "cities": []
+    },
+    {
+        "id": 301,
+        "name": "Governor's Harbour",
+        "cities": []
+    },
+    {
+        "id": 302,
+        "name": "Grand Cay",
+        "cities": []
+    },
+    {
+        "id": 303,
+        "name": "Green Turtle Cay",
+        "cities": []
+    },
+    {
+        "id": 304,
+        "name": "Harbour Island",
+        "cities": [
+            {
+                "id": 8525,
+                "name": "Dunmore Town"
+            }
+        ]
+    },
+    {
+        "id": 305,
+        "name": "High Rock",
+        "cities": []
+    },
+    {
+        "id": 306,
+        "name": "Hope Town",
+        "cities": []
+    },
+    {
+        "id": 307,
+        "name": "Inagua",
+        "cities": [
+            {
+                "id": 8526,
+                "name": "Matthew Town"
+            }
+        ]
+    },
+    {
+        "id": 308,
+        "name": "Kemps Bay",
+        "cities": []
+    },
+    {
+        "id": 309,
+        "name": "Long Island",
+        "cities": [
+            {
+                "id": 8527,
+                "name": "Clarence Town"
+            }
+        ]
+    },
+    {
+        "id": 310,
+        "name": "Mangrove Cay",
+        "cities": []
+    },
+    {
+        "id": 311,
+        "name": "Marsh Harbour",
+        "cities": []
+    },
+    {
+        "id": 312,
+        "name": "Mayaguana District",
+        "cities": [
+            {
+                "id": 8528,
+                "name": "Abraham’s Bay"
+            }
+        ]
+    },
+    {
+        "id": 313,
+        "name": "Nichollstown and Berry Islands",
+        "cities": []
+    },
+    {
+        "id": 314,
+        "name": "North Abaco",
+        "cities": [
+            {
+                "id": 8529,
+                "name": "Cooper’s Town"
+            }
+        ]
+    },
+    {
+        "id": 315,
+        "name": "North Andros",
+        "cities": [
+            {
+                "id": 8530,
+                "name": "Andros Town"
+            },
+            {
+                "id": 8531,
+                "name": "San Andros"
+            }
+        ]
+    },
+    {
+        "id": 316,
+        "name": "North Eleuthera",
+        "cities": []
+    },
+    {
+        "id": 317,
+        "name": "Ragged Island",
+        "cities": [
+            {
+                "id": 8532,
+                "name": "Duncan Town"
+            }
+        ]
+    },
+    {
+        "id": 318,
+        "name": "Rock Sound",
+        "cities": []
+    },
+    {
+        "id": 319,
+        "name": "Rum Cay District",
+        "cities": [
+            {
+                "id": 8533,
+                "name": "Port Nelson"
+            }
+        ]
+    },
+    {
+        "id": 320,
+        "name": "San Salvador and Rum Cay",
+        "cities": []
+    },
+    {
+        "id": 321,
+        "name": "San Salvador Island",
+        "cities": [
+            {
+                "id": 8534,
+                "name": "Cockburn Town"
+            }
+        ]
+    },
+    {
+        "id": 322,
+        "name": "Sandy Point",
+        "cities": []
+    },
+    {
+        "id": 323,
+        "name": "South Abaco",
+        "cities": []
+    },
+    {
+        "id": 324,
+        "name": "South Andros",
+        "cities": []
+    },
+    {
+        "id": 325,
+        "name": "South Eleuthera",
+        "cities": []
+    },
+    {
+        "id": 326,
+        "name": "Spanish Wells",
+        "cities": [
+            {
+                "id": 8535,
+                "name": "Spanish Wells"
+            }
+        ]
+    },
+    {
+        "id": 327,
+        "name": "West Grand Bahama",
+        "cities": [
+            {
+                "id": 8536,
+                "name": "West End"
+            }
+        ]
+    }
+]

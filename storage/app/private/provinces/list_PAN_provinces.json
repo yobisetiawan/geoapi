@@ -1,0 +1,2480 @@
+[
+    {
+        "id": 3020,
+        "name": "Bocas del Toro Province",
+        "cities": [
+            {
+                "id": 78234,
+                "name": "Almirante"
+            },
+            {
+                "id": 78235,
+                "name": "Barranco"
+            },
+            {
+                "id": 78236,
+                "name": "Barranco Adentro"
+            },
+            {
+                "id": 78237,
+                "name": "Bastimentos"
+            },
+            {
+                "id": 78238,
+                "name": "Bocas del Toro"
+            },
+            {
+                "id": 78239,
+                "name": "Cauchero"
+            },
+            {
+                "id": 78240,
+                "name": "Changuinola"
+            },
+            {
+                "id": 78241,
+                "name": "Chiriquí Grande"
+            },
+            {
+                "id": 78242,
+                "name": "Distrito Chiriquí Grande"
+            },
+            {
+                "id": 78243,
+                "name": "Distrito de Bocas del Toro"
+            },
+            {
+                "id": 78244,
+                "name": "Distrito de Changuinola"
+            },
+            {
+                "id": 78245,
+                "name": "El Empalme"
+            },
+            {
+                "id": 78246,
+                "name": "El Silencio"
+            },
+            {
+                "id": 78247,
+                "name": "Guabito"
+            },
+            {
+                "id": 78248,
+                "name": "Isla Bastimentos"
+            },
+            {
+                "id": 78249,
+                "name": "La Mesa"
+            },
+            {
+                "id": 78250,
+                "name": "Miramar"
+            },
+            {
+                "id": 78251,
+                "name": "Punta Laurel"
+            },
+            {
+                "id": 78252,
+                "name": "Punta Peña"
+            },
+            {
+                "id": 78253,
+                "name": "Punta Róbalo"
+            },
+            {
+                "id": 78254,
+                "name": "Valle del Risco"
+            }
+        ]
+    },
+    {
+        "id": 3021,
+        "name": "Chiriquí Province",
+        "cities": [
+            {
+                "id": 78255,
+                "name": "Alanje"
+            },
+            {
+                "id": 78256,
+                "name": "Algarrobos Arriba"
+            },
+            {
+                "id": 78257,
+                "name": "Alto Boquete"
+            },
+            {
+                "id": 78258,
+                "name": "Aserrío de Gariché"
+            },
+            {
+                "id": 78259,
+                "name": "Bágala"
+            },
+            {
+                "id": 78260,
+                "name": "Bajo Boquete"
+            },
+            {
+                "id": 78261,
+                "name": "Barrio Guadalupe"
+            },
+            {
+                "id": 78262,
+                "name": "Bijagual"
+            },
+            {
+                "id": 78263,
+                "name": "Boca Chica"
+            },
+            {
+                "id": 78264,
+                "name": "Boca del Monte"
+            },
+            {
+                "id": 78265,
+                "name": "Boquerón"
+            },
+            {
+                "id": 78266,
+                "name": "Boquete"
+            },
+            {
+                "id": 78267,
+                "name": "Breñón"
+            },
+            {
+                "id": 78268,
+                "name": "Bugaba"
+            },
+            {
+                "id": 78269,
+                "name": "Bugabita Arriba"
+            },
+            {
+                "id": 78270,
+                "name": "Caimito"
+            },
+            {
+                "id": 78271,
+                "name": "Caldera"
+            },
+            {
+                "id": 78272,
+                "name": "Cañas Gordas"
+            },
+            {
+                "id": 78273,
+                "name": "Celmira"
+            },
+            {
+                "id": 78274,
+                "name": "Cerro Punta"
+            },
+            {
+                "id": 78275,
+                "name": "Cerro Viejo"
+            },
+            {
+                "id": 78276,
+                "name": "Chiriquí"
+            },
+            {
+                "id": 78277,
+                "name": "Cochea Abajo"
+            },
+            {
+                "id": 78278,
+                "name": "Cordillera"
+            },
+            {
+                "id": 78279,
+                "name": "David"
+            },
+            {
+                "id": 78280,
+                "name": "Distrito de Alanje"
+            },
+            {
+                "id": 78281,
+                "name": "Distrito de Barú"
+            },
+            {
+                "id": 78282,
+                "name": "Distrito de Boquerón"
+            },
+            {
+                "id": 78283,
+                "name": "Distrito de Boquete"
+            },
+            {
+                "id": 78284,
+                "name": "Distrito de Bugaba"
+            },
+            {
+                "id": 78285,
+                "name": "Distrito de David"
+            },
+            {
+                "id": 78286,
+                "name": "Distrito de Dolega"
+            },
+            {
+                "id": 78287,
+                "name": "Distrito de Gualaca"
+            },
+            {
+                "id": 78288,
+                "name": "Distrito de Remedios"
+            },
+            {
+                "id": 78289,
+                "name": "Distrito de Renacimiento"
+            },
+            {
+                "id": 78290,
+                "name": "Distrito de San Félix"
+            },
+            {
+                "id": 78291,
+                "name": "Distrito de San Lorenzo"
+            },
+            {
+                "id": 78292,
+                "name": "Distrito de Tolé"
+            },
+            {
+                "id": 78293,
+                "name": "Divalá"
+            },
+            {
+                "id": 78294,
+                "name": "Dolega District"
+            },
+            {
+                "id": 78295,
+                "name": "El Nancito"
+            },
+            {
+                "id": 78296,
+                "name": "El Palmar"
+            },
+            {
+                "id": 78297,
+                "name": "El Porvenir"
+            },
+            {
+                "id": 78298,
+                "name": "El Tejar"
+            },
+            {
+                "id": 78299,
+                "name": "Finca Blanco"
+            },
+            {
+                "id": 78300,
+                "name": "Gómez"
+            },
+            {
+                "id": 78301,
+                "name": "Guabal"
+            },
+            {
+                "id": 78302,
+                "name": "Guaca Arriba"
+            },
+            {
+                "id": 78303,
+                "name": "Gualaca"
+            },
+            {
+                "id": 78304,
+                "name": "Guarumal"
+            },
+            {
+                "id": 78305,
+                "name": "Guayabal"
+            },
+            {
+                "id": 78306,
+                "name": "Horconcitos"
+            },
+            {
+                "id": 78307,
+                "name": "La Concepción"
+            },
+            {
+                "id": 78308,
+                "name": "La Esperanza"
+            },
+            {
+                "id": 78309,
+                "name": "La Estrella"
+            },
+            {
+                "id": 78310,
+                "name": "Lajas Adentro"
+            },
+            {
+                "id": 78311,
+                "name": "Lajas de Tolé"
+            },
+            {
+                "id": 78312,
+                "name": "Las Lajas"
+            },
+            {
+                "id": 78313,
+                "name": "Las Lomas"
+            },
+            {
+                "id": 78314,
+                "name": "Limones"
+            },
+            {
+                "id": 78315,
+                "name": "Los Algarrobos"
+            },
+            {
+                "id": 78316,
+                "name": "Los Anastacios"
+            },
+            {
+                "id": 78317,
+                "name": "Los Ángeles"
+            },
+            {
+                "id": 78318,
+                "name": "Los Naranjos"
+            },
+            {
+                "id": 78319,
+                "name": "Manaca Civil"
+            },
+            {
+                "id": 78320,
+                "name": "Manaca Norte"
+            },
+            {
+                "id": 78321,
+                "name": "Mata del Nance"
+            },
+            {
+                "id": 78322,
+                "name": "Monte Lirio"
+            },
+            {
+                "id": 78323,
+                "name": "Nuevo San Carlitos"
+            },
+            {
+                "id": 78324,
+                "name": "Paja de Sombrero"
+            },
+            {
+                "id": 78325,
+                "name": "Palmira"
+            },
+            {
+                "id": 78326,
+                "name": "Palmira Centro"
+            },
+            {
+                "id": 78327,
+                "name": "Paraíso"
+            },
+            {
+                "id": 78328,
+                "name": "Paso Canoas Arriba"
+            },
+            {
+                "id": 78329,
+                "name": "Pedregal"
+            },
+            {
+                "id": 78330,
+                "name": "Plaza de Caisán"
+            },
+            {
+                "id": 78331,
+                "name": "Potrerillos Abajo"
+            },
+            {
+                "id": 78332,
+                "name": "Potrerillos Arriba"
+            },
+            {
+                "id": 78333,
+                "name": "Progreso"
+            },
+            {
+                "id": 78334,
+                "name": "Pueblo Viejo"
+            },
+            {
+                "id": 78335,
+                "name": "Puerto Armuelles"
+            },
+            {
+                "id": 78336,
+                "name": "Punta de Burica"
+            },
+            {
+                "id": 78337,
+                "name": "Quebrada de Piedra"
+            },
+            {
+                "id": 78338,
+                "name": "Querévalo"
+            },
+            {
+                "id": 78339,
+                "name": "Quinteño"
+            },
+            {
+                "id": 78340,
+                "name": "Remedios"
+            },
+            {
+                "id": 78341,
+                "name": "Rincón"
+            },
+            {
+                "id": 78342,
+                "name": "Río Sereno"
+            },
+            {
+                "id": 78343,
+                "name": "Rovira Arriba"
+            },
+            {
+                "id": 78344,
+                "name": "San Andrés"
+            },
+            {
+                "id": 78345,
+                "name": "San Carlos"
+            },
+            {
+                "id": 78346,
+                "name": "San Félix"
+            },
+            {
+                "id": 78347,
+                "name": "San Isidro"
+            },
+            {
+                "id": 78348,
+                "name": "San Lorenzo"
+            },
+            {
+                "id": 78349,
+                "name": "San Pablo Nuevo Abajo"
+            },
+            {
+                "id": 78350,
+                "name": "San Pablo Viejo Abajo"
+            },
+            {
+                "id": 78351,
+                "name": "Santa Clara"
+            },
+            {
+                "id": 78352,
+                "name": "Santa Cruz"
+            },
+            {
+                "id": 78353,
+                "name": "Santa Marta"
+            },
+            {
+                "id": 78354,
+                "name": "Santa Rosa"
+            },
+            {
+                "id": 78355,
+                "name": "Santo Domingo"
+            },
+            {
+                "id": 78356,
+                "name": "Santo Tomás"
+            },
+            {
+                "id": 78357,
+                "name": "Sioguí Abajo"
+            },
+            {
+                "id": 78358,
+                "name": "Sioguí Arriba"
+            },
+            {
+                "id": 78359,
+                "name": "Sortova"
+            },
+            {
+                "id": 78360,
+                "name": "Tijeras"
+            },
+            {
+                "id": 78361,
+                "name": "Tinajas"
+            },
+            {
+                "id": 78362,
+                "name": "Tolé"
+            },
+            {
+                "id": 78363,
+                "name": "Veladero"
+            },
+            {
+                "id": 78364,
+                "name": "Volcán"
+            }
+        ]
+    },
+    {
+        "id": 3022,
+        "name": "Coclé Province",
+        "cities": [
+            {
+                "id": 78365,
+                "name": "Aguadulce"
+            },
+            {
+                "id": 78366,
+                "name": "Aguas Blancas"
+            },
+            {
+                "id": 78367,
+                "name": "Alto de La Estancia"
+            },
+            {
+                "id": 78368,
+                "name": "Antón"
+            },
+            {
+                "id": 78369,
+                "name": "Barranco Colorado"
+            },
+            {
+                "id": 78370,
+                "name": "Caballero"
+            },
+            {
+                "id": 78371,
+                "name": "Cabuya"
+            },
+            {
+                "id": 78372,
+                "name": "Caimito"
+            },
+            {
+                "id": 78373,
+                "name": "Cañaveral"
+            },
+            {
+                "id": 78374,
+                "name": "Capellanía"
+            },
+            {
+                "id": 78375,
+                "name": "Chigoré"
+            },
+            {
+                "id": 78376,
+                "name": "Chiguirí Arriba"
+            },
+            {
+                "id": 78377,
+                "name": "Churuquita Chiquita"
+            },
+            {
+                "id": 78378,
+                "name": "Churuquita Grande"
+            },
+            {
+                "id": 78379,
+                "name": "Coclé"
+            },
+            {
+                "id": 78380,
+                "name": "Distrito de Aguadulce"
+            },
+            {
+                "id": 78381,
+                "name": "Distrito de Antón"
+            },
+            {
+                "id": 78382,
+                "name": "Distrito de La Pintada"
+            },
+            {
+                "id": 78383,
+                "name": "Distrito de Natá"
+            },
+            {
+                "id": 78384,
+                "name": "Distrito de Olá"
+            },
+            {
+                "id": 78385,
+                "name": "Distrito Penonomé"
+            },
+            {
+                "id": 78386,
+                "name": "El Caño"
+            },
+            {
+                "id": 78387,
+                "name": "El Chirú"
+            },
+            {
+                "id": 78388,
+                "name": "El Coco"
+            },
+            {
+                "id": 78389,
+                "name": "El Copé"
+            },
+            {
+                "id": 78390,
+                "name": "El Cortezo"
+            },
+            {
+                "id": 78391,
+                "name": "El Cristo"
+            },
+            {
+                "id": 78392,
+                "name": "El Potrero"
+            },
+            {
+                "id": 78393,
+                "name": "El Retiro"
+            },
+            {
+                "id": 78394,
+                "name": "El Roble"
+            },
+            {
+                "id": 78395,
+                "name": "Entradero"
+            },
+            {
+                "id": 78396,
+                "name": "Farallón"
+            },
+            {
+                "id": 78397,
+                "name": "Guzman"
+            },
+            {
+                "id": 78398,
+                "name": "Juan Díaz"
+            },
+            {
+                "id": 78399,
+                "name": "La Loma"
+            },
+            {
+                "id": 78400,
+                "name": "La Pintada"
+            },
+            {
+                "id": 78401,
+                "name": "Las Huacas del Quije"
+            },
+            {
+                "id": 78402,
+                "name": "Las Marias"
+            },
+            {
+                "id": 78403,
+                "name": "Las Minas"
+            },
+            {
+                "id": 78404,
+                "name": "Las Sabanas"
+            },
+            {
+                "id": 78405,
+                "name": "Llano Grande"
+            },
+            {
+                "id": 78406,
+                "name": "Llano Marín"
+            },
+            {
+                "id": 78407,
+                "name": "Los Pollos"
+            },
+            {
+                "id": 78408,
+                "name": "Natá"
+            },
+            {
+                "id": 78409,
+                "name": "Nuestro Amo"
+            },
+            {
+                "id": 78410,
+                "name": "Olá"
+            },
+            {
+                "id": 78411,
+                "name": "Penonomé"
+            },
+            {
+                "id": 78412,
+                "name": "Piedras Gordas"
+            },
+            {
+                "id": 78413,
+                "name": "Pocrí"
+            },
+            {
+                "id": 78414,
+                "name": "Río Grande"
+            },
+            {
+                "id": 78415,
+                "name": "Río Hato"
+            },
+            {
+                "id": 78416,
+                "name": "San Juan de Dios"
+            },
+            {
+                "id": 78417,
+                "name": "Toabré"
+            },
+            {
+                "id": 78418,
+                "name": "Toza"
+            },
+            {
+                "id": 78419,
+                "name": "Vista Hermosa"
+            }
+        ]
+    },
+    {
+        "id": 3023,
+        "name": "Colón Province",
+        "cities": [
+            {
+                "id": 78420,
+                "name": "Buena Vista"
+            },
+            {
+                "id": 78421,
+                "name": "Cativá"
+            },
+            {
+                "id": 78422,
+                "name": "Coclé del Norte"
+            },
+            {
+                "id": 78423,
+                "name": "Colón"
+            },
+            {
+                "id": 78424,
+                "name": "Cristóbal"
+            },
+            {
+                "id": 78425,
+                "name": "Distrito de Chagres"
+            },
+            {
+                "id": 78426,
+                "name": "Distrito de Colón"
+            },
+            {
+                "id": 78427,
+                "name": "Distrito de Donoso"
+            },
+            {
+                "id": 78428,
+                "name": "Distrito de Portobelo"
+            },
+            {
+                "id": 78429,
+                "name": "Distrito de Santa Isabel"
+            },
+            {
+                "id": 78430,
+                "name": "El Giral"
+            },
+            {
+                "id": 78431,
+                "name": "El Guabo"
+            },
+            {
+                "id": 78432,
+                "name": "El Valle de la Unión"
+            },
+            {
+                "id": 78433,
+                "name": "Escobal"
+            },
+            {
+                "id": 78434,
+                "name": "Gatún"
+            },
+            {
+                "id": 78435,
+                "name": "Gatuncillo"
+            },
+            {
+                "id": 78436,
+                "name": "Las Margaritas"
+            },
+            {
+                "id": 78437,
+                "name": "María Chiquita"
+            },
+            {
+                "id": 78438,
+                "name": "Miramar"
+            },
+            {
+                "id": 78439,
+                "name": "Nombre de Dios"
+            },
+            {
+                "id": 78440,
+                "name": "Nuevo Chagres"
+            },
+            {
+                "id": 78441,
+                "name": "Nuevo San Juan"
+            },
+            {
+                "id": 78442,
+                "name": "Nuevo Vigía"
+            },
+            {
+                "id": 78443,
+                "name": "Palenque"
+            },
+            {
+                "id": 78444,
+                "name": "Palmas Bellas"
+            },
+            {
+                "id": 78445,
+                "name": "Palmira"
+            },
+            {
+                "id": 78446,
+                "name": "Playa Chiquita"
+            },
+            {
+                "id": 78447,
+                "name": "Portobelo"
+            },
+            {
+                "id": 78448,
+                "name": "Puerto Escondido"
+            },
+            {
+                "id": 78449,
+                "name": "Puerto Pilón"
+            },
+            {
+                "id": 78450,
+                "name": "Quebrada Bonita Adentro"
+            },
+            {
+                "id": 78451,
+                "name": "Río Alejandro"
+            },
+            {
+                "id": 78452,
+                "name": "Río Duque"
+            },
+            {
+                "id": 78453,
+                "name": "Río Rita"
+            },
+            {
+                "id": 78454,
+                "name": "Sabanitas"
+            },
+            {
+                "id": 78455,
+                "name": "Santa Isabel"
+            },
+            {
+                "id": 78456,
+                "name": "Santa Rita Arriba"
+            },
+            {
+                "id": 78457,
+                "name": "Viento Frío"
+            }
+        ]
+    },
+    {
+        "id": 3024,
+        "name": "Darién Province",
+        "cities": [
+            {
+                "id": 78458,
+                "name": "Boca de Cupé"
+            },
+            {
+                "id": 78459,
+                "name": "Camogantí"
+            },
+            {
+                "id": 78460,
+                "name": "Cucunatí"
+            },
+            {
+                "id": 78461,
+                "name": "Distrito de Chepigana"
+            },
+            {
+                "id": 78462,
+                "name": "Distrito de Pinogana"
+            },
+            {
+                "id": 78463,
+                "name": "Garachiné"
+            },
+            {
+                "id": 78464,
+                "name": "Jaqué"
+            },
+            {
+                "id": 78465,
+                "name": "La Palma"
+            },
+            {
+                "id": 78466,
+                "name": "Metetí"
+            },
+            {
+                "id": 78467,
+                "name": "Mortí"
+            },
+            {
+                "id": 78468,
+                "name": "Púcuro"
+            },
+            {
+                "id": 78469,
+                "name": "Santa Fé"
+            },
+            {
+                "id": 78470,
+                "name": "Yaviza"
+            }
+        ]
+    },
+    {
+        "id": 3025,
+        "name": "Emberá-Wounaan Comarca",
+        "cities": [
+            {
+                "id": 78471,
+                "name": "Bayamón"
+            },
+            {
+                "id": 78472,
+                "name": "Cémaco"
+            },
+            {
+                "id": 78473,
+                "name": "Corozal"
+            },
+            {
+                "id": 78474,
+                "name": "Sambú"
+            },
+            {
+                "id": 78475,
+                "name": "Unión Chocó"
+            },
+            {
+                "id": 78476,
+                "name": "Yape"
+            }
+        ]
+    },
+    {
+        "id": 3026,
+        "name": "Guna Yala",
+        "cities": [
+            {
+                "id": 78477,
+                "name": "Achutupo"
+            },
+            {
+                "id": 78478,
+                "name": "Ailigandí"
+            },
+            {
+                "id": 78479,
+                "name": "Cartí Sugdup"
+            },
+            {
+                "id": 78480,
+                "name": "El Porvenir"
+            },
+            {
+                "id": 78481,
+                "name": "Mulatupo"
+            },
+            {
+                "id": 78482,
+                "name": "Narganá"
+            },
+            {
+                "id": 78483,
+                "name": "Playón Chico"
+            },
+            {
+                "id": 78484,
+                "name": "Puerto Obaldía"
+            },
+            {
+                "id": 78485,
+                "name": "San Ignacio de Tupile"
+            },
+            {
+                "id": 78486,
+                "name": "Tubualá"
+            },
+            {
+                "id": 78487,
+                "name": "Ustupo"
+            }
+        ]
+    },
+    {
+        "id": 3027,
+        "name": "Herrera Province",
+        "cities": [
+            {
+                "id": 78488,
+                "name": "Boca de Parita"
+            },
+            {
+                "id": 78489,
+                "name": "Cabuya"
+            },
+            {
+                "id": 78490,
+                "name": "Cerro Largo"
+            },
+            {
+                "id": 78491,
+                "name": "Chitré"
+            },
+            {
+                "id": 78492,
+                "name": "Chumical"
+            },
+            {
+                "id": 78493,
+                "name": "Chupampa"
+            },
+            {
+                "id": 78494,
+                "name": "Distrito de Chitré"
+            },
+            {
+                "id": 78495,
+                "name": "Distrito de Las Minas"
+            },
+            {
+                "id": 78496,
+                "name": "Distrito de Los Pozos"
+            },
+            {
+                "id": 78497,
+                "name": "Distrito de Ocú"
+            },
+            {
+                "id": 78498,
+                "name": "Distrito de Parita"
+            },
+            {
+                "id": 78499,
+                "name": "Distrito de Pesé"
+            },
+            {
+                "id": 78500,
+                "name": "Distrito de Santa María"
+            },
+            {
+                "id": 78501,
+                "name": "El Calabacito"
+            },
+            {
+                "id": 78502,
+                "name": "El Capurí"
+            },
+            {
+                "id": 78503,
+                "name": "El Cedro"
+            },
+            {
+                "id": 78504,
+                "name": "El Pedregoso"
+            },
+            {
+                "id": 78505,
+                "name": "El Rincón"
+            },
+            {
+                "id": 78506,
+                "name": "El Toro"
+            },
+            {
+                "id": 78507,
+                "name": "La Arena"
+            },
+            {
+                "id": 78508,
+                "name": "La Trinidad"
+            },
+            {
+                "id": 78509,
+                "name": "Las Guabas"
+            },
+            {
+                "id": 78510,
+                "name": "Las Minas"
+            },
+            {
+                "id": 78511,
+                "name": "Leones Arriba"
+            },
+            {
+                "id": 78512,
+                "name": "Limón de Tijeras"
+            },
+            {
+                "id": 78513,
+                "name": "Llano Bonito"
+            },
+            {
+                "id": 78514,
+                "name": "Llano de La Cruz"
+            },
+            {
+                "id": 78515,
+                "name": "Llano Grande"
+            },
+            {
+                "id": 78516,
+                "name": "Los Canelos"
+            },
+            {
+                "id": 78517,
+                "name": "Los Castillos"
+            },
+            {
+                "id": 78518,
+                "name": "Los Cerritos"
+            },
+            {
+                "id": 78519,
+                "name": "Los Cerros de Paja"
+            },
+            {
+                "id": 78520,
+                "name": "Los Pozos"
+            },
+            {
+                "id": 78521,
+                "name": "Monagrillo"
+            },
+            {
+                "id": 78522,
+                "name": "Ocú"
+            },
+            {
+                "id": 78523,
+                "name": "París"
+            },
+            {
+                "id": 78524,
+                "name": "Parita"
+            },
+            {
+                "id": 78525,
+                "name": "Peñas Chatas"
+            },
+            {
+                "id": 78526,
+                "name": "Pesé"
+            },
+            {
+                "id": 78527,
+                "name": "Pitaloza Arriba"
+            },
+            {
+                "id": 78528,
+                "name": "Portobelillo"
+            },
+            {
+                "id": 78529,
+                "name": "Potuga"
+            },
+            {
+                "id": 78530,
+                "name": "Quebrada del Rosario"
+            },
+            {
+                "id": 78531,
+                "name": "Rincón Hondo"
+            },
+            {
+                "id": 78532,
+                "name": "Sabana Grande"
+            },
+            {
+                "id": 78533,
+                "name": "San Juan Bautista"
+            },
+            {
+                "id": 78534,
+                "name": "Santa María"
+            }
+        ]
+    },
+    {
+        "id": 3028,
+        "name": "Los Santos Province",
+        "cities": [
+            {
+                "id": 78535,
+                "name": "Agua Buena"
+            },
+            {
+                "id": 78536,
+                "name": "Ave María"
+            },
+            {
+                "id": 78537,
+                "name": "Bahía Honda"
+            },
+            {
+                "id": 78538,
+                "name": "Bajo Corral"
+            },
+            {
+                "id": 78539,
+                "name": "Bayano"
+            },
+            {
+                "id": 78540,
+                "name": "Bella Vista"
+            },
+            {
+                "id": 78541,
+                "name": "Cambutal"
+            },
+            {
+                "id": 78542,
+                "name": "Cañas"
+            },
+            {
+                "id": 78543,
+                "name": "Cedro Arriba"
+            },
+            {
+                "id": 78544,
+                "name": "Distrito de Guararé"
+            },
+            {
+                "id": 78545,
+                "name": "Distrito de Las Tablas"
+            },
+            {
+                "id": 78546,
+                "name": "Distrito de Los Santos"
+            },
+            {
+                "id": 78547,
+                "name": "Distrito de Macaracas"
+            },
+            {
+                "id": 78548,
+                "name": "Distrito de Pedasí"
+            },
+            {
+                "id": 78549,
+                "name": "Distrito de Pocrí"
+            },
+            {
+                "id": 78550,
+                "name": "Distrito de Tonosí"
+            },
+            {
+                "id": 78551,
+                "name": "El Cacao"
+            },
+            {
+                "id": 78552,
+                "name": "El Cañafístulo"
+            },
+            {
+                "id": 78553,
+                "name": "El Carate"
+            },
+            {
+                "id": 78554,
+                "name": "El Cocal"
+            },
+            {
+                "id": 78555,
+                "name": "El Cortezo"
+            },
+            {
+                "id": 78556,
+                "name": "El Ejido"
+            },
+            {
+                "id": 78557,
+                "name": "El Guásimo"
+            },
+            {
+                "id": 78558,
+                "name": "El Hato"
+            },
+            {
+                "id": 78559,
+                "name": "El Macano"
+            },
+            {
+                "id": 78560,
+                "name": "El Manantial"
+            },
+            {
+                "id": 78561,
+                "name": "El Muñoz"
+            },
+            {
+                "id": 78562,
+                "name": "El Pedregoso"
+            },
+            {
+                "id": 78563,
+                "name": "Flores"
+            },
+            {
+                "id": 78564,
+                "name": "Guararé"
+            },
+            {
+                "id": 78565,
+                "name": "Guararé Arriba"
+            },
+            {
+                "id": 78566,
+                "name": "La Colorada"
+            },
+            {
+                "id": 78567,
+                "name": "La Enea"
+            },
+            {
+                "id": 78568,
+                "name": "La Espigadilla"
+            },
+            {
+                "id": 78569,
+                "name": "La Laja"
+            },
+            {
+                "id": 78570,
+                "name": "La Mesa"
+            },
+            {
+                "id": 78571,
+                "name": "La Miel"
+            },
+            {
+                "id": 78572,
+                "name": "La Palma"
+            },
+            {
+                "id": 78573,
+                "name": "La Pasera"
+            },
+            {
+                "id": 78574,
+                "name": "La Tiza"
+            },
+            {
+                "id": 78575,
+                "name": "La Tronosa"
+            },
+            {
+                "id": 78576,
+                "name": "Lajamina"
+            },
+            {
+                "id": 78577,
+                "name": "Las Cruces"
+            },
+            {
+                "id": 78578,
+                "name": "Las Guabas"
+            },
+            {
+                "id": 78579,
+                "name": "Las Palmas"
+            },
+            {
+                "id": 78580,
+                "name": "Las Palmitas"
+            },
+            {
+                "id": 78581,
+                "name": "Las Tablas"
+            },
+            {
+                "id": 78582,
+                "name": "Las Trancas"
+            },
+            {
+                "id": 78583,
+                "name": "Llano Abajo"
+            },
+            {
+                "id": 78584,
+                "name": "Llano de Piedra"
+            },
+            {
+                "id": 78585,
+                "name": "Llano Largo"
+            },
+            {
+                "id": 78586,
+                "name": "Los Ángeles"
+            },
+            {
+                "id": 78587,
+                "name": "Los Asientos"
+            },
+            {
+                "id": 78588,
+                "name": "Los Olivos"
+            },
+            {
+                "id": 78589,
+                "name": "Los Santos"
+            },
+            {
+                "id": 78590,
+                "name": "Macaracas"
+            },
+            {
+                "id": 78591,
+                "name": "Mogollón"
+            },
+            {
+                "id": 78592,
+                "name": "Nuario"
+            },
+            {
+                "id": 78593,
+                "name": "Oria Arriba"
+            },
+            {
+                "id": 78594,
+                "name": "Palmira"
+            },
+            {
+                "id": 78595,
+                "name": "Paraíso"
+            },
+            {
+                "id": 78596,
+                "name": "Paritilla"
+            },
+            {
+                "id": 78597,
+                "name": "Pedasí"
+            },
+            {
+                "id": 78598,
+                "name": "Peña Blanca"
+            },
+            {
+                "id": 78599,
+                "name": "Perales"
+            },
+            {
+                "id": 78600,
+                "name": "Pocrí"
+            },
+            {
+                "id": 78601,
+                "name": "Río Hondo"
+            },
+            {
+                "id": 78602,
+                "name": "Sabana Grande"
+            },
+            {
+                "id": 78603,
+                "name": "San José"
+            },
+            {
+                "id": 78604,
+                "name": "Santa Ana Arriba"
+            },
+            {
+                "id": 78605,
+                "name": "Santo Domingo"
+            },
+            {
+                "id": 78606,
+                "name": "Sesteadero"
+            },
+            {
+                "id": 78607,
+                "name": "Tonosí"
+            },
+            {
+                "id": 78608,
+                "name": "Tres Quebradas"
+            },
+            {
+                "id": 78609,
+                "name": "Valle Rico"
+            },
+            {
+                "id": 78610,
+                "name": "Vallerriquito"
+            },
+            {
+                "id": 78611,
+                "name": "Villa Lourdes"
+            }
+        ]
+    },
+    {
+        "id": 3029,
+        "name": "Ngöbe-Buglé Comarca",
+        "cities": [
+            {
+                "id": 78612,
+                "name": "Bahía Azul"
+            },
+            {
+                "id": 78613,
+                "name": "Besiko"
+            },
+            {
+                "id": 78614,
+                "name": "Bisira"
+            },
+            {
+                "id": 78615,
+                "name": "Boca de Balsa"
+            },
+            {
+                "id": 78616,
+                "name": "Buenos Aires"
+            },
+            {
+                "id": 78617,
+                "name": "Camarón Arriba"
+            },
+            {
+                "id": 78618,
+                "name": "Cerro Banco"
+            },
+            {
+                "id": 78619,
+                "name": "Cerro Caña"
+            },
+            {
+                "id": 78620,
+                "name": "Cerro Plata"
+            },
+            {
+                "id": 78621,
+                "name": "Chichica"
+            },
+            {
+                "id": 78622,
+                "name": "Guayabito"
+            },
+            {
+                "id": 78623,
+                "name": "Hato Chami"
+            },
+            {
+                "id": 78624,
+                "name": "Hato Corotú"
+            },
+            {
+                "id": 78625,
+                "name": "Kankintú"
+            },
+            {
+                "id": 78626,
+                "name": "Kusapín"
+            },
+            {
+                "id": 78627,
+                "name": "Lajero Arriba"
+            },
+            {
+                "id": 78628,
+                "name": "Llano Ñopo"
+            },
+            {
+                "id": 78629,
+                "name": "Loma Yuca"
+            },
+            {
+                "id": 78630,
+                "name": "Mirono"
+            },
+            {
+                "id": 78631,
+                "name": "Müna"
+            },
+            {
+                "id": 78632,
+                "name": "Nole Düima"
+            },
+            {
+                "id": 78633,
+                "name": "Nurun"
+            },
+            {
+                "id": 78634,
+                "name": "Oma"
+            },
+            {
+                "id": 78635,
+                "name": "Paredón Arriba"
+            },
+            {
+                "id": 78636,
+                "name": "Plan de Chorcha"
+            },
+            {
+                "id": 78637,
+                "name": "Pueblo Nuevo"
+            },
+            {
+                "id": 78638,
+                "name": "Quebrada Canoa"
+            },
+            {
+                "id": 78639,
+                "name": "Quebrada Tula"
+            },
+            {
+                "id": 78640,
+                "name": "Sitio Prado"
+            },
+            {
+                "id": 78641,
+                "name": "Tobobe"
+            }
+        ]
+    },
+    {
+        "id": 3030,
+        "name": "Panamá Oeste Province",
+        "cities": [
+            {
+                "id": 78642,
+                "name": "Alto del Espino"
+            },
+            {
+                "id": 78643,
+                "name": "Altos de San Francisco"
+            },
+            {
+                "id": 78644,
+                "name": "Arenosa"
+            },
+            {
+                "id": 78645,
+                "name": "Arosemena"
+            },
+            {
+                "id": 78646,
+                "name": "Arraiján"
+            },
+            {
+                "id": 78647,
+                "name": "Bejuco"
+            },
+            {
+                "id": 78648,
+                "name": "Buenos Aires"
+            },
+            {
+                "id": 78649,
+                "name": "Cabuya"
+            },
+            {
+                "id": 78650,
+                "name": "Caimito"
+            },
+            {
+                "id": 78651,
+                "name": "Capira"
+            },
+            {
+                "id": 78652,
+                "name": "Cermeño"
+            },
+            {
+                "id": 78653,
+                "name": "Cerro Cama"
+            },
+            {
+                "id": 78654,
+                "name": "Chame"
+            },
+            {
+                "id": 78655,
+                "name": "Cirí de Los Sotos"
+            },
+            {
+                "id": 78656,
+                "name": "Distrito Arraiján"
+            },
+            {
+                "id": 78657,
+                "name": "Distrito de Capira"
+            },
+            {
+                "id": 78658,
+                "name": "Distrito de Chame"
+            },
+            {
+                "id": 78659,
+                "name": "Distrito de La Chorrera"
+            },
+            {
+                "id": 78660,
+                "name": "Distrito de San Carlos"
+            },
+            {
+                "id": 78661,
+                "name": "El Cacao"
+            },
+            {
+                "id": 78662,
+                "name": "El Coco"
+            },
+            {
+                "id": 78663,
+                "name": "El Espavé"
+            },
+            {
+                "id": 78664,
+                "name": "El Espino"
+            },
+            {
+                "id": 78665,
+                "name": "El Higo"
+            },
+            {
+                "id": 78666,
+                "name": "El Líbano"
+            },
+            {
+                "id": 78667,
+                "name": "Guadalupe"
+            },
+            {
+                "id": 78668,
+                "name": "Guayabito"
+            },
+            {
+                "id": 78669,
+                "name": "Hato Montaña"
+            },
+            {
+                "id": 78670,
+                "name": "La Chorrera"
+            },
+            {
+                "id": 78671,
+                "name": "La Ermita"
+            },
+            {
+                "id": 78672,
+                "name": "La Herradura"
+            },
+            {
+                "id": 78673,
+                "name": "La Laguna"
+            },
+            {
+                "id": 78674,
+                "name": "La Mitra"
+            },
+            {
+                "id": 78675,
+                "name": "La Pesa"
+            },
+            {
+                "id": 78676,
+                "name": "Las Colinas"
+            },
+            {
+                "id": 78677,
+                "name": "Las Lajas"
+            },
+            {
+                "id": 78678,
+                "name": "Las Uvas"
+            },
+            {
+                "id": 78679,
+                "name": "Llano Largo"
+            },
+            {
+                "id": 78680,
+                "name": "Los Llanitos"
+            },
+            {
+                "id": 78681,
+                "name": "Mendoza"
+            },
+            {
+                "id": 78682,
+                "name": "Nueva Arenosa"
+            },
+            {
+                "id": 78683,
+                "name": "Nueva Gorgona"
+            },
+            {
+                "id": 78684,
+                "name": "Nuevo Arraiján"
+            },
+            {
+                "id": 78685,
+                "name": "Nuevo Emperador"
+            },
+            {
+                "id": 78686,
+                "name": "Playa Leona"
+            },
+            {
+                "id": 78687,
+                "name": "Potrero Grande"
+            },
+            {
+                "id": 78688,
+                "name": "Puerto Caimito"
+            },
+            {
+                "id": 78689,
+                "name": "Río Congo"
+            },
+            {
+                "id": 78690,
+                "name": "San Carlos"
+            },
+            {
+                "id": 78691,
+                "name": "San José"
+            },
+            {
+                "id": 78692,
+                "name": "San Vicente de Bique"
+            },
+            {
+                "id": 78693,
+                "name": "Santa Clara"
+            },
+            {
+                "id": 78694,
+                "name": "Santa Rita"
+            },
+            {
+                "id": 78695,
+                "name": "Sorá"
+            },
+            {
+                "id": 78696,
+                "name": "Veracruz"
+            },
+            {
+                "id": 78697,
+                "name": "Villa Carmen"
+            },
+            {
+                "id": 78698,
+                "name": "Villa Rosario"
+            },
+            {
+                "id": 78699,
+                "name": "Vista Alegre"
+            }
+        ]
+    },
+    {
+        "id": 3031,
+        "name": "Panamá Province",
+        "cities": [
+            {
+                "id": 78700,
+                "name": "Alcalde Díaz"
+            },
+            {
+                "id": 78701,
+                "name": "Ancón"
+            },
+            {
+                "id": 78702,
+                "name": "Brujas"
+            },
+            {
+                "id": 78703,
+                "name": "Cabra Número Uno"
+            },
+            {
+                "id": 78704,
+                "name": "Caimitillo"
+            },
+            {
+                "id": 78705,
+                "name": "Calzada Larga"
+            },
+            {
+                "id": 78706,
+                "name": "Cañita"
+            },
+            {
+                "id": 78707,
+                "name": "Cerro Azul"
+            },
+            {
+                "id": 78708,
+                "name": "Chepillo"
+            },
+            {
+                "id": 78709,
+                "name": "Chepo"
+            },
+            {
+                "id": 78710,
+                "name": "Chilibre"
+            },
+            {
+                "id": 78711,
+                "name": "Chimán"
+            },
+            {
+                "id": 78712,
+                "name": "Contadora"
+            },
+            {
+                "id": 78713,
+                "name": "Curundú"
+            },
+            {
+                "id": 78714,
+                "name": "Distrito de Balboa"
+            },
+            {
+                "id": 78715,
+                "name": "Distrito de Chepo"
+            },
+            {
+                "id": 78716,
+                "name": "Distrito de Chimán"
+            },
+            {
+                "id": 78717,
+                "name": "Distrito de Panamá"
+            },
+            {
+                "id": 78718,
+                "name": "Distrito de Taboga"
+            },
+            {
+                "id": 78719,
+                "name": "El Chorrillo"
+            },
+            {
+                "id": 78720,
+                "name": "El Progreso"
+            },
+            {
+                "id": 78721,
+                "name": "Gonzalillo"
+            },
+            {
+                "id": 78722,
+                "name": "Howard"
+            },
+            {
+                "id": 78723,
+                "name": "Juan Díaz"
+            },
+            {
+                "id": 78724,
+                "name": "La Cabima"
+            },
+            {
+                "id": 78725,
+                "name": "La Colorada"
+            },
+            {
+                "id": 78726,
+                "name": "La Ensenada"
+            },
+            {
+                "id": 78727,
+                "name": "La Esmeralda"
+            },
+            {
+                "id": 78728,
+                "name": "La Guinea"
+            },
+            {
+                "id": 78729,
+                "name": "La Mesa"
+            },
+            {
+                "id": 78730,
+                "name": "Las Cumbres"
+            },
+            {
+                "id": 78731,
+                "name": "Las Margaritas"
+            },
+            {
+                "id": 78732,
+                "name": "Lídice"
+            },
+            {
+                "id": 78733,
+                "name": "Los Lotes"
+            },
+            {
+                "id": 78734,
+                "name": "Nueva Esperanza"
+            },
+            {
+                "id": 78735,
+                "name": "Nuevo Belén"
+            },
+            {
+                "id": 78736,
+                "name": "Pacora"
+            },
+            {
+                "id": 78737,
+                "name": "Panamá"
+            },
+            {
+                "id": 78738,
+                "name": "Parque Lefevre"
+            },
+            {
+                "id": 78739,
+                "name": "Pásiga"
+            },
+            {
+                "id": 78740,
+                "name": "Pedregal"
+            },
+            {
+                "id": 78741,
+                "name": "Río Abajo"
+            },
+            {
+                "id": 78742,
+                "name": "San Antonio"
+            },
+            {
+                "id": 78743,
+                "name": "San Felipe"
+            },
+            {
+                "id": 78744,
+                "name": "San Miguel"
+            },
+            {
+                "id": 78745,
+                "name": "San Miguelito"
+            },
+            {
+                "id": 78746,
+                "name": "San Vicente"
+            },
+            {
+                "id": 78747,
+                "name": "Tocumen"
+            },
+            {
+                "id": 78748,
+                "name": "Tortí"
+            },
+            {
+                "id": 78749,
+                "name": "Unión de Azuero"
+            },
+            {
+                "id": 78750,
+                "name": "Unión Santeña"
+            },
+            {
+                "id": 78751,
+                "name": "Villa Unida"
+            },
+            {
+                "id": 78752,
+                "name": "Vista Hermosa"
+            }
+        ]
+    },
+    {
+        "id": 3032,
+        "name": "Veraguas Province",
+        "cities": [
+            {
+                "id": 78753,
+                "name": "Alto de Jesús"
+            },
+            {
+                "id": 78754,
+                "name": "Arenas"
+            },
+            {
+                "id": 78755,
+                "name": "Atalaya"
+            },
+            {
+                "id": 78756,
+                "name": "Barnizal"
+            },
+            {
+                "id": 78757,
+                "name": "Bisvalles"
+            },
+            {
+                "id": 78758,
+                "name": "Boquerón"
+            },
+            {
+                "id": 78759,
+                "name": "Boró"
+            },
+            {
+                "id": 78760,
+                "name": "Calabacito"
+            },
+            {
+                "id": 78761,
+                "name": "Calidonia"
+            },
+            {
+                "id": 78762,
+                "name": "Calobre"
+            },
+            {
+                "id": 78763,
+                "name": "Calovébora"
+            },
+            {
+                "id": 78764,
+                "name": "Cañazas"
+            },
+            {
+                "id": 78765,
+                "name": "Canto del Llano"
+            },
+            {
+                "id": 78766,
+                "name": "Corozal"
+            },
+            {
+                "id": 78767,
+                "name": "Distrito de Atalaya"
+            },
+            {
+                "id": 78768,
+                "name": "Distrito de Calobre"
+            },
+            {
+                "id": 78769,
+                "name": "Distrito de Cañazas"
+            },
+            {
+                "id": 78770,
+                "name": "Distrito de La Mesa"
+            },
+            {
+                "id": 78771,
+                "name": "Distrito de Las Palmas"
+            },
+            {
+                "id": 78772,
+                "name": "Distrito de Montijo"
+            },
+            {
+                "id": 78773,
+                "name": "Distrito de Río de Jesús"
+            },
+            {
+                "id": 78774,
+                "name": "Distrito de San Francisco"
+            },
+            {
+                "id": 78775,
+                "name": "Distrito de Santa Fé"
+            },
+            {
+                "id": 78776,
+                "name": "Distrito de Santiago"
+            },
+            {
+                "id": 78777,
+                "name": "Distrito de Soná"
+            },
+            {
+                "id": 78778,
+                "name": "El Alto"
+            },
+            {
+                "id": 78779,
+                "name": "El Barrito"
+            },
+            {
+                "id": 78780,
+                "name": "El Coclá"
+            },
+            {
+                "id": 78781,
+                "name": "El Espino de Santa Rosa"
+            },
+            {
+                "id": 78782,
+                "name": "El Marañón"
+            },
+            {
+                "id": 78783,
+                "name": "El María"
+            },
+            {
+                "id": 78784,
+                "name": "El Pájaro"
+            },
+            {
+                "id": 78785,
+                "name": "El Pantano"
+            },
+            {
+                "id": 78786,
+                "name": "El Peñón"
+            },
+            {
+                "id": 78787,
+                "name": "El Picador"
+            },
+            {
+                "id": 78788,
+                "name": "El Potrero"
+            },
+            {
+                "id": 78789,
+                "name": "El Rincón"
+            },
+            {
+                "id": 78790,
+                "name": "El Uvito"
+            },
+            {
+                "id": 78791,
+                "name": "Guarumal"
+            },
+            {
+                "id": 78792,
+                "name": "La Colorada"
+            },
+            {
+                "id": 78793,
+                "name": "La Garceana"
+            },
+            {
+                "id": 78794,
+                "name": "La Laguna"
+            },
+            {
+                "id": 78795,
+                "name": "La Loma"
+            },
+            {
+                "id": 78796,
+                "name": "La Mesa"
+            },
+            {
+                "id": 78797,
+                "name": "La Montañuela"
+            },
+            {
+                "id": 78798,
+                "name": "La Peña"
+            },
+            {
+                "id": 78799,
+                "name": "La Raya de Calobre"
+            },
+            {
+                "id": 78800,
+                "name": "La Raya de Santa María"
+            },
+            {
+                "id": 78801,
+                "name": "La Yeguada"
+            },
+            {
+                "id": 78802,
+                "name": "Las Guías Abajo"
+            },
+            {
+                "id": 78803,
+                "name": "Las Huacas"
+            },
+            {
+                "id": 78804,
+                "name": "Las Palmas"
+            },
+            {
+                "id": 78805,
+                "name": "Leones Arriba"
+            },
+            {
+                "id": 78806,
+                "name": "Llano Grande"
+            },
+            {
+                "id": 78807,
+                "name": "Lolá"
+            },
+            {
+                "id": 78808,
+                "name": "Los Algarrobos"
+            },
+            {
+                "id": 78809,
+                "name": "Los Castillos"
+            },
+            {
+                "id": 78810,
+                "name": "Los Higos"
+            },
+            {
+                "id": 78811,
+                "name": "Mariato District"
+            },
+            {
+                "id": 78812,
+                "name": "Monjarás"
+            },
+            {
+                "id": 78813,
+                "name": "Montijo"
+            },
+            {
+                "id": 78814,
+                "name": "Piedras Gordas"
+            },
+            {
+                "id": 78815,
+                "name": "Ponuga"
+            },
+            {
+                "id": 78816,
+                "name": "Puerto Vidal"
+            },
+            {
+                "id": 78817,
+                "name": "Quebrada de Oro"
+            },
+            {
+                "id": 78818,
+                "name": "Río de Jesús"
+            },
+            {
+                "id": 78819,
+                "name": "Río Grande"
+            },
+            {
+                "id": 78820,
+                "name": "Rodeo Viejo"
+            },
+            {
+                "id": 78821,
+                "name": "San Bartolo"
+            },
+            {
+                "id": 78822,
+                "name": "San Francisco"
+            },
+            {
+                "id": 78823,
+                "name": "San José"
+            },
+            {
+                "id": 78824,
+                "name": "San Juan"
+            },
+            {
+                "id": 78825,
+                "name": "San Marcelo"
+            },
+            {
+                "id": 78826,
+                "name": "San Pedro del Espino"
+            },
+            {
+                "id": 78827,
+                "name": "Santa Fé"
+            },
+            {
+                "id": 78828,
+                "name": "Santiago de Veraguas"
+            },
+            {
+                "id": 78829,
+                "name": "Soná"
+            },
+            {
+                "id": 78830,
+                "name": "Tebario"
+            },
+            {
+                "id": 78831,
+                "name": "Utirá"
+            },
+            {
+                "id": 78832,
+                "name": "Viguí"
+            },
+            {
+                "id": 78833,
+                "name": "Zapotillo"
+            }
+        ]
+    }
+]

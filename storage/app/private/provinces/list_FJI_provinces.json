@@ -1,0 +1,181 @@
+[
+    {
+        "id": 1236,
+        "name": "Ba",
+        "cities": []
+    },
+    {
+        "id": 1237,
+        "name": "Bua",
+        "cities": []
+    },
+    {
+        "id": 1238,
+        "name": "Cakaudrove",
+        "cities": []
+    },
+    {
+        "id": 1239,
+        "name": "Central Division",
+        "cities": [
+            {
+                "id": 24527,
+                "name": "Naitasiri Province"
+            },
+            {
+                "id": 24528,
+                "name": "Namosi Province"
+            },
+            {
+                "id": 24529,
+                "name": "Rewa Province"
+            },
+            {
+                "id": 24530,
+                "name": "Serua Province"
+            },
+            {
+                "id": 24531,
+                "name": "Suva"
+            },
+            {
+                "id": 24532,
+                "name": "Tailevu Province"
+            }
+        ]
+    },
+    {
+        "id": 1240,
+        "name": "Eastern Division",
+        "cities": [
+            {
+                "id": 24533,
+                "name": "Kadavu Province"
+            },
+            {
+                "id": 24534,
+                "name": "Lau Province"
+            },
+            {
+                "id": 24535,
+                "name": "Levuka"
+            },
+            {
+                "id": 24536,
+                "name": "Lomaiviti Province"
+            }
+        ]
+    },
+    {
+        "id": 1241,
+        "name": "Kadavu",
+        "cities": []
+    },
+    {
+        "id": 1242,
+        "name": "Lau",
+        "cities": []
+    },
+    {
+        "id": 1243,
+        "name": "Lomaiviti",
+        "cities": []
+    },
+    {
+        "id": 1244,
+        "name": "Macuata",
+        "cities": []
+    },
+    {
+        "id": 1245,
+        "name": "Nadroga-Navosa",
+        "cities": []
+    },
+    {
+        "id": 1246,
+        "name": "Naitasiri",
+        "cities": []
+    },
+    {
+        "id": 1247,
+        "name": "Namosi",
+        "cities": []
+    },
+    {
+        "id": 1248,
+        "name": "Northern Division",
+        "cities": [
+            {
+                "id": 24537,
+                "name": "Bua Province"
+            },
+            {
+                "id": 24538,
+                "name": "Cakaudrove Province"
+            },
+            {
+                "id": 24539,
+                "name": "Labasa"
+            },
+            {
+                "id": 24540,
+                "name": "Macuata Province"
+            }
+        ]
+    },
+    {
+        "id": 1249,
+        "name": "Ra",
+        "cities": []
+    },
+    {
+        "id": 1250,
+        "name": "Rewa",
+        "cities": []
+    },
+    {
+        "id": 1251,
+        "name": "Rotuma",
+        "cities": []
+    },
+    {
+        "id": 1252,
+        "name": "Serua",
+        "cities": []
+    },
+    {
+        "id": 1253,
+        "name": "Tailevu",
+        "cities": []
+    },
+    {
+        "id": 1254,
+        "name": "Western Division",
+        "cities": [
+            {
+                "id": 24541,
+                "name": "Ba"
+            },
+            {
+                "id": 24542,
+                "name": "Ba Province"
+            },
+            {
+                "id": 24543,
+                "name": "Lautoka"
+            },
+            {
+                "id": 24544,
+                "name": "Nadi"
+            },
+            {
+                "id": 24545,
+                "name": "Nandronga and Navosa Province"
+            },
+            {
+                "id": 24546,
+                "name": "Ra Province"
+            }
+        ]
+    }
+]

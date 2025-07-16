@@ -1,0 +1,159 @@
+[
+    {
+        "id": 2692,
+        "name": "Arkhangai Province",
+        "cities": []
+    },
+    {
+        "id": 2693,
+        "name": "Bayan-Ölgii Province",
+        "cities": []
+    },
+    {
+        "id": 2694,
+        "name": "Bayankhongor Province",
+        "cities": []
+    },
+    {
+        "id": 2695,
+        "name": "Bulgan Province",
+        "cities": []
+    },
+    {
+        "id": 2696,
+        "name": "Darkhan-Uul Province",
+        "cities": [
+            {
+                "id": 74033,
+                "name": "Darhan"
+            }
+        ]
+    },
+    {
+        "id": 2697,
+        "name": "Dornod Province",
+        "cities": [
+            {
+                "id": 74034,
+                "name": "Choibalsan"
+            },
+            {
+                "id": 74035,
+                "name": "Ereencav"
+            }
+        ]
+    },
+    {
+        "id": 2698,
+        "name": "Dornogovi Province",
+        "cities": []
+    },
+    {
+        "id": 2699,
+        "name": "Dundgovi Province",
+        "cities": [
+            {
+                "id": 74036,
+                "name": "Mandalgovi"
+            }
+        ]
+    },
+    {
+        "id": 2700,
+        "name": "Govi-Altai Province",
+        "cities": []
+    },
+    {
+        "id": 2701,
+        "name": "Govisümber Province",
+        "cities": [
+            {
+                "id": 74037,
+                "name": "Choyr"
+            }
+        ]
+    },
+    {
+        "id": 2702,
+        "name": "Khentii Province",
+        "cities": [
+            {
+                "id": 74038,
+                "name": "Undurkhaan"
+            }
+        ]
+    },
+    {
+        "id": 2703,
+        "name": "Khovd Province",
+        "cities": []
+    },
+    {
+        "id": 2704,
+        "name": "Khövsgöl Province",
+        "cities": []
+    },
+    {
+        "id": 2705,
+        "name": "Ömnögovi Province",
+        "cities": [
+            {
+                "id": 74039,
+                "name": "Dalandzadgad"
+            },
+            {
+                "id": 74040,
+                "name": "Hanhongor"
+            },
+            {
+                "id": 74041,
+                "name": "Nomgon Sum"
+            }
+        ]
+    },
+    {
+        "id": 2706,
+        "name": "Orkhon Province",
+        "cities": []
+    },
+    {
+        "id": 2707,
+        "name": "Övörkhangai Province",
+        "cities": []
+    },
+    {
+        "id": 2708,
+        "name": "Selenge Province",
+        "cities": []
+    },
+    {
+        "id": 2709,
+        "name": "Sükhbaatar Province",
+        "cities": [
+            {
+                "id": 74042,
+                "name": "Baruun-Urt"
+            }
+        ]
+    },
+    {
+        "id": 2710,
+        "name": "Töv Province",
+        "cities": []
+    },
+    {
+        "id": 2711,
+        "name": "Uvs Province",
+        "cities": [
+            {
+                "id": 74043,
+                "name": "Ulaangom"
+            }
+        ]
+    },
+    {
+        "id": 2712,
+        "name": "Zavkhan Province",
+        "cities": []
+    }
+]

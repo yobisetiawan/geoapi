@@ -1,0 +1,80 @@
+[
+    {
+        "id": 3362,
+        "name": "Eastern Province",
+        "cities": [
+            {
+                "id": 101222,
+                "name": "Kibungo"
+            },
+            {
+                "id": 101223,
+                "name": "Rwamagana"
+            }
+        ]
+    },
+    {
+        "id": 3363,
+        "name": "Kigali district",
+        "cities": [
+            {
+                "id": 101224,
+                "name": "Kigali"
+            }
+        ]
+    },
+    {
+        "id": 3364,
+        "name": "Northern Province",
+        "cities": [
+            {
+                "id": 101225,
+                "name": "Byumba"
+            },
+            {
+                "id": 101226,
+                "name": "Musanze"
+            }
+        ]
+    },
+    {
+        "id": 3365,
+        "name": "Southern Province",
+        "cities": [
+            {
+                "id": 101227,
+                "name": "Butare"
+            },
+            {
+                "id": 101228,
+                "name": "Eglise Catholique, Centrale GIKO"
+            },
+            {
+                "id": 101229,
+                "name": "Gitarama"
+            },
+            {
+                "id": 101230,
+                "name": "Nzega"
+            }
+        ]
+    },
+    {
+        "id": 3366,
+        "name": "Western Province",
+        "cities": [
+            {
+                "id": 101231,
+                "name": "Cyangugu"
+            },
+            {
+                "id": 101232,
+                "name": "Gisenyi"
+            },
+            {
+                "id": 101233,
+                "name": "Kibuye"
+            }
+        ]
+    }
+]

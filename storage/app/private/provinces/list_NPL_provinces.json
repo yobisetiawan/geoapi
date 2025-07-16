@@ -1,0 +1,326 @@
+[
+    {
+        "id": 2851,
+        "name": "Bagmati Zone",
+        "cities": []
+    },
+    {
+        "id": 2852,
+        "name": "Bheri Zone",
+        "cities": []
+    },
+    {
+        "id": 2853,
+        "name": "Central Region",
+        "cities": [
+            {
+                "id": 74469,
+                "name": "Banepā"
+            },
+            {
+                "id": 74470,
+                "name": "Bharatpur"
+            },
+            {
+                "id": 74471,
+                "name": "Birgañj"
+            },
+            {
+                "id": 74472,
+                "name": "Dhulikhel"
+            },
+            {
+                "id": 74473,
+                "name": "Gaur"
+            },
+            {
+                "id": 74474,
+                "name": "Hari Bdr Tamang House"
+            },
+            {
+                "id": 74475,
+                "name": "Hetauda"
+            },
+            {
+                "id": 74476,
+                "name": "Jaleshwar"
+            },
+            {
+                "id": 74477,
+                "name": "Janakpur"
+            },
+            {
+                "id": 74478,
+                "name": "kankrabari Dovan"
+            },
+            {
+                "id": 74479,
+                "name": "Kathmandu"
+            },
+            {
+                "id": 74480,
+                "name": "Kirtipur"
+            },
+            {
+                "id": 74481,
+                "name": "Madhyapur Thimi"
+            },
+            {
+                "id": 74482,
+                "name": "Malaṅgawā"
+            },
+            {
+                "id": 74483,
+                "name": "Nagarkot"
+            },
+            {
+                "id": 74484,
+                "name": "Panauti"
+            },
+            {
+                "id": 74485,
+                "name": "Panauti̇̄"
+            },
+            {
+                "id": 74486,
+                "name": "Pātan"
+            },
+            {
+                "id": 74487,
+                "name": "Rāmechhāp"
+            }
+        ]
+    },
+    {
+        "id": 2854,
+        "name": "Dhaulagiri Zone",
+        "cities": []
+    },
+    {
+        "id": 2855,
+        "name": "Eastern Development Region",
+        "cities": [
+            {
+                "id": 74488,
+                "name": "Bhadrapur"
+            },
+            {
+                "id": 74489,
+                "name": "Bhojpur"
+            },
+            {
+                "id": 74490,
+                "name": "Biratnagar"
+            },
+            {
+                "id": 74491,
+                "name": "Dhankutā"
+            },
+            {
+                "id": 74492,
+                "name": "Dharān"
+            },
+            {
+                "id": 74493,
+                "name": "Ilām"
+            },
+            {
+                "id": 74494,
+                "name": "Inaruwa"
+            },
+            {
+                "id": 74495,
+                "name": "Khanbari"
+            },
+            {
+                "id": 74496,
+                "name": "Lahān"
+            },
+            {
+                "id": 74497,
+                "name": "Lobujya"
+            },
+            {
+                "id": 74498,
+                "name": "Namche Bazar"
+            },
+            {
+                "id": 74499,
+                "name": "Rājbirāj"
+            },
+            {
+                "id": 74500,
+                "name": "Siraha"
+            },
+            {
+                "id": 74501,
+                "name": "Titahari"
+            },
+            {
+                "id": 74502,
+                "name": "Triyuga"
+            }
+        ]
+    },
+    {
+        "id": 2856,
+        "name": "Far-Western Development Region",
+        "cities": [
+            {
+                "id": 74503,
+                "name": "Dadeldhurā"
+            },
+            {
+                "id": 74504,
+                "name": "Dhangaḍhi̇̄"
+            },
+            {
+                "id": 74505,
+                "name": "Dipayal"
+            },
+            {
+                "id": 74506,
+                "name": "Mahendranagar"
+            },
+            {
+                "id": 74507,
+                "name": "Ṭikāpur"
+            }
+        ]
+    },
+    {
+        "id": 2857,
+        "name": "Gandaki Zone",
+        "cities": []
+    },
+    {
+        "id": 2858,
+        "name": "Janakpur Zone",
+        "cities": []
+    },
+    {
+        "id": 2859,
+        "name": "Karnali Zone",
+        "cities": []
+    },
+    {
+        "id": 2860,
+        "name": "Kosi Zone",
+        "cities": []
+    },
+    {
+        "id": 2861,
+        "name": "Lumbini Zone",
+        "cities": []
+    },
+    {
+        "id": 2862,
+        "name": "Mahakali Zone",
+        "cities": []
+    },
+    {
+        "id": 2863,
+        "name": "Mechi Zone",
+        "cities": []
+    },
+    {
+        "id": 2864,
+        "name": "Mid-Western Region",
+        "cities": [
+            {
+                "id": 74508,
+                "name": "Bhojpur"
+            },
+            {
+                "id": 74509,
+                "name": "Birendranagar"
+            },
+            {
+                "id": 74510,
+                "name": "Dailekh"
+            },
+            {
+                "id": 74511,
+                "name": "Gulariyā"
+            },
+            {
+                "id": 74512,
+                "name": "Jumla"
+            },
+            {
+                "id": 74513,
+                "name": "Nepalgunj"
+            },
+            {
+                "id": 74514,
+                "name": "Tulsīpur"
+            }
+        ]
+    },
+    {
+        "id": 2865,
+        "name": "Narayani Zone",
+        "cities": []
+    },
+    {
+        "id": 2866,
+        "name": "Rapti Zone",
+        "cities": []
+    },
+    {
+        "id": 2867,
+        "name": "Sagarmatha Zone",
+        "cities": []
+    },
+    {
+        "id": 2868,
+        "name": "Seti Zone",
+        "cities": []
+    },
+    {
+        "id": 2869,
+        "name": "Western Region",
+        "cities": [
+            {
+                "id": 74515,
+                "name": "Bāglung"
+            },
+            {
+                "id": 74516,
+                "name": "Bhattarai Danda"
+            },
+            {
+                "id": 74517,
+                "name": "Butwāl"
+            },
+            {
+                "id": 74518,
+                "name": "Chitre"
+            },
+            {
+                "id": 74519,
+                "name": "Dārchulā"
+            },
+            {
+                "id": 74520,
+                "name": "Dihi"
+            },
+            {
+                "id": 74521,
+                "name": "Pokhara"
+            },
+            {
+                "id": 74522,
+                "name": "Siddharthanagar"
+            },
+            {
+                "id": 74523,
+                "name": "Tānsen"
+            },
+            {
+                "id": 74524,
+                "name": "Wāliṅ"
+            }
+        ]
+    }
+]

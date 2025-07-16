@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1079,
+        "name": "Saint Andrew Parish",
+        "cities": [
+            {
+                "id": 23571,
+                "name": "Calibishie"
+            },
+            {
+                "id": 23572,
+                "name": "Marigot"
+            },
+            {
+                "id": 23573,
+                "name": "Wesley"
+            },
+            {
+                "id": 23574,
+                "name": "Woodford Hill"
+            }
+        ]
+    },
+    {
+        "id": 1080,
+        "name": "Saint David Parish",
+        "cities": [
+            {
+                "id": 23575,
+                "name": "Castle Bruce"
+            },
+            {
+                "id": 23576,
+                "name": "Rosalie"
+            }
+        ]
+    },
+    {
+        "id": 1081,
+        "name": "Saint George Parish",
+        "cities": [
+            {
+                "id": 23577,
+                "name": "Roseau"
+            }
+        ]
+    },
+    {
+        "id": 1082,
+        "name": "Saint John Parish",
+        "cities": [
+            {
+                "id": 23578,
+                "name": "Portsmouth"
+            }
+        ]
+    },
+    {
+        "id": 1083,
+        "name": "Saint Joseph Parish",
+        "cities": [
+            {
+                "id": 23579,
+                "name": "Saint Joseph"
+            },
+            {
+                "id": 23580,
+                "name": "Salisbury"
+            }
+        ]
+    },
+    {
+        "id": 1084,
+        "name": "Saint Luke Parish",
+        "cities": [
+            {
+                "id": 23581,
+                "name": "Pointe Michel"
+            }
+        ]
+    },
+    {
+        "id": 1085,
+        "name": "Saint Mark Parish",
+        "cities": [
+            {
+                "id": 23582,
+                "name": "Soufrière"
+            }
+        ]
+    },
+    {
+        "id": 1086,
+        "name": "Saint Patrick Parish",
+        "cities": [
+            {
+                "id": 23583,
+                "name": "Berekua"
+            },
+            {
+                "id": 23584,
+                "name": "La Plaine"
+            }
+        ]
+    },
+    {
+        "id": 1087,
+        "name": "Saint Paul Parish",
+        "cities": [
+            {
+                "id": 23585,
+                "name": "Mahaut"
+            },
+            {
+                "id": 23586,
+                "name": "Pont Cassé"
+            }
+        ]
+    },
+    {
+        "id": 1088,
+        "name": "Saint Peter Parish",
+        "cities": [
+            {
+                "id": 23587,
+                "name": "Colihaut"
+            }
+        ]
+    }
+]

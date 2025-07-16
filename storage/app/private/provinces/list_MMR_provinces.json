@@ -1,0 +1,388 @@
+[
+    {
+        "id": 2808,
+        "name": "Ayeyarwady Region",
+        "cities": [
+            {
+                "id": 74340,
+                "name": "Bogale"
+            },
+            {
+                "id": 74341,
+                "name": "Hinthada"
+            },
+            {
+                "id": 74342,
+                "name": "Kyaiklat"
+            },
+            {
+                "id": 74343,
+                "name": "Maubin"
+            },
+            {
+                "id": 74344,
+                "name": "Mawlamyinegyunn"
+            },
+            {
+                "id": 74345,
+                "name": "Myanaung"
+            },
+            {
+                "id": 74346,
+                "name": "Nyaungdon"
+            },
+            {
+                "id": 74347,
+                "name": "Pathein"
+            },
+            {
+                "id": 74348,
+                "name": "Pyapon"
+            },
+            {
+                "id": 74349,
+                "name": "Wakema"
+            }
+        ]
+    },
+    {
+        "id": 2809,
+        "name": "Bago",
+        "cities": [
+            {
+                "id": 74350,
+                "name": "Bago"
+            },
+            {
+                "id": 74351,
+                "name": "Letpandan"
+            },
+            {
+                "id": 74352,
+                "name": "Nyaunglebin"
+            },
+            {
+                "id": 74353,
+                "name": "Paungde"
+            },
+            {
+                "id": 74354,
+                "name": "Pyay"
+            },
+            {
+                "id": 74355,
+                "name": "Pyu"
+            },
+            {
+                "id": 74356,
+                "name": "Taungoo"
+            },
+            {
+                "id": 74357,
+                "name": "Thanatpin"
+            },
+            {
+                "id": 74358,
+                "name": "Tharyarwady"
+            }
+        ]
+    },
+    {
+        "id": 2810,
+        "name": "Chin State",
+        "cities": [
+            {
+                "id": 74359,
+                "name": "Falam"
+            },
+            {
+                "id": 74360,
+                "name": "Hakha"
+            }
+        ]
+    },
+    {
+        "id": 2811,
+        "name": "Kachin State",
+        "cities": [
+            {
+                "id": 74361,
+                "name": "Bhamo"
+            },
+            {
+                "id": 74362,
+                "name": "Myitkyina"
+            }
+        ]
+    },
+    {
+        "id": 2812,
+        "name": "Kayah State",
+        "cities": [
+            {
+                "id": 74363,
+                "name": "Loikaw"
+            }
+        ]
+    },
+    {
+        "id": 2813,
+        "name": "Kayin State",
+        "cities": [
+            {
+                "id": 74364,
+                "name": "Dellok"
+            },
+            {
+                "id": 74365,
+                "name": "Hpa-An"
+            },
+            {
+                "id": 74366,
+                "name": "Klonhtoug"
+            },
+            {
+                "id": 74367,
+                "name": "Kyain Seikgyi Township"
+            },
+            {
+                "id": 74368,
+                "name": "Mikenaungea"
+            },
+            {
+                "id": 74369,
+                "name": "Myawadi"
+            },
+            {
+                "id": 74370,
+                "name": "Pulei"
+            },
+            {
+                "id": 74371,
+                "name": "Tagondaing"
+            },
+            {
+                "id": 74372,
+                "name": "Tamoowoug"
+            }
+        ]
+    },
+    {
+        "id": 2814,
+        "name": "Magway Region",
+        "cities": [
+            {
+                "id": 74373,
+                "name": "Chauk"
+            },
+            {
+                "id": 74374,
+                "name": "Magway"
+            },
+            {
+                "id": 74375,
+                "name": "Minbu"
+            },
+            {
+                "id": 74376,
+                "name": "Myaydo"
+            },
+            {
+                "id": 74377,
+                "name": "Pakokku"
+            },
+            {
+                "id": 74378,
+                "name": "Taungdwingyi"
+            },
+            {
+                "id": 74379,
+                "name": "Thayetmyo"
+            },
+            {
+                "id": 74380,
+                "name": "Yenangyaung"
+            }
+        ]
+    },
+    {
+        "id": 2815,
+        "name": "Mandalay Region",
+        "cities": [
+            {
+                "id": 74381,
+                "name": "Kyaukse"
+            },
+            {
+                "id": 74382,
+                "name": "Mandalay"
+            },
+            {
+                "id": 74383,
+                "name": "Meiktila"
+            },
+            {
+                "id": 74384,
+                "name": "Mogok"
+            },
+            {
+                "id": 74385,
+                "name": "Myingyan"
+            },
+            {
+                "id": 74386,
+                "name": "Nyaungshwe"
+            },
+            {
+                "id": 74387,
+                "name": "Pyin Oo Lwin"
+            },
+            {
+                "id": 74388,
+                "name": "Yamethin"
+            }
+        ]
+    },
+    {
+        "id": 2816,
+        "name": "Mon State",
+        "cities": [
+            {
+                "id": 74389,
+                "name": "Kyaikkami"
+            },
+            {
+                "id": 74390,
+                "name": "Kyaikto"
+            },
+            {
+                "id": 74391,
+                "name": "Martaban"
+            },
+            {
+                "id": 74392,
+                "name": "Mawlamyine"
+            },
+            {
+                "id": 74393,
+                "name": "Mudon"
+            },
+            {
+                "id": 74394,
+                "name": "Thaton"
+            }
+        ]
+    },
+    {
+        "id": 2817,
+        "name": "Naypyidaw Union Territory",
+        "cities": [
+            {
+                "id": 74395,
+                "name": "Nay Pyi Taw"
+            },
+            {
+                "id": 74396,
+                "name": "Pyinmana"
+            }
+        ]
+    },
+    {
+        "id": 2818,
+        "name": "Rakhine State",
+        "cities": [
+            {
+                "id": 74397,
+                "name": "Sittwe"
+            }
+        ]
+    },
+    {
+        "id": 2819,
+        "name": "Sagaing Region",
+        "cities": [
+            {
+                "id": 74398,
+                "name": "Mawlaik"
+            },
+            {
+                "id": 74399,
+                "name": "Monywa"
+            },
+            {
+                "id": 74400,
+                "name": "Sagaing"
+            },
+            {
+                "id": 74401,
+                "name": "Shwebo"
+            }
+        ]
+    },
+    {
+        "id": 2820,
+        "name": "Shan State",
+        "cities": [
+            {
+                "id": 74402,
+                "name": "Lashio"
+            },
+            {
+                "id": 74403,
+                "name": "Tachilek"
+            },
+            {
+                "id": 74404,
+                "name": "Taunggyi"
+            }
+        ]
+    },
+    {
+        "id": 2821,
+        "name": "Tanintharyi Region",
+        "cities": [
+            {
+                "id": 74405,
+                "name": "Dawei"
+            },
+            {
+                "id": 74406,
+                "name": "Kawthoung"
+            },
+            {
+                "id": 74407,
+                "name": "Myeik"
+            }
+        ]
+    },
+    {
+        "id": 2822,
+        "name": "Yangon Region",
+        "cities": [
+            {
+                "id": 74408,
+                "name": "Kanbe"
+            },
+            {
+                "id": 74409,
+                "name": "Kayan"
+            },
+            {
+                "id": 74410,
+                "name": "Syriam"
+            },
+            {
+                "id": 74411,
+                "name": "Thongwa"
+            },
+            {
+                "id": 74412,
+                "name": "Twante"
+            },
+            {
+                "id": 74413,
+                "name": "Yangon"
+            }
+        ]
+    }
+]

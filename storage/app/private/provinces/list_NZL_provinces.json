@@ -1,0 +1,736 @@
+[
+    {
+        "id": 2885,
+        "name": "Auckland Region",
+        "cities": [
+            {
+                "id": 76265,
+                "name": "Auckland"
+            },
+            {
+                "id": 76266,
+                "name": "Mangere"
+            },
+            {
+                "id": 76267,
+                "name": "Manukau City"
+            },
+            {
+                "id": 76268,
+                "name": "Muriwai Beach"
+            },
+            {
+                "id": 76269,
+                "name": "Murrays Bay"
+            },
+            {
+                "id": 76270,
+                "name": "North Shore"
+            },
+            {
+                "id": 76271,
+                "name": "Pakuranga"
+            },
+            {
+                "id": 76272,
+                "name": "Papakura"
+            },
+            {
+                "id": 76273,
+                "name": "Parakai"
+            },
+            {
+                "id": 76274,
+                "name": "Pukekohe East"
+            },
+            {
+                "id": 76275,
+                "name": "Red Hill"
+            },
+            {
+                "id": 76276,
+                "name": "Rosebank"
+            },
+            {
+                "id": 76277,
+                "name": "Rothesay Bay"
+            },
+            {
+                "id": 76278,
+                "name": "Takanini"
+            },
+            {
+                "id": 76279,
+                "name": "Tamaki"
+            },
+            {
+                "id": 76280,
+                "name": "Titirangi"
+            },
+            {
+                "id": 76281,
+                "name": "Waitakere"
+            },
+            {
+                "id": 76282,
+                "name": "Waiuku"
+            },
+            {
+                "id": 76283,
+                "name": "Warkworth"
+            },
+            {
+                "id": 76284,
+                "name": "Wellsford"
+            },
+            {
+                "id": 76285,
+                "name": "Wiri"
+            }
+        ]
+    },
+    {
+        "id": 2886,
+        "name": "Bay of Plenty Region",
+        "cities": [
+            {
+                "id": 76286,
+                "name": "Edgecumbe"
+            },
+            {
+                "id": 76287,
+                "name": "Katikati"
+            },
+            {
+                "id": 76288,
+                "name": "Kawerau"
+            },
+            {
+                "id": 76289,
+                "name": "Maketu"
+            },
+            {
+                "id": 76290,
+                "name": "Murupara"
+            },
+            {
+                "id": 76291,
+                "name": "Opotiki"
+            },
+            {
+                "id": 76292,
+                "name": "Rotorua"
+            },
+            {
+                "id": 76293,
+                "name": "Tauranga"
+            },
+            {
+                "id": 76294,
+                "name": "Waihi Beach"
+            },
+            {
+                "id": 76295,
+                "name": "Whakatane"
+            }
+        ]
+    },
+    {
+        "id": 2887,
+        "name": "Canterbury Region",
+        "cities": [
+            {
+                "id": 76296,
+                "name": "Amberley"
+            },
+            {
+                "id": 76297,
+                "name": "Ashburton"
+            },
+            {
+                "id": 76298,
+                "name": "Ashburton District"
+            },
+            {
+                "id": 76299,
+                "name": "Burnham"
+            },
+            {
+                "id": 76300,
+                "name": "Christchurch"
+            },
+            {
+                "id": 76301,
+                "name": "Christchurch City"
+            },
+            {
+                "id": 76302,
+                "name": "Darfield"
+            },
+            {
+                "id": 76303,
+                "name": "Geraldine"
+            },
+            {
+                "id": 76304,
+                "name": "Kaiapoi"
+            },
+            {
+                "id": 76305,
+                "name": "Leeston"
+            },
+            {
+                "id": 76306,
+                "name": "Lincoln"
+            },
+            {
+                "id": 76307,
+                "name": "Mackenzie District"
+            },
+            {
+                "id": 76308,
+                "name": "Methven"
+            },
+            {
+                "id": 76309,
+                "name": "Oxford"
+            },
+            {
+                "id": 76310,
+                "name": "Pleasant Point"
+            },
+            {
+                "id": 76311,
+                "name": "Prebbleton"
+            },
+            {
+                "id": 76312,
+                "name": "Rakaia"
+            },
+            {
+                "id": 76313,
+                "name": "Rolleston"
+            },
+            {
+                "id": 76314,
+                "name": "Selwyn District"
+            },
+            {
+                "id": 76315,
+                "name": "Timaru"
+            },
+            {
+                "id": 76316,
+                "name": "Timaru District"
+            },
+            {
+                "id": 76317,
+                "name": "Tinwald"
+            },
+            {
+                "id": 76318,
+                "name": "Waimakariri District"
+            },
+            {
+                "id": 76319,
+                "name": "Woodend"
+            }
+        ]
+    },
+    {
+        "id": 2888,
+        "name": "Chatham Islands",
+        "cities": [
+            {
+                "id": 76320,
+                "name": "Waitangi"
+            }
+        ]
+    },
+    {
+        "id": 2889,
+        "name": "Gisborne District",
+        "cities": [
+            {
+                "id": 76321,
+                "name": "Gisborne"
+            }
+        ]
+    },
+    {
+        "id": 2890,
+        "name": "Hawke's Bay Region",
+        "cities": [
+            {
+                "id": 76322,
+                "name": "Hastings"
+            },
+            {
+                "id": 76323,
+                "name": "Napier"
+            },
+            {
+                "id": 76324,
+                "name": "Taradale"
+            },
+            {
+                "id": 76325,
+                "name": "Wairoa"
+            }
+        ]
+    },
+    {
+        "id": 2891,
+        "name": "Manawatu-Wanganui Region",
+        "cities": [
+            {
+                "id": 76326,
+                "name": "Bulls"
+            },
+            {
+                "id": 76327,
+                "name": "Foxton"
+            },
+            {
+                "id": 76328,
+                "name": "Horowhenua District"
+            },
+            {
+                "id": 76329,
+                "name": "Levin"
+            },
+            {
+                "id": 76330,
+                "name": "Manawatu District"
+            },
+            {
+                "id": 76331,
+                "name": "Palmerston North"
+            },
+            {
+                "id": 76332,
+                "name": "Waiouru"
+            },
+            {
+                "id": 76333,
+                "name": "Wanganui"
+            }
+        ]
+    },
+    {
+        "id": 2892,
+        "name": "Marlborough Region",
+        "cities": [
+            {
+                "id": 76334,
+                "name": "Blenheim"
+            },
+            {
+                "id": 76335,
+                "name": "Picton"
+            }
+        ]
+    },
+    {
+        "id": 2893,
+        "name": "Nelson Region",
+        "cities": [
+            {
+                "id": 76336,
+                "name": "Nelson"
+            }
+        ]
+    },
+    {
+        "id": 2894,
+        "name": "Northland Region",
+        "cities": [
+            {
+                "id": 76337,
+                "name": "Ahipara"
+            },
+            {
+                "id": 76338,
+                "name": "Dargaville"
+            },
+            {
+                "id": 76339,
+                "name": "Far North District"
+            },
+            {
+                "id": 76340,
+                "name": "Kaipara District"
+            },
+            {
+                "id": 76341,
+                "name": "Kaitaia"
+            },
+            {
+                "id": 76342,
+                "name": "Kawakawa"
+            },
+            {
+                "id": 76343,
+                "name": "Kerikeri"
+            },
+            {
+                "id": 76344,
+                "name": "Maungatapere"
+            },
+            {
+                "id": 76345,
+                "name": "Moerewa"
+            },
+            {
+                "id": 76346,
+                "name": "Ngunguru"
+            },
+            {
+                "id": 76347,
+                "name": "Paihia"
+            },
+            {
+                "id": 76348,
+                "name": "Ruakaka"
+            },
+            {
+                "id": 76349,
+                "name": "Taipa"
+            },
+            {
+                "id": 76350,
+                "name": "Waimate North"
+            },
+            {
+                "id": 76351,
+                "name": "Whangarei"
+            }
+        ]
+    },
+    {
+        "id": 2895,
+        "name": "Otago Region",
+        "cities": [
+            {
+                "id": 76352,
+                "name": "Arrowtown"
+            },
+            {
+                "id": 76353,
+                "name": "Balclutha"
+            },
+            {
+                "id": 76354,
+                "name": "Clutha District"
+            },
+            {
+                "id": 76355,
+                "name": "Cromwell"
+            },
+            {
+                "id": 76356,
+                "name": "Dunedin"
+            },
+            {
+                "id": 76357,
+                "name": "Kingston"
+            },
+            {
+                "id": 76358,
+                "name": "Milton"
+            },
+            {
+                "id": 76359,
+                "name": "Oamaru"
+            },
+            {
+                "id": 76360,
+                "name": "Papatowai"
+            },
+            {
+                "id": 76361,
+                "name": "Portobello"
+            },
+            {
+                "id": 76362,
+                "name": "Queenstown"
+            },
+            {
+                "id": 76363,
+                "name": "Wanaka"
+            }
+        ]
+    },
+    {
+        "id": 2896,
+        "name": "Southland Region",
+        "cities": [
+            {
+                "id": 76364,
+                "name": "Bluff"
+            },
+            {
+                "id": 76365,
+                "name": "Gore"
+            },
+            {
+                "id": 76366,
+                "name": "Invercargill"
+            },
+            {
+                "id": 76367,
+                "name": "Riverton"
+            },
+            {
+                "id": 76368,
+                "name": "Southland District"
+            },
+            {
+                "id": 76369,
+                "name": "Te Anau"
+            },
+            {
+                "id": 76370,
+                "name": "Winton"
+            }
+        ]
+    },
+    {
+        "id": 2897,
+        "name": "Taranaki Region",
+        "cities": [
+            {
+                "id": 76371,
+                "name": "Eltham"
+            },
+            {
+                "id": 76372,
+                "name": "Hawera"
+            },
+            {
+                "id": 76373,
+                "name": "New Plymouth"
+            },
+            {
+                "id": 76374,
+                "name": "New Plymouth District"
+            },
+            {
+                "id": 76375,
+                "name": "Opunake"
+            },
+            {
+                "id": 76376,
+                "name": "Patea"
+            },
+            {
+                "id": 76377,
+                "name": "South Taranaki District"
+            },
+            {
+                "id": 76378,
+                "name": "Waitara"
+            }
+        ]
+    },
+    {
+        "id": 2898,
+        "name": "Tasman District",
+        "cities": [
+            {
+                "id": 76379,
+                "name": "Brightwater"
+            },
+            {
+                "id": 76380,
+                "name": "Mapua"
+            },
+            {
+                "id": 76381,
+                "name": "Motueka"
+            },
+            {
+                "id": 76382,
+                "name": "Richmond"
+            },
+            {
+                "id": 76383,
+                "name": "Takaka"
+            },
+            {
+                "id": 76384,
+                "name": "Wakefield"
+            }
+        ]
+    },
+    {
+        "id": 2899,
+        "name": "Waikato Region",
+        "cities": [
+            {
+                "id": 76385,
+                "name": "Cambridge"
+            },
+            {
+                "id": 76386,
+                "name": "Coromandel"
+            },
+            {
+                "id": 76387,
+                "name": "Hamilton"
+            },
+            {
+                "id": 76388,
+                "name": "Matamata"
+            },
+            {
+                "id": 76389,
+                "name": "Ngaruawahia"
+            },
+            {
+                "id": 76390,
+                "name": "Ngatea"
+            },
+            {
+                "id": 76391,
+                "name": "Otorohanga"
+            },
+            {
+                "id": 76392,
+                "name": "Paeroa"
+            },
+            {
+                "id": 76393,
+                "name": "Raglan"
+            },
+            {
+                "id": 76394,
+                "name": "South Waikato District"
+            },
+            {
+                "id": 76395,
+                "name": "Tairua"
+            },
+            {
+                "id": 76396,
+                "name": "Taupo"
+            },
+            {
+                "id": 76397,
+                "name": "Te Kauwhata"
+            },
+            {
+                "id": 76398,
+                "name": "Thames"
+            },
+            {
+                "id": 76399,
+                "name": "Tokoroa"
+            },
+            {
+                "id": 76400,
+                "name": "Turangi"
+            },
+            {
+                "id": 76401,
+                "name": "Waihi"
+            },
+            {
+                "id": 76402,
+                "name": "Whangamata"
+            },
+            {
+                "id": 76403,
+                "name": "Whitianga"
+            }
+        ]
+    },
+    {
+        "id": 2900,
+        "name": "Wellington Region",
+        "cities": [
+            {
+                "id": 76404,
+                "name": "Brooklyn"
+            },
+            {
+                "id": 76405,
+                "name": "Castlepoint"
+            },
+            {
+                "id": 76406,
+                "name": "Kapiti Coast District"
+            },
+            {
+                "id": 76407,
+                "name": "Kelburn"
+            },
+            {
+                "id": 76408,
+                "name": "Khandallah"
+            },
+            {
+                "id": 76409,
+                "name": "Lower Hutt"
+            },
+            {
+                "id": 76410,
+                "name": "Masterton"
+            },
+            {
+                "id": 76411,
+                "name": "Otaki"
+            },
+            {
+                "id": 76412,
+                "name": "Paraparaumu"
+            },
+            {
+                "id": 76413,
+                "name": "Petone"
+            },
+            {
+                "id": 76414,
+                "name": "Porirua"
+            },
+            {
+                "id": 76415,
+                "name": "South Wairarapa District"
+            },
+            {
+                "id": 76416,
+                "name": "Upper Hutt"
+            },
+            {
+                "id": 76417,
+                "name": "Waipawa"
+            },
+            {
+                "id": 76418,
+                "name": "Wellington"
+            },
+            {
+                "id": 76419,
+                "name": "Wellington City"
+            }
+        ]
+    },
+    {
+        "id": 2901,
+        "name": "West Coast Region",
+        "cities": [
+            {
+                "id": 76420,
+                "name": "Greymouth"
+            },
+            {
+                "id": 76421,
+                "name": "Hokitika"
+            },
+            {
+                "id": 76422,
+                "name": "Westport"
+            }
+        ]
+    }
+]

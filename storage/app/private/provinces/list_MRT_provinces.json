@@ -1,0 +1,148 @@
+[
+    {
+        "id": 2588,
+        "name": "Adrar Region",
+        "cities": [
+            {
+                "id": 64973,
+                "name": "Atar"
+            },
+            {
+                "id": 64974,
+                "name": "Chingueṭṭi"
+            }
+        ]
+    },
+    {
+        "id": 2589,
+        "name": "Assaba Region",
+        "cities": [
+            {
+                "id": 64975,
+                "name": "Barkéwol"
+            },
+            {
+                "id": 64976,
+                "name": "Kiffa"
+            }
+        ]
+    },
+    {
+        "id": 2590,
+        "name": "Brakna Region",
+        "cities": [
+            {
+                "id": 64977,
+                "name": "’Elb el Jmel"
+            },
+            {
+                "id": 64978,
+                "name": "Aleg"
+            }
+        ]
+    },
+    {
+        "id": 2591,
+        "name": "Dakhlet Nouadhibou",
+        "cities": [
+            {
+                "id": 64979,
+                "name": "Nouadhibou"
+            }
+        ]
+    },
+    {
+        "id": 2592,
+        "name": "Gorgol Region",
+        "cities": [
+            {
+                "id": 64980,
+                "name": "Kaédi"
+            }
+        ]
+    },
+    {
+        "id": 2593,
+        "name": "Guidimaka Region",
+        "cities": [
+            {
+                "id": 64981,
+                "name": "Sélibaby"
+            }
+        ]
+    },
+    {
+        "id": 2594,
+        "name": "Hodh Ech Chargui Region",
+        "cities": [
+            {
+                "id": 64982,
+                "name": "Néma"
+            }
+        ]
+    },
+    {
+        "id": 2595,
+        "name": "Hodh El Gharbi Region",
+        "cities": [
+            {
+                "id": 64983,
+                "name": "Aioun"
+            }
+        ]
+    },
+    {
+        "id": 2596,
+        "name": "Inchiri Region",
+        "cities": [
+            {
+                "id": 64984,
+                "name": "Akjoujt"
+            }
+        ]
+    },
+    {
+        "id": 2597,
+        "name": "Nouakchott-Nord Region",
+        "cities": []
+    },
+    {
+        "id": 2598,
+        "name": "Nouakchott-Ouest Region",
+        "cities": []
+    },
+    {
+        "id": 2599,
+        "name": "Nouakchott-Sud Region",
+        "cities": []
+    },
+    {
+        "id": 2600,
+        "name": "Tagant Region",
+        "cities": []
+    },
+    {
+        "id": 2601,
+        "name": "Tiris Zemmour Region",
+        "cities": [
+            {
+                "id": 64985,
+                "name": "Zouerate"
+            }
+        ]
+    },
+    {
+        "id": 2602,
+        "name": "Trarza Region",
+        "cities": [
+            {
+                "id": 64986,
+                "name": "Rosso"
+            },
+            {
+                "id": 64987,
+                "name": "Tékane"
+            }
+        ]
+    }
+]

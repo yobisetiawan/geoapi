@@ -1,0 +1,258 @@
+[
+    {
+        "id": 2508,
+        "name": "Bamako",
+        "cities": [
+            {
+                "id": 64857,
+                "name": "Bamako"
+            }
+        ]
+    },
+    {
+        "id": 2509,
+        "name": "Gao Region",
+        "cities": [
+            {
+                "id": 64858,
+                "name": "Ansongo"
+            },
+            {
+                "id": 64859,
+                "name": "Cercle de Bourem"
+            },
+            {
+                "id": 64860,
+                "name": "Gao"
+            },
+            {
+                "id": 64861,
+                "name": "Gao Cercle"
+            },
+            {
+                "id": 64862,
+                "name": "Inékar"
+            }
+        ]
+    },
+    {
+        "id": 2510,
+        "name": "Kayes Region",
+        "cities": [
+            {
+                "id": 64863,
+                "name": "Bafoulabé"
+            },
+            {
+                "id": 64864,
+                "name": "Kayes"
+            },
+            {
+                "id": 64865,
+                "name": "Kita"
+            },
+            {
+                "id": 64866,
+                "name": "Kokofata"
+            },
+            {
+                "id": 64867,
+                "name": "Sagalo"
+            }
+        ]
+    },
+    {
+        "id": 2511,
+        "name": "Kidal Region",
+        "cities": [
+            {
+                "id": 64868,
+                "name": "Abeïbara"
+            },
+            {
+                "id": 64869,
+                "name": "Cercle d’Abeïbara"
+            },
+            {
+                "id": 64870,
+                "name": "Kidal"
+            }
+        ]
+    },
+    {
+        "id": 2512,
+        "name": "Koulikoro Region",
+        "cities": [
+            {
+                "id": 64871,
+                "name": "Banamba"
+            },
+            {
+                "id": 64872,
+                "name": "Kangaba"
+            },
+            {
+                "id": 64873,
+                "name": "Kati"
+            },
+            {
+                "id": 64874,
+                "name": "Kolokani"
+            },
+            {
+                "id": 64875,
+                "name": "Koulikoro"
+            }
+        ]
+    },
+    {
+        "id": 2513,
+        "name": "Ménaka Region",
+        "cities": []
+    },
+    {
+        "id": 2514,
+        "name": "Mopti Region",
+        "cities": [
+            {
+                "id": 64876,
+                "name": "Bandiagara"
+            },
+            {
+                "id": 64877,
+                "name": "Djénné"
+            },
+            {
+                "id": 64878,
+                "name": "Douentza"
+            },
+            {
+                "id": 64879,
+                "name": "Douentza Cercle"
+            },
+            {
+                "id": 64880,
+                "name": "Mopti"
+            },
+            {
+                "id": 64881,
+                "name": "Ténenkou"
+            }
+        ]
+    },
+    {
+        "id": 2515,
+        "name": "Ségou Region",
+        "cities": [
+            {
+                "id": 64882,
+                "name": "Baroueli"
+            },
+            {
+                "id": 64883,
+                "name": "Cercle de San"
+            },
+            {
+                "id": 64884,
+                "name": "Ké-Macina"
+            },
+            {
+                "id": 64885,
+                "name": "Kinmparana"
+            },
+            {
+                "id": 64886,
+                "name": "Markala"
+            },
+            {
+                "id": 64887,
+                "name": "San"
+            },
+            {
+                "id": 64888,
+                "name": "Ségou"
+            },
+            {
+                "id": 64889,
+                "name": "Sokolo"
+            }
+        ]
+    },
+    {
+        "id": 2516,
+        "name": "Sikasso Region",
+        "cities": [
+            {
+                "id": 64890,
+                "name": "Bougouni"
+            },
+            {
+                "id": 64891,
+                "name": "Kolondiéba"
+            },
+            {
+                "id": 64892,
+                "name": "Koutiala"
+            },
+            {
+                "id": 64893,
+                "name": "Koutiala Cercle"
+            },
+            {
+                "id": 64894,
+                "name": "Ntossoni"
+            },
+            {
+                "id": 64895,
+                "name": "Sikasso"
+            },
+            {
+                "id": 64896,
+                "name": "Yorosso"
+            }
+        ]
+    },
+    {
+        "id": 2517,
+        "name": "Taoudénit Region",
+        "cities": []
+    },
+    {
+        "id": 2518,
+        "name": "Tombouctou Region",
+        "cities": [
+            {
+                "id": 64897,
+                "name": "Araouane"
+            },
+            {
+                "id": 64898,
+                "name": "Cercle de Goundam"
+            },
+            {
+                "id": 64899,
+                "name": "Dire"
+            },
+            {
+                "id": 64900,
+                "name": "Diré"
+            },
+            {
+                "id": 64901,
+                "name": "Goundam"
+            },
+            {
+                "id": 64902,
+                "name": "Gourma-Rharous Cercle"
+            },
+            {
+                "id": 64903,
+                "name": "Niafunké"
+            },
+            {
+                "id": 64904,
+                "name": "Timbuktu"
+            }
+        ]
+    }
+]

@@ -1,0 +1,145 @@
+[
+    {
+        "id": 3400,
+        "name": "A'ana",
+        "cities": [
+            {
+                "id": 101737,
+                "name": "Fasito‘outa"
+            },
+            {
+                "id": 101738,
+                "name": "Leulumoega"
+            },
+            {
+                "id": 101739,
+                "name": "Nofoali‘i"
+            },
+            {
+                "id": 101740,
+                "name": "Satapuala"
+            }
+        ]
+    },
+    {
+        "id": 3401,
+        "name": "Aiga-i-le-Tai",
+        "cities": [
+            {
+                "id": 101741,
+                "name": "Mulifanua"
+            }
+        ]
+    },
+    {
+        "id": 3402,
+        "name": "Atua",
+        "cities": [
+            {
+                "id": 101742,
+                "name": "Falefa"
+            },
+            {
+                "id": 101743,
+                "name": "Lotofagā"
+            },
+            {
+                "id": 101744,
+                "name": "Lufilufi"
+            },
+            {
+                "id": 101745,
+                "name": "Solosolo"
+            }
+        ]
+    },
+    {
+        "id": 3403,
+        "name": "Fa'asaleleaga",
+        "cities": []
+    },
+    {
+        "id": 3404,
+        "name": "Gaga'emauga",
+        "cities": []
+    },
+    {
+        "id": 3405,
+        "name": "Gaga'ifomauga",
+        "cities": [
+            {
+                "id": 101746,
+                "name": "Matavai"
+            },
+            {
+                "id": 101747,
+                "name": "Safotu"
+            }
+        ]
+    },
+    {
+        "id": 3406,
+        "name": "Palauli",
+        "cities": [
+            {
+                "id": 101748,
+                "name": "Gataivai"
+            },
+            {
+                "id": 101749,
+                "name": "Vailoa"
+            }
+        ]
+    },
+    {
+        "id": 3407,
+        "name": "Satupa'itea",
+        "cities": []
+    },
+    {
+        "id": 3408,
+        "name": "Tuamasaga",
+        "cities": [
+            {
+                "id": 101750,
+                "name": "Afega"
+            },
+            {
+                "id": 101751,
+                "name": "Apia"
+            },
+            {
+                "id": 101752,
+                "name": "Malie"
+            },
+            {
+                "id": 101753,
+                "name": "Vailima"
+            },
+            {
+                "id": 101754,
+                "name": "Vaiusu"
+            }
+        ]
+    },
+    {
+        "id": 3409,
+        "name": "Va'a-o-Fonoti",
+        "cities": [
+            {
+                "id": 101755,
+                "name": "Samamea"
+            }
+        ]
+    },
+    {
+        "id": 3410,
+        "name": "Vaisigano",
+        "cities": [
+            {
+                "id": 101756,
+                "name": "Asau"
+            }
+        ]
+    }
+]
