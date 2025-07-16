@@ -1,8 +1,8 @@
 <?php
 
-use App\Http\Controllers\Api\CityController;
-use App\Http\Controllers\Api\CountryController;
-use App\Http\Controllers\Api\ProvinceController;
+use App\Http\Controllers\Api\V1\CityController;
+use App\Http\Controllers\Api\V1\CountryController;
+use App\Http\Controllers\Api\V1\ProvinceController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 

@@ -1,0 +1,174 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "GEO API",
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "/api/v1",
+            "description": "GEOAPI"
+        }
+    ],
+    "paths": {
+        "/list-cities": {
+            "get": {
+                "tags": [
+                    "Cities"
+                ],
+                "operationId": "c401ca87131800a7690fc82ae8d96466",
+                "parameters": [
+                    {
+                        "name": "iso3",
+                        "in": "query",
+                        "description": "ISO3 country code",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "province_id",
+                        "in": "query",
+                        "description": "province_id",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    },
+                    {
+                        "name": "province_name",
+                        "in": "query",
+                        "description": "province name code",
+                        "required": false,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "return Constant Data",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/list-countries": {
+            "get": {
+                "tags": [
+                    "Countries"
+                ],
+                "operationId": "8a41976f43dfd34c993f915fac53c645",
+                "responses": {
+                    "200": {
+                        "description": "return Country Data",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "properties": {
+                                        "status": {
+                                            "type": "string",
+                                            "example": "success"
+                                        },
+                                        "data": {
+                                            "type": "array",
+                                            "items": {
+                                                "properties": {
+                                                    "id": {
+                                                        "type": "integer",
+                                                        "example": 1
+                                                    },
+                                                    "name": {
+                                                        "type": "string",
+                                                        "example": "Afghanistan"
+                                                    },
+                                                    "iso3": {
+                                                        "type": "string",
+                                                        "example": "AFG"
+                                                    }
+                                                },
+                                                "type": "object"
+                                            }
+                                        }
+                                    },
+                                    "type": "object"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/list-provinces": {
+            "get": {
+                "tags": [
+                    "Provinces"
+                ],
+                "operationId": "77268a17158acc5388beb203c6ca20d4",
+                "parameters": [
+                    {
+                        "name": "iso3",
+                        "in": "query",
+                        "description": "ISO3 country code",
+                        "required": true,
+                        "schema": {
+                            "type": "string"
+                        }
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "return Constant Data",
+                        "content": {
+                            "application/json": {
+                                "schema": {}
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "parameters": {
+            "OA_id": {
+                "name": "id",
+                "in": "path",
+                "description": "Key model",
+                "required": true,
+                "schema": {
+                    "type": "string"
+                }
+            }
+        },
+        "securitySchemes": {
+            "bearerAuth": {
+                "type": "http",
+                "description": "Login with email and password to get the authentication token",
+                "name": "Token Based",
+                "in": "header",
+                "bearerFormat": "JWT",
+                "scheme": "bearer"
+            }
+        }
+    },
+    "tags": [
+        {
+            "name": "Cities",
+            "description": "Cities"
+        },
+        {
+            "name": "Countries",
+            "description": "Countries"
+        },
+        {
+            "name": "Provinces",
+            "description": "Provinces"
+        }
+    ]
+}
