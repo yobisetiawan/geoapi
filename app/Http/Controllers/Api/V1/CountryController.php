@@ -3,16 +3,27 @@
 namespace App\Http\Controllers\Api\V1;
 
 use App\Http\Controllers\Controller;
-use Illuminate\Support\Facades\Storage;
-use Illuminate\Support\Facades\Cache;
+use App\Repositories\CountryRepository;
 
 class CountryController extends Controller
 {
+    protected $countryRepository;
+
+    public function __construct(CountryRepository $countryRepository)
+    {
+        $this->countryRepository = $countryRepository;
+    }
+
     public function index()
     {
-        $countries = Cache::remember('countries_list', 3600, function () {
-            return json_decode(Storage::disk('local')->get('countries/list.json'), true);
-        });
+        $countries = $this->countryRepository->getCountries();
+
+        if ($countries === null) {
+            return response()->json([
+                'status' => 'error',
+                'message' => 'Countries data not found',
+            ], 404);
+        }
 
         return response()->json([
             'status' => 'success',
