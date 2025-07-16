@@ -60,3 +60,13 @@ To run the unit tests, use PHPUnit:
 ```
 
 This will execute all tests in the `tests/Unit` directory and show the results.
+
+## Running Feature Tests
+
+To run feature (HTTP endpoint) tests, use PHPUnit with the Feature testsuite:
+
+```bash
+./vendor/bin/phpunit --testsuite Feature
+```
+
+This will execute all tests in the `tests/Feature` directory, covering API endpoints and controller behavior.
