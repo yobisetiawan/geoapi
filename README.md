@@ -1,4 +1,3 @@
-
 ## Requirements
 
 - PHP >= 8.3
@@ -51,3 +50,13 @@ php artisan l5-swagger:generate
 After generating, you can access the Swagger UI at:
 
 -   `http://localhost:8000/api/documentation` — View interactive API docs
+
+## Running Tests
+
+To run the unit tests, use PHPUnit:
+
+```bash
+./vendor/bin/phpunit --testsuite Unit
+```
+
+This will execute all tests in the `tests/Unit` directory and show the results.
