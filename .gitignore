@@ -24,3 +24,6 @@ Homestead.yaml
 Thumbs.db
 
 /coverage
+
+# Ignore Let's Encrypt certificate store
+docker/letsencrypt/acme.json

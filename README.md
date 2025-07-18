@@ -80,3 +80,38 @@ XDEBUG_MODE=coverage ./vendor/bin/phpunit --coverage-html coverage
 ```
 
 This will create a `coverage` directory with an HTML report you can open in your browser.
+
+## Docker Usage
+
+### Development
+
+1. Build and start the containers:
+
+   ```bash
+   docker-compose up --build
+   ```
+
+2. Access the app at http://localhost:8080
+
+3. To run artisan or composer commands inside the app container:
+
+   ```bash
+   docker-compose exec app php artisan migrate
+   docker-compose exec app composer install
+   ```
+
+### Production
+
+1. Build and start the production stack:
+
+   ```bash
+   docker-compose -f docker-compose.prod.yml up --build -d
+   ```
+
+2. Traefik will handle SSL and proxying. Make sure to update your domain and email in `docker-compose.prod.yml`.
+
+3. For logs or troubleshooting:
+
+   ```bash
+   docker-compose -f docker-compose.prod.yml logs
+   ```
