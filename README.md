@@ -100,6 +100,28 @@ This will create a `coverage` directory with an HTML report you can open in your
    docker-compose exec app composer install
    ```
 
+### Using docker-compose.override.yml
+
+By default, when you run `docker-compose up` (or `docker compose up`), Docker Compose automatically combines `docker-compose.yml` with `docker-compose.override.yml` if it exists. This is useful for local development, as the override file can:
+
+- Add or override environment variables (e.g., enable debugging)
+- Mount additional volumes (e.g., your source code for live reload)
+- Add development-only configuration (e.g., Xdebug)
+
+You do **not** need to specify the override file manually for development. Just use:
+
+```bash
+docker-compose up
+```
+
+If you want to ignore the override file (e.g., to simulate production locally), use:
+
+```bash
+docker-compose -f docker-compose.yml up
+```
+
+For more details, see the official Docker Compose documentation: https://docs.docker.com/compose/extends/
+
 ### Production
 
 1. Build and start the production stack:
