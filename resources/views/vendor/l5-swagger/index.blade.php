@@ -126,8 +126,11 @@
         const urls = [];
 
         @foreach($urlsToDocs as $title => $url)
-            urls.push({name: "{{ $title }}", url: "{{ $url }}"});
+            const url = new URL("{{ $url }}");
+            const urlWithoutQuery = url.origin + url.pathname;
+            urls.push({name: "{{ $title }}", url: urlWithoutQuery});
         @endforeach
+
 
         // Build a system
         const ui = SwaggerUIBundle({
