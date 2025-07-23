@@ -3,9 +3,6 @@ version: '3.8'
 services:
   app:
     image: geoapi-app:prod
-    build:
-      context: .
-      dockerfile: Dockerfile
     container_name: geoapi-app-prod
     restart: unless-stopped
     environment:
@@ -15,6 +12,8 @@ services:
       - DB_DATABASE=/var/www/database/database.sqlite
       - APP_KEY=your-production-app-key
     # Untuk production, sebaiknya hanya mount storage agar image lebih aman dan stabil
+    env_file:
+      - .env.production
     volumes:
       - ./storage:/var/www/storage
     networks:

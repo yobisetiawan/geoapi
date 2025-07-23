@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: geoapi-app:dev
+    #image: geoapi-app:dev
     container_name: geoapi-app
     restart: unless-stopped
     working_dir: /var/www
@@ -12,6 +12,9 @@ services:
       - ./:/var/www
       - ./storage:/var/www/storage
       - ./bootstrap/cache:/var/www/bootstrap/cache
+    entrypoint: /var/www/docker/entrypoint.sh
+    env_file:
+      - .env
     environment:
       - APP_ENV=local
       - APP_DEBUG=1
