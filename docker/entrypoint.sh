@@ -1,13 +1,32 @@
 #!/bin/sh
 set -e
 
-chown www-data:www-data /var/www/.env
-php artisan key:generate
-php artisan l5-swagger:generate
-php artisan storage:link
+echo "✅ Set permissions"
 php artisan optimize:clear
+
+echo "🔑 Generating app key..."
+if [ ! -f .env ]; then
+  cp .env.example .env
+  echo ".env file created from example."
+fi
+# Only generate key if APP_KEY is empty in .env
+if [ -z "$(grep '^APP_KEY=' .env | cut -d'=' -f2)" ]; then
+  php artisan key:generate --force
+else
+  echo "APP_KEY already set in .env, skipping key:generate."
+fi
+
+echo "📄 Generating Swagger docs..."
+php artisan l5-swagger:generate
+
+echo "🔗 Linking storage..."
+php artisan storage:link
+
+echo "🚀 Optimizing..."
 php artisan optimize
 
-
-# Start PHP-FPM in the foreground
+echo "✅ Starting PHP-FPM..."
+pkill php-fpm 2>/dev/null || true
 php-fpm -F
+
+#exec "$@"
